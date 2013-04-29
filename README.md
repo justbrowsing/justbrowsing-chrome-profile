@@ -8,6 +8,7 @@ Google Chrome profile for JustBrowsing:
 
 ----------------------------
 Extensions:
+======================
 * Adblock: https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
 * AddThis: https://chrome.google.com/webstore/detail/addthis-share-bookmark-ol/pannmpobbfegpjngknbghelclaalbfob
 * Chrome to Mobile: https://chrome.google.com/webstore/detail/chrome-to-mobile/idknbmbdnapjicclomlijcgfpikmndhd
@@ -23,6 +24,7 @@ Extensions:
 
 ----------------------------
 Bookmarks:
+=====================
 * tips:		http://www.google.com/insidesearch/tipstricks/basics.html
 * search:	https://duckduckgo.com
 * gmail:	https://mail.google.com
