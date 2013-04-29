@@ -7,6 +7,11 @@ Google Chrome profile for JustBrowsing:
 * Youtube flash whitelist
 
 ----------------------------
+Screenshot:
+========================
+![Alt text](justbrowsing-chrome_apng.png "Google Chrome screenshot")
+
+----------------------------
 Extensions:
 ======================
 * Adblock: https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom
