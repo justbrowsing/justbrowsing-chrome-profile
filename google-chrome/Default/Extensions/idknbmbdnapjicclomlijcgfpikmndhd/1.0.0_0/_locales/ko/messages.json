@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "\uCDE8\uC18C"
+   },
+   "connectbutton": {
+      "message": "\uBAA8\uBC14\uC77C \uAE30\uAE30\uC5D0 \uC5F0\uACB0"
+   },
+   "disconnect": {
+      "message": "\uC5F0\uACB0 \uD574\uC81C"
+   },
+   "error": {
+      "message": "\uD398\uC774\uC9C0\uB97C $1(\uC73C)\uB85C \uBCF4\uB0B4\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "\uC2A4\uB0C5\uC0F7\uC744 \uC0DD\uC131\uD558\uB294 \uC911\uC5D0 \uC624\uB958\uAC00 \uBC1C\uC0DD\uD588\uC2B5\uB2C8\uB2E4."
+   },
+   "errorretrieving": {
+      "message": "\uBAA8\uBC14\uC77C \uAE30\uAE30\uC5D0 \uC5F0\uACB0\uD558\uC9C0 \uBABB\uD588\uC2B5\uB2C8\uB2E4. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "\uC6F9\uD398\uC774\uC9C0\uB97C \uCEF4\uD4E8\uD130\uC5D0 \uC124\uCE58\uB41C Chrome\uC5D0\uC11C \uD734\uB300\uC804\uD654 \uB610\uB294 \uD0DC\uBE14\uB9BF\uC5D0 \uC124\uCE58\uB41C Chrome\uC73C\uB85C \uBCF4\uB0C5\uB2C8\uB2E4."
+   },
+   "extensionname": {
+      "message": "Chrome to Mobile"
+   },
+   "help": {
+      "message": "\uB3C4\uC6C0\uB9D0"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "\uC624\uD504\uB77C\uC778 \uBCF4\uAE30 \uC0AC\uBCF8(\uC0DD\uC131 \uC911...)\uB3C4 \uBCF4\uB0C5\uB2C8\uB2E4."
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "\uC624\uD504\uB77C\uC778 \uBCF4\uAE30 \uC0AC\uBCF8($1)\uB3C4 \uBCF4\uB0C5\uB2C8\uB2E4.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "\uC790\uC138\uD788 \uC54C\uC544\uBCF4\uAE30"
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "\uAE30\uAE30\uAC00 \uC5C6\uC2B5\uB2C8\uB2E4. \uBAA8\uBC14\uC77C \uAE30\uAE30\uB97C \uC5F0\uACB0\uD558\uC138\uC694. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1..",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "\uBAA8\uBC14\uC77C \uAE30\uAE30 \uAC80\uC0C9"
+   },
+   "sendbutton": {
+      "message": "\uBCF4\uB0B4\uAE30"
+   },
+   "sending": {
+      "message": "\uBCF4\uB0B4\uB294 \uC911"
+   },
+   "sendthispageto": {
+      "message": "\uD398\uC774\uC9C0\uB97C $1(\uC73C)\uB85C \uBCF4\uB0C5\uB2C8\uB2E4.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "\uD398\uC774\uC9C0\uB97C \uBCF4\uB0BC \uAE30\uAE30:"
+   },
+   "sent": {
+      "message": "\uC804\uC1A1\uB418\uC5C8\uC2B5\uB2C8\uB2E4."
+   },
+   "snapshotdisabledmessage": {
+      "message": "\uD604\uC7AC \uC0AC\uC6A9 \uC911\uC778 Chrome \uBC84\uC804\uC5D0\uC11C \uC2A4\uB0C5\uC0F7\uC744 \uC9C0\uC6D0\uD558\uC9C0 \uC54A\uC2B5\uB2C8\uB2E4. \uC2A4\uB0C5\uC0F7\uC740 \uC624\uD504\uB77C\uC778\uC73C\uB85C \uB458\uB7EC\uBCFC \uC218 \uC788\uB294 \uD398\uC774\uC9C0 \uBC84\uC804\uC785\uB2C8\uB2E4. \uC2A4\uB0C5\uC0F7\uC744 \uC0AC\uC6A9\uD558\uB824\uBA74 \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003E\uAC1C\uBC1C\uC790 \uCC44\uB110 \uBC84\uC804\u003C/a\u003E\uC744 \uC0AC\uC6A9\uD558\uC138\uC694."
+   },
+   "tryagain": {
+      "message": "\uB2E4\uC2DC \uC2DC\uB3C4\uD558\uC138\uC694."
+   },
+   "welcomemessage": {
+      "message": "\uC6F9\uD398\uC774\uC9C0\uB97C \uD734\uB300\uC804\uD654 \uB610\uB294 \uD0DC\uBE14\uB9BF\uC73C\uB85C \uBCF4\uB0C5\uB2C8\uB2E4."
+   }
+}

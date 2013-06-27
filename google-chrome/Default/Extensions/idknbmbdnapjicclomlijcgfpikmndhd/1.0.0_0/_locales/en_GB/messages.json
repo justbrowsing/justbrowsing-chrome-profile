@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "Cancel"
+   },
+   "connectbutton": {
+      "message": "Connect your mobile device"
+   },
+   "disconnect": {
+      "message": "Disconnect"
+   },
+   "error": {
+      "message": "We were unable to send this page to your $1. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "An error occured while generating the snapshot."
+   },
+   "errorretrieving": {
+      "message": "We were unable to connect to your mobile devices. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "Send web pages from Chrome on your computer to Chrome on your phone or tablet."
+   },
+   "extensionname": {
+      "message": "Chrome to Mobile"
+   },
+   "help": {
+      "message": "Help"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "Also send copy for offline viewing (generating...)"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "Also send copy for offline viewing ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "Learn more."
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "No devices found. Connect a mobile device. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1..",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "Searching for mobile devices"
+   },
+   "sendbutton": {
+      "message": "Send"
+   },
+   "sending": {
+      "message": "Sending"
+   },
+   "sendthispageto": {
+      "message": "Send this page to $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "Send this page to:"
+   },
+   "sent": {
+      "message": "Sent!"
+   },
+   "snapshotdisabledmessage": {
+      "message": "This version of Chrome does not support snapshots. Snapshots are offline browsable versions of a page. Make sure that you use the \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Edev channel version\u003C/a\u003E to enable snapshots."
+   },
+   "tryagain": {
+      "message": "Try again."
+   },
+   "welcomemessage": {
+      "message": "Send web pages to your phone or tablet."
+   }
+}

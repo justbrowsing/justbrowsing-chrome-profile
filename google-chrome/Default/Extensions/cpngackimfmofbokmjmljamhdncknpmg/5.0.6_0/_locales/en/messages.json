@@ -1,0 +1,269 @@
+{
+   "account_deletion_confirm": {
+      "message": "Do you want to remove this account?"
+   },
+   "autosave": {
+      "message": "Autosave - after capture, bypass editing screen and directly save the captured image to the default location with the web page title as default file name"
+   },
+   "bad_access_token": {
+      "message": "Invalid Access Token."
+   },
+   "blur": {
+      "message": "Blur"
+   },
+   "border": {
+      "message": "Draw Border Only"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "capture_area": {
+      "message": "Capture Page Region"
+   },
+   "capture_screen": {
+      "message": "Capture Screen Region"
+   },
+   "capture_tip": {
+      "message": "Drag and Capture (Press Esc to Exit)"
+   },
+   "capture_webpage": {
+      "message": "Capture Whole Page"
+   },
+   "capture_window": {
+      "message": "Capture Visible Content"
+   },
+   "capturing": {
+      "message": "Capturing, please wait..."
+   },
+   "close": {
+      "message": "Close"
+   },
+   "close_upload_wrapper": {
+      "message": "Close"
+   },
+   "copy": {
+      "message": "Copy"
+   },
+   "default_title": {
+      "message": "Screen Capture"
+   },
+   "deletion_title": {
+      "message": "Remove account"
+   },
+   "description": {
+      "message": "Capture visible content of a tab, a region of a web page, or the whole page as a PNG image. Support horizontal and vertical scroll when capturing whole page, with an all new autosave capability."
+   },
+   "edit_tip": {
+      "message": "Below is the screenshot you captured. You can edit it with the tools on the left. Press Save when finished."
+   },
+   "facebook_get_photo_link": {
+      "message": "Retrieving image link..."
+   },
+   "facebook_upload_header": {
+      "message": "Facebook"
+   },
+   "failed_to_connect_to_server": {
+      "message": "Can not connect to server."
+   },
+   "failed_to_get_photo_link": {
+      "message": "Failed to retrieve photo link."
+   },
+   "failed_to_get_user_info": {
+      "message": "Get user information failed, please try again later."
+   },
+   "failed_to_register_hot_key_for_screen_capture": {
+      "message": "The shortcut for Capture Screen Region is registered by another application. Please redefine it."
+   },
+   "failed_to_upload_image": {
+      "message": "Failed to upload image, please try again later."
+   },
+   "failure_to_create_album": {
+      "message": "Failed to create album, please try again later."
+   },
+   "highlight": {
+      "message": "Highlight"
+   },
+   "hot_key_conflict": {
+      "message": "Shortcuts conflict."
+   },
+   "image_caption": {
+      "message": "Image Title"
+   },
+   "imgur_failed_to_get_access_token": {
+      "message": "Get access token failed, please try again later."
+   },
+   "imgur_failed_to_get_request_token": {
+      "message": "Get request token failed, please try again later."
+   },
+   "imgur_upload_header": {
+      "message": "Imgur"
+   },
+   "invalid_album_id": {
+      "message": "Album not found."
+   },
+   "invalid_caption": {
+      "message": "Image title is required."
+   },
+   "line": {
+      "message": "Line"
+   },
+   "loading": {
+      "message": "The page is loading, please wait."
+   },
+   "lossless": {
+      "message": "Lossless screenshot"
+   },
+   "lossy": {
+      "message": "Lossy screenshot"
+   },
+   "name": {
+      "message": "Screen Capture (by Google)"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Go to folder"
+   },
+   "option": {
+      "message": "Options"
+   },
+   "options": {
+      "message": "Screen Capture Options"
+   },
+   "photo_link_text": {
+      "message": "Check the Image"
+   },
+   "photo_size_tip": {
+      "message": "Hint: You may fail to upload an image bigger than 3M bytes."
+   },
+   "picasa_upload_header": {
+      "message": "Picasa Web"
+   },
+   "print": {
+      "message": "Print"
+   },
+   "progress_info": {
+      "message": "Image uploading, please wait..."
+   },
+   "quality_setting": {
+      "message": "Screenshot Quality Settings: "
+   },
+   "rect": {
+      "message": "Fill Entire Area"
+   },
+   "redact": {
+      "message": "Redact"
+   },
+   "return_to_site_selection": {
+      "message": "Back"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "save_and_close": {
+      "message": "Save & Close"
+   },
+   "save_fail": {
+      "message": "Failed to save the screenshot."
+   },
+   "save_image": {
+      "message": "Save Image"
+   },
+   "save_setting": {
+      "message": "Screenshot Save Settings: "
+   },
+   "save_success": {
+      "message": "Screenshot saved."
+   },
+   "save_tip": {
+      "message": "Default save location: "
+   },
+   "saved_to_path": {
+      "message": "The screenshot has been saved to "
+   },
+   "set_save_path": {
+      "message": "Browse..."
+   },
+   "set_save_path_title": {
+      "message": "Select Default Save Location"
+   },
+   "share": {
+      "message": "Share"
+   },
+   "share_to": {
+      "message": "Share to"
+   },
+   "share_to_facebook_account": {
+      "message": "Share to your Facebook account"
+   },
+   "share_to_imgur_account": {
+      "message": "Share to your Imgur account"
+   },
+   "share_to_other_account": {
+      "message": "Share to another account"
+   },
+   "share_to_picasa_account": {
+      "message": "Share to your Picasa Web account"
+   },
+   "share_to_sina_account": {
+      "message": "Share to your Sina Microblog account"
+   },
+   "shortcut_setting": {
+      "message": "Shortcut Settings:"
+   },
+   "shortcutsetting_text": {
+      "message": "Enable keyboard shortcuts"
+   },
+   "sina_failed_to_get_access_token": {
+      "message": "Get access token failed, please try again later."
+   },
+   "sina_failed_to_get_request_token": {
+      "message": "Get request token failed, please try again later."
+   },
+   "sina_upload_header": {
+      "message": "Sina Microblog"
+   },
+   "size_huge": {
+      "message": "Huge"
+   },
+   "size_large": {
+      "message": "Large"
+   },
+   "size_normal": {
+      "message": "Normal"
+   },
+   "size_small": {
+      "message": "Small"
+   },
+   "solid_black": {
+      "message": "Solid Black"
+   },
+   "special": {
+      "message": "This is a special page. Unable to perform screen capture actions on this page."
+   },
+   "text": {
+      "message": "Text"
+   },
+   "tip_copy_failed": {
+      "message": "Failed to copy the screenshot."
+   },
+   "tip_copy_succeed": {
+      "message": "Screenshot copied."
+   },
+   "unknown_error": {
+      "message": "Unknown error."
+   },
+   "upload_sites_header": {
+      "message": "Share Image To"
+   },
+   "user_authentication_tip": {
+      "message": "User authenticating, please wait..."
+   },
+   "user_denied": {
+      "message": "User denied."
+   },
+   "user_logout_tip": {
+      "message": "Signing out, please wait..."
+   }
+}

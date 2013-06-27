@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "Cancelar"
+   },
+   "connectbutton": {
+      "message": "Conectar el dispositivo m\u00F3vil"
+   },
+   "disconnect": {
+      "message": "Desconectar"
+   },
+   "error": {
+      "message": "No pudimos enviar esta p\u00E1gina a $1. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "Se produjo un error al generar la instant\u00E1nea."
+   },
+   "errorretrieving": {
+      "message": "No pudimos establecer conexi\u00F3n con tus dispositivos m\u00F3viles. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "Env\u00EDa p\u00E1ginas web desde Chrome en tu computadora a Chrome en tu tel\u00E9fono o tableta."
+   },
+   "extensionname": {
+      "message": "Chrome para celulares"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "Tambi\u00E9n enviar una copia para visualizarla sin conexi\u00F3n (generando...)"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "Tambi\u00E9n enviar una copia para visualizarla sin conexi\u00F3n ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "M\u00E1s informaci\u00F3n"
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "No se encontr\u00F3 ning\u00FAn dispositivo. Conecta un dispositivo m\u00F3vil. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "Buscando dispositivos m\u00F3viles"
+   },
+   "sendbutton": {
+      "message": "Enviar"
+   },
+   "sending": {
+      "message": "Enviando..."
+   },
+   "sendthispageto": {
+      "message": "Env\u00EDa esta p\u00E1gina a $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "Env\u00EDa esta p\u00E1gina a:"
+   },
+   "sent": {
+      "message": "Se complet\u00F3 el env\u00EDo."
+   },
+   "snapshotdisabledmessage": {
+      "message": "Esta versi\u00F3n de Chrome no admite instant\u00E1neas. Una instant\u00E1nea es una versi\u00F3n de una p\u00E1gina en la que se puede navegar sin conexi\u00F3n . Aseg\u00FArate de usar la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Eversi\u00F3n del canal para desarrolladores\u003C/a\u003E para habilitar las instant\u00E1neas."
+   },
+   "tryagain": {
+      "message": "Vuelve a intentarlo."
+   },
+   "welcomemessage": {
+      "message": "Env\u00EDa p\u00E1ginas web a tu tel\u00E9fono o tableta."
+   }
+}

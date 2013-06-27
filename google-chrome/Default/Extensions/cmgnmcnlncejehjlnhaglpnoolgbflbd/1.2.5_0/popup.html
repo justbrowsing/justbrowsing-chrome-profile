@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    BODY {
+      cursor: default;
+    }
+    
+    BODY, BUTTON, INPUT {
+      font: 11px Verdana;
+      color: #5e708d;
+    }
+    
+    .container {
+      border: 1px solid #abc;
+      padding: 10px;
+      background-color: #f4f7fe;
+      margin-bottom: 7px;
+      border-radius: 3px;
+    }
+    
+    A {
+      font-weight: bold;
+      color: inherit;
+    }
+    
+    INPUT {
+      width: 300px;
+      padding: 3px 5px;
+      margin-top: 5px;
+    }
+    
+    BUTTON {
+      padding: 7px 30px;
+      border: 1px solid #abc;
+      border-radius: 3px;
+      background-color: #f0f0f0;
+      box-shadow: 0 3px 3px #abc;
+      -webkit-box-shadow: 0 1px 2px #ccc;
+    }
+    
+    BUTTON:hover {
+      background-color: #fafafa;
+    }
+    
+    #error {
+      color: #f33;
+      margin-top: 3px;
+    }
+  </style>
+  <script src="js/popup.js"></script>
+</head>
+
+<body onload="focus();">
+
+<div class="container">
+  Please enter the URL you would like to proxy:<br/>
+  <input type="text" id="url" onkeydown="onKeydown(event);"/>
+  <div id="error" style="display: none">Please enter a correct URL</div>
+</div>
+
+<button onclick="proxify();">Proxy!</button> or <a href="javascript:window.close();">cancel</a>
+</body>
+</html>

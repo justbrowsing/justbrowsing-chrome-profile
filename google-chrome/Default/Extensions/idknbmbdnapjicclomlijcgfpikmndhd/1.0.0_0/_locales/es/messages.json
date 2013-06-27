@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "Cancelar"
+   },
+   "connectbutton": {
+      "message": "Conecta tu dispositivo m\u00F3vil"
+   },
+   "disconnect": {
+      "message": "Desvincular"
+   },
+   "error": {
+      "message": "No se ha podido enviar esta p\u00E1gina a tu $1. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "Se ha producido un error al generar la captura de p\u00E1gina."
+   },
+   "errorretrieving": {
+      "message": "No se ha podido establecer conexi\u00F3n con tus dispositivos m\u00F3viles. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "Env\u00EDa p\u00E1ginas web desde Chrome en tu ordenador al navegador Chrome de tu tel\u00E9fono o tablet."
+   },
+   "extensionname": {
+      "message": "De Chrome al m\u00F3vil"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "Enviar tambi\u00E9n una copia para verla sin conexi\u00F3n (generando...)"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "Enviar tambi\u00E9n una copia para verla sin conexi\u00F3n ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "M\u00E1s informaci\u00F3n"
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "No se han encontrado dispositivos. Conecta un dispositivo m\u00F3vil. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "Buscando dispositivos m\u00F3viles"
+   },
+   "sendbutton": {
+      "message": "Enviar"
+   },
+   "sending": {
+      "message": "Enviando"
+   },
+   "sendthispageto": {
+      "message": "Enviar esta p\u00E1gina a $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "Enviar esta p\u00E1gina a:"
+   },
+   "sent": {
+      "message": "Enviado"
+   },
+   "snapshotdisabledmessage": {
+      "message": "Esta versi\u00F3n de Chrome no admite capturas de p\u00E1ginas. Las capturas de p\u00E1ginas permiten navegar por una p\u00E1gina sin conexi\u00F3n. Aseg\u00FArate de utilizar la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Eversi\u00F3n del canal para desarrolladores\u003C/a\u003E para habilitar las capturas de p\u00E1ginas."
+   },
+   "tryagain": {
+      "message": "Intentar de nuevo"
+   },
+   "welcomemessage": {
+      "message": "Env\u00EDa p\u00E1ginas web a tu tel\u00E9fono o a tu tablet."
+   }
+}

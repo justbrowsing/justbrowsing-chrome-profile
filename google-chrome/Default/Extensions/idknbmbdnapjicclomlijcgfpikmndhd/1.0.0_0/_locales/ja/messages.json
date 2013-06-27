@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "\u30AD\u30E3\u30F3\u30BB\u30EB"
+   },
+   "connectbutton": {
+      "message": "\u643A\u5E2F\u7AEF\u672B\u3092\u63A5\u7D9A"
+   },
+   "disconnect": {
+      "message": "\u5207\u65AD"
+   },
+   "error": {
+      "message": "\u3053\u306E\u30DA\u30FC\u30B8\u3092 $1 \u306B\u9001\u4FE1\u3067\u304D\u307E\u305B\u3093\u3067\u3057\u305F\u3002$2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "\u30B9\u30CA\u30C3\u30D7\u30B7\u30E7\u30C3\u30C8\u306E\u751F\u6210\u4E2D\u306B\u30A8\u30E9\u30FC\u304C\u767A\u751F\u3057\u307E\u3057\u305F\u3002"
+   },
+   "errorretrieving": {
+      "message": "\u643A\u5E2F\u7AEF\u672B\u306B\u63A5\u7D9A\u3067\u304D\u307E\u305B\u3093\u3067\u3057\u305F\u3002$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "\u30D1\u30BD\u30B3\u30F3\u306E Chrome \u304B\u3089\u643A\u5E2F\u7AEF\u672B\u3084\u30BF\u30D6\u30EC\u30C3\u30C8\u306E Chrome \u306B\u30A6\u30A7\u30D6\u30DA\u30FC\u30B8\u3092\u9001\u4FE1\u3057\u307E\u3059\u3002"
+   },
+   "extensionname": {
+      "message": "Chrome to Mobile"
+   },
+   "help": {
+      "message": "\u30D8\u30EB\u30D7"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "\u30AA\u30D5\u30E9\u30A4\u30F3\u8868\u793A\u7528\u306E\u30B3\u30D4\u30FC\u3082\u9001\u4FE1\u3059\u308B\uFF08\u751F\u6210\u4E2D...\uFF09"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "\u30AA\u30D5\u30E9\u30A4\u30F3\u8868\u793A\u7528\u306E\u30B3\u30D4\u30FC\u3082\u9001\u4FE1\u3059\u308B\uFF08$1\uFF09",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "\u8A73\u3057\u304F\u306F\u3053\u3061\u3089\u3092\u3054\u89A7\u304F\u3060\u3055\u3044\u3002"
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "\u643A\u5E2F\u7AEF\u672B\u304C\u898B\u3064\u304B\u308A\u307E\u305B\u3093\u3002\u643A\u5E2F\u7AEF\u672B\u3092\u63A5\u7D9A\u3057\u3066\u304F\u3060\u3055\u3044\u3002$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1..",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "\u643A\u5E2F\u7AEF\u672B\u3092\u691C\u7D22\u3057\u3066\u3044\u307E\u3059"
+   },
+   "sendbutton": {
+      "message": "\u9001\u4FE1"
+   },
+   "sending": {
+      "message": "\u9001\u4FE1\u3057\u3066\u3044\u307E\u3059"
+   },
+   "sendthispageto": {
+      "message": "\u3053\u306E\u30DA\u30FC\u30B8\u3092 $1 \u306B\u9001\u4FE1\u3057\u307E\u3059\u3002",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "\u3053\u306E\u30DA\u30FC\u30B8\u306E\u9001\u4FE1\u5148:"
+   },
+   "sent": {
+      "message": "\u9001\u4FE1\u3057\u307E\u3057\u305F\u3002"
+   },
+   "snapshotdisabledmessage": {
+      "message": "\u3053\u306E\u30D0\u30FC\u30B8\u30E7\u30F3\u306E Chrome \u306F\u30B9\u30CA\u30C3\u30D7\u30B7\u30E7\u30C3\u30C8\u306B\u5BFE\u5FDC\u3057\u3066\u3044\u307E\u305B\u3093\u3002\u30B9\u30CA\u30C3\u30D7\u30B7\u30E7\u30C3\u30C8\u306F\u30AA\u30D5\u30E9\u30A4\u30F3\u3067\u30D6\u30E9\u30A6\u30B8\u30F3\u30B0\u3067\u304D\u308B\u30DA\u30FC\u30B8\u3067\u3059\u3002\u30B9\u30CA\u30C3\u30D7\u30B7\u30E7\u30C3\u30C8\u3092\u6709\u52B9\u306B\u3059\u308B\u306B\u306F \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003EDev \u30C1\u30E3\u30F3\u30CD\u30EB\u7248\u003C/a\u003E\u3092\u3054\u5229\u7528\u304F\u3060\u3055\u3044\u3002"
+   },
+   "tryagain": {
+      "message": "\u3082\u3046\u4E00\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002"
+   },
+   "welcomemessage": {
+      "message": "\u643A\u5E2F\u7AEF\u672B\u3084\u30BF\u30D6\u30EC\u30C3\u30C8\u306B\u30A6\u30A7\u30D6\u30DA\u30FC\u30B8\u3092\u9001\u4FE1\u3057\u307E\u3059\u3002"
+   }
+}

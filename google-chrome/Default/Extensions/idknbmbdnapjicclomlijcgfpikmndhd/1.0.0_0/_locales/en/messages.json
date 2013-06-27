@@ -1,0 +1,159 @@
+{
+   "cancelButton": {
+      "description": "The button to click to cancel the action",
+      "message": "Cancel"
+   },
+   "connectButton": {
+      "description": "The text on the Connect-button on the welcome-page",
+      "message": "Connect your mobile device"
+   },
+   "disconnect": {
+      "description": "The text for the link which enables users to disconnect their account.",
+      "message": "Disconnect"
+   },
+   "error": {
+      "description": "The text to show when sending the data failed.",
+      "message": "We were unable to send this page to your $deviceName$. $tryAgain$",
+      "placeholders": {
+         "deviceName": {
+            "content": "$1",
+            "example": "Galaxy Nexus"
+         },
+         "tryAgain": {
+            "content": "$2",
+            "example": "Try again."
+         }
+      }
+   },
+   "errorGeneratingSnapshot": {
+      "description": "The text to show when we were unable to generate a snapshot.",
+      "message": "An error occured while generating the snapshot."
+   },
+   "errorRetrieving": {
+      "description": "The text to show when we were unable to fetch the users list of mobile devices.",
+      "message": "We were unable to connect to your mobile devices. $tryAgain$",
+      "placeholders": {
+         "tryAgain": {
+            "content": "$1",
+            "example": "Try again."
+         }
+      }
+   },
+   "extensionDescription": {
+      "description": "Extension description",
+      "message": "Send web pages from Chrome on your computer to Chrome on your phone or tablet."
+   },
+   "extensionName": {
+      "description": "Extension name",
+      "message": "Chrome to Mobile"
+   },
+   "extensionNameBeta": {
+      "description": "Extension name for when the extension is in beta",
+      "message": "Chrome to Mobile Beta"
+   },
+   "help": {
+      "description": "The help link text",
+      "message": "Help"
+   },
+   "includeSnapshotMessage": {
+      "description": "The label text for the checkbox button used to indicate whether a snapshot should be sent, while the snapshot is being generated.",
+      "message": "Also send copy for offline viewing (generating...)"
+   },
+   "includeSnapshotMessageWithSize": {
+      "description": "The label text for the checkbox button used to indicate whether a snapshot should be sent, including the size of the copy.",
+      "message": "Also send copy for offline viewing ($size$).",
+      "placeholders": {
+         "size": {
+            "content": "$1",
+            "example": "2 MB"
+         }
+      }
+   },
+   "learnMore": {
+      "description": "The link text to use when the user wants to know more about the feature.",
+      "message": "Learn more."
+   },
+   "noMobileDevicesFound": {
+      "description": "The message to show if the user has not registered any mobile devices.",
+      "message": "No devices found. Connect a mobile device. $learnMore$",
+      "placeholders": {
+         "learnMore": {
+            "content": "$1",
+            "description": "This will be surrounded by a link to learn more.",
+            "example": "Learn more."
+         }
+      }
+   },
+   "progress1": {
+      "description": "The initial part of an animating ellipsis",
+      "message": "$message$.",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Searching for mobile devices"
+         }
+      }
+   },
+   "progress2": {
+      "description": "The second part of an animating ellipsis",
+      "message": "$message$..",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Searching for mobile devices"
+         }
+      }
+   },
+   "progress3": {
+      "description": "The third part of an animating ellipsis",
+      "message": "$message$...",
+      "placeholders": {
+         "message": {
+            "content": "$1",
+            "example": "Searching for mobile devices"
+         }
+      }
+   },
+   "searchingForDevices": {
+      "description": "The text to show when we are currently retrieving a list of devices from Cloud Print",
+      "message": "Searching for mobile devices"
+   },
+   "sendButton": {
+      "description": "The button to click to send a page to the device",
+      "message": "Send"
+   },
+   "sendThisPageTo": {
+      "description": "The text to show that explains the list of devices",
+      "message": "Send this page to $deviceName$.",
+      "placeholders": {
+         "deviceName": {
+            "content": "$1",
+            "example": "Galaxy Nexus"
+         }
+      }
+   },
+   "sendThisPageToList": {
+      "description": "The text to show that explains the list of devices",
+      "message": "Send this page to:"
+   },
+   "sending": {
+      "description": "The text to show while we are sending data",
+      "message": "Sending"
+   },
+   "sent": {
+      "description": "The text to show while we are have successfully sent data",
+      "message": "Sent!"
+   },
+   "snapshotDisabledMessage": {
+      "description": "The message displayed to indicate that the current version of Chrome does not support the snapshot generation API",
+      "message": "This version of Chrome does not support snapshots. Snapshots are offline browsable version of a page. Make sure to use the \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Edev channel version\u003C/a\u003E to enable snapshots."
+   },
+   "tryAgain": {
+      "description": "The text to show as a clickable link if we want the user to try an action again, such as fetching devices on error or sending a page again.",
+      "message": "Try again."
+   },
+   "welcomeMessage": {
+      "description": "The message to show the user before she signs in",
+      "message": "Send web pages to your phone or tablet."
+   }
+}

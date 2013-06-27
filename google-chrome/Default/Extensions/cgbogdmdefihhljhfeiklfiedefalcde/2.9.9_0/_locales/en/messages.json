@@ -1,0 +1,134 @@
+{
+   "authenticate_question": {
+      "description": "Asking the user to authenticate in order to user one-click sharing",
+      "message": "Authenticate for easy sharing?"
+   },
+   "cancel_word": {
+      "description": "Word for cancel",
+      "message": "Cancel"
+   },
+   "connect_accounts_description": {
+      "description": "Description of preference page for connecting accounts",
+      "message": "Connect your social media accounts to enable one-click sharing and other enhanced features:"
+   },
+   "connect_accounts_title": {
+      "description": "Title for options page for connecting personal accounts",
+      "message": "Connect Accounts"
+   },
+   "connect_word": {
+      "description": "Word for 'connect'",
+      "message": "Connect"
+   },
+   "connecting_word": {
+      "description": "Word for 'connecting'",
+      "message": "Connecting"
+   },
+   "disconnect_word": {
+      "description": "Word for 'disconnect'",
+      "message": "Disconnect"
+   },
+   "enable_account_connections": {
+      "description": "Option to enable account connections",
+      "message": "Enable Account Connections (Recommended):"
+   },
+   "enable_context_menu": {
+      "description": "Option to enable the context menu",
+      "message": "Enable Context Menu (right-click in any page)"
+   },
+   "enable_context_menu_search": {
+      "description": "Option to enable search via the context menu",
+      "message": "Enable Search from Context Menu"
+   },
+   "enable_word": {
+      "description": "Word for enable",
+      "message": "Enable"
+   },
+   "extended_menu_label": {
+      "description": "Label for button that leads to the extended menu",
+      "message": "Mas..."
+   },
+   "link_to_options": {
+      "description": "Label for button to options",
+      "message": "Optiones"
+   },
+   "more_options_description": {
+      "description": "Description of more options page indicating to enable optional sharing menus",
+      "message": "Select which sharing menu should be enabled in your browser:"
+   },
+   "more_options_title": {
+      "description": "Title for 'more options' page",
+      "message": "More Options"
+   },
+   "no_private_information": {
+      "description": "Statement that AddThis will not have access to your private information.",
+      "message": "AddThis will never have access to your or your friends' private information."
+   },
+   "no_thanks": {
+      "description": "Option to decline, politely",
+      "message": "No Thanks"
+   },
+   "options_add_button": {
+      "description": "Button that adds a service (short)",
+      "message": "Add"
+   },
+   "options_call_to_action": {
+      "description": "Title for the options page",
+      "message": "Customize Your AddThis Sharing Menu"
+   },
+   "options_customize_page_all_services_search_call": {
+      "description": "A label for the search box that filters available services",
+      "message": "Find a Service"
+   },
+   "options_customize_page_all_services_title": {
+      "description": "A title for list of all possible services",
+      "message": "All Available Services:"
+   },
+   "options_customize_page_my_services_max_count": {
+      "description": "Indicates that 11 services is the maximum amount that you can choose",
+      "message": "11 services max."
+   },
+   "options_customize_page_my_services_title": {
+      "description": "Title for the list of user-preferred services",
+      "message": "My Customized Services"
+   },
+   "options_or": {
+      "description": "Word for 'or'",
+      "message": "or"
+   },
+   "options_page_subtitle": {
+      "description": "Instructions for adding, removing, and re-ordering services",
+      "message": "Add and remove services, or change their order using the arrow buttons:"
+   },
+   "options_remove_button": {
+      "description": "Button that removes a service (short)",
+      "message": "Remove"
+   },
+   "options_reset": {
+      "description": "A button that resets service preferences to default",
+      "message": "Reset services to default"
+   },
+   "options_save_changes": {
+      "description": "Button for saving options changes",
+      "message": "Save Changes"
+   },
+   "post_success_profile": {
+      "description": "Indicating successful profile post",
+      "message": "Successfully posted on your profile"
+   },
+   "post_success_wall": {
+      "description": "Indicating successful wall post",
+      "message": "Successfully posted on your wall"
+   },
+   "share_word": {
+      "description": "Word for share",
+      "message": "Share"
+   },
+   "successful_installation": {
+      "description": "A message indicating a successful installation, stating that you can share to Facebook, Twitter, and 300 other services",
+      "message": "Installation successful! Share to Facebook, Twitter and over 300 other services with the most popular sharing tool in the world."
+   },
+   "write_something": {
+      "description": "Phrase indicating to write a message",
+      "message": "Write Something..."
+   }
+}

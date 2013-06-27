@@ -1,0 +1,87 @@
+<!--
+The extension's "browser action" page, loaded when the action is invoked from the AddThis plugin icon
+-->
+<html>
+<head>
+	<script type='text/javascript'>
+	
+	var ATX = ATX || {};
+	ATX.environment = 'browserAction';
+	
+	</script>
+	
+	<script type="text/javascript" src="../js/lib/jquery.1.7.2.js"></script>
+    <script type="text/javascript" src="../js/ATX.chrome.util.js"></script>
+	<script type="text/javascript" src="../js/ATX.chrome.services.js"></script>
+	<script type="text/javascript" src="../js/ATX.chrome.browserAction.js"></script>
+	<link rel="stylesheet" type="text/css" href="../css/ATX.chrome.browserAction.css"></link>
+	<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js?async=1"></script>
+</head>
+<body onkeypress="BrowserAction.hitSubmit(event);">
+	<div id="sharemenu"></div>
+<div id="tweetScreen" style="display: none" class="atpop">
+    <div class="atpop-content">
+        <div class="tweet-write">
+           <span><img class="tweet-pic" width="48px" height="48px" id="twitPic" src=""></img></span>
+	        <textarea style="display: none" id="txtTwitterComment" cols="40" rows="3"></textarea>
+            <span style="display: none" id="spnTwitterSuccess"><a href="javascript:BrowserAction.openUrl('http://twitter.com')" id="aTwitterSuccess" class="post_success_profile">Successfully posted on your profile</a></span>
+        </div>
+    </div>
+    <div class="atpop-bottom">
+        <button class="btn-cancel cancel_word" onclick="BrowserAction.ToggleOAuthScreen('tweetScreen')">Cancel</button>
+        <button class="btn-action" id="btnTwitterSend" onclick="BrowserAction.oAuthShare('twitter')">Tweet</button>
+        <span id="spnTweetCount" class="tweet-count"></span>
+    </div>
+</div>
+<div id="FBScreen" style="display: none" class="atpop">
+
+    <div class="atpop-content">
+        <div class="atpop-content-write">
+            <span><img class="atpop-pic" width="48px" height="48px" id="fbPic" src=""></img></span>
+            <textarea id="txtFacebookComment" cols="40" rows="3" class="write_something">Write Something...</textarea>
+            <span style="display: none" id="spnFBSuccess"><a href="#" id="aFBSuccess" class="post_success_wall">Successfully posted on your wall</a></span>
+        </div>
+        <div class="atpop-content-preview">
+        <img alt="" id="imgFBPreview" class="img" />
+            <b id="titleFBPreview"></b><br/>
+            <p id="urlFBPreview"></p>
+            <p id="descriptionFBPreview"></p>
+        </div>
+    </div>
+    <div class="atpop-bottom">
+        <button class="btn-cancel cancel_word" onclick="BrowserAction.ToggleOAuthScreen('FBScreen')">Cancel</button>
+        <button class="btn-action share_word" id="btnFacebookSend" onclick="BrowserAction.oAuthShare('facebook')" >Share</button>
+        <span id="spnFBMessage" class="tweet-count"></span>
+    </div>
+</div>
+<div id="divOAuthMessage" style="display: none" class="atpop">
+    <div class="atpop-content">
+<div id="divAuthMessage" class="tweet-write" style="margin-right: 10px; font-size: 11px; padding-left: 0px !important;">
+<img style="float: left; margin-right: 10px" id="imgAuth" ></img> <div style="font-size: 13px; font-weight: bold" class="authenticate_question"> Authenticate for easy sharing?
+<div style="font-size: 11px; font-weight: normal; line-height:1.4em" class="no_private_information">AddThis will never have access to your or your friends' private information.</div>
+</div>
+</div>
+</div>
+    <div class="atpop-bottom">
+        <button class="btn-cancel no_thanks" onclick="BrowserAction.ToggleOAuthScreen('divOAuthMessage')">No Thanks</button>
+        <button class="btn-action enable_word" id="btnAuthSend" onclick="BrowserAction.authenticateSocialService()">Enable</button>
+    </div>
+</div>
+
+<script type='text/javascript'>
+
+	$('.authenticate_question').html(chrome.i18n.getMessage('authenticate_question'));
+	$('.no_private_information').html(chrome.i18n.getMessage('no_private_information'));
+	$('.no_thanks').html(chrome.i18n.getMessage('no_thanks'));
+	$('.enable_word').html(chrome.i18n.getMessage('enable_word'));
+	$('.cancel_word').html(chrome.i18n.getMessage('cancel_word'));
+	$('.share_word').html(chrome.i18n.getMessage('share_word'));
+	$('.write_something').html(chrome.i18n.getMessage('write_something'));
+	$('.post_success_wall').html(chrome.i18n.getMessage('post_success_wall'));
+	$('.post_success_profile').html(chrome.i18n.getMessage('post_success_profile'));
+	
+
+</script>
+
+</body>
+</html>

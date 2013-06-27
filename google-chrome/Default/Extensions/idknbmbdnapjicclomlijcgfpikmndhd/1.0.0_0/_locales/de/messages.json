@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "Abbrechen"
+   },
+   "connectbutton": {
+      "message": "Mein Mobilger\u00E4t verbinden"
+   },
+   "disconnect": {
+      "message": "Verbindung trennen"
+   },
+   "error": {
+      "message": "Wir konnten diese Seite nicht an $1 senden. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "Fehler beim Generieren des Snapshots"
+   },
+   "errorretrieving": {
+      "message": "Wir konnten keine Verbindung zu Ihren Mobilger\u00E4ten herstellen. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "Senden Sie Webseiten von Chrome auf Ihrem Computer an Chrome auf Ihrem Handy oder Tablet."
+   },
+   "extensionname": {
+      "message": "Chrome an Mobilger\u00E4t"
+   },
+   "help": {
+      "message": "Hilfe"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "Kopie auch zur Offline-Ansicht senden (w\u00E4hrend des Erstellens...)"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "Kopie auch zur Offline-Ansicht senden ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "Weitere Informationen"
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "Es wurden keine Ger\u00E4te gefunden. Schlie\u00DFen Sie ein Mobilger\u00E4t an. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1..",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "Mobilger\u00E4te werden gesucht."
+   },
+   "sendbutton": {
+      "message": "Senden"
+   },
+   "sending": {
+      "message": "Daten werden gesendet."
+   },
+   "sendthispageto": {
+      "message": "Diese Seite an $1 senden",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "Diese Seite senden an:"
+   },
+   "sent": {
+      "message": "Gesendet"
+   },
+   "snapshotdisabledmessage": {
+      "message": "Diese Version von Chrome unterst\u00FCtzt keine Snapshots. Ein Snapshot ist die durchsuchbare Offline-Version einer Seite. Verwenden Sie die \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003EEntwicklerversion\u003C/ a\u003E zum Aktivieren von Snapshots."
+   },
+   "tryagain": {
+      "message": "Versuchen Sie es erneut."
+   },
+   "welcomemessage": {
+      "message": "Senden Sie Webseiten auf Ihr Telefon oder Tablet."
+   }
+}

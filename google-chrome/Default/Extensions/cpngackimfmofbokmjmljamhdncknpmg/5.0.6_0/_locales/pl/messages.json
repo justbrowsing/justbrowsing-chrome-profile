@@ -1,0 +1,131 @@
+{
+   "autosave": {
+      "message": "Autozapis - po przechwyceniu, pomi\u0144 ekran edycji i zapisz bezpo\u015Brednio w domy\u015Blnym katalogu z tytu\u0142em strony jako nazwa pliku"
+   },
+   "blur": {
+      "message": "Rozmyj"
+   },
+   "border": {
+      "message": "Kontury"
+   },
+   "cancel": {
+      "message": "Anuluj"
+   },
+   "capture_area": {
+      "message": "Przechwy\u0107 Wybrany Obszar"
+   },
+   "capture_webpage": {
+      "message": "Przechwy\u0107 Ca\u0142\u0105 Stron\u0119"
+   },
+   "capture_window": {
+      "message": "Przechwy\u0107 Widoczny Obszar"
+   },
+   "capturing": {
+      "message": "Przechwytywanie, prosz\u0119 czeka\u0107 ..."
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "copy": {
+      "message": "Kopiuj"
+   },
+   "default_title": {
+      "message": "Zrzut Ekranu"
+   },
+   "description": {
+      "message": "Przechwy\u0107 widoczn\u0105 cz\u0119\u015B\u0107 karty, wybrany fragment strony, lub ca\u0142\u0105 stron\u0119 jako obraz PNG."
+   },
+   "edit_tip": {
+      "message": "Poni\u017Cej jest zrzut ekranu kt\u00F3ry zrobi\u0142e\u015B. Mo\u017Cesz go edytowa\u0107 za pomoc\u0105 narz\u0119dzi po lewej stronie. Naci\u015Bnij Zapisz kiedy sko\u0144czysz."
+   },
+   "highlight": {
+      "message": "Wyr\u00F3\u017Cnij"
+   },
+   "line": {
+      "message": "Linia"
+   },
+   "loading": {
+      "message": "Strona \u0142aduje si\u0119, prosz\u0119 czeka\u0107."
+   },
+   "lossless": {
+      "message": "Kompresja bezstratna (PNG)"
+   },
+   "lossy": {
+      "message": "Kompresja stratna (JPEG)"
+   },
+   "name": {
+      "message": "Screen Capture (od Google)"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Id\u017A do folderu"
+   },
+   "options": {
+      "message": "Opcje Screen Capture"
+   },
+   "quality_setting": {
+      "message": "Ustawienia Jako\u015Bci Zrzutu Ekranu: "
+   },
+   "rect": {
+      "message": "Wype\u0142nij"
+   },
+   "redact": {
+      "message": "Ocenzuruj"
+   },
+   "save": {
+      "message": "Zapisz"
+   },
+   "save_and_close": {
+      "message": "Zapisz & Zamknij"
+   },
+   "save_fail": {
+      "message": "Nie uda\u0142o si\u0119 zapisa\u0107 zrzutu ekranu."
+   },
+   "save_image": {
+      "message": "Zapisz Obraz"
+   },
+   "save_setting": {
+      "message": "Ustawienia Zapisu Zrzutu Ekranu: "
+   },
+   "save_success": {
+      "message": "Zrzut ekranu zapisany."
+   },
+   "save_tip": {
+      "message": "Domy\u015Blna lokalizacja do zapisu: "
+   },
+   "set_save_path": {
+      "message": "Przegl\u0105daj ..."
+   },
+   "set_save_path_title": {
+      "message": "Wybierz Domy\u015Bln\u0105 Lokalizacj\u0119 do Zapisu"
+   },
+   "size_huge": {
+      "message": "Ogromny"
+   },
+   "size_large": {
+      "message": "Du\u017Cy"
+   },
+   "size_normal": {
+      "message": "Normalny"
+   },
+   "size_small": {
+      "message": "Ma\u0142y"
+   },
+   "solid_black": {
+      "message": "Zama\u017C"
+   },
+   "special": {
+      "message": "To jest strona specjalna. Nie mo\u017Cna zrobi\u0107 zrzutu ekranu."
+   },
+   "text": {
+      "message": "Tekst"
+   },
+   "tip_copy_failed": {
+      "message": "Nie uda\u0142o si\u0119 skopiowa\u0107 zrzutu ekranu."
+   },
+   "tip_copy_succeed": {
+      "message": "Zrzut ekranu skopiowany."
+   }
+}

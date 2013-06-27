@@ -1,0 +1,17 @@
+*** History of updates - HMA Chrome Extension ***
+
+v.1.2.5
+- add: context menu item
+
+v.1.2.4
+- info: wording change
+
+v.1.2.3
+- info: published in Crome Web Store
+
+v.1.2.2
+- add: history.txt
+- add: new servers for hma.com (Chicago 4 & Amsterdam 1)
+
+v.1.2.1
+- info: extension relocated to cloudfront CDN

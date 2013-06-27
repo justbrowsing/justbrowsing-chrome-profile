@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "Cancelar"
+   },
+   "connectbutton": {
+      "message": "Conectar seu dispositivo m\u00F3vel"
+   },
+   "disconnect": {
+      "message": "Desconectar"
+   },
+   "error": {
+      "message": "N\u00E3o foi poss\u00EDvel enviar esta p\u00E1gina para seu $1. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "Ocorreu um erro ao gerar o instant\u00E2neo."
+   },
+   "errorretrieving": {
+      "message": "N\u00E3o foi poss\u00EDvel se conectar a seus dispositivos m\u00F3veis. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "Enviar p\u00E1ginas da web do Chrome em seu computador para o Chrome em seu telefone ou tablet."
+   },
+   "extensionname": {
+      "message": "Chrome to Mobile"
+   },
+   "help": {
+      "message": "Ajuda"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "Tamb\u00E9m enviar c\u00F3pia para visualiza\u00E7\u00E3o off-line (gerando...)"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "Tamb\u00E9m enviar c\u00F3pia para visualiza\u00E7\u00E3o off-line ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "Saiba mais."
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "Nenhum dispositivo encontrado. Conectar um dispositivo m\u00F3vel. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "Pesquisando dispositivos m\u00F3veis"
+   },
+   "sendbutton": {
+      "message": "Enviar"
+   },
+   "sending": {
+      "message": "Enviando"
+   },
+   "sendthispageto": {
+      "message": "Enviar esta p\u00E1gina para $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "Enviar esta p\u00E1gina para:"
+   },
+   "sent": {
+      "message": "Enviado!"
+   },
+   "snapshotdisabledmessage": {
+      "message": "Esta vers\u00E3o do Google Chrome n\u00E3o \u00E9 compat\u00EDvel com instant\u00E2neos. Instant\u00E2neos s\u00E3o a vers\u00E3o off-line naveg\u00E1vel de uma p\u00E1gina. Use a \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Evers\u00E3o do canal dev\u003C/a\u003E para permitir instant\u00E2neos."
+   },
+   "tryagain": {
+      "message": "Tentar novamente."
+   },
+   "welcomemessage": {
+      "message": "Enviar p\u00E1ginas da web para seu telefone ou tablet."
+   }
+}

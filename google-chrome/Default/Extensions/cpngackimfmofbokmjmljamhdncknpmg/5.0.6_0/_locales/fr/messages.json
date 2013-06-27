@@ -1,0 +1,137 @@
+{
+   "autosave": {
+      "message": "Enregistrement Auto - apr\u00E8s capture, passe l'\u00E9cran d'\u00E9dition et sauvegarde la capture dans le dossier par d\u00E9faut avec pour nom le titre de la page web"
+   },
+   "blur": {
+      "message": "Flou"
+   },
+   "border": {
+      "message": "Contour"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "capture_area": {
+      "message": "Capture r\u00E9gion"
+   },
+   "capture_webpage": {
+      "message": "Capture page enti\u00E8re"
+   },
+   "capture_window": {
+      "message": "Capture contenu visible"
+   },
+   "capturing": {
+      "message": "Capture en cours, attendez..."
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "copy": {
+      "message": "Copie"
+   },
+   "default_title": {
+      "message": "Capture \u00E9cran"
+   },
+   "description": {
+      "message": "Capture le contenu visible de l'onglet, une r\u00E9gion de la page web, ou la page enti\u00E8re en image PNG. Supporte le d\u00E9filement horizontal et vertical lors de la capture de la page enti\u00E8re, avec une nouvelle fonction de sauvegarde automatique."
+   },
+   "edit_tip": {
+      "message": "Ci-dessous la capture d'\u00E9cran. Vous pouvez l'\u00E9diter avec les outils \u00E0 gauche. Cliquez Enregister quand vous avez termin\u00E9."
+   },
+   "highlight": {
+      "message": "Cadre"
+   },
+   "line": {
+      "message": "Ligne"
+   },
+   "loading": {
+      "message": "Chargement de la page, patientez..."
+   },
+   "lossless": {
+      "message": "Capture sans perte"
+   },
+   "lossy": {
+      "message": "Capture compress\u00E9e"
+   },
+   "name": {
+      "message": "Capture d'\u00E9cran (par Google)"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "open_save_path": {
+      "message": "Ouvrir l'emplacement"
+   },
+   "options": {
+      "message": "Options"
+   },
+   "quality_setting": {
+      "message": "Param\u00E8tres de qualit\u00E9: "
+   },
+   "rect": {
+      "message": "Surface pleine"
+   },
+   "redact": {
+      "message": "Masque"
+   },
+   "save": {
+      "message": "Enregistrer"
+   },
+   "save_and_close": {
+      "message": "Enregistrer & Fermer"
+   },
+   "save_fail": {
+      "message": "L'enregistrement de la capture a \u00E9chou\u00E9!"
+   },
+   "save_image": {
+      "message": "Enregistrement de l'image"
+   },
+   "save_setting": {
+      "message": "Param\u00E8tres d'enregistrement de la capture: "
+   },
+   "save_success": {
+      "message": "Capture enregistr\u00E9e."
+   },
+   "save_tip": {
+      "message": "Chemin d'enregistrement par d\u00E9faut: "
+   },
+   "set_save_path": {
+      "message": "Parcourir..."
+   },
+   "set_save_path_title": {
+      "message": "Selectionnez l'emplacement d'enregistrement par d\u00E9faut"
+   },
+   "shortcut_setting": {
+      "message": "Param\u00E8tre du raccourci:"
+   },
+   "shortcutsetting_text": {
+      "message": "Activer les raccourcis clavier"
+   },
+   "size_huge": {
+      "message": "\u00C9norme"
+   },
+   "size_large": {
+      "message": "Grande"
+   },
+   "size_normal": {
+      "message": "Normale"
+   },
+   "size_small": {
+      "message": "Petite"
+   },
+   "solid_black": {
+      "message": "Noir"
+   },
+   "special": {
+      "message": "C'est une page sp\u00E9ciale. Impossible d'effectuer une capture d'\u00E9cran sur cette page."
+   },
+   "text": {
+      "message": "Texte"
+   },
+   "tip_copy_failed": {
+      "message": "La copie de la capture a \u00E9chou\u00E9!"
+   },
+   "tip_copy_succeed": {
+      "message": "Capture copi\u00E9e."
+   }
+}

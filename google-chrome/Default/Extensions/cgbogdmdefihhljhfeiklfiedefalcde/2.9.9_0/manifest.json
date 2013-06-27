@@ -1,0 +1,30 @@
+{
+   "background_page": "html/ATX.chrome.background.html",
+   "browser_action": {
+      "default_icon": "images/19x19-full.png",
+      "default_title": "Share, translate, bookmark, print",
+      "popup": "html/ATX.chrome.browserAction.html"
+   },
+   "content_scripts": [ {
+      "js": [ "js/ATX.chrome.content.intercept.js" ],
+      "matches": [ "https://www.facebook.com/connect/login_success.html*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*" ]
+   }, {
+      "js": [ "js/ATX.chrome.content.image.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "Share to Facebook, Twitter and over 300 other services with the most popular sharing tool in the world.",
+   "icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "19": "images/19x19.png",
+      "32": "images/32x32.png",
+      "64": "images/64x64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/4mH2Fbva08PwzMy6boq23o2rkQkCpvjbt72C3I0P1NBhCT9xpZENK/VQLzhRlSpvtrCWH6kXabyLicG2C2zMRicwMlJRxqCWjepn7V3rP0wdm2bv5rkh+C4LzqEak+M4N/KCg8bxJkldW8yG1qK0iF2BACtUlZ5QPXkpVnQxRQIDAQAB",
+   "name": "AddThis - Share & Bookmark (new)",
+   "options_page": "html/ATX.chrome.options.html",
+   "permissions": [ "tabs", "contextMenus", "\u003Call_urls\u003E", "cookies", "notifications", "http://*/*", "https://*/*" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "2.9.9"
+}

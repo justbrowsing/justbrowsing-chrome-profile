@@ -1,0 +1,126 @@
+{
+   "cancelbutton": {
+      "message": "Annuler"
+   },
+   "connectbutton": {
+      "message": "Connecter votre appareil mobile"
+   },
+   "disconnect": {
+      "message": "Deconnexion"
+   },
+   "error": {
+      "message": "Impossible d'envoyer cette page vers votre $1. $2",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         }
+      }
+   },
+   "errorgeneratingsnapshot": {
+      "message": "Une erreur s'est produite lors de la cr\u00E9ation de l'instantan\u00E9."
+   },
+   "errorretrieving": {
+      "message": "Impossible de se connecter \u00E0 vos appareils mobiles. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "extensiondescription": {
+      "message": "Envoyez des pages Web de Google\u00A0Chrome sur votre ordinateur vers Google\u00A0Chrome sur votre t\u00E9l\u00E9phone ou votre tablette."
+   },
+   "extensionname": {
+      "message": "Chrome\u00A0to\u00A0Mobile"
+   },
+   "help": {
+      "message": "Aide"
+   },
+   "helpurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "includesnapshotmessage": {
+      "message": "Envoyer \u00E9galement une copie pour consultation hors connexion (en cours de cr\u00E9ation\u2026)"
+   },
+   "includesnapshotmessagewithsize": {
+      "message": "Envoyer \u00E9galement une copie pour consultation hors connexion ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "learnmore": {
+      "message": "En savoir plus"
+   },
+   "learnmoreurl": {
+      "message": "https://support.google.com/chrome/?p=chrome_help"
+   },
+   "nomobiledevicesfound": {
+      "message": "Aucun appareil trouv\u00E9. Veuillez connecter un appareil mobile. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress1": {
+      "message": "$1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress2": {
+      "message": "$1..",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "progress3": {
+      "message": "$1\u2026",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "searchingfordevices": {
+      "message": "Recherche d'appareils mobiles en cours"
+   },
+   "sendbutton": {
+      "message": "Envoyer"
+   },
+   "sending": {
+      "message": "Envoi en cours"
+   },
+   "sendthispageto": {
+      "message": "Envoyer cette page vers $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "sendthispagetolist": {
+      "message": "Envoyer cette page vers\u00A0:"
+   },
+   "sent": {
+      "message": "Envoi r\u00E9ussi."
+   },
+   "snapshotdisabledmessage": {
+      "message": "Cette version de Google\u00A0Chrome n'est pas compatible avec les instantan\u00E9s. Ceux-ci constituent la copie consultable hors connexion d'une page. Assurez-vous d'utiliser la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Eversion en d\u00E9veloppement\u003C/a\u003E pour utiliser les instantan\u00E9s."
+   },
+   "tryagain": {
+      "message": "R\u00E9essayer"
+   },
+   "welcomemessage": {
+      "message": "Envoyez des pages Web vers votre t\u00E9l\u00E9phone ou votre tablette."
+   }
+}

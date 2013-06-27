@@ -1,0 +1,105 @@
+<html>
+<head>
+<title>Hide My Ass! Proxy Extension</title>
+<link type="text/css" rel="stylesheet" href="css/options.css"/>
+<script type="text/javascript" src="js/options.js"></script>
+</head>
+<body>
+<div id="container">
+
+	<h1>Hide My Ass! Proxy Extension</h1>
+
+	<div id="infoboxtop"></div>
+	<div id="infoboxcontent">
+		<h2>Hide My Ass! Proxy Extension</h2>
+		<p>Thanks for installing the HMA! proxy extension. To operate our extension find the "H" icon located to the right of your address bar. If you click this icon whilst already on a website, our extension will take you to the proxified version of this website. A proxy form will display if you click this icon with no website loaded (e.g. a new tab). <span id="keyword_hint" style="display: none">Alternatively type "hma" (without quotes) infront of a website address to be taken to the proxified version of this website.</span></p>
+	</div>
+	<!--End infoboxcontent -->
+	<div id="infoboxbottom"></div>
+
+	<div id="optionscontainer">
+		<div id="optionscontent">
+
+			<table colspan="0" cellspacing="1">
+				<tr>
+					<td><strong>Proxy site &amp; server location</strong><br><em>Only HideMyAss.com has the ability of server selection.<br>Other proxy sites will be based in USA only.</em></td>
+					<td>
+						<select id="proxy_site" onchange="checkSiteConfig();">
+						</select>
+						<select id="proxy_server">
+							<option value="random">Random server</option>
+							<option value="1">USA, Illinois, Chicago - 1</option>
+							<option value="2">USA, Illinois, Chicago - 2</option>
+							<option value="3">USA, Illinois, Chicago - 3</option>
+              <option value="6">USA, Illionis, Chicago - 4</option>
+							<option value="4">UK, Berkshire - 1</option>
+							<option value="5">UK, Berkshire - 2</option>
+              <option value="7">Netherlands, Amsterdam - 1</option>
+						</select>
+					</td>
+				</tr>
+				<tr class="altshade">
+					<td><strong>URL encryption</strong><br><em>Encoded URL's never expire and are reversable.<br>Encrypted URL's expire after set times and are irreversible.</em></td>
+					<td><label><input type="radio" id="url_encrypt_encoded" name="url_encrypt" value="encoded">Encoded</label> <label><input type="radio" id="url_encrypt_encrypted" name="url_encrypt" value="encrypted">Encrypted</label></td>
+				</tr>				
+				<tr>
+					<td><strong>SSL encryption</strong><br><em>Recommended for improved security.<br>Only HideMyass.com supports SSL.</em></td>
+					<td><input type="checkbox" id="proxy_ssl"></td>
+				</tr>
+				<!--<tr class="altshade">
+					<td><strong>Enable "hma" keyword</strong><br><em>Simply put "hma" (without quotes) in front of a web address<br>to be taken to our proxy (e.g. "hma http://google.com").</em></td>
+					<td><input type="checkbox" id="keyword"></td>
+				</tr>-->
+				<tr>
+					<td><strong>Launch proxy in incognito mode</strong><br><em>"Allow in incognito" checkbox must be enabled as well.<br>Find this option in Tools > Extensions.</em></td>
+					<td><input type="checkbox" id="incognito"></td>
+				</tr>
+				<tr class="altshade">
+					<td><strong>Open websites in a new tab</strong><br><em>Will open proxified websites in a new browser tab.</em></td>
+					<td><input type="checkbox" id="new_tab"></td>
+				</tr>			
+				<tr>
+					<td><strong>Never use value of address bar</strong><br><em>If enabled, extension will never use the value of address bar, <br>but instead will treat each tab as a new tab.</em></td>
+					<td><input type="checkbox" id="always_popup"></td>
+				</tr>
+				<tr>
+					<td><strong>Context menu integration</strong><br><em>Adds item "Open via HMA Proxy" to the right-click context menu <br>for links.</em></td>
+					<td><input type="checkbox" id="context_menu"></td>
+				</tr>
+				<tr class="noborder">
+					<td><input type="button" value="Save settings" onclick="save_options();"></td>
+					<td><a href="javascript:;" onclick="restore_options(true)">Restore defaults</a></td>
+				</tr>
+				<tr class="noborder" id="status" style="display: none">
+					<td colspan="2" class="saved"><strong>Settings saved! <a href="javascript:;" onclick="window.close();">close tab</a></td>
+				</tr>
+			</table>
+
+		</div>
+		<!-- End optionscontent -->
+	</div>
+	<!-- End optionscontainer -->
+	
+	<div id="vpnad">
+		<a href="http://hidemyass.com/vpn/r92:4/" target="_blank">HMA! Pro VPN</a>
+	</div>
+	<!-- End vpnad -->
+	
+	<ul>
+		<li><a href="http://hidemyass.com" target="_blank">HideMyAss.com</a></li>
+		<li><a href="http://hidemyass.com/vpn/" target="_blank">Pro VPN</a></li>
+		<li><a href="http://hidemyass.com/proxy/" target="_blank">Free proxy</a></li>
+		<li><a href="http://hidemyass.com/proxy-list/" target="_blank">IP:PORT proxies</a></li>
+		<li><a href="http://hidemyass.com/anonymous-email/" target="_blank">Anonymous email</a></li>
+		<li><a href="http://hidemyass.com/upload/" target="_blank">File upload</a></li>
+		<li><a href="http://forum.hidemyass.com/" target="_blank">Community</a></li>
+		<li><a href="http://hidemyass.com/contact/" target="_blank">Contact us</a></li>
+	</ul>
+	
+</div>
+<!-- End container -->
+<script>
+  init();
+</script>
+</body>
+</html>

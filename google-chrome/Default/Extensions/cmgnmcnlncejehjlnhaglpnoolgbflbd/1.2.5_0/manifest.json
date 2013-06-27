@@ -1,0 +1,26 @@
+{
+   "background_page": "background.html",
+   "browser_action": {
+      "default_icon": "img/hma_icon_19.png",
+      "default_title": "Hide My Ass!"
+   },
+   "description": "Official HMA! Web Proxy extension; easily switch to secure anonymous browsing.",
+   "icons": {
+      "128": "img/hma_icon_128.png",
+      "16": "img/hma_icon_16.png",
+      "19": "img/hma_icon_19.png",
+      "48": "img/hma_icon_48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkgGb8HIkHk34NcDtmvbUW7ILM6aqClyBXBZLW+me8HG4HTPmW4RMoZ+g9trxcWUUv2oCdfa5Z4Kg92hsKM9LSQtqn0V+Nn7bCzYi8T9ZJdS3sQ5qqNvJ2JQc+anDzrcVAI1rcC81InLKcj2Ndv8nLAYLO0NhF+zFQqGQqrSX8YQIDAQAB",
+   "minimum_chrome_version": "6",
+   "name": "Hide My Ass! Web Proxy",
+   "omnibox": {
+      "keyword": "hma"
+   },
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contextMenus" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.2.5",
+   "web_url": "http://www.hidemyass.com"
+}

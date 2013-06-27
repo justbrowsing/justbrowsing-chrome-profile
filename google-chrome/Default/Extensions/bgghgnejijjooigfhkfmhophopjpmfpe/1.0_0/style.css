@@ -1,0 +1,17 @@
+.fallback_button {
+    height: 30px;
+    padding: 0 !important;
+    width: 173px !important;
+}
+
+.fallback_button a:before {
+    content: "";
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    background: url("chrome-extension://__MSG_@@extension_id__/icon_search.png") no-repeat left 0;
+    -webkit-background-size: 16px 34px;
+    background-size: 16px 34px;
+}

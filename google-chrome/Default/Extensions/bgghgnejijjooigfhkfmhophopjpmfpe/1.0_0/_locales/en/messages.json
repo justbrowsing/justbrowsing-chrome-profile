@@ -1,0 +1,8 @@
+{
+   "description": {
+      "message": "Adds a Google search button to the DuckDuckGo results."
+   },
+   "google": {
+      "message": "Search on Google"
+   }
+}

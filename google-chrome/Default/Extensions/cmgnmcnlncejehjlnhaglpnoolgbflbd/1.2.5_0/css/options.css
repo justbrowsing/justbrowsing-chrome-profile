@@ -1,0 +1,135 @@
+body{
+	background:url(../img/bg.png) repeat-x top;
+	margin:0;
+	text-align:center;
+	font-family:arial;
+	font-size:12px;
+}
+
+#container{
+	width:760px;
+	text-align:left;
+	margin: 0 auto;
+}
+
+a,a:visited{
+	color:#4f4f4f;;
+	text-decoration:underline;
+}
+
+h1{
+	margin:0;
+	padding:0;
+	text-indent:-10000px;
+	background:url(../img/logo.png) no-repeat;
+	height:151px;
+	width:185px;
+}
+
+h2{
+	margin:0;
+	padding:0;
+	text-indent:-10000px;
+	background:url(../img/proxy-extension-h2.png) no-repeat;
+	width:315px;
+	height:35px;
+}
+
+/* Information box */
+
+#infoboxtop{
+	height:7px;
+	background:url(../img/info-box-top.png) no-repeat;
+	margin-top:10px;
+}
+
+#infoboxcontent{
+	background:url(../img/info-box-bg.png) repeat-y;
+	padding:10px;
+}
+
+#infoboxbottom{
+	background:url(../img/info-box-bottom.png) repeat-y;
+	height:43px;
+}
+
+#infoboxcontent p{
+	margin:5px 0 5px 0;
+	padding:0 0 0 83px;
+	color:#4a4c46;
+	line-height:18px;
+	background:url(../img/icon.png) no-repeat left -10px; 
+}
+
+/* Options */
+
+#optionscontainer{
+	background:url(../img/settings-bg.gif) repeat-y;
+	margin-bottom:10px;
+}
+
+#optionscontent{
+	background:url(../img/settings-bottom.png) no-repeat bottom;
+	padding:0px 22px 10px 22px;
+}
+
+table{
+	font-size: 12px;
+	width: 100%;
+	margin-bottom:10px;
+}
+
+table em{
+	font-size:10px;
+	font-style:normal;
+	color:#4f4f4f;
+}
+
+table tr td{
+	border-bottom:1px solid #cecece;
+	padding:10px;
+}
+
+.altshade td{background:#f7f7f7;}
+.noborder td{border-bottom:0;}
+
+/* VPN ad */
+
+#vpnad{
+	background:url(../img/vpn-ad.png) no-repeat;
+	width:760px;
+	height:234px;
+	margin:10px 0 15px 0;
+	float:left;
+}
+
+#vpnad a{
+	text-indent:-10000px;
+	display:block;
+	background:url(http://hidemyass.cachefly.net/extensions/chrome/proxy/vpn-ad.png) no-repeat;
+	width:760px;
+	height:234px;
+}
+
+/* Footer */
+
+ul{
+	list-style-type:none;
+	margin:0 0 10px 0;
+	padding:10px 0 0 0;
+	float:left;
+	width:100%;
+	border-top:1px solid #bdbeb5;
+	height:30px;
+}
+
+li{
+	float:left;
+	padding-right:15px;
+}
+/* Saved-status */
+
+#status td{
+	background:#e3f0d7;
+	border:1px solid #c1d2b1;
+}
