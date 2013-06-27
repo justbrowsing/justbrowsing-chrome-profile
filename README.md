@@ -9,7 +9,7 @@ Google Chrome profile for JustBrowsing:
 ----------------------------
 Screenshot:
 ========================
-![Alt text](justbrowsing-chrome_apng.png "Google Chrome screenshot")
+![Alt text](justbrowsing-chrome.gif "Google Chrome screenshot")
 
 ----------------------------
 Extensions:
