@@ -1,0 +1,308 @@
+{
+   "account": {
+      "message": "Fi\u00F3k"
+   },
+   "apply": {
+      "message": "Alkalmaz"
+   },
+   "audio_default_filename": {
+      "message": "N\u00E9vtelen hang"
+   },
+   "cancel": {
+      "message": "M\u00E9gse"
+   },
+   "cannot_capture_chrome": {
+      "message": "Nem lehet menteni a Chrome-oldalakat."
+   },
+   "change_dest_folder": {
+      "message": "C\u00E9lmappa m\u00F3dos\u00EDt\u00E1sa\u2026"
+   },
+   "chrome_extension_name": {
+      "message": "Ment\u00E9s a Google Drive-ra"
+   },
+   "close": {
+      "message": "Bez\u00E1r\u00E1s"
+   },
+   "convert_to_google_format": {
+      "message": "Konvert\u00E1l\u00E1s Google-form\u00E1tumba"
+   },
+   "debug": {
+      "message": "Hibakeres\u00E9s"
+   },
+   "default_filename": {
+      "message": "N\u00E9vtelen"
+   },
+   "download_canceled": {
+      "message": "A let\u00F6lt\u00E9s megszak\u00EDtva."
+   },
+   "download_failure": {
+      "message": "Let\u00F6lt\u00E9si hiba: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Let\u00F6lt\u00E9si hiba: Nem \u00E9rkeztek adatok."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Let\u00F6lt\u00E9si hiba: A forr\u00E1s t\u00FAl nagy ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "A(z) $1 let\u00F6lt\u00E9se...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Let\u00F6lt\u00E9s..."
+   },
+   "empty_page_capture": {
+      "message": "Nem siker\u00FClt MHTML form\u00E1tumban menteni az oldal tartalm\u00E1t."
+   },
+   "enable_file_url": {
+      "message": "A f\u00E1jl URL-c\u00EDm\u00E9t enged\u00E9lyezni kell a \"Hozz\u00E1f\u00E9r\u00E9s enged\u00E9lyez\u00E9se a f\u00E1jl URL-c\u00EDm\u00E9hez\" opci\u00F3val a B\u0151v\u00EDtm\u00E9nyek be\u00E1ll\u00EDt\u00E1sai oldalon."
+   },
+   "ext_description": {
+      "message": "Mentse a webes tartalmakat \u00E9s a k\u00E9perny\u0151ment\u00E9seket k\u00F6zvetlen\u00FCl a(z) Google Drive alkalmaz\u00E1sba!"
+   },
+   "failure_page_capture": {
+      "message": "Nem siker\u00FClt MHTML form\u00E1tumban menteni az oldal tartalm\u00E1t: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Visszajelz\u00E9s k\u00FCld\u00E9se (csak bels\u0151 haszn\u00E1latra)"
+   },
+   "file_bug_internal": {
+      "message": "Hibabejelent\u00E9s (csak bels\u0151 haszn\u00E1latra)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\"\u003E\u003C/a\u003E ment\u00E9s\u00E9nek helye \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"\u003E\u003C/a\u003E. \u003Cspan id=\"$5\"\u003E(\u003Ca href=\"$6\" target=\"_blank\"\u003Em\u00F3dos\u00EDt\u00E1s\u003C/a\u003E)\u003C/span\u003E",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "A(z) \u003Cspan id=\"$1\"\u003E\u003C/span\u003E f\u00E1jlt a kuk\u00E1ba helyezte. Ugr\u00E1s a(z) \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\"\u003EGoogle Drive\u003C/a\u003E alkalmaz\u00E1sra.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "S\u00FAg\u00F3"
+   },
+   "html_default_filename": {
+      "message": "N\u00E9vtelen HTML"
+   },
+   "image_capture_failed": {
+      "message": "A k\u00E9pr\u00F6gz\u00EDt\u00E9s nem siker\u00FClt."
+   },
+   "image_capture_failed_reason": {
+      "message": "A k\u00E9pr\u00F6gz\u00EDt\u00E9s nem siker\u00FClt ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "N\u00E9vtelen k\u00E9p"
+   },
+   "invalid_url": {
+      "message": "\u00C9rv\u00E9nytelen URL: $1. A let\u00F6lt\u00F6tt URL-eknek a http://, https:// vagy file:// karakterekkel kell kezd\u0151dni\u00FCk.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "N\u00E9vtelen Mentett Oldal.mht"
+   },
+   "misc": {
+      "message": "Egy\u00E9b"
+   },
+   "my_drive": {
+      "message": "Saj\u00E1t meghajt\u00F3"
+   },
+   "options_header_text": {
+      "message": "A(z) Ment\u00E9s a Google Drive-ra b\u0151v\u00EDtm\u00E9ny opci\u00F3i"
+   },
+   "options_title": {
+      "message": "A(z) Ment\u00E9s a Google Drive-ra opci\u00F3i"
+   },
+   "page_size_not_supported": {
+      "message": "Az oldal m\u00E9rete nem t\u00E1mogatott: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "N\u00E9vtelen PDF"
+   },
+   "percent": {
+      "message": "$1% k\u00E9sz",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Adatv\u00E9delem"
+   },
+   "rename": {
+      "message": "\u00C1tnevez\u00E9s"
+   },
+   "rename_prompt": {
+      "message": "\u00C1tnevez\u00E9s:"
+   },
+   "save_as_html": {
+      "message": "HTML-forr\u00E1sk\u00E9nt (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google-dokumentumk\u00E9nt"
+   },
+   "save_as_image_entire": {
+      "message": "Teljes oldal ment\u00E9se k\u00E9pk\u00E9nt (.png form\u00E1tumban)"
+   },
+   "save_as_image_visible": {
+      "message": "Oldal l\u00E1that\u00F3 r\u00E9sz\u00E9nek ment\u00E9se k\u00E9pk\u00E9nt (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Internetes arch\u00EDvumk\u00E9nt (.mht)"
+   },
+   "save_audio": {
+      "message": "Hang ment\u00E9se a(z) Google Drive alkalmaz\u00E1sba"
+   },
+   "save_image": {
+      "message": "K\u00E9p ment\u00E9se a(z) Google Drive alkalmaz\u00E1sba"
+   },
+   "save_link": {
+      "message": "Link ment\u00E9se a(z) Google Drive alkalmaz\u00E1sba"
+   },
+   "save_page_as": {
+      "message": "Oldal ment\u00E9se:"
+   },
+   "save_to_folder_text": {
+      "message": "Ment\u00E9si mappa"
+   },
+   "save_to_google_drive_action": {
+      "message": "Ment\u00E9s a(z) Google Drive alkalmaz\u00E1sba"
+   },
+   "save_video": {
+      "message": "Vide\u00F3 ment\u00E9se a(z) Google Drive alkalmaz\u00E1sba"
+   },
+   "saving": {
+      "message": "A(z) $1 f\u00E1jl ment\u00E9se a(z) Google Drive alkalmaz\u00E1sba...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "V\u00E1lassza ki a ment\u00E9s c\u00E9lhely\u00E9\u00FCl szolg\u00E1l\u00F3 mapp\u00E1t"
+   },
+   "send_feedback": {
+      "message": "Visszajelz\u00E9s k\u00FCld\u00E9se"
+   },
+   "sign_out": {
+      "message": "Kijelentkez\u00E9s"
+   },
+   "start_download_exception": {
+      "message": "Hiba a let\u00F6lt\u00E9s ind\u00EDt\u00E1sakor: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "N\u00E9vtelen sz\u00F6veg"
+   },
+   "trash": {
+      "message": "Kuka"
+   },
+   "unspecified_error": {
+      "message": "Ismeretlen hiba"
+   },
+   "upload_canceled": {
+      "message": "A felt\u00F6lt\u00E9s le\u00E1ll\u00EDtva"
+   },
+   "upload_failure": {
+      "message": "Felt\u00F6lt\u00E9si hiba: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "A(z) $1 felt\u00F6lt\u00E9se a(z) Google Drive alkalmaz\u00E1sba...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\"\u003ENyissa meg a linket\u003C/a\u003E, \u00E9s a c\u00EDms\u00E1vt\u00F3l jobbra tal\u00E1lhat\u00F3 Ment\u00E9s a(z) Google Drive alkalmaz\u00E1sba gombbal mentse el az oldalt.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Ez egy weboldalra mutat\u00F3 link"
+   },
+   "video_default_filename": {
+      "message": "N\u00E9vtelen vide\u00F3"
+   },
+   "xml_default_filename": {
+      "message": "N\u00E9vtelen XML"
+   }
+}

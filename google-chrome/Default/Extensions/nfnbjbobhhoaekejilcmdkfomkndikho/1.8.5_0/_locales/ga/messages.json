@@ -1,0 +1,89 @@
+{
+"app_title": {
+    "message": "Smart QrCode Generator"
+  },
+"app_desc": {
+    "message": "Esta é unha boa extensión de chrome para usuarios de smartphone"
+  },
+"generate_qrcode": {
+    "message": "Xerar Smart QrCode"
+  },
+"PleaseReview": {
+    "message": "Se che gusta, por favor, revísao para axudarme :)"
+  },
+"PleaseReviewGoto": {
+    "message": "Vai á páxina de revisión"
+  },
+"lblRules": {
+    "message": "Regras"
+  },
+"lblAddRule": {
+    "message": "Engade Regra"
+  },
+"lblAddOrEditGenerator": {
+    "message": "Engade ou edita regra"
+  },
+"lblEdit_Title": {
+    "message": "Títuo:"
+  },
+"lblEdit_Source": {
+    "message": "Fonte:"
+  },
+"lblEdit_SiteUrl": {
+    "message": "URL do sitio"
+  },
+"lblEdit_SelectedText": {
+    "message": "Texto selecionado"
+  },
+"lblEdit_Domain": {
+    "message": "Dominio"
+  },
+"lblEdit_Tag": {
+    "message": "Etiqueta"
+  },
+"lblEdit_ImageSrc": {
+    "message": "Imaxe - fonte"
+  },
+"lblEdit_RegularExp": {
+    "message": "Expresión habitual:"
+  },
+"lblEdit_ReplaceString": {
+    "message": "Reemplaza cadea"
+  },
+"lblEdit_icon": {
+    "message": "Icona"
+  },
+"lblEdit_iconThumb": {
+    "message": "Escolle icona"
+  },
+"lblEdit_isDisabled": {
+    "message": "Deshabilitado"
+  },
+"lblEdit_Close": {
+    "message": "Pecha"
+  },
+"lblEdit_btnAdd": {
+    "message": "Cambios gardados"
+  },
+"lblEdit_Howtouse": {
+    "message": "Como utilizar Smart QrCode Generator"
+  },
+"lblEdit_email": {
+    "message": "E-mail"
+  },
+"lblEdit_version": {
+    "message": "version"
+  },
+"popup_URL": {
+    "message": "URL"
+  },  
+"popup_selectedText": {
+    "message": "Texto selecciondo"
+  },
+"popup_image": {
+    "message": "Imaxe"
+  },
+"popup_link": {
+    "message": "Ligazón"
+  }
+}

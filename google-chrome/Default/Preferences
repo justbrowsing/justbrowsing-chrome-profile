@@ -1,4 +1,7 @@
 {
+   "apps": {
+      "shortcuts_have_been_created": true
+   },
    "bookmark_bar": {
       "show_on_all_tabs": true
    },
@@ -15,21 +18,21 @@
       },
       "clear_lso_data_enabled": true,
       "custom_chrome_frame": true,
-      "last_clear_browsing_data_time": "13014897554004805",
+      "last_clear_browsing_data_time": "13028720089195257",
       "last_known_google_url": "https://www.google.com/",
       "last_prompted_google_url": "https://www.google.com/",
       "pepper_flash_settings_enabled": true,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 734,
-         "left": 0,
+         "bottom": 743,
+         "left": 106,
          "maximized": false,
-         "right": 1022,
-         "top": 0,
-         "work_area_bottom": 768,
+         "right": 1128,
+         "top": 25,
+         "work_area_bottom": 743,
          "work_area_left": 0,
-         "work_area_right": 1024,
-         "work_area_top": 0
+         "work_area_right": 1366,
+         "work_area_top": 25
       }
    },
    "cloud_print": {
@@ -51,17 +54,23 @@
       "encodings": "UTF-8",
       "icon_url": "",
       "id": "5",
+      "image_url": "",
+      "image_url_post_params": "",
       "instant_url": "",
+      "instant_url_post_params": "",
       "keyword": "duckduckgo.com",
       "name": "DuckDuckGo",
+      "new_tab_url": "",
       "prepopulate_id": "0",
       "search_terms_replacement_key": "",
       "search_url": "https://duckduckgo.com/?q={searchTerms}",
-      "suggest_url": ""
+      "search_url_post_params": "",
+      "suggest_url": "",
+      "suggest_url_post_params": ""
    },
    "dns_prefetching": {
       "host_referral_list": [ 2 ],
-      "startup_list": [ 1, "http://connect.facebook.net/", "http://ct1.addthis.com/", "http://static.ak.facebook.com/", "http://www.google-analytics.com/", "https://s-static.ak.facebook.com/", "https://s7.addthis.com/", "https://ssl.google-analytics.com/", "https://www.facebook.com/" ]
+      "startup_list": [ 1, "http://static.ak.facebook.com/", "http://www.google-analytics.com/", "https://cache.addthiscdn.com/", "https://connect.facebook.net/", "https://s-static.ak.facebook.com/", "https://ssl.google-analytics.com/", "https://www.facebook.com/" ]
    },
    "download": {
       "directory_upgrade": true,
@@ -73,12 +82,12 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13011682789199692",
-         "next_check": "13015490177009210"
+         "last_check": "13018346171756595",
+         "next_check": "13028720474369665"
       },
       "blacklistupdate": {
-         "lastpingday": "13011606000962644",
-         "version": "0.0.0.146"
+         "lastpingday": "13018345200875729",
+         "version": "0.0.0.148"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
@@ -89,56 +98,8 @@
             "extension": "bfbmjmiodbnnpllbbbfblcplfjjepjdn"
          }
       },
-      "last_chrome_version": "29.0.1521.3",
+      "last_chrome_version": "32.0.1700.6",
       "settings": {
-         "aakhlmakppmkkmfkoibponkmmpgpmjgl": {
-            "blacklist": true
-         },
-         "aandpgohbohmlknpjbblpmoladhoochg": {
-            "blacklist": true
-         },
-         "aangdcfipmfploijfkoonkajgpdkfmbm": {
-            "blacklist": true
-         },
-         "abciiempgohamehppammbkhkicmkgkob": {
-            "blacklist": true
-         },
-         "abfclfmhaemoockhhinpplncjehfpdbd": {
-            "blacklist": true
-         },
-         "abidmaanmbfeddegmapgpjhdmgjaloen": {
-            "blacklist": true
-         },
-         "acchaoeabgiclhngknbkegekbfphgndl": {
-            "blacklist": true
-         },
-         "acmpfcamncegnhjdeiodgilikjafcamg": {
-            "blacklist": true
-         },
-         "acomnmbomlajgjbcijkflekoojdfcldj": {
-            "blacklist": true
-         },
-         "aconhjfogglfnkjhkjipaifepjklolog": {
-            "blacklist": true
-         },
-         "aebfkgcamgnimcbnbiopgdakknjgggnm": {
-            "blacklist": true
-         },
-         "aemcjbfajnnmhblifaejadoecfoaebld": {
-            "blacklist": true
-         },
-         "afenhmponmfmdmbmccbmglppcmjhmhmh": {
-            "blacklist": true
-         },
-         "aglmapjbjphdidmnileogpjkgpdoliep": {
-            "blacklist": true
-         },
-         "agmhonoepgcnakccfpidhjehlocaeaaj": {
-            "blacklist": true
-         },
-         "agodbcffjkjcnceklapkjfcmkfepmbgm": {
-            "blacklist": true
-         },
          "ahfgeienlihckogmohjhadlkjgocpleb": {
             "active_bit": true,
             "active_permissions": {
@@ -202,63 +163,6 @@
             "running": false,
             "was_installed_by_default": false
          },
-         "ahjfgnikolodijnpakeknpilnemojlhc": {
-            "blacklist": true
-         },
-         "aieglpnmmhleoenpbmfaffppfomgjmba": {
-            "blacklist": true
-         },
-         "aieihijcjcccdiepockaiekhpflicdii": {
-            "blacklist": true
-         },
-         "aifmjmboebdkdelpjenakhaodgneempp": {
-            "blacklist": true
-         },
-         "ajlkjjdbgcjdiklbcomhnfghjigfccoh": {
-            "blacklist": true
-         },
-         "ajneiojjdhceikkgmhnjhgaacpfhldpi": {
-            "blacklist": true
-         },
-         "akadaakimgegecohlifeejdnnjbnobop": {
-            "blacklist": true
-         },
-         "akbdojiajlefghcdclgkgmbbljamgehd": {
-            "blacklist": true
-         },
-         "alcbnnpmipohgdllkkglhkbncijplago": {
-            "blacklist": true
-         },
-         "aldalonecchncedclgcndcndgilaclnk": {
-            "blacklist": true
-         },
-         "alfahpoknocfdebmiclonikapcnljlob": {
-            "blacklist": true
-         },
-         "aljdncnajablgppdcfbehhmidlmbndda": {
-            "blacklist": true
-         },
-         "amfgdngndpfldigimkcindjalokfnmem": {
-            "blacklist": true
-         },
-         "amoobcjlpgloocplpikcldcpjjdnoeii": {
-            "blacklist": true
-         },
-         "anmjpohfnlopdfaojooicpemopnliimn": {
-            "blacklist": true
-         },
-         "aofechiiopolnegcjcddgedjabmkemhf": {
-            "blacklist": true
-         },
-         "aojicjocmihiopalnhjikigammkhgckb": {
-            "blacklist": true
-         },
-         "aokenbhllkgpooaacldiamnpmmgkjblo": {
-            "blacklist": true
-         },
-         "apdebchnkegjokdjplmfmepcdgneemhe": {
-            "blacklist": true
-         },
          "apdfllckaahabafndbhieahigkjlhalf": {
             "ack_external": true,
             "active_bit": false,
@@ -273,7 +177,7 @@
             },
             "install_time": "13001252258247493",
             "last_active_pingday": "13001241600629741",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -306,27 +210,6 @@
             "user_dragged_app_ntp": true,
             "was_installed_by_default": true
          },
-         "apdmgffkfhjfeejmbjidennfjdkmmmbl": {
-            "blacklist": true
-         },
-         "aphncaagnlabkeipnbbicmcahnamibgb": {
-            "blacklist": true
-         },
-         "bccdgfmbcjkfkinkkagaflgdaoaamogo": {
-            "blacklist": true
-         },
-         "bcddmcejgphfgofbpoocakaeapfomlek": {
-            "blacklist": true
-         },
-         "bckhfnghfdponbaldednpnljadgfjecj": {
-            "blacklist": true
-         },
-         "bdgijcibmhjjccgbdohofncdjcophknj": {
-            "blacklist": true
-         },
-         "benclngoadbppljglhphhnfknoppmjoa": {
-            "blacklist": true
-         },
          "bfbmjmiodbnnpllbbbfblcplfjjepjdn": {
             "active_permissions": {
                "api": [ "contextMenus", "tabs" ],
@@ -342,10 +225,18 @@
                "explicit_host": [ "http://*/*", "https://*/*" ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
-            "has_declarative_rules": false,
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
             "incognito": true,
-            "install_time": "13011004229199398",
-            "lastpingday": "13011606000227285",
+            "initial_keybindings_set": true,
+            "install_time": "13028719889754489",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "background": {
@@ -370,6 +261,7 @@
                "current_locale": "en_US",
                "default_locale": "en",
                "description": "The entire page will be fading to dark, so you can watch the video as if you were in the cinema.",
+               "homepage_url": "http://www.stefanvd.net",
                "icons": {
                   "128": "icons/icon128.png",
                   "16": "icons/icon16.png",
@@ -382,15 +274,18 @@
                "name": "Turn Off the Lights",
                "options_page": "options.html",
                "page_action": {
-                  "default_icon": "icons/icon1.png",
+                  "default_icon": {
+                     "19": "icons/icon1.png",
+                     "38": "icons/icon38.png"
+                  },
                   "default_title": "Turn Off the Lights"
                },
                "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2.2",
+               "version": "2.2.0.23",
                "web_accessible_resources": [ "images/minimize_on.png", "images/minimize.png", "icons/icon16.png", "js/injected.js" ]
             },
-            "path": "bfbmjmiodbnnpllbbbfblcplfjjepjdn/2.2_0",
+            "path": "bfbmjmiodbnnpllbbbfblcplfjjepjdn/2.2.0.23_0",
             "state": 1,
             "was_installed_by_default": false
          },
@@ -400,7 +295,7 @@
             "from_bookmark": true,
             "from_webstore": false,
             "install_time": "13009616352221925",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -434,7 +329,7 @@
             },
             "incognito": true,
             "install_time": "13009620489828778",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "content_scripts": [ {
@@ -461,36 +356,6 @@
             "state": 1,
             "was_installed_by_default": false
          },
-         "bhdkpmneahdelgdgfhddianklldfoell": {
-            "blacklist": true
-         },
-         "bhmahaiplmeodpakkcchmolaihbhkpdl": {
-            "blacklist": true
-         },
-         "biiponhbbifajapmbggbgaepiedinifm": {
-            "blacklist": true
-         },
-         "bilgncckogfgfipdlejkffnbkgjkmflh": {
-            "blacklist": true
-         },
-         "bioeopenmokdgbekbgpgnacecjmpckbb": {
-            "blacklist": true
-         },
-         "bjihddggcgnblgojnmhpnngonofbnkaj": {
-            "blacklist": true
-         },
-         "bkhafliomebnpccanacmlfaemgfiofko": {
-            "blacklist": true
-         },
-         "bkkchglolnigbfncnbnnbhhempjkdpkf": {
-            "blacklist": true
-         },
-         "bkplhcigeaiiliajeehehiikokgocbhb": {
-            "blacklist": true
-         },
-         "bldgnkigdcpgnbfehgbameigoohecdfl": {
-            "blacklist": true
-         },
          "blpcfgokakmgnkcojhhkbfbldkacnbeo": {
             "ack_external": true,
             "active_bit": false,
@@ -500,7 +365,7 @@
             "from_webstore": true,
             "install_time": "13010218683028769",
             "last_active_pingday": "13002624001036806",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -531,22 +396,13 @@
             "state": 1,
             "was_installed_by_default": true
          },
-         "bmjhmeeepkkbmjdajachipfgihmpokpd": {
-            "blacklist": true
-         },
-         "bndahdijlcnncjbpammoedeapmlobllc": {
-            "blacklist": true
-         },
-         "bnffnggkphadlnoopcoakdnkellnifjp": {
-            "blacklist": true
-         },
          "bnklgocjnbdnpihggmjjnlmjflkgbkgi": {
             "app_launcher_ordinal": "z",
             "creation_flags": 17,
             "from_bookmark": true,
             "from_webstore": false,
             "install_time": "13009616274040960",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -568,33 +424,33 @@
             "state": 1,
             "was_installed_by_default": false
          },
-         "boaoagnmpennjoigkkmnjhecapibhfko": {
-            "blacklist": true
-         },
-         "boclfockfmgcppbajihcgajhpggaakgl": {
-            "blacklist": true
-         },
-         "bokkificjhapflinbdejegngffgkcgfe": {
-            "blacklist": true
-         },
-         "bpfadpmhabiajakhgnaipdplkcjaklnj": {
-            "blacklist": true
-         },
          "bpphkkgodbfncbcpgopijlfakfgmclao": {
             "active_permissions": {
+               "api": [ "tabs" ],
                "explicit_host": [ "https://chrome.duckduckgo.com/*" ],
-               "scriptable_host": [ "http://www.bing.com/search*", "http://www.google.ad/*", "http://www.google.ae/*", "http://www.google.am/*", "http://www.google.as/*", "http://www.google.at/*", "http://www.google.az/*", "http://www.google.ba/*", "http://www.google.be/*", "http://www.google.bf/*", "http://www.google.bg/*", "http://www.google.bi/*", "http://www.google.bj/*", "http://www.google.bs/*", "http://www.google.by/*", "http://www.google.ca/*", "http://www.google.cat/*", "http://www.google.cd/*", "http://www.google.cf/*", "http://www.google.cg/*", "http://www.google.ch/*", "http://www.google.ci/*", "http://www.google.cl/*", "http://www.google.cm/*", "http://www.google.cn/*", "http://www.google.co.ao/*", "http://www.google.co.bw/*", "http://www.google.co.ck/*", "http://www.google.co.cr/*", "http://www.google.co.id/*", "http://www.google.co.il/*", "http://www.google.co.in/*", "http://www.google.co.jp/*", "http://www.google.co.ke/*", "http://www.google.co.kr/*", "http://www.google.co.ls/*", "http://www.google.co.ma/*", "http://www.google.co.mz/*", "http://www.google.co.nz/*", "http://www.google.co.th/*", "http://www.google.co.tz/*", "http://www.google.co.ug/*", "http://www.google.co.uk/*", "http://www.google.co.uz/*", "http://www.google.co.ve/*", "http://www.google.co.vi/*", "http://www.google.co.za/*", "http://www.google.co.zm/*", "http://www.google.co.zw/*", "http://www.google.com.af/*", "http://www.google.com.ag/*", "http://www.google.com.ai/*", "http://www.google.com.ar/*", "http://www.google.com.au/*", "http://www.google.com.bd/*", "http://www.google.com.bh/*", "http://www.google.com.bn/*", "http://www.google.com.bo/*", "http://www.google.com.br/*", "http://www.google.com.bz/*", "http://www.google.com.co/*", "http://www.google.com.cu/*", "http://www.google.com.do/*", "http://www.google.com.ec/*", "http://www.google.com.eg/*", "http://www.google.com.et/*", "http://www.google.com.fj/*", "http://www.google.com.gh/*", "http://www.google.com.gi/*", "http://www.google.com.gt/*", "http://www.google.com.hk/*", "http://www.google.com.jm/*", "http://www.google.com.kh/*", "http://www.google.com.kw/*", "http://www.google.com.lb/*", "http://www.google.com.ly/*", "http://www.google.com.mt/*", "http://www.google.com.mx/*", "http://www.google.com.my/*", "http://www.google.com.na/*", "http://www.google.com.nf/*", "http://www.google.com.ng/*", "http://www.google.com.ni/*", "http://www.google.com.np/*", "http://www.google.com.om/*", "http://www.google.com.pa/*", "http://www.google.com.pe/*", "http://www.google.com.ph/*", "http://www.google.com.pk/*", "http://www.google.com.pr/*", "http://www.google.com.py/*", "http://www.google.com.qa/*", "http://www.google.com.sa/*", "http://www.google.com.sb/*", "http://www.google.com.sg/*", "http://www.google.com.sl/*", "http://www.google.com.sv/*", "http://www.google.com.tj/*", "http://www.google.com.tr/*", "http://www.google.com.tw/*", "http://www.google.com.ua/*", "http://www.google.com.uy/*", "http://www.google.com.vc/*", "http://www.google.com.vn/*", "http://www.google.com/*", "http://www.google.cv/*", "http://www.google.cz/*", "http://www.google.de/*", "http://www.google.dj/*", "http://www.google.dk/*", "http://www.google.dm/*", "http://www.google.dz/*", "http://www.google.ee/*", "http://www.google.es/*", "http://www.google.fi/*", "http://www.google.fm/*", "http://www.google.fr/*", "http://www.google.ga/*", "http://www.google.ge/*", "http://www.google.gg/*", "http://www.google.gl/*", "http://www.google.gm/*", "http://www.google.gp/*", "http://www.google.gr/*", "http://www.google.gy/*", "http://www.google.hn/*", "http://www.google.hr/*", "http://www.google.ht/*", "http://www.google.hu/*", "http://www.google.ie/*", "http://www.google.im/*", "http://www.google.iq/*", "http://www.google.is/*", "http://www.google.it/*", "http://www.google.je/*", "http://www.google.jo/*", "http://www.google.kg/*", "http://www.google.ki/*", "http://www.google.kz/*", "http://www.google.la/*", "http://www.google.li/*", "http://www.google.lk/*", "http://www.google.lt/*", "http://www.google.lu/*", "http://www.google.lv/*", "http://www.google.md/*", "http://www.google.me/*", "http://www.google.mg/*", "http://www.google.mk/*", "http://www.google.ml/*", "http://www.google.mn/*", "http://www.google.ms/*", "http://www.google.mu/*", "http://www.google.mv/*", "http://www.google.mw/*", "http://www.google.ne/*", "http://www.google.nl/*", "http://www.google.no/*", "http://www.google.nr/*", "http://www.google.nu/*", "http://www.google.pl/*", "http://www.google.pn/*", "http://www.google.ps/*", "http://www.google.pt/*", "http://www.google.ro/*", "http://www.google.rs/*", "http://www.google.ru/*", "http://www.google.rw/*", "http://www.google.sc/*", "http://www.google.se/*", "http://www.google.sh/*", "http://www.google.si/*", "http://www.google.sk/*", "http://www.google.sm/*", "http://www.google.sn/*", "http://www.google.so/*", "http://www.google.st/*", "http://www.google.td/*", "http://www.google.tg/*", "http://www.google.tk/*", "http://www.google.tl/*", "http://www.google.tm/*", "http://www.google.tn/*", "http://www.google.to/*", "http://www.google.tt/*", "http://www.google.vg/*", "http://www.google.vu/*", "http://www.google.ws/*", "https://encrypted.google.com/*", "https://www.google.ad/*", "https://www.google.ae/*", "https://www.google.am/*", "https://www.google.as/*", "https://www.google.at/*", "https://www.google.az/*", "https://www.google.ba/*", "https://www.google.be/*", "https://www.google.bf/*", "https://www.google.bg/*", "https://www.google.bi/*", "https://www.google.bj/*", "https://www.google.bs/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.cat/*", "https://www.google.cd/*", "https://www.google.cf/*", "https://www.google.cg/*", "https://www.google.ch/*", "https://www.google.ci/*", "https://www.google.cl/*", "https://www.google.cm/*", "https://www.google.cn/*", "https://www.google.co.ao/*", "https://www.google.co.bw/*", "https://www.google.co.ck/*", "https://www.google.co.cr/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.ke/*", "https://www.google.co.kr/*", "https://www.google.co.ls/*", "https://www.google.co.ma/*", "https://www.google.co.mz/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.tz/*", "https://www.google.co.ug/*", "https://www.google.co.uk/*", "https://www.google.co.uz/*", "https://www.google.co.ve/*", "https://www.google.co.vi/*", "https://www.google.co.za/*", "https://www.google.co.zm/*", "https://www.google.co.zw/*", "https://www.google.com.af/*", "https://www.google.com.ag/*", "https://www.google.com.ai/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.bh/*", "https://www.google.com.bn/*", "https://www.google.com.bo/*", "https://www.google.com.br/*", "https://www.google.com.bz/*", "https://www.google.com.co/*", "https://www.google.com.cu/*", "https://www.google.com.do/*", "https://www.google.com.ec/*", "https://www.google.com.eg/*", "https://www.google.com.et/*", "https://www.google.com.fj/*", "https://www.google.com.gh/*", "https://www.google.com.gi/*", "https://www.google.com.gt/*", "https://www.google.com.hk/*", "https://www.google.com.jm/*", "https://www.google.com.kh/*", "https://www.google.com.kw/*", "https://www.google.com.lb/*", "https://www.google.com.ly/*", "https://www.google.com.mt/*", "https://www.google.com.mx/*", "https://www.google.com.my/*", "https://www.google.com.na/*", "https://www.google.com.nf/*", "https://www.google.com.ng/*", "https://www.google.com.ni/*", "https://www.google.com.np/*", "https://www.google.com.om/*", "https://www.google.com.pa/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.pr/*", "https://www.google.com.py/*", "https://www.google.com.qa/*", "https://www.google.com.sa/*", "https://www.google.com.sb/*", "https://www.google.com.sg/*", "https://www.google.com.sl/*", "https://www.google.com.sv/*", "https://www.google.com.tj/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.uy/*", "https://www.google.com.vc/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cv/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dj/*", "https://www.google.dk/*", "https://www.google.dm/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fm/*", "https://www.google.fr/*", "https://www.google.ga/*", "https://www.google.ge/*", "https://www.google.gg/*", "https://www.google.gl/*", "https://www.google.gm/*", "https://www.google.gp/*", "https://www.google.gr/*", "https://www.google.gy/*", "https://www.google.hn/*", "https://www.google.hr/*", "https://www.google.ht/*", "https://www.google.hu/*", "https://www.google.ie/*", "https://www.google.im/*", "https://www.google.iq/*", "https://www.google.is/*", "https://www.google.it/*", "https://www.google.je/*", "https://www.google.jo/*", "https://www.google.kg/*", "https://www.google.ki/*", "https://www.google.kz/*", "https://www.google.la/*", "https://www.google.li/*", "https://www.google.lk/*", "https://www.google.lt/*", "https://www.google.lu/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.me/*", "https://www.google.mg/*", "https://www.google.mk/*", "https://www.google.ml/*", "https://www.google.mn/*", "https://www.google.ms/*", "https://www.google.mu/*", "https://www.google.mv/*", "https://www.google.mw/*", "https://www.google.ne/*", "https://www.google.nl/*", "https://www.google.no/*", "https://www.google.nr/*", "https://www.google.nu/*", "https://www.google.pl/*", "https://www.google.pn/*", "https://www.google.ps/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.rw/*", "https://www.google.sc/*", "https://www.google.se/*", "https://www.google.sh/*", "https://www.google.si/*", "https://www.google.sk/*", "https://www.google.sm/*", "https://www.google.sn/*", "https://www.google.so/*", "https://www.google.st/*", "https://www.google.td/*", "https://www.google.tg/*", "https://www.google.tk/*", "https://www.google.tl/*", "https://www.google.tm/*", "https://www.google.tn/*", "https://www.google.to/*", "https://www.google.tt/*", "https://www.google.vg/*", "https://www.google.vu/*", "https://www.google.ws/*" ]
+               "scriptable_host": [ "http://duckduckgo.com/extensions/*", "http://www.bing.com/search*", "http://www.google.ad/*", "http://www.google.ae/*", "http://www.google.am/*", "http://www.google.as/*", "http://www.google.at/*", "http://www.google.az/*", "http://www.google.ba/*", "http://www.google.be/*", "http://www.google.bf/*", "http://www.google.bg/*", "http://www.google.bi/*", "http://www.google.bj/*", "http://www.google.bs/*", "http://www.google.by/*", "http://www.google.ca/*", "http://www.google.cat/*", "http://www.google.cd/*", "http://www.google.cf/*", "http://www.google.cg/*", "http://www.google.ch/*", "http://www.google.ci/*", "http://www.google.cl/*", "http://www.google.cm/*", "http://www.google.cn/*", "http://www.google.co.ao/*", "http://www.google.co.bw/*", "http://www.google.co.ck/*", "http://www.google.co.cr/*", "http://www.google.co.id/*", "http://www.google.co.il/*", "http://www.google.co.in/*", "http://www.google.co.jp/*", "http://www.google.co.ke/*", "http://www.google.co.kr/*", "http://www.google.co.ls/*", "http://www.google.co.ma/*", "http://www.google.co.mz/*", "http://www.google.co.nz/*", "http://www.google.co.th/*", "http://www.google.co.tz/*", "http://www.google.co.ug/*", "http://www.google.co.uk/*", "http://www.google.co.uz/*", "http://www.google.co.ve/*", "http://www.google.co.vi/*", "http://www.google.co.za/*", "http://www.google.co.zm/*", "http://www.google.co.zw/*", "http://www.google.com.af/*", "http://www.google.com.ag/*", "http://www.google.com.ai/*", "http://www.google.com.ar/*", "http://www.google.com.au/*", "http://www.google.com.bd/*", "http://www.google.com.bh/*", "http://www.google.com.bn/*", "http://www.google.com.bo/*", "http://www.google.com.br/*", "http://www.google.com.bz/*", "http://www.google.com.co/*", "http://www.google.com.cu/*", "http://www.google.com.do/*", "http://www.google.com.ec/*", "http://www.google.com.eg/*", "http://www.google.com.et/*", "http://www.google.com.fj/*", "http://www.google.com.gh/*", "http://www.google.com.gi/*", "http://www.google.com.gt/*", "http://www.google.com.hk/*", "http://www.google.com.jm/*", "http://www.google.com.kh/*", "http://www.google.com.kw/*", "http://www.google.com.lb/*", "http://www.google.com.ly/*", "http://www.google.com.mt/*", "http://www.google.com.mx/*", "http://www.google.com.my/*", "http://www.google.com.na/*", "http://www.google.com.nf/*", "http://www.google.com.ng/*", "http://www.google.com.ni/*", "http://www.google.com.np/*", "http://www.google.com.om/*", "http://www.google.com.pa/*", "http://www.google.com.pe/*", "http://www.google.com.ph/*", "http://www.google.com.pk/*", "http://www.google.com.pr/*", "http://www.google.com.py/*", "http://www.google.com.qa/*", "http://www.google.com.sa/*", "http://www.google.com.sb/*", "http://www.google.com.sg/*", "http://www.google.com.sl/*", "http://www.google.com.sv/*", "http://www.google.com.tj/*", "http://www.google.com.tr/*", "http://www.google.com.tw/*", "http://www.google.com.ua/*", "http://www.google.com.uy/*", "http://www.google.com.vc/*", "http://www.google.com.vn/*", "http://www.google.com/*", "http://www.google.cv/*", "http://www.google.cz/*", "http://www.google.de/*", "http://www.google.dj/*", "http://www.google.dk/*", "http://www.google.dm/*", "http://www.google.dz/*", "http://www.google.ee/*", "http://www.google.es/*", "http://www.google.fi/*", "http://www.google.fm/*", "http://www.google.fr/*", "http://www.google.ga/*", "http://www.google.ge/*", "http://www.google.gg/*", "http://www.google.gl/*", "http://www.google.gm/*", "http://www.google.gp/*", "http://www.google.gr/*", "http://www.google.gy/*", "http://www.google.hn/*", "http://www.google.hr/*", "http://www.google.ht/*", "http://www.google.hu/*", "http://www.google.ie/*", "http://www.google.im/*", "http://www.google.iq/*", "http://www.google.is/*", "http://www.google.it/*", "http://www.google.je/*", "http://www.google.jo/*", "http://www.google.kg/*", "http://www.google.ki/*", "http://www.google.kz/*", "http://www.google.la/*", "http://www.google.li/*", "http://www.google.lk/*", "http://www.google.lt/*", "http://www.google.lu/*", "http://www.google.lv/*", "http://www.google.md/*", "http://www.google.me/*", "http://www.google.mg/*", "http://www.google.mk/*", "http://www.google.ml/*", "http://www.google.mn/*", "http://www.google.ms/*", "http://www.google.mu/*", "http://www.google.mv/*", "http://www.google.mw/*", "http://www.google.ne/*", "http://www.google.nl/*", "http://www.google.no/*", "http://www.google.nr/*", "http://www.google.nu/*", "http://www.google.pl/*", "http://www.google.pn/*", "http://www.google.ps/*", "http://www.google.pt/*", "http://www.google.ro/*", "http://www.google.rs/*", "http://www.google.ru/*", "http://www.google.rw/*", "http://www.google.sc/*", "http://www.google.se/*", "http://www.google.sh/*", "http://www.google.si/*", "http://www.google.sk/*", "http://www.google.sm/*", "http://www.google.sn/*", "http://www.google.so/*", "http://www.google.st/*", "http://www.google.td/*", "http://www.google.tg/*", "http://www.google.tk/*", "http://www.google.tl/*", "http://www.google.tm/*", "http://www.google.tn/*", "http://www.google.to/*", "http://www.google.tt/*", "http://www.google.vg/*", "http://www.google.vu/*", "http://www.google.ws/*", "https://duckduckgo.com/extensions/*", "https://encrypted.google.com/*", "https://www.google.ad/*", "https://www.google.ae/*", "https://www.google.am/*", "https://www.google.as/*", "https://www.google.at/*", "https://www.google.az/*", "https://www.google.ba/*", "https://www.google.be/*", "https://www.google.bf/*", "https://www.google.bg/*", "https://www.google.bi/*", "https://www.google.bj/*", "https://www.google.bs/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.cat/*", "https://www.google.cd/*", "https://www.google.cf/*", "https://www.google.cg/*", "https://www.google.ch/*", "https://www.google.ci/*", "https://www.google.cl/*", "https://www.google.cm/*", "https://www.google.cn/*", "https://www.google.co.ao/*", "https://www.google.co.bw/*", "https://www.google.co.ck/*", "https://www.google.co.cr/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.ke/*", "https://www.google.co.kr/*", "https://www.google.co.ls/*", "https://www.google.co.ma/*", "https://www.google.co.mz/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.tz/*", "https://www.google.co.ug/*", "https://www.google.co.uk/*", "https://www.google.co.uz/*", "https://www.google.co.ve/*", "https://www.google.co.vi/*", "https://www.google.co.za/*", "https://www.google.co.zm/*", "https://www.google.co.zw/*", "https://www.google.com.af/*", "https://www.google.com.ag/*", "https://www.google.com.ai/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.bh/*", "https://www.google.com.bn/*", "https://www.google.com.bo/*", "https://www.google.com.br/*", "https://www.google.com.bz/*", "https://www.google.com.co/*", "https://www.google.com.cu/*", "https://www.google.com.do/*", "https://www.google.com.ec/*", "https://www.google.com.eg/*", "https://www.google.com.et/*", "https://www.google.com.fj/*", "https://www.google.com.gh/*", "https://www.google.com.gi/*", "https://www.google.com.gt/*", "https://www.google.com.hk/*", "https://www.google.com.jm/*", "https://www.google.com.kh/*", "https://www.google.com.kw/*", "https://www.google.com.lb/*", "https://www.google.com.ly/*", "https://www.google.com.mt/*", "https://www.google.com.mx/*", "https://www.google.com.my/*", "https://www.google.com.na/*", "https://www.google.com.nf/*", "https://www.google.com.ng/*", "https://www.google.com.ni/*", "https://www.google.com.np/*", "https://www.google.com.om/*", "https://www.google.com.pa/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.pr/*", "https://www.google.com.py/*", "https://www.google.com.qa/*", "https://www.google.com.sa/*", "https://www.google.com.sb/*", "https://www.google.com.sg/*", "https://www.google.com.sl/*", "https://www.google.com.sv/*", "https://www.google.com.tj/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.uy/*", "https://www.google.com.vc/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cv/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dj/*", "https://www.google.dk/*", "https://www.google.dm/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fm/*", "https://www.google.fr/*", "https://www.google.ga/*", "https://www.google.ge/*", "https://www.google.gg/*", "https://www.google.gl/*", "https://www.google.gm/*", "https://www.google.gp/*", "https://www.google.gr/*", "https://www.google.gy/*", "https://www.google.hn/*", "https://www.google.hr/*", "https://www.google.ht/*", "https://www.google.hu/*", "https://www.google.ie/*", "https://www.google.im/*", "https://www.google.iq/*", "https://www.google.is/*", "https://www.google.it/*", "https://www.google.je/*", "https://www.google.jo/*", "https://www.google.kg/*", "https://www.google.ki/*", "https://www.google.kz/*", "https://www.google.la/*", "https://www.google.li/*", "https://www.google.lk/*", "https://www.google.lt/*", "https://www.google.lu/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.me/*", "https://www.google.mg/*", "https://www.google.mk/*", "https://www.google.ml/*", "https://www.google.mn/*", "https://www.google.ms/*", "https://www.google.mu/*", "https://www.google.mv/*", "https://www.google.mw/*", "https://www.google.ne/*", "https://www.google.nl/*", "https://www.google.no/*", "https://www.google.nr/*", "https://www.google.nu/*", "https://www.google.pl/*", "https://www.google.pn/*", "https://www.google.ps/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.rw/*", "https://www.google.sc/*", "https://www.google.se/*", "https://www.google.sh/*", "https://www.google.si/*", "https://www.google.sk/*", "https://www.google.sm/*", "https://www.google.sn/*", "https://www.google.so/*", "https://www.google.st/*", "https://www.google.td/*", "https://www.google.tg/*", "https://www.google.tk/*", "https://www.google.tl/*", "https://www.google.tm/*", "https://www.google.tn/*", "https://www.google.to/*", "https://www.google.tt/*", "https://www.google.vg/*", "https://www.google.vu/*", "https://www.google.ws/*" ]
             },
             "creation_flags": 9,
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
+               "api": [ "tabs" ],
                "explicit_host": [ "https://chrome.duckduckgo.com/*" ],
-               "scriptable_host": [ "http://www.bing.com/search*", "http://www.google.ad/*", "http://www.google.ae/*", "http://www.google.am/*", "http://www.google.as/*", "http://www.google.at/*", "http://www.google.az/*", "http://www.google.ba/*", "http://www.google.be/*", "http://www.google.bf/*", "http://www.google.bg/*", "http://www.google.bi/*", "http://www.google.bj/*", "http://www.google.bs/*", "http://www.google.by/*", "http://www.google.ca/*", "http://www.google.cat/*", "http://www.google.cd/*", "http://www.google.cf/*", "http://www.google.cg/*", "http://www.google.ch/*", "http://www.google.ci/*", "http://www.google.cl/*", "http://www.google.cm/*", "http://www.google.cn/*", "http://www.google.co.ao/*", "http://www.google.co.bw/*", "http://www.google.co.ck/*", "http://www.google.co.cr/*", "http://www.google.co.id/*", "http://www.google.co.il/*", "http://www.google.co.in/*", "http://www.google.co.jp/*", "http://www.google.co.ke/*", "http://www.google.co.kr/*", "http://www.google.co.ls/*", "http://www.google.co.ma/*", "http://www.google.co.mz/*", "http://www.google.co.nz/*", "http://www.google.co.th/*", "http://www.google.co.tz/*", "http://www.google.co.ug/*", "http://www.google.co.uk/*", "http://www.google.co.uz/*", "http://www.google.co.ve/*", "http://www.google.co.vi/*", "http://www.google.co.za/*", "http://www.google.co.zm/*", "http://www.google.co.zw/*", "http://www.google.com.af/*", "http://www.google.com.ag/*", "http://www.google.com.ai/*", "http://www.google.com.ar/*", "http://www.google.com.au/*", "http://www.google.com.bd/*", "http://www.google.com.bh/*", "http://www.google.com.bn/*", "http://www.google.com.bo/*", "http://www.google.com.br/*", "http://www.google.com.bz/*", "http://www.google.com.co/*", "http://www.google.com.cu/*", "http://www.google.com.do/*", "http://www.google.com.ec/*", "http://www.google.com.eg/*", "http://www.google.com.et/*", "http://www.google.com.fj/*", "http://www.google.com.gh/*", "http://www.google.com.gi/*", "http://www.google.com.gt/*", "http://www.google.com.hk/*", "http://www.google.com.jm/*", "http://www.google.com.kh/*", "http://www.google.com.kw/*", "http://www.google.com.lb/*", "http://www.google.com.ly/*", "http://www.google.com.mt/*", "http://www.google.com.mx/*", "http://www.google.com.my/*", "http://www.google.com.na/*", "http://www.google.com.nf/*", "http://www.google.com.ng/*", "http://www.google.com.ni/*", "http://www.google.com.np/*", "http://www.google.com.om/*", "http://www.google.com.pa/*", "http://www.google.com.pe/*", "http://www.google.com.ph/*", "http://www.google.com.pk/*", "http://www.google.com.pr/*", "http://www.google.com.py/*", "http://www.google.com.qa/*", "http://www.google.com.sa/*", "http://www.google.com.sb/*", "http://www.google.com.sg/*", "http://www.google.com.sl/*", "http://www.google.com.sv/*", "http://www.google.com.tj/*", "http://www.google.com.tr/*", "http://www.google.com.tw/*", "http://www.google.com.ua/*", "http://www.google.com.uy/*", "http://www.google.com.vc/*", "http://www.google.com.vn/*", "http://www.google.com/*", "http://www.google.cv/*", "http://www.google.cz/*", "http://www.google.de/*", "http://www.google.dj/*", "http://www.google.dk/*", "http://www.google.dm/*", "http://www.google.dz/*", "http://www.google.ee/*", "http://www.google.es/*", "http://www.google.fi/*", "http://www.google.fm/*", "http://www.google.fr/*", "http://www.google.ga/*", "http://www.google.ge/*", "http://www.google.gg/*", "http://www.google.gl/*", "http://www.google.gm/*", "http://www.google.gp/*", "http://www.google.gr/*", "http://www.google.gy/*", "http://www.google.hn/*", "http://www.google.hr/*", "http://www.google.ht/*", "http://www.google.hu/*", "http://www.google.ie/*", "http://www.google.im/*", "http://www.google.iq/*", "http://www.google.is/*", "http://www.google.it/*", "http://www.google.je/*", "http://www.google.jo/*", "http://www.google.kg/*", "http://www.google.ki/*", "http://www.google.kz/*", "http://www.google.la/*", "http://www.google.li/*", "http://www.google.lk/*", "http://www.google.lt/*", "http://www.google.lu/*", "http://www.google.lv/*", "http://www.google.md/*", "http://www.google.me/*", "http://www.google.mg/*", "http://www.google.mk/*", "http://www.google.ml/*", "http://www.google.mn/*", "http://www.google.ms/*", "http://www.google.mu/*", "http://www.google.mv/*", "http://www.google.mw/*", "http://www.google.ne/*", "http://www.google.nl/*", "http://www.google.no/*", "http://www.google.nr/*", "http://www.google.nu/*", "http://www.google.pl/*", "http://www.google.pn/*", "http://www.google.ps/*", "http://www.google.pt/*", "http://www.google.ro/*", "http://www.google.rs/*", "http://www.google.ru/*", "http://www.google.rw/*", "http://www.google.sc/*", "http://www.google.se/*", "http://www.google.sh/*", "http://www.google.si/*", "http://www.google.sk/*", "http://www.google.sm/*", "http://www.google.sn/*", "http://www.google.so/*", "http://www.google.st/*", "http://www.google.td/*", "http://www.google.tg/*", "http://www.google.tk/*", "http://www.google.tl/*", "http://www.google.tm/*", "http://www.google.tn/*", "http://www.google.to/*", "http://www.google.tt/*", "http://www.google.vg/*", "http://www.google.vu/*", "http://www.google.ws/*", "https://encrypted.google.com/*", "https://www.google.ad/*", "https://www.google.ae/*", "https://www.google.am/*", "https://www.google.as/*", "https://www.google.at/*", "https://www.google.az/*", "https://www.google.ba/*", "https://www.google.be/*", "https://www.google.bf/*", "https://www.google.bg/*", "https://www.google.bi/*", "https://www.google.bj/*", "https://www.google.bs/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.cat/*", "https://www.google.cd/*", "https://www.google.cf/*", "https://www.google.cg/*", "https://www.google.ch/*", "https://www.google.ci/*", "https://www.google.cl/*", "https://www.google.cm/*", "https://www.google.cn/*", "https://www.google.co.ao/*", "https://www.google.co.bw/*", "https://www.google.co.ck/*", "https://www.google.co.cr/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.ke/*", "https://www.google.co.kr/*", "https://www.google.co.ls/*", "https://www.google.co.ma/*", "https://www.google.co.mz/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.tz/*", "https://www.google.co.ug/*", "https://www.google.co.uk/*", "https://www.google.co.uz/*", "https://www.google.co.ve/*", "https://www.google.co.vi/*", "https://www.google.co.za/*", "https://www.google.co.zm/*", "https://www.google.co.zw/*", "https://www.google.com.af/*", "https://www.google.com.ag/*", "https://www.google.com.ai/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.bh/*", "https://www.google.com.bn/*", "https://www.google.com.bo/*", "https://www.google.com.br/*", "https://www.google.com.bz/*", "https://www.google.com.co/*", "https://www.google.com.cu/*", "https://www.google.com.do/*", "https://www.google.com.ec/*", "https://www.google.com.eg/*", "https://www.google.com.et/*", "https://www.google.com.fj/*", "https://www.google.com.gh/*", "https://www.google.com.gi/*", "https://www.google.com.gt/*", "https://www.google.com.hk/*", "https://www.google.com.jm/*", "https://www.google.com.kh/*", "https://www.google.com.kw/*", "https://www.google.com.lb/*", "https://www.google.com.ly/*", "https://www.google.com.mt/*", "https://www.google.com.mx/*", "https://www.google.com.my/*", "https://www.google.com.na/*", "https://www.google.com.nf/*", "https://www.google.com.ng/*", "https://www.google.com.ni/*", "https://www.google.com.np/*", "https://www.google.com.om/*", "https://www.google.com.pa/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.pr/*", "https://www.google.com.py/*", "https://www.google.com.qa/*", "https://www.google.com.sa/*", "https://www.google.com.sb/*", "https://www.google.com.sg/*", "https://www.google.com.sl/*", "https://www.google.com.sv/*", "https://www.google.com.tj/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.uy/*", "https://www.google.com.vc/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cv/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dj/*", "https://www.google.dk/*", "https://www.google.dm/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fm/*", "https://www.google.fr/*", "https://www.google.ga/*", "https://www.google.ge/*", "https://www.google.gg/*", "https://www.google.gl/*", "https://www.google.gm/*", "https://www.google.gp/*", "https://www.google.gr/*", "https://www.google.gy/*", "https://www.google.hn/*", "https://www.google.hr/*", "https://www.google.ht/*", "https://www.google.hu/*", "https://www.google.ie/*", "https://www.google.im/*", "https://www.google.iq/*", "https://www.google.is/*", "https://www.google.it/*", "https://www.google.je/*", "https://www.google.jo/*", "https://www.google.kg/*", "https://www.google.ki/*", "https://www.google.kz/*", "https://www.google.la/*", "https://www.google.li/*", "https://www.google.lk/*", "https://www.google.lt/*", "https://www.google.lu/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.me/*", "https://www.google.mg/*", "https://www.google.mk/*", "https://www.google.ml/*", "https://www.google.mn/*", "https://www.google.ms/*", "https://www.google.mu/*", "https://www.google.mv/*", "https://www.google.mw/*", "https://www.google.ne/*", "https://www.google.nl/*", "https://www.google.no/*", "https://www.google.nr/*", "https://www.google.nu/*", "https://www.google.pl/*", "https://www.google.pn/*", "https://www.google.ps/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.rw/*", "https://www.google.sc/*", "https://www.google.se/*", "https://www.google.sh/*", "https://www.google.si/*", "https://www.google.sk/*", "https://www.google.sm/*", "https://www.google.sn/*", "https://www.google.so/*", "https://www.google.st/*", "https://www.google.td/*", "https://www.google.tg/*", "https://www.google.tk/*", "https://www.google.tl/*", "https://www.google.tm/*", "https://www.google.tn/*", "https://www.google.to/*", "https://www.google.tt/*", "https://www.google.vg/*", "https://www.google.vu/*", "https://www.google.ws/*" ]
+               "scriptable_host": [ "http://duckduckgo.com/extensions/*", "http://www.bing.com/search*", "http://www.google.ad/*", "http://www.google.ae/*", "http://www.google.am/*", "http://www.google.as/*", "http://www.google.at/*", "http://www.google.az/*", "http://www.google.ba/*", "http://www.google.be/*", "http://www.google.bf/*", "http://www.google.bg/*", "http://www.google.bi/*", "http://www.google.bj/*", "http://www.google.bs/*", "http://www.google.by/*", "http://www.google.ca/*", "http://www.google.cat/*", "http://www.google.cd/*", "http://www.google.cf/*", "http://www.google.cg/*", "http://www.google.ch/*", "http://www.google.ci/*", "http://www.google.cl/*", "http://www.google.cm/*", "http://www.google.cn/*", "http://www.google.co.ao/*", "http://www.google.co.bw/*", "http://www.google.co.ck/*", "http://www.google.co.cr/*", "http://www.google.co.id/*", "http://www.google.co.il/*", "http://www.google.co.in/*", "http://www.google.co.jp/*", "http://www.google.co.ke/*", "http://www.google.co.kr/*", "http://www.google.co.ls/*", "http://www.google.co.ma/*", "http://www.google.co.mz/*", "http://www.google.co.nz/*", "http://www.google.co.th/*", "http://www.google.co.tz/*", "http://www.google.co.ug/*", "http://www.google.co.uk/*", "http://www.google.co.uz/*", "http://www.google.co.ve/*", "http://www.google.co.vi/*", "http://www.google.co.za/*", "http://www.google.co.zm/*", "http://www.google.co.zw/*", "http://www.google.com.af/*", "http://www.google.com.ag/*", "http://www.google.com.ai/*", "http://www.google.com.ar/*", "http://www.google.com.au/*", "http://www.google.com.bd/*", "http://www.google.com.bh/*", "http://www.google.com.bn/*", "http://www.google.com.bo/*", "http://www.google.com.br/*", "http://www.google.com.bz/*", "http://www.google.com.co/*", "http://www.google.com.cu/*", "http://www.google.com.do/*", "http://www.google.com.ec/*", "http://www.google.com.eg/*", "http://www.google.com.et/*", "http://www.google.com.fj/*", "http://www.google.com.gh/*", "http://www.google.com.gi/*", "http://www.google.com.gt/*", "http://www.google.com.hk/*", "http://www.google.com.jm/*", "http://www.google.com.kh/*", "http://www.google.com.kw/*", "http://www.google.com.lb/*", "http://www.google.com.ly/*", "http://www.google.com.mt/*", "http://www.google.com.mx/*", "http://www.google.com.my/*", "http://www.google.com.na/*", "http://www.google.com.nf/*", "http://www.google.com.ng/*", "http://www.google.com.ni/*", "http://www.google.com.np/*", "http://www.google.com.om/*", "http://www.google.com.pa/*", "http://www.google.com.pe/*", "http://www.google.com.ph/*", "http://www.google.com.pk/*", "http://www.google.com.pr/*", "http://www.google.com.py/*", "http://www.google.com.qa/*", "http://www.google.com.sa/*", "http://www.google.com.sb/*", "http://www.google.com.sg/*", "http://www.google.com.sl/*", "http://www.google.com.sv/*", "http://www.google.com.tj/*", "http://www.google.com.tr/*", "http://www.google.com.tw/*", "http://www.google.com.ua/*", "http://www.google.com.uy/*", "http://www.google.com.vc/*", "http://www.google.com.vn/*", "http://www.google.com/*", "http://www.google.cv/*", "http://www.google.cz/*", "http://www.google.de/*", "http://www.google.dj/*", "http://www.google.dk/*", "http://www.google.dm/*", "http://www.google.dz/*", "http://www.google.ee/*", "http://www.google.es/*", "http://www.google.fi/*", "http://www.google.fm/*", "http://www.google.fr/*", "http://www.google.ga/*", "http://www.google.ge/*", "http://www.google.gg/*", "http://www.google.gl/*", "http://www.google.gm/*", "http://www.google.gp/*", "http://www.google.gr/*", "http://www.google.gy/*", "http://www.google.hn/*", "http://www.google.hr/*", "http://www.google.ht/*", "http://www.google.hu/*", "http://www.google.ie/*", "http://www.google.im/*", "http://www.google.iq/*", "http://www.google.is/*", "http://www.google.it/*", "http://www.google.je/*", "http://www.google.jo/*", "http://www.google.kg/*", "http://www.google.ki/*", "http://www.google.kz/*", "http://www.google.la/*", "http://www.google.li/*", "http://www.google.lk/*", "http://www.google.lt/*", "http://www.google.lu/*", "http://www.google.lv/*", "http://www.google.md/*", "http://www.google.me/*", "http://www.google.mg/*", "http://www.google.mk/*", "http://www.google.ml/*", "http://www.google.mn/*", "http://www.google.ms/*", "http://www.google.mu/*", "http://www.google.mv/*", "http://www.google.mw/*", "http://www.google.ne/*", "http://www.google.nl/*", "http://www.google.no/*", "http://www.google.nr/*", "http://www.google.nu/*", "http://www.google.pl/*", "http://www.google.pn/*", "http://www.google.ps/*", "http://www.google.pt/*", "http://www.google.ro/*", "http://www.google.rs/*", "http://www.google.ru/*", "http://www.google.rw/*", "http://www.google.sc/*", "http://www.google.se/*", "http://www.google.sh/*", "http://www.google.si/*", "http://www.google.sk/*", "http://www.google.sm/*", "http://www.google.sn/*", "http://www.google.so/*", "http://www.google.st/*", "http://www.google.td/*", "http://www.google.tg/*", "http://www.google.tk/*", "http://www.google.tl/*", "http://www.google.tm/*", "http://www.google.tn/*", "http://www.google.to/*", "http://www.google.tt/*", "http://www.google.vg/*", "http://www.google.vu/*", "http://www.google.ws/*", "https://duckduckgo.com/extensions/*", "https://encrypted.google.com/*", "https://www.google.ad/*", "https://www.google.ae/*", "https://www.google.am/*", "https://www.google.as/*", "https://www.google.at/*", "https://www.google.az/*", "https://www.google.ba/*", "https://www.google.be/*", "https://www.google.bf/*", "https://www.google.bg/*", "https://www.google.bi/*", "https://www.google.bj/*", "https://www.google.bs/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.cat/*", "https://www.google.cd/*", "https://www.google.cf/*", "https://www.google.cg/*", "https://www.google.ch/*", "https://www.google.ci/*", "https://www.google.cl/*", "https://www.google.cm/*", "https://www.google.cn/*", "https://www.google.co.ao/*", "https://www.google.co.bw/*", "https://www.google.co.ck/*", "https://www.google.co.cr/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.ke/*", "https://www.google.co.kr/*", "https://www.google.co.ls/*", "https://www.google.co.ma/*", "https://www.google.co.mz/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.tz/*", "https://www.google.co.ug/*", "https://www.google.co.uk/*", "https://www.google.co.uz/*", "https://www.google.co.ve/*", "https://www.google.co.vi/*", "https://www.google.co.za/*", "https://www.google.co.zm/*", "https://www.google.co.zw/*", "https://www.google.com.af/*", "https://www.google.com.ag/*", "https://www.google.com.ai/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.bh/*", "https://www.google.com.bn/*", "https://www.google.com.bo/*", "https://www.google.com.br/*", "https://www.google.com.bz/*", "https://www.google.com.co/*", "https://www.google.com.cu/*", "https://www.google.com.do/*", "https://www.google.com.ec/*", "https://www.google.com.eg/*", "https://www.google.com.et/*", "https://www.google.com.fj/*", "https://www.google.com.gh/*", "https://www.google.com.gi/*", "https://www.google.com.gt/*", "https://www.google.com.hk/*", "https://www.google.com.jm/*", "https://www.google.com.kh/*", "https://www.google.com.kw/*", "https://www.google.com.lb/*", "https://www.google.com.ly/*", "https://www.google.com.mt/*", "https://www.google.com.mx/*", "https://www.google.com.my/*", "https://www.google.com.na/*", "https://www.google.com.nf/*", "https://www.google.com.ng/*", "https://www.google.com.ni/*", "https://www.google.com.np/*", "https://www.google.com.om/*", "https://www.google.com.pa/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.pr/*", "https://www.google.com.py/*", "https://www.google.com.qa/*", "https://www.google.com.sa/*", "https://www.google.com.sb/*", "https://www.google.com.sg/*", "https://www.google.com.sl/*", "https://www.google.com.sv/*", "https://www.google.com.tj/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.uy/*", "https://www.google.com.vc/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cv/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dj/*", "https://www.google.dk/*", "https://www.google.dm/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fm/*", "https://www.google.fr/*", "https://www.google.ga/*", "https://www.google.ge/*", "https://www.google.gg/*", "https://www.google.gl/*", "https://www.google.gm/*", "https://www.google.gp/*", "https://www.google.gr/*", "https://www.google.gy/*", "https://www.google.hn/*", "https://www.google.hr/*", "https://www.google.ht/*", "https://www.google.hu/*", "https://www.google.ie/*", "https://www.google.im/*", "https://www.google.iq/*", "https://www.google.is/*", "https://www.google.it/*", "https://www.google.je/*", "https://www.google.jo/*", "https://www.google.kg/*", "https://www.google.ki/*", "https://www.google.kz/*", "https://www.google.la/*", "https://www.google.li/*", "https://www.google.lk/*", "https://www.google.lt/*", "https://www.google.lu/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.me/*", "https://www.google.mg/*", "https://www.google.mk/*", "https://www.google.ml/*", "https://www.google.mn/*", "https://www.google.ms/*", "https://www.google.mu/*", "https://www.google.mv/*", "https://www.google.mw/*", "https://www.google.ne/*", "https://www.google.nl/*", "https://www.google.no/*", "https://www.google.nr/*", "https://www.google.nu/*", "https://www.google.pl/*", "https://www.google.pn/*", "https://www.google.ps/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.rw/*", "https://www.google.sc/*", "https://www.google.se/*", "https://www.google.sh/*", "https://www.google.si/*", "https://www.google.sk/*", "https://www.google.sm/*", "https://www.google.sn/*", "https://www.google.so/*", "https://www.google.st/*", "https://www.google.td/*", "https://www.google.tg/*", "https://www.google.tk/*", "https://www.google.tl/*", "https://www.google.tm/*", "https://www.google.tn/*", "https://www.google.to/*", "https://www.google.tt/*", "https://www.google.vg/*", "https://www.google.vu/*", "https://www.google.ws/*" ]
+            },
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
             },
             "incognito": true,
-            "install_time": "13009616767211055",
-            "lastpingday": "13011606000227285",
+            "initial_keybindings_set": true,
+            "install_time": "13028719855800954",
+            "install_warning_on_enable": false,
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "background": {
@@ -604,6 +460,16 @@
                   "default_icon": "img/icon_16.png",
                   "default_popup": "html/popup.html"
                },
+               "commands": {
+                  "_execute_browser_action": {
+                     "suggested_key": {
+                        "default": "Alt+G",
+                        "linux": "Alt+G",
+                        "mac": "Alt+G",
+                        "windows": "Alt+G"
+                     }
+                  }
+               },
                "content_scripts": [ {
                   "css": [ "css/common.css", "css/google.css" ],
                   "js": [ "js/jquery.js", "js/common.js", "js/google.js" ],
@@ -612,8 +478,11 @@
                   "css": [ "css/common.css", "css/bing.css" ],
                   "js": [ "js/jquery.js", "js/common.js", "js/bing.js" ],
                   "matches": [ "http://www.bing.com/search*" ]
+               }, {
+                  "js": [ "js/uninstall.js" ],
+                  "matches": [ "http://duckduckgo.com/extensions/*", "https://duckduckgo.com/extensions/*" ]
                } ],
-               "description": "DuckDuckGo enhacements for Chrome.",
+               "description": "DuckDuckGo enhancements for Chrome.",
                "icons": {
                   "128": "img/icon_128.png",
                   "16": "img/icon_16.png",
@@ -622,65 +491,23 @@
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/JDZ8TC1olZFXoPCofynN+QpHdywaOunZ6iTkCjNeL9dH9vfL+OfLydqWipEJ8nl4CrE20HqCghPPf/BbYz+NQuSCvXSUGDiWoEU28XcHDcIYlicoRi5gMdNd0DUwjHw2E/gxK+/0DrUunDnUTWxTiQ8z5GQkgknCuVjOLBwDMwIDAQAB",
                "manifest_version": 2,
                "name": "DuckDuckGo for Chrome",
+               "omnibox": {
+                  "keyword": "d"
+               },
                "options_page": "html/options.html",
-               "permissions": [ "https://chrome.duckduckgo.com/*" ],
-               "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "42.5.6"
+               "permissions": [ "https://chrome.duckduckgo.com/*", "tabs" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "42.5.15"
             },
-            "path": "bpphkkgodbfncbcpgopijlfakfgmclao/42.5.6_0",
+            "path": "bpphkkgodbfncbcpgopijlfakfgmclao/42.5.15_0",
             "state": 1,
             "was_installed_by_default": false
          },
-         "canhmdgddepdjikkjhpmhcfdkkjdbppi": {
-            "blacklist": true
-         },
-         "caphkimknlmnhpjoneddiaakmcaajagb": {
-            "blacklist": true
-         },
-         "cbbbpmlnlpnjojeplppgeilanlihoojg": {
-            "blacklist": true
-         },
-         "cbbjhegipokkofhhicbckicchjpcpeni": {
-            "blacklist": true
-         },
-         "cbhhdkemlehgodemcigfabmcdnohhhef": {
-            "blacklist": true
-         },
-         "cbjlfaogacjpkplebfbijaakaifoflno": {
-            "blacklist": true
-         },
-         "cconecmbohgadkjghlfbchmjpgbobkaf": {
-            "blacklist": true
-         },
-         "cdogaeccgljmkecjmoedambgiekkllij": {
-            "blacklist": true
-         },
-         "cedclbokcakighlpbnbhfjffdjeihfdp": {
-            "blacklist": true
-         },
-         "cekdjgnecpoooikhmceokdhojckkkhmh": {
-            "blacklist": true
-         },
-         "cepfogmgfkddnllaopgknbdfkceejmhk": {
-            "blacklist": true
-         },
-         "cfbdodejdeejbkffcmiaknpmojjeibpn": {
-            "blacklist": true
-         },
-         "cfdedhfmaeiheeklgodcmcgfpedooocj": {
-            "blacklist": true
-         },
-         "cfnfobbpdaccoljfahpmfjdmbfmmkeof": {
-            "blacklist": true
-         },
-         "cfogpbanfnocakdckmgafapdlmclpiln": {
-            "blacklist": true
-         },
          "cgbogdmdefihhljhfeiklfiedefalcde": {
             "active_permissions": {
-               "api": [ "contextMenus", "cookies", "notifications", "tabs" ],
-               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*", "http://*/*", "https://*/*" ],
-               "scriptable_host": [ "http://*/*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*", "https://*/*", "https://www.facebook.com/connect/login_success.html*" ]
+               "api": [ "contextMenus", "cookies", "notifications", "tabs", "webNavigation", "webRequest", "webRequestInternal" ],
+               "explicit_host": [ "*://*/*", "\u003Call_urls\u003E", "chrome://favicon/*", "http://*/*", "https://*.facebook.com/*", "https://*/*" ],
+               "scriptable_host": [ "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*", "https://www.facebook.com/connect/login_success.html*" ]
             },
             "creation_flags": 9,
             "from_bookmark": false,
@@ -690,23 +517,32 @@
                "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*", "http://*/*", "https://*/*" ],
                "scriptable_host": [ "http://*/*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*", "https://*/*", "https://www.facebook.com/connect/login_success.html*" ]
             },
-            "install_time": "13011003497423030",
-            "lastpingday": "13011606000227285",
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13028719855218195",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
-               "background_page": "html/ATX.chrome.background.html",
+               "background": {
+                  "page": "html/ATX.chrome.background.html"
+               },
                "browser_action": {
                   "default_icon": "images/19x19-full.png",
-                  "default_title": "Share, translate, bookmark, print",
-                  "popup": "html/ATX.chrome.browserAction.html"
+                  "default_popup": "html/ATX.chrome.browserAction.html",
+                  "default_title": "Share, translate, bookmark, print"
                },
                "content_scripts": [ {
                   "js": [ "js/ATX.chrome.content.intercept.js" ],
                   "matches": [ "https://www.facebook.com/connect/login_success.html*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*" ]
-               }, {
-                  "js": [ "js/ATX.chrome.content.image.js" ],
-                  "matches": [ "http://*/*", "https://*/*" ]
                } ],
+               "content_security_policy": "script-src 'self' 'unsafe-eval' https://graph.facebook.com https://*.facebook.com https://m.addthisedge.com https://addthis.com https://s7.addthis.com https://ct1.addthis.com https://cache.addthiscdn.com https://www.facebook.com https://connect.facebook.net; object-src 'self'",
                "current_locale": "en_US",
                "default_locale": "en",
                "description": "Share to Facebook, Twitter and over 300 other services with the most popular sharing tool in the world.",
@@ -718,48 +554,16 @@
                   "64": "images/64x64.png"
                },
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/4mH2Fbva08PwzMy6boq23o2rkQkCpvjbt72C3I0P1NBhCT9xpZENK/VQLzhRlSpvtrCWH6kXabyLicG2C2zMRicwMlJRxqCWjepn7V3rP0wdm2bv5rkh+C4LzqEak+M4N/KCg8bxJkldW8yG1qK0iF2BACtUlZ5QPXkpVnQxRQIDAQAB",
+               "manifest_version": 2,
                "name": "AddThis - Share & Bookmark (new)",
                "options_page": "html/ATX.chrome.options.html",
-               "permissions": [ "tabs", "contextMenus", "\u003Call_urls\u003E", "cookies", "notifications", "http://*/*", "https://*/*" ],
-               "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "2.9.9"
+               "permissions": [ "tabs", "https://*.facebook.com/*", "contextMenus", "\u003Call_urls\u003E", "cookies", "notifications", "http://*/*", "https://*/*", "webRequest", "*://*/*", "contextMenus", "webNavigation", "https://s7.addthis.com" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "3.0.3"
             },
-            "path": "cgbogdmdefihhljhfeiklfiedefalcde/2.9.9_0",
+            "path": "cgbogdmdefihhljhfeiklfiedefalcde/3.0.3_0",
             "state": 1,
             "was_installed_by_default": false
-         },
-         "cgnegjfmdfenjojhjffejinpnpoglmlh": {
-            "blacklist": true
-         },
-         "cgnkbnaiipmfbakpmhllalggoepniemh": {
-            "blacklist": true
-         },
-         "chhniecmnighakmlnhkifeogjddhoajn": {
-            "blacklist": true
-         },
-         "cidnoinjdbalndcidafahfnoeehfblfl": {
-            "blacklist": true
-         },
-         "cihlkpohodpdkdnfalhdkhhlhmhffmbe": {
-            "blacklist": true
-         },
-         "cjhklhdjonhcohlacgggcbklpnldleck": {
-            "blacklist": true
-         },
-         "cjohbbapkbkkhpohinffggbphnhoblea": {
-            "blacklist": true
-         },
-         "ckckpgefkpjfopjppjfcikppehdhceah": {
-            "blacklist": true
-         },
-         "ckphhghhpjbfddcgkpfbelfeojcciglo": {
-            "blacklist": true
-         },
-         "clapnamcglekekmamicmbahkghdcjaeh": {
-            "blacklist": true
-         },
-         "clfhanhcjmgjnbpjfopldmnabimhmcmp": {
-            "blacklist": true
          },
          "cmgnmcnlncejehjlnhaglpnoolgbflbd": {
             "active_permissions": {
@@ -773,7 +577,7 @@
             },
             "incognito": true,
             "install_time": "13010214964983769",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "background_page": "background.html",
@@ -805,24 +609,6 @@
             "state": 1,
             "was_installed_by_default": false
          },
-         "cmjphjljejnfgdbkdgdlclaabimpknna": {
-            "blacklist": true
-         },
-         "cmlokmkdolieoaoddlfhaidnlmiadhik": {
-            "blacklist": true
-         },
-         "cmnfphnmpedeolmelllmgkghmjcnlajp": {
-            "blacklist": true
-         },
-         "cnimdnlablahacgompaahbgohcokcclp": {
-            "blacklist": true
-         },
-         "cniodhfhdiidogekcjkplecimemfocpn": {
-            "blacklist": true
-         },
-         "coajchbkdbfhmhbgcjepiofllfjjcpfp": {
-            "blacklist": true
-         },
          "coobgpohoikkiipiblmjeljniedjpjpf": {
             "ack_external": true,
             "active_bit": false,
@@ -832,7 +618,7 @@
             "from_webstore": true,
             "install_time": "13009616769012273",
             "last_active_pingday": "13002624001036806",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -862,12 +648,6 @@
             "user_dragged_app_ntp": true,
             "was_installed_by_default": true
          },
-         "copjbedljgpkaakkmbhgkpoaadeahido": {
-            "blacklist": true
-         },
-         "cpiiakoibaohkfoaijaigdnocfolnmll": {
-            "blacklist": true
-         },
          "cpngackimfmofbokmjmljamhdncknpmg": {
             "active_permissions": {
                "api": [ "notifications", "plugin", "tabs" ],
@@ -883,7 +663,7 @@
                "scriptable_host": [ "file:///*", "ftp://*/*", "http://*/*", "https://*/*" ]
             },
             "install_time": "13011003624603007",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "background": {
@@ -938,143 +718,59 @@
             "state": 1,
             "was_installed_by_default": false
          },
-         "dadcalgappognjbjpalfophhcfakoeac": {
-            "blacklist": true
-         },
-         "danapgfidmepmcfbjjacceiaiiioieio": {
-            "blacklist": true
-         },
-         "dbanhghadfmjndnjmmejdgfdmgidlbpm": {
-            "blacklist": true
-         },
-         "dbiblcmlcgdjjbdpbmbcpineegngkiip": {
-            "blacklist": true
-         },
-         "dbmdicehacbaohlockjgdglcobimmjkh": {
-            "blacklist": true
-         },
-         "dcfefnkefopibnlcjhjcfegckhanekld": {
-            "blacklist": true
-         },
-         "dcpjokbfgfnbaekphjgehhjaokkcifbj": {
-            "blacklist": true
-         },
-         "dejippphmhbpgckbhdidnjmdcpfccbaj": {
-            "blacklist": true
-         },
-         "deocpjmfifplhepinpkmpinpnbiemfje": {
-            "blacklist": true
-         },
-         "deonbedlmakdddidplniclflladdjoep": {
-            "blacklist": true
-         },
-         "dfafokiagoiocidlpglcanjkcdbdnioi": {
-            "blacklist": true
-         },
-         "dfjhgoeofgmepmcngkhnaiphbhdbonhp": {
-            "blacklist": true
-         },
-         "dfoegfajplmijblljfancdapbdaopebb": {
-            "blacklist": true
-         },
-         "dgaehaeahdegbdlenicbmkbakhdgoeml": {
-            "blacklist": true
-         },
-         "dgcfmgdfbfbgcpbendbhbkfjppboebed": {
-            "blacklist": true
-         },
-         "dgkemngdheppgohkjjelnkjmdeimmfml": {
-            "blacklist": true
-         },
-         "dhclobcklknojliojkkclgjndemadnig": {
-            "blacklist": true
-         },
-         "dhdepfaagokllfmhfbcfmocaeigmoebo": {
-            "blacklist": true
-         },
-         "dhmghpedmigfknfpolfmkihcaeiccjgf": {
-            "blacklist": true
-         },
-         "dibljdngacjhpccjckmlmeklpgjeinjd": {
-            "blacklist": true
-         },
-         "digmihafmlfkgdbjjdgbcojghcgcoeoa": {
-            "blacklist": true
-         },
-         "diinokaoicgobepmadnmedlhdfnpehcj": {
-            "blacklist": true
-         },
-         "dinhjcapnfbffhiihdlnbdfjdjjfhcbk": {
-            "blacklist": true
-         },
-         "djnahdkbfgnhgpakidinfonfcjbagkgp": {
-            "blacklist": true
-         },
-         "djpnjilhooodipllnjedjeiabkboakok": {
-            "blacklist": true
-         },
-         "dkhkecikbdfpoiopnnpoeglbdphgflmf": {
-            "blacklist": true
-         },
-         "dlobhinihbmedmheccecfnkcadpehmbf": {
-            "blacklist": true
-         },
-         "dlopielgodpjhkbapdlbbicpiefpaack": {
-            "blacklist": true
-         },
-         "dmabikjmolgegjajdhmgpmgffajlmmkb": {
-            "blacklist": true
-         },
-         "dmhgenmamfphbclmhdgmffajkfommkom": {
-            "blacklist": true
-         },
-         "dmhjdbigobajgnfoabodjgmcdgoeoljm": {
-            "blacklist": true
-         },
-         "dmkdhgkknhnfpdjeicefnpmhcpbimden": {
-            "blacklist": true
-         },
-         "dnemhlkdpajbbniphgkgceplmnkfnhfo": {
-            "blacklist": true
-         },
-         "doneghboglgnflpdicnkaojmmljgejkj": {
-            "blacklist": true
-         },
-         "dpaphgcjeeochbiafgbochohgmpcmlbj": {
-            "blacklist": true
-         },
-         "dpcdiabehkofdddfhdmkgkndjilfoppd": {
-            "blacklist": true
-         },
-         "dpfanoongnoofcdhgijjdjmbnfekdejj": {
-            "blacklist": true
-         },
-         "dpgenihgggagjjggfocjceeobjkadcbc": {
-            "blacklist": true
-         },
-         "dpmloehicimdjkibmobhmpgdndgbcced": {
-            "blacklist": true
-         },
-         "eagmciolnojfofmggkffclbonhleeank": {
-            "blacklist": true
-         },
-         "ebdcdchjcndpjhehacedepnggfdbfkpn": {
-            "blacklist": true
-         },
-         "ebhdpnhjbfkchfamjcpebpeddhhicnab": {
-            "blacklist": true
-         },
-         "echjhfifjidfhoappglfmoffcpmpkigb": {
-            "blacklist": true
-         },
-         "echngajnlpjeacbanjejlhcajjfoedcc": {
-            "blacklist": true
-         },
-         "ecinfbhalenfhdhnljmkglajfjjfehoj": {
-            "blacklist": true
-         },
-         "edmnikahahfkfilbbjbdoiabnghbkmjc": {
-            "blacklist": true
+         "ebmieckllmmifjjbipnppinpiohpfahm": {
+            "active_permissions": {
+               "api": [ "tabs" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "tabs" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "has_declarative_rules": false,
+            "incognito": true,
+            "initial_keybindings_set": true,
+            "install_time": "13018346629885612",
+            "lastpingday": "13028716942603680",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "css": [ "FlashFree.css" ],
+                  "js": [ "debug.js", "block.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               } ],
+               "description": "Simple Flash blocker. Very fast with small memory footprint. Include whitelist. FlashBlock for Chrome. ",
+               "icons": {
+                  "128": "icon128.png",
+                  "16": "icon16.png",
+                  "32": "icon32.png",
+                  "48": "icon48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD3YX/4tWPzbLEsd7796PkAlneKaaeAfIi0EP6RStMcJRQ+Fzl2PvHyVFurnZXVaOkZJSX1AN1ZoMpLF1wjO8KS+KZIkK8sV/D9u+hV1SnyImrjKSNwb2qfLKPaSdQ6BYTlPK8u+3XmHvOn5MC+VixOKJjIxffjxD399BXwC73tkQIDAQAB",
+               "manifest_version": 2,
+               "name": "FlashFree",
+               "options_page": "options.html",
+               "page_action": {
+                  "default_icon": "icon48.png",
+                  "default_popup": "popup.html",
+                  "default_title": "Do action"
+               },
+               "permissions": [ "tabs" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "2.1.1",
+               "web_accessible_resources": [ "icon128.png", "icon16.png", "icon32.png", "icon48.png", "close32.png" ]
+            },
+            "path": "ebmieckllmmifjjbipnppinpiohpfahm/2.1.1_0",
+            "state": 1,
+            "was_installed_by_default": false
          },
          "eecljjaahebeogldibckmfhobkkejagk": {
             "active_bit": false,
@@ -1084,7 +780,7 @@
             "from_webstore": false,
             "install_time": "13009616301008340",
             "last_active_pingday": "13010137200630061",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -1133,233 +829,41 @@
             "path": "/opt/google/chrome/resources/bookmark_manager",
             "was_installed_by_default": false
          },
-         "efbeabpbbkahnnjalakldjfhljboclkf": {
-            "blacklist": true
-         },
-         "efcnjdcimjmggfdkahncpoikhehcfgnh": {
-            "blacklist": true
-         },
-         "efhjelcghjkfigiagdfbfilndaffpmdj": {
-            "blacklist": true
-         },
-         "efnaljpgehfilpmkhobibbjceeeondmn": {
-            "blacklist": true
-         },
-         "efonemhbokfedckpfpohpmcamfihnnlm": {
-            "blacklist": true
-         },
-         "egljdhfnbjahogjahnigfnbpidlmdagi": {
-            "blacklist": true
-         },
-         "ehgoiaffgjoinpkllmmnikghgpghnabc": {
-            "blacklist": true
-         },
-         "ehmjnpjodmgeocfphkjjnheiheehcoid": {
-            "blacklist": true
-         },
-         "ehomcoocpagnlcakcbecdaknmacmedld": {
-            "blacklist": true
-         },
-         "eiflkkehgogioennialfbilppmegcpoa": {
-            "blacklist": true
-         },
-         "eihjeehdobnpkonebmpanonopghepfle": {
-            "blacklist": true
-         },
-         "eijbdinddjecmebnlienfoijpjjobkjh": {
-            "blacklist": true
-         },
-         "einmhcleeonenkkldjlmhhcmgolhblhh": {
-            "blacklist": true
-         },
-         "ejakhnjbomgngodiidgbkapjgbdckhnh": {
-            "blacklist": true
-         },
-         "ejijgghlncnaphklndknkbkclebfboca": {
-            "blacklist": true
-         },
-         "ejlekamipdcfcfpgfepjmklllbpeecaj": {
-            "blacklist": true
-         },
-         "ekikoahmboikmmclhnijlmldpmleahnh": {
-            "blacklist": true
-         },
-         "elcaigjcaijbfpjngaekbblphmfjdhfo": {
-            "blacklist": true
-         },
-         "emcdpbapjmnjgoannclkongdfboaabho": {
-            "blacklist": true
-         },
-         "eofejpelggimkodeojpeojnbijgiglgh": {
-            "blacklist": true
-         },
-         "eopmhecjnginkckggjmhombbopmkjpam": {
-            "blacklist": true
-         },
-         "epbmnbdplhcomkedpjfceakddnbgfjmf": {
-            "blacklist": true
-         },
-         "fafoohpbicgbcejffcplajonhhooddle": {
-            "blacklist": true
-         },
-         "fbhiehmngojjcmljddjmgpmcockbccmo": {
-            "blacklist": true
-         },
-         "fbjjhbijaiopkcdolheliknnjlkaekeb": {
-            "blacklist": true
-         },
-         "fbmgoajoadbjhoachcdiplofcblaihdc": {
-            "blacklist": true
-         },
-         "fbmimoidopbghbcmdmpkjaffffmcbmbg": {
-            "blacklist": true
-         },
-         "fcfepemfihgibdacjlnlecebknaaepmj": {
-            "blacklist": true
-         },
-         "fclheclkknbgfndeahkfdomollhmfkcn": {
-            "blacklist": true
-         },
-         "febmhchodibcbchcofonaamfglbjhggg": {
-            "blacklist": true
-         },
-         "ffgfbfakpcnngelphjnppokmoicdollk": {
-            "blacklist": true
-         },
-         "fhlkffpjoajppmhcakbkjndbjfljccpi": {
-            "blacklist": true
-         },
-         "fhpclkemjlhmbfbjakbmdjihocinkmim": {
-            "blacklist": true
-         },
-         "fiapkdjniadkodmdibdnchoifkpfoiid": {
-            "blacklist": true
-         },
-         "fibgploapkhokkbncddlkcmbmiengcfp": {
-            "blacklist": true
-         },
-         "fihepkmlkmciffbhijldnpmifhbkiinp": {
-            "blacklist": true
-         },
-         "fiiblakkkkgeljngobmpeljjapemenhi": {
-            "blacklist": true
-         },
-         "fjhfnfakmfcejgmfkmnapemgblmehppf": {
-            "blacklist": true
-         },
-         "fjjeecfjmgfnleghoellhldedkaocjfc": {
-            "blacklist": true
-         },
-         "fjpofaghniailakahnhkjjfbfonpfglo": {
-            "blacklist": true
-         },
-         "flalbhkmnijcnpialgakicllnabckmhi": {
-            "blacklist": true
-         },
-         "fleljamdchegbjeiipbnmiebnhgheeld": {
-            "blacklist": true
-         },
-         "flmmgcfcpbfddenepkfmgfpbaceolcoe": {
-            "blacklist": true
-         },
-         "fmcccidacjgnfiafddkngmeolkoiihil": {
-            "blacklist": true
-         },
-         "fmonlemffgbabjifjfaoamdflijecdbk": {
-            "blacklist": true
-         },
-         "fngolbdmkneakeaoiieafkilnogbocda": {
-            "blacklist": true
-         },
-         "fnhcgnmfccojojojacgeiaaeacefdohb": {
-            "blacklist": true
-         },
-         "fnkaadkanmfgpfbmdcllhjdgmdbgljpi": {
-            "blacklist": true
-         },
-         "fnnmbghphdnmmjdapccfobgjemjadeli": {
-            "blacklist": true
-         },
-         "fnoadkjdjfgafomgmablhmffooijcfbn": {
-            "blacklist": true
-         },
-         "foenbafkkmajnmfnlcmejonkfaipdmme": {
-            "blacklist": true
-         },
-         "folhciaicehdnoalhbkbgkakfcockopc": {
-            "blacklist": true
-         },
-         "fomljmklmcefndkgpakgifbiiidgbjej": {
-            "blacklist": true
-         },
-         "fommcgokigkhmnhlhlkckfjhefnmfohd": {
-            "blacklist": true
-         },
-         "fopgndklnkecillfbdmfknhmadmenikm": {
-            "blacklist": true
-         },
-         "fpbippbofbmgmbojjmgfcifpmdaelcmd": {
-            "blacklist": true
-         },
-         "fpbkafpphnhlpakobppekmkebmbhkoco": {
-            "blacklist": true
-         },
-         "fpjdackpllilinpkgmhkpidkanmccblc": {
-            "blacklist": true
-         },
-         "fpmajanjndhgpifbcbnklbiehgnpkgmf": {
-            "blacklist": true
-         },
-         "fpoajjnnpmledpmohlgpgbmlhbgkgahg": {
-            "blacklist": true
-         },
-         "fpokembamndopkflopmplkklbdngnknd": {
-            "blacklist": true
-         },
-         "gagalgomhifgcmeciklindhpaihmecgi": {
-            "blacklist": true
-         },
-         "gaicmfjflflabagobdiodejfpjikheeo": {
-            "blacklist": true
-         },
-         "gandihaiobadcggbfkhpbkocmiemjlnf": {
-            "blacklist": true
-         },
-         "gbenikfjhilhpgagllmfgggdjaflbmbi": {
-            "blacklist": true
-         },
-         "gchbiabnbdikkgfhnkclecjncojnkmhb": {
-            "blacklist": true
-         },
-         "gdggdkkjecogagaffaemnbfmllcoihjp": {
-            "blacklist": true
-         },
-         "gdlgbpbmiiagaikjbednkikinokbkbcb": {
-            "blacklist": true
-         },
-         "geggofhlfbcmanadhknllmlajiafopoh": {
-            "blacklist": true
-         },
-         "gekkhpjigmckhgmgngadbeknekgpgolb": {
-            "blacklist": true
-         },
-         "gfjfhihpkmehdmblhfaikkipeplpdcla": {
-            "blacklist": true
-         },
-         "gfmmoiakbmdohkgeoekiokjgljcminig": {
-            "blacklist": true
-         },
-         "ggkpicnfnljflddbdoeeaajjgepapcbf": {
-            "blacklist": true
-         },
-         "ghgphbmpcfgkfneodjpbdanmdoemklio": {
-            "blacklist": true
-         },
-         "ghmaokcegalalefnhlfcnjhnpdbanjkj": {
-            "blacklist": true
-         },
-         "gifglngcdbggmlgkcombebegdaoknkho": {
-            "blacklist": true
+         "gfdkimpbcpahaombhbimeihdjnejgicl": {
+            "active_permissions": {
+               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "feedbackPrivate" ],
+               "explicit_host": [ "chrome://resources/*" ]
+            },
+            "creation_flags": 1,
+            "events": [ "feedbackPrivate.onFeedbackRequested" ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "initial_keybindings_set": true,
+            "install_time": "13028719852209016",
+            "location": 5,
+            "manifest": {
+               "app": {
+                  "background": {
+                     "scripts": [ "js/event_handler.js" ]
+                  },
+                  "content_security_policy": "default-src 'none'; script-src 'self' chrome://resources; style-src 'unsafe-inline' *; img-src *; media-src 'self'"
+               },
+               "description": "User feedback extension",
+               "display_in_launcher": false,
+               "display_in_new_tab_page": false,
+               "icons": {
+                  "32": "images/icon32.png",
+                  "64": "images/icon64.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMZElzFX2J1g1nRQ/8S3rg/1CjFyDltWOxQg+9M8aVgNVxbutEWFQz+oQzIP9BB67mJifULgiv12ToFKsae4NpEUR8sPZjiKDIHumc6pUdixOm8SJ5Rs16SMR6+VYxFUjlVW+5CA3IILptmNBxgpfyqoK0qRpBDIhGk1KDEZ4zqQIDAQAB",
+               "manifest_version": 2,
+               "name": "Feedback",
+               "permissions": [ "feedbackPrivate", "chrome://resources/" ],
+               "version": "1.0"
+            },
+            "path": "/opt/google/chrome/resources/feedback",
+            "running": false,
+            "was_installed_by_default": false
          },
          "gighmmpiobklfepjocnamgkkbiglidom": {
             "active_permissions": {
@@ -1375,9 +879,18 @@
                "explicit_host": [ "http://*/*", "https://*/*" ],
                "scriptable_host": [ "*://*.mail.live.com/*", "*://*.mastertoons.com/*", "http://*/*", "https://*/*" ]
             },
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
             "incognito": true,
-            "install_time": "13011682792867982",
-            "lastpingday": "13011606000227285",
+            "initial_keybindings_set": true,
+            "install_time": "13028719856376642",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "background": {
@@ -1389,7 +902,7 @@
                      "38": "img/icon38.png"
                   },
                   "default_popup": "button/popup.html",
-                  "default_title": "AdBlock"
+                  "default_title": "AdBlock - click for details"
                },
                "content_scripts": [ {
                   "all_frames": true,
@@ -1424,41 +937,18 @@
                "options_page": "options/index.html",
                "permissions": [ "http://*/*", "https://*/*", "contextMenus", "tabs", "idle", "webRequest", "webRequestBlocking", "webNavigation" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2.5.62",
-               "web_accessible_resources": [ "img/icon24.png", "jquery/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.png", "jquery/css/images/ui-icons_056b93_256x240.png", "jquery/css/images/ui-icons_d8e7f3_256x240.png", "jquery/css/jquery-ui.custom.css", "jquery/css/override-page.css" ]
+               "version": "2.6.14",
+               "web_accessible_resources": [ "img/icon24.png", "jquery/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.png", "jquery/css/images/ui-icons_056b93_2.6.440.png", "jquery/css/images/ui-icons_d8e7f3_2.6.440.png", "jquery/css/jquery-ui.custom.css", "jquery/css/override-page.css" ]
             },
-            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.5.62_0",
+            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.6.14_0",
             "state": 1,
             "was_installed_by_default": false
          },
-         "gjkbghdignnlcknknflbigpammebiolo": {
-            "blacklist": true
-         },
-         "gjmhdmobkhfhkpfmfegnkkimlamjdldi": {
-            "blacklist": true
-         },
-         "gkcfodgjdcijjlliehfhgohlkemcbobl": {
-            "blacklist": true
-         },
-         "gkhbgnodbilglgholifcjdblbgdaieah": {
-            "blacklist": true
-         },
-         "gkjeccpmibljcfpfapfljciimedljpnm": {
-            "blacklist": true
-         },
-         "gkjmgdpdndoaiholejnmdbbpdaafahmm": {
-            "blacklist": true
-         },
-         "gklphmokmaaepjgandocpneomjlidjag": {
-            "blacklist": true
-         },
-         "glhhlafadlhkgbklgbjnmblfhnkfknbm": {
-            "blacklist": true
-         },
          "gmbmikajjgmnabiglmofipeabaddhgne": {
             "active_permissions": {
-               "api": [ "contextMenus", "notifications", "pageCapture", "tabs", "webRequest", "webRequestInternal" ],
-               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ]
+               "api": [ "contextMenus", "notifications", "pageCapture", "storage", "tabs", "webRequest", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "scriptable_host": [ "http://www.google.com/robots.txt*" ]
             },
             "creation_flags": 9,
             "from_bookmark": false,
@@ -1467,19 +957,34 @@
                "api": [ "contextMenus", "notifications", "pageCapture", "tabs", "webRequest", "webRequestInternal" ],
                "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ]
             },
-            "install_time": "13011003818824205",
-            "lastpingday": "13011606000227285",
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13028719856042931",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "background": {
-                  "scripts": [ "js/chrome_ex_oauthsimple.js", "js/chrome_ex_oauth.js", "js/closuresetup.js", "js/background_all.js" ]
+                  "scripts": [ "js/closuresetup.js", "js/background_all.js", "oauth2/oauth2.js" ]
                },
                "browser_action": {
                   "default_icon": "images/driveicon19.png"
                },
+               "content_scripts": [ {
+                  "js": [ "oauth2/oauth2_inject.js" ],
+                  "matches": [ "http://www.google.com/robots.txt*" ],
+                  "run_at": "document_start"
+               } ],
+               "content_security_policy": "script-src 'self' https://www-onepick-opensocial.googleusercontent.com; object-src 'self'",
                "current_locale": "en_US",
                "default_locale": "en",
-               "description": "Save web content to  Google Drive.",
+               "description": "Save web content or screen capture directly to Google Drive.",
                "icons": {
                   "128": "images/driveicon128.png",
                   "16": "images/driveicon16.png",
@@ -1489,7 +994,7 @@
                   "http://webintents.org/save": [ {
                      "disposition": "inline",
                      "href": "handleintent.html",
-                     "title": "Save to Google Drive",
+                     "title": "__MSG_SAVE_TO_GOOGLE_DRIVE_ACTION__",
                      "type": [ "*" ]
                   } ]
                },
@@ -1497,182 +1002,70 @@
                "manifest_version": 2,
                "name": "Save to Google Drive",
                "options_page": "options.html",
-               "permissions": [ "contextMenus", "notifications", "pageCapture", "tabs", "webRequest", "\u003Call_urls\u003E" ],
-               "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "1.5.10",
-               "web_accessible_resources": [ "chrome_ex_oauth.html", "images/driveicon32.png" ]
+               "permissions": [ "contextMenus", "notifications", "pageCapture", "storage", "tabs", "webRequest", "\u003Call_urls\u003E" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "2.0.1",
+               "web_accessible_resources": [ "images/driveicon32.png", "oauth2/oauth2.html" ]
             },
-            "path": "gmbmikajjgmnabiglmofipeabaddhgne/1.5.10_0",
+            "path": "gmbmikajjgmnabiglmofipeabaddhgne/2.0.1_0",
             "state": 1,
             "was_installed_by_default": false
          },
-         "gmghjgfdialcnhadahmjefeflgnhcjeb": {
-            "blacklist": true
-         },
-         "gnapdhmknipknfmhhnhdmhakdfhgeing": {
-            "blacklist": true
-         },
-         "gncfgndgeoddelbfhlndhljnecoednaa": {
-            "blacklist": true
-         },
-         "gngfmjidncdccdlfjcjbnngeaaclfgpl": {
-            "blacklist": true
-         },
-         "gngmkbiihflpghldjnbpemaicedhdddk": {
-            "blacklist": true
-         },
-         "gobjcjhhebpjbmjdgmejhebbleadnceo": {
-            "blacklist": true
-         },
-         "goedioiidkokkbobdnopnlnaaalniegm": {
-            "blacklist": true
-         },
-         "gomkbnfeifchddfokcicibjnlgbolhol": {
-            "blacklist": true
-         },
-         "gompblemgafijijmlgbaepcijfgfgljf": {
-            "blacklist": true
-         },
-         "gpdcodmabpgmncbkhpipakhehepmpopk": {
-            "blacklist": true
-         },
-         "gpgehbjbkfhngdlfpfeokjgbkmmokjhe": {
-            "blacklist": true
-         },
-         "gplgjmecjpbfcdikpbicknafcnfcidek": {
-            "blacklist": true
-         },
-         "hbaajkahagmlkdekmbdabikbopdgpaac": {
-            "blacklist": true
-         },
-         "hbdhabpmbbanaopgkbaondabkkepjfaf": {
-            "blacklist": true
-         },
-         "hbmlheccjkodhfejcmblndjodllmnlnl": {
-            "blacklist": true
-         },
-         "hcapokajkngndbglnfglpfdpoeidmpha": {
-            "blacklist": true
-         },
-         "hcpndbchnlgojmnijaldkicigmihmdca": {
-            "blacklist": true
-         },
-         "hdijkiondgomjpehfhopomicjbiodmcm": {
-            "blacklist": true
-         },
-         "hdnbmmfjbblajkjkcaeofolgfnljpnim": {
-            "blacklist": true
-         },
-         "hecijapnccjhonbmacmkmffooodfokoo": {
-            "blacklist": true
-         },
-         "hefmoncdemhjembgbnkgglhlookbipdc": {
-            "blacklist": true
-         },
-         "hfcgbiofoebieldldghfocjfnnajmpej": {
-            "blacklist": true
-         },
-         "hfjpjodbolkmheaehcnmfhjakjileoof": {
-            "blacklist": true
-         },
-         "hfpfbhnmbbigpmoodjemilggabklpopj": {
-            "blacklist": true
-         },
-         "hgbaomphocgmdpmiohjclchaaljpaelp": {
-            "blacklist": true
-         },
-         "hgboiaecclcbjphldpbgfgggcbihmnai": {
-            "blacklist": true
-         },
-         "hgjgaeknhmidehalnmokomhpfhbfmpcm": {
-            "blacklist": true
-         },
-         "hhbihfbjoifhhebcnchglobmkmapgjkm": {
-            "blacklist": true
-         },
-         "hhfffemhgkginfafaoapljdllodppana": {
-            "blacklist": true
-         },
-         "hhfiljkpjapjjphcocclhhaldpfkkjbi": {
-            "blacklist": true
-         },
-         "hhjmkijkgojfifipdgmiemghfikbohcm": {
-            "blacklist": true
-         },
-         "hhlgbfcfbkhlmajakkcjippgpcmejkko": {
-            "blacklist": true
-         },
-         "hhommgjjeekpmpcbdmfnhpchijdkgaei": {
-            "blacklist": true
-         },
-         "hilncbjbdpnfepdidfchmdclhpnlegpj": {
-            "blacklist": true
-         },
-         "himgjpdejpikenoibmolgmfblolpahno": {
-            "blacklist": true
-         },
-         "hjkhligcnpfjhjlapmejaiaiigibofif": {
-            "blacklist": true
-         },
-         "hjnigaibahdeadcdnpnommdehajodlhc": {
-            "blacklist": true
-         },
-         "hkbgccpdcpbdckohbknjlamamelcnlki": {
-            "blacklist": true
-         },
-         "hkjcejgfmaanpncnpoidgbhoikcaeepd": {
-            "blacklist": true
-         },
-         "hkjfdgjkgpbbdmadbglcgljjjddkcdha": {
-            "blacklist": true
-         },
-         "hmmoglffhpmacaacfbbmbbkcbdkjphnc": {
-            "blacklist": true
-         },
-         "hnbcdmfeoldeppcbnnjmjkdofohaljbn": {
-            "blacklist": true
-         },
-         "hncomkjbbkchfjelocejkbbflmjhlhfp": {
-            "blacklist": true
-         },
-         "hnipgljcblpgnnojcfldehpeknhakbgj": {
-            "blacklist": true
-         },
-         "hnkcpoijaeegompjgbjjhkdmljldaccg": {
-            "blacklist": true
-         },
-         "hnnebfeppcbhhbhiifeaajgcjnkljlld": {
-            "blacklist": true
-         },
-         "hnonhhpgjnjcjfbkjdpfbkfpaodcmncb": {
-            "blacklist": true
-         },
-         "hnpgphegniamplngojaffllhjahkgbfl": {
-            "blacklist": true
-         },
-         "hpcdoodjfcmpcpkeendjnjkeinimhkih": {
-            "blacklist": true
-         },
-         "hphibigbodkkohoglgfkddblldpfohjl": {
-            "blacklist": true
-         },
-         "hpibmhghjndideebpackbdlpncgkcppp": {
-            "blacklist": true
-         },
-         "iablioliielnhdianpbiijaoncbmfend": {
-            "blacklist": true
-         },
-         "ibnhidklhjoopebonemhliklfbhndjjd": {
-            "blacklist": true
-         },
-         "iccblehkchfmjgfafjcpjlkjcponhdhl": {
-            "blacklist": true
-         },
-         "icihfeaofpcfehanhbnjigdlpfahjlee": {
-            "blacklist": true
-         },
-         "idbdlnkdnaodonmgnimcfelpngbmcpjk": {
-            "blacklist": true
+         "hcjdanpjacpeeppdjkppebobilhaglfo": {
+            "active_permissions": {
+               "api": [ "contextMenus", "tabs" ],
+               "explicit_host": [ "http://*.searchpreview.de/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "contextMenus", "tabs" ],
+               "explicit_host": [ "http://*.searchpreview.de/*" ],
+               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            },
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
+            "incognito": true,
+            "initial_keybindings_set": true,
+            "install_time": "13028719856521041",
+            "lastpingday": "13028716942603680",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "scripts": [ "background.js" ]
+               },
+               "content_scripts": [ {
+                  "js": [ "mutation_summary.js", "gp.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_end"
+               } ],
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "Adds preview images (thumbnails) to your Google\u2122 search results.",
+               "icons": {
+                  "128": "sp_128.png",
+                  "32": "sp_32.png",
+                  "48": "sp_48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCnYZpld47QD1FBVHijsxiFXW4MdMWNGZ+8it/d+nP1e/Qjw2r4AUSLwvFWEVvXRsvKSS+rMNpx3cXaP7m9qpLYRABWs/fx5Lpb6jwuX4u2YGXYvtsQEzbCYS0MXiGyFLmTh63kwAMmMDXXZyWTEznOFIIcH5hwQuIr/uMcrGAD/wIDAQAB",
+               "manifest_version": 2,
+               "name": "SearchPreview",
+               "options_page": "options.html",
+               "permissions": [ "contextMenus", "tabs", "http://*.searchpreview.de/" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "3.2"
+            },
+            "path": "hcjdanpjacpeeppdjkppebobilhaglfo/3.2_0",
+            "state": 1,
+            "was_installed_by_default": false
          },
          "idknbmbdnapjicclomlijcgfpikmndhd": {
             "active_permissions": {
@@ -1688,20 +1081,33 @@
                "explicit_host": [ "http://*/*", "https://*/*", "https://accounts.google.com/*", "https://www.google.com/*" ],
                "scriptable_host": [ "http://www.google.com/robots.txt*" ]
             },
-            "install_time": "13011003696848417",
-            "lastpingday": "13011606000227285",
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13028719855540138",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
-               "background_page": "background.html",
+               "background": {
+                  "page": "background.html"
+               },
                "content_scripts": [ {
                   "js": [ "oauth2/oauth2_inject.js" ],
                   "matches": [ "http://www.google.com/robots.txt*" ],
                   "run_at": "document_start"
                } ],
+               "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
                "current_locale": "en_US",
                "default_locale": "en",
                "description": "Send web pages from Chrome on your computer to Chrome on your phone or tablet.",
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwKklQFWC5gcVdgoAElbU4vCtbQDz2sshBIetRv8yxfVOk1D6qqWKA71OJ1E/d3wU5+7lGQpcGes2+YZO+RrsVGaH92OwevlrYPELx7fgaDFlbU5X0bRcgsWdVBVu+oKjq9qJZQBzPSfhLYloVtYLGszoHCrxrOA9L8cxUNQ6szwIDAQAB",
+               "manifest_version": 2,
                "name": "Chrome to Mobile",
                "page_action": {
                   "default_icon": "images/icon-19.png",
@@ -1709,78 +1115,12 @@
                   "default_title": "Chrome to Mobile"
                },
                "permissions": [ "tabs", "pageCapture", "https://www.google.com/cloudprint/*", "https://accounts.google.com/o/oauth2/token", "http://*/*", "https://*/*" ],
-               "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "1.0.0"
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "2"
             },
-            "path": "idknbmbdnapjicclomlijcgfpikmndhd/1.0.0_0",
+            "path": "idknbmbdnapjicclomlijcgfpikmndhd/2_0",
             "state": 1,
             "was_installed_by_default": false
-         },
-         "iedogbkombgmapifenoojnmpcnjighfm": {
-            "blacklist": true
-         },
-         "iemfpgbdjfoihicbocpbjppipdbfimeh": {
-            "blacklist": true
-         },
-         "ifbkndkaolfbjjhnnhfmkbkoclpdkpli": {
-            "blacklist": true
-         },
-         "ifeijfpkjckedpclgncedmgdiaoeahmk": {
-            "blacklist": true
-         },
-         "igaajdmlejbjcbmpmnigopikfdaccdcm": {
-            "blacklist": true
-         },
-         "igbaoknfddliiaoimhehfbkfekpmmfll": {
-            "blacklist": true
-         },
-         "igghanohiioehififjoalfkdoicafjof": {
-            "blacklist": true
-         },
-         "iggjepemmdkieakihpomccndhdfcljdp": {
-            "blacklist": true
-         },
-         "igjhgaoajaccjllfkfffboldnmncmhoh": {
-            "blacklist": true
-         },
-         "igkdgkdiiolilocklmiolkpoohacojop": {
-            "blacklist": true
-         },
-         "ihnembcpodnfgkafmiojebccomjekopm": {
-            "blacklist": true
-         },
-         "iiiinekimabooeihccihfopoadcaaphn": {
-            "blacklist": true
-         },
-         "ijecjbcgpblkacpijljpaienknanaloa": {
-            "blacklist": true
-         },
-         "ijenlpgidnapbndonoinbkhekgjonojg": {
-            "blacklist": true
-         },
-         "ijjmbbddenkbenbcfldgghhjgjmcnioo": {
-            "blacklist": true
-         },
-         "ilhjicgcglhjigdehkcehjdokmkahbjl": {
-            "blacklist": true
-         },
-         "iljfgjkppapinhcgonhjnipfppfmfedh": {
-            "blacklist": true
-         },
-         "ilmknaabackgdbnkgbihgpgiopnlkjek": {
-            "blacklist": true
-         },
-         "imfbomjbodpfgfhfahlgkkcllmhbelhk": {
-            "blacklist": true
-         },
-         "imkffpjpdngdkpgadcmnlkhhmhdocijn": {
-            "blacklist": true
-         },
-         "inbhlfpapeikbbgpfionabkigakepbbm": {
-            "blacklist": true
-         },
-         "indfhnliadamglhalanplbajgenpjdml": {
-            "blacklist": true
          },
          "ineckjpdpocelacecaogaapbmmmpcdci": {
             "app_launcher_ordinal": "yn",
@@ -1788,7 +1128,7 @@
             "from_bookmark": true,
             "from_webstore": false,
             "install_time": "13009616257135425",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -1809,396 +1149,6 @@
             "path": "ineckjpdpocelacecaogaapbmmmpcdci/2013.4.5.17186_0",
             "state": 1,
             "was_installed_by_default": false
-         },
-         "iobnpmeeecphddicmhhmdjbnlbdhjlne": {
-            "blacklist": true
-         },
-         "iomejadoamfilglofmeaffghddcgapmf": {
-            "blacklist": true
-         },
-         "jabpdgllijbnknhkgjideeajfofafckp": {
-            "blacklist": true
-         },
-         "jaejgaoiipdjjlbnapngknalafalbkej": {
-            "blacklist": true
-         },
-         "jafnimahlamccccjbkhjjpeiipiedpik": {
-            "blacklist": true
-         },
-         "janhdpmhnighonkkbkdpnljcoenpfkbh": {
-            "blacklist": true
-         },
-         "jbfebbkjjmkcoldeaeelhpconkmgjhbg": {
-            "blacklist": true
-         },
-         "jbmbiepnidbnhbbfdbgioomdkgnbcacj": {
-            "blacklist": true
-         },
-         "jbnafcjbcfgejacaanogofkkehcomamp": {
-            "blacklist": true
-         },
-         "jcmipejepoimfflnoapdmkdephgjinck": {
-            "blacklist": true
-         },
-         "jddbdddmbfencninofcgnodekclofpaj": {
-            "blacklist": true
-         },
-         "jdiakcmbpmcnniggjcmcjknnklpdlogc": {
-            "blacklist": true
-         },
-         "jeehjhnmgohgpfpjneglogiholalkeip": {
-            "blacklist": true
-         },
-         "jfalnphfjdoalcdhlnhdpekbmmopkgkj": {
-            "blacklist": true
-         },
-         "jfhmafmjfdblceidmfdmoihamolaaeco": {
-            "blacklist": true
-         },
-         "jfjagidcpadkoaonbogmbgfimmnefeie": {
-            "blacklist": true
-         },
-         "jgdkappiifgomhgikcjbanhnmlekpeje": {
-            "blacklist": true
-         },
-         "jgmpapdckakiohhebmeoemejibommimi": {
-            "blacklist": true
-         },
-         "jgoljhcbgajhbhnchplgjdkknendhjnn": {
-            "blacklist": true
-         },
-         "jhhabiomopkibeecgngiggmopkeofacl": {
-            "blacklist": true
-         },
-         "jihmekmccilkocefjpejdebpapohlhjb": {
-            "blacklist": true
-         },
-         "jiiccolbjkhpgockodneljpejdeaaodf": {
-            "blacklist": true
-         },
-         "jindbcpkhnnnjgcjgmkjedbibibiojjf": {
-            "blacklist": true
-         },
-         "jiofcofpcbijcnlpekdkpmgjdppajbjb": {
-            "blacklist": true
-         },
-         "jjhackoobdibnnndjopfjldbjmohkpdk": {
-            "blacklist": true
-         },
-         "jjnkfllhcgkgnfbekpnmoikpfihpjfli": {
-            "blacklist": true
-         },
-         "jkihmglffmfjedfbpbpdbbimcodjbmdh": {
-            "blacklist": true
-         },
-         "jkkfmenldnihjkgnolhlakhaepomhoob": {
-            "blacklist": true
-         },
-         "jkmhalpofmlfeglboejbchpoijnkmcgh": {
-            "blacklist": true
-         },
-         "jljfnkmkkdkppfndippkedacgfkafped": {
-            "blacklist": true
-         },
-         "jmbkhogpjgjpfjhpdikloblkbkljkgao": {
-            "blacklist": true
-         },
-         "jmeanodbelbflfmnkfdjgpikmldgjjko": {
-            "blacklist": true
-         },
-         "jmifipgdcllamghkhdplfjffkciekbgo": {
-            "blacklist": true
-         },
-         "jnehbnhjkefckoljkcmjfgkkeejhipgi": {
-            "blacklist": true
-         },
-         "jokbafidjfknjbchmcakabjgdiiacgek": {
-            "blacklist": true
-         },
-         "jolgdmpdhloiienhblmiimamomhdphlk": {
-            "blacklist": true
-         },
-         "jpehgolpfgnknboibogccapmdcadjkbd": {
-            "blacklist": true
-         },
-         "jpeijjbllejgmokmahkeommcodahoobm": {
-            "blacklist": true
-         },
-         "jpgidahfcgiajlcbleeiaibpmmblcmnb": {
-            "blacklist": true
-         },
-         "jpiedgcdjigcoeagojmlokclbljokpon": {
-            "blacklist": true
-         },
-         "jpkdlckejfjidmplieobnhijmoiecbhl": {
-            "blacklist": true
-         },
-         "kbipembkfhbdmkkkfbigmohilmknjnof": {
-            "blacklist": true
-         },
-         "kbmkecfipofebpaikgifajmahdmadlnb": {
-            "blacklist": true
-         },
-         "kcanfkmhccbaheheaackijegkclkaeic": {
-            "blacklist": true
-         },
-         "kcfnnanmpghdnoompcfclakpacapnfbn": {
-            "blacklist": true
-         },
-         "kcgplbmkmfcpngilmhjmebdgkkpbdemp": {
-            "blacklist": true
-         },
-         "kdchmeaiapjkejkcbeclgjklemecieeg": {
-            "blacklist": true
-         },
-         "kdcnnmifdmlmjffdgeieikcokcogpbej": {
-            "blacklist": true
-         },
-         "kdfahjokahcbmecgaandpobmgiiknagf": {
-            "blacklist": true
-         },
-         "kdicckonacionpoompfoopggkgimjpcb": {
-            "blacklist": true
-         },
-         "kdjhalklkkcmodeicjiaekcgifkcepaf": {
-            "blacklist": true
-         },
-         "kdpcgcpfnkolljkhgdbbgimplfkhakec": {
-            "blacklist": true
-         },
-         "keknhkokjnjhgpcofobpcbelddppeolp": {
-            "blacklist": true
-         },
-         "kelcbonmemlciepjdmfcifnhloeammhj": {
-            "blacklist": true
-         },
-         "kelljdoinjlkmkncffgadbebgpmlcang": {
-            "blacklist": true
-         },
-         "keoimpnicgbcjamfdgpcecihicnbmhej": {
-            "blacklist": true
-         },
-         "kffhenjbibjnbnjhlkcdlmpeccpaohio": {
-            "blacklist": true
-         },
-         "kfodnkhdfdgeaegehjjnkjkieloddelg": {
-            "blacklist": true
-         },
-         "kgbkdabomfdpfoibliicpmibceaoohgh": {
-            "blacklist": true
-         },
-         "kgbmmcjgkkecjcafigegjphkmkdpnggo": {
-            "blacklist": true
-         },
-         "kgdhnhadbnpeibkghaebmhmngobdafag": {
-            "blacklist": true
-         },
-         "kgdkcodealpfjolmiagcogfbgmaamegh": {
-            "blacklist": true
-         },
-         "kgdmldjagfciieddcnlhampgkajkpanc": {
-            "blacklist": true
-         },
-         "khgjomcpjblpoaipanicbfjfgcfbpegp": {
-            "blacklist": true
-         },
-         "kibgmcdcfmcglajcfbecilngejnfppjp": {
-            "blacklist": true
-         },
-         "kiipngoehgkgkackngaidmhmnchfbmio": {
-            "blacklist": true
-         },
-         "kincjchfokkeneeofpeefomkikfkiedl": {
-            "blacklist": true
-         },
-         "kinhljbhjmcmoddhdoodekeklmjapjff": {
-            "blacklist": true
-         },
-         "kkhomejdleoonmbdhcigkhkjcghngncf": {
-            "blacklist": true
-         },
-         "kkkeikdkpjenmoiicggnnodbkebafgpc": {
-            "blacklist": true
-         },
-         "kleaapgdkahaekcocmkbgfainbhihccj": {
-            "blacklist": true
-         },
-         "kljhmdlkclaglodecegamnpioaflmage": {
-            "blacklist": true
-         },
-         "kmlebjoghkhpapfhbdikannggmmffnco": {
-            "blacklist": true
-         },
-         "kojkdbedffnppdoalcfkkeelbhbklhgp": {
-            "blacklist": true
-         },
-         "kolbbghckjilleabphhgeggcgpfidofi": {
-            "blacklist": true
-         },
-         "kpbfifeiomkhocgkkffocfinoedcjebg": {
-            "blacklist": true
-         },
-         "laicaenbonaajhkmfhhbpiapobdieffm": {
-            "blacklist": true
-         },
-         "lambangeielkjcnmioccboaphdfcffib": {
-            "blacklist": true
-         },
-         "lbaddolhebpnhdcdkicpcflhnfamcemn": {
-            "blacklist": true
-         },
-         "lbcmmpmjjaockhkcofljpakjcbmjmgla": {
-            "blacklist": true
-         },
-         "lbficnmfealeidppcbgdcbemgfjodbkg": {
-            "blacklist": true
-         },
-         "lcbfjcekjncehfbcimlogajbekmoeblm": {
-            "blacklist": true
-         },
-         "lcccggoiffkhgfkefgbicjdgdnfpoihn": {
-            "blacklist": true
-         },
-         "lceaiepehinnomgijphkmjccbigkljkj": {
-            "blacklist": true
-         },
-         "lcfkojlnjnedeoepfemhdgkhiabkeadc": {
-            "blacklist": true
-         },
-         "lcmpleboacinanffcdgenhhbkboclkjb": {
-            "blacklist": true
-         },
-         "ldgfapfmnplpaohbbadnecegcpfkfall": {
-            "blacklist": true
-         },
-         "ldmoahefokhfelhpbgfjpelcdbahdofk": {
-            "blacklist": true
-         },
-         "leccghfplhenabeogpibljliijgapfgb": {
-            "blacklist": true
-         },
-         "lfggokjjaanlfikbbapgnfemifmddalf": {
-            "blacklist": true
-         },
-         "lgalokbapphhklmilicdefmgbjkcmldf": {
-            "blacklist": true
-         },
-         "lgcnahanhlfpceencjmlehpfklokhojk": {
-            "blacklist": true
-         },
-         "lhajoamjgchgljkdjigcgmmcehjkagan": {
-            "blacklist": true
-         },
-         "lhgbajoidigcpmgbnnonllfkndhahmie": {
-            "blacklist": true
-         },
-         "likifpgnijjfbdegfepoalpamlgnfofi": {
-            "blacklist": true
-         },
-         "liomofjeffddiiccaolcnllbhnipbkhe": {
-            "blacklist": true
-         },
-         "ljcicfibknpmlcmcecddjlbgkejehhpa": {
-            "blacklist": true
-         },
-         "ljeihpebkahejeacdalhkhmckmggppif": {
-            "blacklist": true
-         },
-         "ljlppmpjdogefnanekncklkjgpnhpcpd": {
-            "blacklist": true
-         },
-         "ljmjoloiepllcndinchenhomcdcgbgef": {
-            "blacklist": true
-         },
-         "lkdimamelhbiijkiljlnedmhnnkkmlbl": {
-            "blacklist": true
-         },
-         "lkfdchejjogilmloogbbjlnlpbhgjfab": {
-            "blacklist": true
-         },
-         "lkhcbijhgfchgdmklonlobkfbcadbokg": {
-            "blacklist": true
-         },
-         "lljnngafekbnkpdfophmcdlbfebcbcld": {
-            "blacklist": true
-         },
-         "lmhdacagnmfmomeodbgmlghejdbmldge": {
-            "blacklist": true
-         },
-         "lnahlgmhpghkhmafjppdidhcoaomipfg": {
-            "blacklist": true
-         },
-         "lnbeebaenahmkbffnimghceldeeihfak": {
-            "blacklist": true
-         },
-         "lncjcfkpannmofmpgdfoonkniofdnaba": {
-            "blacklist": true
-         },
-         "lndempehphjoeimfchjflohpmhamiamf": {
-            "blacklist": true
-         },
-         "lnjgjionmhobdfdegbciceafphgemjnc": {
-            "blacklist": true
-         },
-         "lnlaeblencbjjjeaanegaldcjfekeled": {
-            "blacklist": true
-         },
-         "lodollblmkailkkdiijmoccefdfjohgk": {
-            "blacklist": true
-         },
-         "loggadfheaoeabmkgolecncpfdfioefa": {
-            "blacklist": true
-         },
-         "lojppnndedobolgfepahepphhloediji": {
-            "blacklist": true
-         },
-         "loldehkdjdncebfnncknlkdchjclifbn": {
-            "blacklist": true
-         },
-         "lookpbabilcplifjdeifacodednpacmk": {
-            "blacklist": true
-         },
-         "lpgiafapdmlapiokjnmpbbfkomiceoml": {
-            "blacklist": true
-         },
-         "lplmcpcnhpbffpcfiaddbeaplhhbengd": {
-            "blacklist": true
-         },
-         "maakimnachffhlgdhfomaejeeaikgjap": {
-            "blacklist": true
-         },
-         "mafccdbbhekjhemajjejkaidndokeena": {
-            "blacklist": true
-         },
-         "magllcifjcllaafcdplnajmobccbcdlo": {
-            "blacklist": true
-         },
-         "mamfageekafifnickhgkibkofcclfefe": {
-            "blacklist": true
-         },
-         "mandondadnlimicalgkbkaohmeopdojj": {
-            "blacklist": true
-         },
-         "mbifidpgmfiielflaipknojhpfcljmgo": {
-            "blacklist": true
-         },
-         "mbmdaiddhfoljplpdhohimgieioblfif": {
-            "blacklist": true
-         },
-         "mcbkimglepddodbiongpohpeidioafgk": {
-            "blacklist": true
-         },
-         "mcknnlhkkdbcppajgefagceglahcafjd": {
-            "blacklist": true
-         },
-         "mdiehnlecbjlppbpaaipmlnhhjgepfcg": {
-            "blacklist": true
-         },
-         "mdngbiejioalifclonjepjjfppmbgned": {
-            "blacklist": true
-         },
-         "megkcfpbmemnpkgadkoompnoajcolpni": {
-            "blacklist": true
          },
          "mfehgcgbbipciphmccgaenjidiccnmng": {
             "active_permissions": {
@@ -2226,362 +1176,237 @@
             "path": "/opt/google/chrome/resources/cloud_print",
             "was_installed_by_default": false
          },
-         "mfffdpnblflpobcnekhekiahepofaane": {
-            "blacklist": true
-         },
-         "mfgkkephjfnkggbmahehnjhdcmkioaff": {
-            "blacklist": true
-         },
-         "mfhfkclojmdocagbmecgcnlofppebebd": {
-            "blacklist": true
-         },
-         "mfncimdpmknolnnnccdmkpnpkaofonkc": {
-            "blacklist": true
-         },
-         "mfooalpniplhaaealemjpchkchmmgdko": {
-            "blacklist": true
-         },
-         "mgdgiplcofghdmpekdeeceolepakodcb": {
-            "blacklist": true
-         },
-         "mhbffdldpckobeihgebaamjalehefnia": {
-            "blacklist": true
-         },
-         "mhldlgmggplfkkjgpgjjpebflplpgekg": {
-            "blacklist": true
-         },
-         "mickhiflmjglhpdpfigpkpjiipfdlphj": {
-            "blacklist": true
-         },
-         "mikpklndmiopinkkmalgoophegfnmmfh": {
-            "blacklist": true
-         },
-         "mjalegijammcloleihdmooifidcjggjp": {
-            "blacklist": true
-         },
-         "mjgobkikdipfikmaoakdcdbicpioljgg": {
-            "blacklist": true
-         },
-         "mjhlngjakabhonjagnlimeicooahajpl": {
-            "blacklist": true
-         },
-         "mjolnadmlahbpepjaemohnkhpjkbhmef": {
-            "blacklist": true
-         },
-         "mknjbohhleiicbpagpgmhoaigbblmnic": {
-            "blacklist": true
-         },
-         "mkobblpffgbncfhijabakfafmkjdmmnm": {
-            "blacklist": true
-         },
-         "mlmegahemifabfmdnndafagnncfbnahn": {
-            "blacklist": true
-         },
-         "mlmmbepkgelpbenpobinockmiehdahai": {
-            "blacklist": true
-         },
-         "mlnndjkcclbekgoebkenkdgiggaomaed": {
-            "blacklist": true
-         },
-         "mlnoedbhndgbjcbeadjfnmjloejlgojk": {
-            "blacklist": true
-         },
-         "mmjodihhmnpkldljaifiajmlnpflfhpm": {
-            "blacklist": true
-         },
-         "mndoohjdoechinpkfbkolflbonciahfo": {
-            "blacklist": true
-         },
-         "mnhcgaghminpdabllkbkecahjfkdiabk": {
-            "blacklist": true
-         },
-         "mnichagcickblneeijmfnmoiakigmmhf": {
-            "blacklist": true
-         },
-         "mnllienogacopjnkmhgnniopjpgjpopp": {
-            "blacklist": true
-         },
-         "mogepbcllienegdibkfpmombhefhcoic": {
-            "blacklist": true
-         },
-         "mokdlfbphidpiopnlfejpcmadcbomckn": {
-            "blacklist": true
-         },
-         "mpcglemopeoeapmagdbeenepkdbajape": {
-            "blacklist": true
-         },
-         "mpgehpkneknbopplhmmkfijfiniddipf": {
-            "blacklist": true
-         },
-         "mplhbhmkccidaokcelbcbcmhhedebcng": {
-            "blacklist": true
-         },
-         "mplpabdbfbloeiboikmdbnggfnjbjmlh": {
-            "blacklist": true
-         },
-         "naopgnjebjeeedbbhcadkhkmeefmloho": {
-            "blacklist": true
-         },
-         "nbfcehkihbmpebblmfkihadebllgfmgl": {
-            "blacklist": true
-         },
-         "nbieffehfdniifkgdckbndjhojohbfjj": {
-            "blacklist": true
-         },
-         "nckmikohoilfkcoahbjpbgbpegcjgngm": {
-            "blacklist": true
-         },
-         "ncpdanjmicnihdlijomcggnnekloephc": {
-            "blacklist": true
-         },
-         "ndhkiimgbjnendpcfbiadlifmangejoa": {
-            "blacklist": true
-         },
-         "ndiogongcmocdgjciemhagfhpjamehpe": {
-            "blacklist": true
-         },
-         "negkalblfongjbphdcbbhddlickhlamd": {
-            "blacklist": true
-         },
-         "nepfiodmbijheamafkiglonfkjebdjmf": {
-            "blacklist": true
-         },
-         "nfecfkjnlkbphobjbcnphimihniieehc": {
-            "blacklist": true
-         },
-         "nhbfbnmmdjkjahhfdeklgphihfodfgnb": {
-            "blacklist": true
-         },
-         "nhboiakpmibkbkbeehchlfkggmhphpnk": {
-            "blacklist": true
-         },
-         "nhkmojkfnknbbmhbnacjdlodokeophkl": {
-            "blacklist": true
-         },
-         "nhooocacdhkpbmoocdclodjlddcebfoe": {
-            "blacklist": true
-         },
-         "nibohffepnilngkecenfdgnokfhmnkod": {
-            "blacklist": true
-         },
-         "nidmbljkkcbdfklgdkklgjgmhejmbojn": {
-            "blacklist": true
-         },
-         "nidodbfomffkfabciljelkbdiabkeehe": {
-            "blacklist": true
-         },
-         "nifbebeekindefklojhchehidpikbjfc": {
-            "blacklist": true
-         },
-         "nihhbeikpchdddoillfdcdinnnnllmna": {
-            "blacklist": true
-         },
-         "nlefocohkhlgmjdhgkjgdodobmffjbod": {
-            "blacklist": true
-         },
-         "nlgapikcofpablcmfgaoodlhiejiehhh": {
-            "blacklist": true
-         },
-         "nloaaepkhcnmoakooihnefhhggbmemed": {
-            "blacklist": true
-         },
-         "nmgpbidjnaebdlbdbpjggenmbaolmfoi": {
-            "blacklist": true
-         },
-         "nmmnodocfckpoddcgihiihcdinaonckb": {
-            "blacklist": true
-         },
-         "nmphbnbmgfccfhcmibikmhcgajjpelpf": {
-            "blacklist": true
-         },
-         "nnioepmjbjjlflmdgjanlcmbjahljeeo": {
-            "blacklist": true
-         },
-         "nochkknnbahbhmmknnmdhagelcnfagom": {
-            "blacklist": true
-         },
-         "noefghcilkpcabnhhilojimkkjplhcnd": {
-            "blacklist": true
-         },
-         "npadaghbcdejfngcjpbnoikajdnongca": {
-            "blacklist": true
-         },
-         "npfpmgjnfcklmaipcffpjhapedmpjggj": {
-            "blacklist": true
-         },
-         "npolaghondefgiomhkbiiompikfjneep": {
-            "blacklist": true
-         },
-         "oakhllhnbcpgagdafgbninlpjdemdmjk": {
-            "blacklist": true
-         },
-         "oanjogmonneelfpnfmdlalfddkeckdej": {
-            "blacklist": true
-         },
-         "obfnipbbnnhkbafmdbbfpgfgbjmmkgpm": {
-            "blacklist": true
-         },
-         "obgljnmbldahelaakfdbjkplokjoneip": {
-            "blacklist": true
-         },
-         "obhplmafmpmelgapjjbfhcdkicnhakhf": {
-            "blacklist": true
-         },
-         "oblicopoaionpjoapgjmmoncjadpdioh": {
-            "blacklist": true
-         },
-         "ochmdkhojipfibbplgpeeggeimnagcfd": {
-            "blacklist": true
-         },
-         "ocmhjnhildbnglmlfimkjnnfgddelacb": {
-            "blacklist": true
-         },
-         "ocnlnkjmfnolmbclblfhfhcakldceiec": {
-            "blacklist": true
-         },
-         "odeckaficnaplobiiaomegfbokokehhb": {
-            "blacklist": true
-         },
-         "odefpckfdnfkeandbeccopcpncnbkonn": {
-            "blacklist": true
-         },
-         "odnamglmogfldajnhkfodmloofeokcmm": {
-            "blacklist": true
-         },
-         "oebmjchahlpmalnjpeagiibojcbfmema": {
-            "blacklist": true
-         },
-         "oelhhkgiajkjfbccafjgggcpkbkjgpij": {
-            "blacklist": true
-         },
-         "oghphhcagopecifjblgdcfihjnlcbcfc": {
-            "blacklist": true
-         },
-         "ogjbodghhojomghbdfnlkppdagkfjede": {
-            "blacklist": true
-         },
-         "oidjdpbndkjhmhmgdoggibcjnippkcgo": {
-            "blacklist": true
-         },
-         "oilfokmpgejhjhecdjjpikloibggpenf": {
-            "blacklist": true
-         },
-         "oimplfccampifgkgndlamabnkcibkngc": {
-            "blacklist": true
-         },
-         "ojglppmhgfohhfeinlhklglifnbfebak": {
-            "blacklist": true
-         },
-         "ojmdhklabgbnnkkilmkcfcemdhognifc": {
-            "blacklist": true
-         },
-         "omceiakkomngangmllpgbjcoeloglald": {
-            "blacklist": true
-         },
-         "omnicnmbagoinlpamknknbcgopadcoci": {
-            "blacklist": true
-         },
-         "oncmkbmjpjlihkpbohlpmjghiiogmoie": {
-            "blacklist": true
-         },
-         "onfbaaifbbahonepmednhkjbhdgogkbl": {
-            "blacklist": true
-         },
-         "onjaecbdddgibdijafoemfiachlbcgkj": {
-            "blacklist": true
-         },
-         "onpnpccdagncipgnoofbhchlbajcjnkd": {
-            "blacklist": true
-         },
-         "oocfbmollajebjjpkahmlnclfhkjijea": {
-            "blacklist": true
-         },
-         "ookcgejbfhcmcanfkfmmmpahflnlajbl": {
-            "blacklist": true
-         },
-         "oomelpjfeldbopnleifpjibbpekflhlg": {
-            "blacklist": true
-         },
-         "opnnngnphijodjhemhdafpnnpdjggofe": {
-            "blacklist": true
-         },
-         "pajgiddgjidlcajihkjoacjbplimkgfe": {
-            "blacklist": true
-         },
-         "pbdgmppmccanplobanhfkjndjkmmabgk": {
-            "blacklist": true
-         },
-         "pbekednmpdekknlffkiopooofokfmkla": {
-            "blacklist": true
-         },
-         "pbglijbamgmlcpnnpbfjkbdeheejjloj": {
-            "blacklist": true
-         },
-         "pbipaboekjdfhkfifpkofbfnpbnlolji": {
-            "blacklist": true
-         },
-         "pcaedgdgamlfffkfblocmakhgieggoak": {
-            "blacklist": true
-         },
-         "pcojpoljjgnicbhaffkiphphplijgbcc": {
-            "blacklist": true
-         },
-         "pdhjoamffhjhlkiiminjhmihalkfjaee": {
-            "blacklist": true
-         },
-         "peahabnpipmmfiajjjhgfggbeigbmbgp": {
-            "blacklist": true
-         },
-         "peiijdmlgbelnnmnkighhkpeihmmamio": {
-            "blacklist": true
-         },
-         "pfaooklcbjnkgconjjepimkohgcjmdji": {
-            "blacklist": true
-         },
-         "pfcelnbmkeoaeicedjomcjkcammlkdbk": {
-            "blacklist": true
-         },
-         "pfckhplmfbblecglndaigpojefidapai": {
-            "blacklist": true
-         },
-         "pfgmgcnbngcnhjddppmnloflcidemopc": {
-            "blacklist": true
-         },
-         "pfhlnanelpgjbhndafjamnpfhkjadoip": {
-            "blacklist": true
-         },
-         "pfoiaildicnbcjojocjlpcibenphhbln": {
-            "blacklist": true
-         },
-         "pfonklmafadkmcedjlodommcoipgbcde": {
-            "blacklist": true
-         },
-         "pgelifedkjaohmjehecojkfldinjlamn": {
-            "blacklist": true
-         },
-         "pgjpnfpidejcmjibaaohcmehfohacckf": {
-            "blacklist": true
-         },
-         "pgldfhecfiofkhnbgcncepnkjkeoahlk": {
-            "blacklist": true
-         },
-         "pgmfkblbflahhponhjmkcnpjinenhlnc": {
-            "blacklist": true
-         },
-         "pgmpnhbchhaningbkefchpdalnimjijd": {
-            "blacklist": true
-         },
-         "phkpgooenaonkpnabopdbjjfmphclela": {
-            "blacklist": true
-         },
-         "pihcfdffalbcnmbghijdfcaanagapelf": {
-            "blacklist": true
-         },
-         "pjdhkkcnlbfebiokpeghfffajaabahfo": {
-            "blacklist": true
-         },
-         "pjgbfgdpkbfimabdalhjmmeeelbmkcac": {
-            "blacklist": true
+         "neajdppkdcdipfabeoofebfddakdcjhd": {
+            "active_permissions": {
+               "api": [ "systemPrivate", "ttsEngine" ],
+               "explicit_host": [ "https://www.google.com/*" ]
+            },
+            "creation_flags": 1,
+            "events": [ "ttsEngine.onPause", "ttsEngine.onResume", "ttsEngine.onSpeak", "ttsEngine.onStop" ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "initial_keybindings_set": true,
+            "install_time": "13028719852209347",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "persistent": false,
+                  "scripts": [ "tts_extension.js" ]
+               },
+               "description": "Component extension providing speech via the Google network text-to-speech service.",
+               "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8GSbNUMGygqQTNDMFGIjZNcwXsHLzkNkHjWbuY37PbNdSDZ4VqlVjzbWqODSe+MjELdv5Keb51IdytnoGYXBMyqKmWpUrg+RnKvQ5ibWr4MW9pyIceOIdp9GrzC1WZGgTmZismYR3AjaIpufZ7xDdQQv+XrghPWCkdVqLN+qZDA1HU+DURznkMICiDDSH2sU0egm9UbWfS218bZqzKeQDiC3OnTPlaxcbJtKUuupIm5knjze3Wo9Ae9poTDMzKgchg0VlFCv3uqox+wlD8sjXBoyBCCK9HpImdVAF1a7jpdgiUHpPeV/26oYzM9/grltwNR3bzECQgSpyXp0eyoegwIDAQAB",
+               "manifest_version": 2,
+               "name": "Google Network Speech",
+               "permissions": [ "systemPrivate", "ttsEngine", "https://www.google.com/" ],
+               "tts_engine": {
+                  "voices": [ {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "en-US",
+                     "remote": true,
+                     "voice_name": "Google US English"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "male",
+                     "lang": "en-GB",
+                     "remote": true,
+                     "voice_name": "Google UK English Male"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "en-GB",
+                     "remote": true,
+                     "voice_name": "Google UK English Female"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "es-ES",
+                     "remote": true,
+                     "voice_name": "Google Espa\u00F1ol"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "fr-FR",
+                     "remote": true,
+                     "voice_name": "Google Fran\u00E7ais"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "it-IT",
+                     "remote": true,
+                     "voice_name": "Google Italiano"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "de-DE",
+                     "remote": true,
+                     "voice_name": "Google Deutsch"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "ja-JP",
+                     "remote": true,
+                     "voice_name": "Google \u65E5\u672C\u4EBA"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "ko-KR",
+                     "remote": true,
+                     "voice_name": "Google \uD55C\uAD6D\uC758"
+                  }, {
+                     "event_types": [ "start", "end", "error" ],
+                     "gender": "female",
+                     "lang": "zh-CN",
+                     "remote": true,
+                     "voice_name": "Google \u4E2D\u56FD\u7684"
+                  } ]
+               },
+               "version": "1.0"
+            },
+            "path": "/opt/google/chrome/resources/network_speech_synthesis",
+            "was_installed_by_default": false
+         },
+         "nfnbjbobhhoaekejilcmdkfomkndikho": {
+            "active_permissions": {
+               "api": [ "contextMenus", "tabs" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "\u003Call_urls\u003E" ]
+            },
+            "creation_flags": 9,
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "contextMenus", "tabs" ],
+               "explicit_host": [ "http://*/*", "https://*/*" ],
+               "scriptable_host": [ "\u003Call_urls\u003E" ]
+            },
+            "has_declarative_rules": false,
+            "incognito": true,
+            "initial_keybindings_set": true,
+            "install_time": "13018346607292529",
+            "lastpingday": "13028716942603680",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "scripts": [ "background.js" ]
+               },
+               "content_scripts": [ {
+                  "css": [ "css/basic.css" ],
+                  "js": [ "jquery-1.7.1.js", "jquery.simplemodal.js", "qrcontent.js" ],
+                  "matches": [ "\u003Call_urls\u003E" ]
+               } ],
+               "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "This is great chrome extension for every smartphone user",
+               "icons": {
+                  "112": "icon-112.png",
+                  "128": "icon-128.png",
+                  "16": "icon-16.png",
+                  "48": "icon-48.png",
+                  "96": "icon-96.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDU0P3qa2/qKuQNNGZcGkPLyxHmA8qYOPyIY6C0gldUSAR5ySZLe7oUqVldgpPh/Od+Z73eW0Z2AQpIqAJm5tYIpTpevLwhLnmO4Qdk+dIFrGogRF9EMeR0wn8Xfa/1dgoj/KqQreeLx1qpMCvm6NbgXxsiyDR817+5vrCe1n5UcQIDAQAB",
+               "manifest_version": 2,
+               "name": "Smart QrCode Generator",
+               "options_page": "options.html",
+               "page_action": {
+                  "default_icon": "icon-19.png",
+                  "default_popup": "popup.html",
+                  "default_title": "Generate QrCode"
+               },
+               "permissions": [ "contextMenus", "http://*/*", "https://*/*", "tabs" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "1.8.5",
+               "web_accessible_resources": [ "popup.html", "img/basic/x.png" ]
+            },
+            "path": "nfnbjbobhhoaekejilcmdkfomkndikho/1.8.5_0",
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "nkeimhogjdpnpccoofpliimaahmaaome": {
+            "active_permissions": {
+               "api": [ "desktopCapture", "webConnectable", "webrtcAudioPrivate", "webrtcLoggingPrivate", "system.cpu" ]
+            },
+            "creation_flags": 1,
+            "from_bookmark": false,
+            "from_webstore": false,
+            "initial_keybindings_set": true,
+            "install_time": "13028719852208702",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "page": "background.html",
+                  "persistent": false
+               },
+               "externally_connectable": {
+                  "matches": [ "https://*.google.com/hangouts*", "*://localhost/*" ]
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAQt2ZDdPfoSe/JI6ID5bgLHRCnCu9T36aYczmhw/tnv6QZB2I6WnOCMZXJZlRdqWc7w9jo4BWhYS50Vb4weMfh/I0On7VcRwJUgfAxW2cHB+EkmtI1v4v/OU24OqIa1Nmv9uRVeX0GjhQukdLNhAE6ACWooaf5kqKlCeK+1GOkQIDAQAB",
+               "manifest_version": 2,
+               "name": "Hangout Services",
+               "permissions": [ "desktopCapture", "system.cpu", "webrtcAudioPrivate", "webrtcLoggingPrivate" ],
+               "version": "1.0"
+            },
+            "path": "/opt/google/chrome/resources/hangout_services",
+            "was_installed_by_default": false
+         },
+         "nmmhkkegccagdldgiimedpiccmgmieda": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "identity", "webRequestInternal", "webview" ],
+               "explicit_host": [ "https://checkout.google.com/*", "https://sandbox.google.com/*", "https://www.google.com/*" ]
+            },
+            "app_launcher_ordinal": "zv",
+            "creation_flags": 137,
+            "events": [ "app.runtime.onLaunched" ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "has_declarative_rules": {
+               "declarativeContent": {
+                  "onPageChanged": false
+               },
+               "declarativeWebRequest": {
+                  "onRequest": false
+               }
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13028719873740308",
+            "lastpingday": "13028716942603680",
+            "location": 10,
+            "manifest": {
+               "app": {
+                  "background": {
+                     "scripts": [ "craw_background.js" ]
+                  }
+               },
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "Google Wallet for digital goods",
+               "display_in_launcher": false,
+               "display_in_new_tab_page": false,
+               "icons": {
+                  "128": "images/icon_128.png",
+                  "16": "images/icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCrKfMnLqViEyokd1wk57FxJtW2XXpGXzIHBzv9vQI/01UsuP0IV5/lj0wx7zJ/xcibUgDeIxobvv9XD+zO1MdjMWuqJFcKuSS4Suqkje6u+pMrTSGOSHq1bmBVh0kpToN8YoJs/P/yrRd7FEtAXTaFTGxQL4C385MeXSjaQfiRiQIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "29",
+               "name": "Google Wallet",
+               "oauth2": {
+                  "auto_approve": true,
+                  "client_id": "203784468217.apps.googleusercontent.com",
+                  "scopes": [ "https://www.googleapis.com/auth/sierra", "https://www.googleapis.com/auth/sierrasandbox" ]
+               },
+               "permissions": [ "identity", "webview", "https://checkout.google.com/", "https://sandbox.google.com/checkout/", "https://www.google.com/" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "0.0.5.0"
+            },
+            "page_ordinal": "n",
+            "path": "nmmhkkegccagdldgiimedpiccmgmieda/0.0.5.0_0",
+            "running": false,
+            "state": 1,
+            "was_installed_by_default": true
          },
          "pjkljhegncpnkpknbcohdijeoejaedia": {
             "ack_external": true,
@@ -2595,7 +1420,7 @@
                "api": [ "notifications" ]
             },
             "install_time": "13001251703483289",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -2624,64 +1449,13 @@
             "user_dragged_app_ntp": true,
             "was_installed_by_default": true
          },
-         "pjloefkigphblpjminnlpbhjchjafcfc": {
-            "blacklist": true
-         },
-         "pkbbbncikcipejaiiiioboongndhmjgl": {
-            "blacklist": true
-         },
-         "pkbkgagehkkoajkpgnmjegibihpalfdk": {
-            "blacklist": true
-         },
-         "pkbkkendemaimikinaefldfljliecapm": {
-            "blacklist": true
-         },
-         "pkcbihpffghlanbclfmkegjmbijcpobj": {
-            "blacklist": true
-         },
-         "pkdlpbfmpolnhligegklimbccminkioc": {
-            "blacklist": true
-         },
-         "pkhidkonipdjidjglnkfcfhnkfnlefbk": {
-            "blacklist": true
-         },
-         "plfijddblbcdcnammpdmfccchkbdekmm": {
-            "blacklist": true
-         },
-         "pmbjemmaclljifpmnlagkcgpbcipdldb": {
-            "blacklist": true
-         },
-         "pnaaalnkbgjaphhmahecamecmaldknkc": {
-            "blacklist": true
-         },
-         "pnaiiipilbpcceggeanphcpkkihnojan": {
-            "blacklist": true
-         },
-         "pndadpldhngimdmhnajebjldbmcbpjol": {
-            "blacklist": true
-         },
-         "pnnbdjcjeiobikdfikegpclkcimgafpp": {
-            "blacklist": true
-         },
-         "pnpfkfanlgljpkpilhgiimfadggfmhcd": {
-            "blacklist": true
-         },
-         "pnpgiaejfbdapllkchhgchjpdbcpiooa": {
-            "blacklist": true
-         },
-         "pobponmhkpmphbnfhpjdagklbkmjhked": {
-            "blacklist": true
-         },
-         "ppmfajacidhcjbddpgmcmigffpppcadd": {
-            "blacklist": true
-         },
          "ppodkfhjodjcdabeajdkhikhoplbahlj": {
             "app_launcher_ordinal": "zs",
             "creation_flags": 17,
             "from_bookmark": true,
             "from_webstore": false,
             "install_time": "13009616377468101",
-            "lastpingday": "13011606000227285",
+            "lastpingday": "13028716942603680",
             "location": 1,
             "manifest": {
                "app": {
@@ -2704,15 +1478,39 @@
             "was_installed_by_default": false
          }
       },
+      "theme": {
+         "use_system": false
+      },
       "toolbar": [ "bpphkkgodbfncbcpgopijlfakfgmclao", "cmgnmcnlncejehjlnhaglpnoolgbflbd", "gighmmpiobklfepjocnamgkkbiglidom", "cgbogdmdefihhljhfeiklfiedefalcde", "cpngackimfmofbokmjmljamhdncknpmg", "gmbmikajjgmnabiglmofipeabaddhgne" ],
-      "toolbarsize": -1
+      "toolbarsize": -1,
+      "ui": {
+         "developer_mode": false
+      }
+   },
+   "google": {
+      "services": {
+         "signin": {
+            "LSID": "",
+            "SID": ""
+         }
+      }
    },
    "homepage": "",
    "homepage_is_newtabpage": true,
+   "intl": {
+      "accept_languages": "en-US,en"
+   },
+   "invalidator": {
+      "client_id": "Ld3LuO2hQpjfPk8HAyR4IQ=="
+   },
    "net": {
       "http_server_properties": {
          "servers": {
             "ssl.google-analytics.com:443": {
+               "alternate_protocol": {
+                  "port": 443,
+                  "protocol_str": "quic"
+               },
                "settings": {
                   "4": 100
                },
@@ -2720,13 +1518,24 @@
             },
             "www.facebook.com:443": {
                "supports_spdy": true
+            },
+            "www.google-analytics.com:80": {
+               "alternate_protocol": {
+                  "port": 80,
+                  "protocol_str": "quic"
+               },
+               "supports_spdy": false
             }
          },
-         "version": 1
+         "version": 2
       }
    },
    "ntp": {
       "app_page_names": [ "Apps" ],
+      "most_visited_blacklist": {
+         "c8e0afd1da1d9e29511240861f795a5a": null,
+         "eacc8c3ad0b50bd698ef8752d5ee24b6": null
+      },
       "shown_page": 2048
    },
    "plugins": {
@@ -2811,13 +1620,12 @@
       },
       "created_by_version": "23.0.1271.97",
       "default_content_settings": {
-         "mouselock": 2,
-         "plugins": 3
+         "mouselock": 2
       },
       "exit_type": "Normal",
       "exited_cleanly": true,
-      "is_managed": false,
       "local_profile_id": 6731149,
+      "managed_user_id": "",
       "name": "First user",
       "per_host_zoom_levels": {
          "www.pandora.com": 1.2239010334014893
@@ -2826,8 +1634,12 @@
    "reverse_autologin": {
       "rejected_email_list": [ "justchromebrowser@gmail.com" ]
    },
+   "savefile": {
+      "default_directory": "/home/user/Downloads"
+   },
    "session": {
-      "restore_on_startup_migrated": true
+      "restore_on_startup_migrated": true,
+      "startup_urls_migration_time": "13028719852202371"
    },
    "sync": {
       "suppress_start": true
@@ -2836,5 +1648,6 @@
       "startup_count": 1,
       "user_skipped": true,
       "view_count": 1
-   }
+   },
+   "translate_blocked_languages": [ "en" ]
 }

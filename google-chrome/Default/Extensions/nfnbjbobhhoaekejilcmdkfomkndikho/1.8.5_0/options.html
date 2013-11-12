@@ -1,0 +1,312 @@
+﻿<html>
+<head>
+
+<script src='jquery-1.7.1.js'></script>
+<script src='bootstrap.js'></script>
+<script src='jquery.template.js'></script>
+<script src='options.js'></script>
+<link href="bootstrap.css" rel="stylesheet">
+<link href="bootstrap-responsive.css" rel="stylesheet">
+<style type="text/css">
+	.fr{float:right;}
+	.noborder{border:none !important;display:inline-block !important;}
+	.icons{list-style:none;}
+	.input-prepend .add-on, .input-prepend .btn{margin-right:-5px;}
+</style>
+</head>
+<body style="padding:0px;">
+	
+
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="span3">
+			
+          <div class="well ">
+			<h1 id="lblTitle">Smart QrCode Generator</h1>
+			<h3 id="lblVersion">version 1.4</h3>
+			<fieldset>			
+            
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FSmartQrcodeGenerator&amp;send=false&amp;layout=button_count&amp;width=450&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=175345725936191" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>
+            
+			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="margin-top:20px;">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="width:140px;" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+                
+		  </fieldset>
+              <h4 style="display:block;"><span id="lblPleaseReview"> If you like this, Please review to help me :)</span> <a target="_blank" href="https://chrome.google.com/webstore/detail/smart-qrcode-generator/nfnbjbobhhoaekejilcmdkfomkndikho/reviews" id="lblEdit_PleaseReviewGoto">Go to Review Page</a></h4>
+		  </div>
+        </div><!--/span-->
+        <div class="span9">
+          <div class="hero-unit">              
+            <h3 id="lblRules">Rules</h3>
+			<ul id="filterlist" class="nav nav-tabs nav-stacked"></ul>
+			<a class="btn" data-toggle="modal" href="#myModal" id="lblAddRule" >Add Rule</a>
+			<div class="modal hide" id="myModal">
+				<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">×</button>
+    <h3 id="lblAddOrEditGenerator">Add or Edit Generator</h3>
+  </div>
+  <div class="modal-body">
+  <div class="control-group">
+		<div class="controls docs-input-sizes">
+			<input type="hidden" id="genID" value="-1"/>
+			<div class="input-prepend">
+				<span class="add-on" id="lblEdit_Title">Title:</span>
+				<input id="genTitle" type="text" class="input-small span7" placeholder="Title">  
+			</div>
+		</div>
+	</div>
+	<div class="control-group">
+		<div class="controls docs-input-sizes">
+			<div class="input-prepend">
+				<span class="add-on" id="lblEdit_Source">Source:</span>
+				<select id="cbSource" class="source">				
+					<option value="1" id="lblEdit_SiteUrl">Site URL</option>
+					<option value="2" id="lblEdit_SelectedText">Selected text</option>
+				</select>
+			</div>
+			<div class="input-prepend">
+				<span class="add-on" id="lblEdit_Domain">Domain:</span>
+				<input id="domainFilter" type="text" class="span4" placeholder="apple.com" />
+			</div>
+			<div class="input-prepend hide">
+				<span class="add-on" id="lblEdit_Tag">Tag:</span>
+				<select id="cbTag" class="contentTag">					
+					<option value="1" id="lblEdit_ImageSrc">Image - src</option>
+					<option value="2" id="lblEdit_iFrameSrc">iframe - src</option>                
+				</select>
+			</div>
+		</div>
+	</div>
+	<div class="control-group">
+		<div class="controls docs-input-sizes">
+			<div class="input-prepend">
+				<span class="add-on" id="lblEdit_RegularExp">Regular Exp:</span>
+				<input id="genReg" type="text" class="span9" placeholder="Regular expression"></input>
+			</div>
+		</div>
+	</div>
+	<div class="control-group">
+		<div class="controls docs-input-sizes">
+			<div class="input-prepend">
+				<span class="add-on" id="lblEdit_ReplaceString">Replace string:</span>
+				<input id="genRep" type="text" class="span9" placeholder="Replace string"></input>
+			</div>
+		</div>
+	</div>
+  <div class="control-group">
+		<div class="controls docs-input-sizes">
+			<div class="input-prepend">
+				<span class="add-on" id="lblEdit_icon">Icon:</span>
+				<span class="add-on"><i id="iconPreview" class="icon-edit"></i></span>
+				<input id="genIcon" type="text" class="span2" placeholder="Choose icon below"></input>
+				<button id="iconThumb" class="btn">choose icon</button>
+				<label class="checkbox inline" style="margin-left:20px;">
+					<input type="checkbox" id="isDisabled" value="option1"> <span id="lblEdit_Disabled"> Disabled</span>
+				</label>
+			</div>
+		</div>
+	</div>
+  
+	<div id="iconPicker" style="height:150px;overflow:scroll;margin-left:10px;" class="hide">
+    <div>
+      <ul class="icons">
+        <li><i class="icon-glass"></i> <a class="btnicon" href="#">icon-glass</a></li>
+        <li><i class="icon-music"></i> <a class="btnicon" href="#">icon-music</a></li>
+        <li><i class="icon-search"></i> <a class="btnicon" href="#">icon-search</a></li>
+        <li><i class="icon-envelope"></i> <a class="btnicon" href="#">icon-envelope</a></li>
+        <li><i class="icon-heart"></i> <a class="btnicon" href="#">icon-heart</a></li>
+        <li><i class="icon-star"></i> <a class="btnicon" href="#">icon-star</a></li>
+        <li><i class="icon-star-empty"></i> <a class="btnicon" href="#">icon-star-empty</a></li>
+        <li><i class="icon-user"></i> <a class="btnicon" href="#">icon-user</a></li>
+        <li><i class="icon-film"></i> <a class="btnicon" href="#">icon-film</a></li>
+        <li><i class="icon-th-large"></i> <a class="btnicon" href="#">icon-th-large</a></li>
+        <li><i class="icon-th"></i> <a class="btnicon" href="#">icon-th</a></li>
+        <li><i class="icon-th-list"></i> <a class="btnicon" href="#">icon-th-list</a></li>
+        <li><i class="icon-ok"></i> <a class="btnicon" href="#">icon-ok</a></li>
+        <li><i class="icon-remove"></i> <a class="btnicon" href="#">icon-remove</a></li>
+        <li><i class="icon-zoom-in"></i> <a class="btnicon" href="#">icon-zoom-in</a></li>
+        <li><i class="icon-zoom-out"></i> <a class="btnicon" href="#">icon-zoom-out</a></li>
+        <li><i class="icon-off"></i> <a class="btnicon" href="#">icon-off</a></li>
+        <li><i class="icon-signal"></i> <a class="btnicon" href="#">icon-signal</a></li>
+        <li><i class="icon-cog"></i> <a class="btnicon" href="#">icon-cog</a></li>
+        <li><i class="icon-trash"></i> <a class="btnicon" href="#">icon-trash</a></li>
+        <li><i class="icon-home"></i> <a class="btnicon" href="#">icon-home</a></li>
+        <li><i class="icon-file"></i> <a class="btnicon" href="#">icon-file</a></li>
+        <li><i class="icon-time"></i> <a class="btnicon" href="#">icon-time</a></li>
+        <li><i class="icon-road"></i> <a class="btnicon" href="#">icon-road</a></li>
+        <li><i class="icon-download-alt"></i> <a class="btnicon" href="#">icon-download-alt</a></li>
+        <li><i class="icon-download"></i> <a class="btnicon" href="#">icon-download</a></li>
+        <li><i class="icon-upload"></i> <a class="btnicon" href="#">icon-upload</a></li>
+        <li><i class="icon-inbox"></i> <a class="btnicon" href="#">icon-inbox</a></li>
+        <li><i class="icon-play-circle"></i> <a class="btnicon" href="#">icon-play-circle</a></li>
+        <li><i class="icon-repeat"></i> <a class="btnicon" href="#">icon-repeat</a></li>
+        <li><i class="icon-refresh"></i> <a class="btnicon" href="#">icon-refresh</a></li>
+        <li><i class="icon-list-alt"></i> <a class="btnicon" href="#">icon-list-alt</a></li>
+        <li><i class="icon-lock"></i> <a class="btnicon" href="#">icon-lock</a></li>
+        <li><i class="icon-flag"></i> <a class="btnicon" href="#">icon-flag</a></li>
+        <li><i class="icon-headphones"></i> <a class="btnicon" href="#">icon-headphones</a></li>     
+        <li><i class="icon-volume-off"></i> <a class="btnicon" href="#">icon-volume-off</a></li>
+        <li><i class="icon-volume-down"></i> <a class="btnicon" href="#">icon-volume-down</a></li>
+        <li><i class="icon-volume-up"></i> <a class="btnicon" href="#">icon-volume-up</a></li>
+        <li><i class="icon-qrcode"></i> <a class="btnicon" href="#">icon-qrcode</a></li>
+        <li><i class="icon-barcode"></i> <a class="btnicon" href="#">icon-barcode</a></li>
+        <li><i class="icon-tag"></i> <a class="btnicon" href="#">icon-tag</a></li>
+        <li><i class="icon-tags"></i> <a class="btnicon" href="#">icon-tags</a></li>
+        <li><i class="icon-book"></i> <a class="btnicon" href="#">icon-book</a></li>
+        <li><i class="icon-bookmark"></i> <a class="btnicon" href="#">icon-bookmark</a></li>
+        <li><i class="icon-print"></i> <a class="btnicon" href="#">icon-print</a></li>
+        <li><i class="icon-camera"></i> <a class="btnicon" href="#">icon-camera</a></li>
+        <li><i class="icon-font"></i> <a class="btnicon" href="#">icon-font</a></li>
+        <li><i class="icon-bold"></i> <a class="btnicon" href="#">icon-bold</a></li>
+        <li><i class="icon-italic"></i> <a class="btnicon" href="#">icon-italic</a></li>
+        <li><i class="icon-text-height"></i> <a class="btnicon" href="#">icon-text-height</a></li>
+        <li><i class="icon-text-width"></i> <a class="btnicon" href="#">icon-text-width</a></li>
+        <li><i class="icon-align-left"></i> <a class="btnicon" href="#">icon-align-left</a></li>
+        <li><i class="icon-align-center"></i> <a class="btnicon" href="#">icon-align-center</a></li>
+        <li><i class="icon-align-right"></i> <a class="btnicon" href="#">icon-align-right</a></li>
+        <li><i class="icon-align-justify"></i> <a class="btnicon" href="#">icon-align-justify</a></li>
+        <li><i class="icon-list"></i> <a class="btnicon" href="#">icon-list</a></li>
+        <li><i class="icon-indent-left"></i> <a class="btnicon" href="#">icon-indent-left</a></li>
+        <li><i class="icon-indent-right"></i> <a class="btnicon" href="#">icon-indent-right</a></li>
+        <li><i class="icon-facetime-video"></i> <a class="btnicon" href="#">icon-facetime-video</a></li>
+        <li><i class="icon-picture"></i> <a class="btnicon" href="#">icon-picture</a></li>
+        <li><i class="icon-pencil"></i> <a class="btnicon" href="#">icon-pencil</a></li>
+        <li><i class="icon-map-marker"></i> <a class="btnicon" href="#">icon-map-marker</a></li>
+        <li><i class="icon-adjust"></i> <a class="btnicon" href="#">icon-adjust</a></li>
+        <li><i class="icon-tint"></i> <a class="btnicon" href="#">icon-tint</a></li>
+        <li><i class="icon-edit"></i> <a class="btnicon" href="#">icon-edit</a></li>
+        <li><i class="icon-share"></i> <a class="btnicon" href="#">icon-share</a></li>
+        <li><i class="icon-check"></i> <a class="btnicon" href="#">icon-check</a></li>
+        <li><i class="icon-move"></i> <a class="btnicon" href="#">icon-move</a></li>
+        <li><i class="icon-step-backward"></i> <a class="btnicon" href="#">icon-step-backward</a></li>
+        <li><i class="icon-fast-backward"></i> <a class="btnicon" href="#">icon-fast-backward</a></li>     
+        <li><i class="icon-backward"></i> <a class="btnicon" href="#">icon-backward</a></li>
+        <li><i class="icon-play"></i> <a class="btnicon" href="#">icon-play</a></li>
+        <li><i class="icon-pause"></i> <a class="btnicon" href="#">icon-pause</a></li>
+        <li><i class="icon-stop"></i> <a class="btnicon" href="#">icon-stop</a></li>
+        <li><i class="icon-forward"></i> <a class="btnicon" href="#">icon-forward</a></li>
+        <li><i class="icon-fast-forward"></i> <a class="btnicon" href="#">icon-fast-forward</a></li>
+        <li><i class="icon-step-forward"></i> <a class="btnicon" href="#">icon-step-forward</a></li>
+        <li><i class="icon-eject"></i> <a class="btnicon" href="#">icon-eject</a></li>
+        <li><i class="icon-chevron-left"></i> <a class="btnicon" href="#">icon-chevron-left</a></li>
+        <li><i class="icon-chevron-right"></i> <a class="btnicon" href="#">icon-chevron-right</a></li>
+        <li><i class="icon-plus-sign"></i> <a class="btnicon" href="#">icon-plus-sign</a></li>
+        <li><i class="icon-minus-sign"></i> <a class="btnicon" href="#">icon-minus-sign</a></li>
+        <li><i class="icon-remove-sign"></i> <a class="btnicon" href="#">icon-remove-sign</a></li>
+        <li><i class="icon-ok-sign"></i> <a class="btnicon" href="#">icon-ok-sign</a></li>
+        <li><i class="icon-question-sign"></i> <a class="btnicon" href="#">icon-question-sign</a></li>
+        <li><i class="icon-info-sign"></i> <a class="btnicon" href="#">icon-info-sign</a></li>
+        <li><i class="icon-screenshot"></i> <a class="btnicon" href="#">icon-screenshot</a></li>
+        <li><i class="icon-remove-circle"></i> <a class="btnicon" href="#">icon-remove-circle</a></li>
+        <li><i class="icon-ok-circle"></i> <a class="btnicon" href="#">icon-ok-circle</a></li>
+        <li><i class="icon-ban-circle"></i> <a class="btnicon" href="#">icon-ban-circle</a></li>
+        <li><i class="icon-arrow-left"></i> <a class="btnicon" href="#">icon-arrow-left</a></li>
+        <li><i class="icon-arrow-right"></i> <a class="btnicon" href="#">icon-arrow-right</a></li>
+        <li><i class="icon-arrow-up"></i> <a class="btnicon" href="#">icon-arrow-up</a></li>
+        <li><i class="icon-arrow-down"></i> <a class="btnicon" href="#">icon-arrow-down</a></li>
+        <li><i class="icon-share-alt"></i> <a class="btnicon" href="#">icon-share-alt</a></li>
+        <li><i class="icon-resize-full"></i> <a class="btnicon" href="#">icon-resize-full</a></li>
+        <li><i class="icon-resize-small"></i> <a class="btnicon" href="#">icon-resize-small</a></li>
+        <li><i class="icon-plus"></i> <a class="btnicon" href="#">icon-plus</a></li>
+        <li><i class="icon-minus"></i> <a class="btnicon" href="#">icon-minus</a></li>
+        <li><i class="icon-asterisk"></i> <a class="btnicon" href="#">icon-asterisk</a></li>
+        <li><i class="icon-exclamation-sign"></i> <a class="btnicon" href="#">icon-exclamation-sign</a></li>
+        <li><i class="icon-gift"></i> <a class="btnicon" href="#">icon-gift</a></li>
+        <li><i class="icon-leaf"></i> <a class="btnicon" href="#">icon-leaf</a></li>
+        <li><i class="icon-fire"></i> <a class="btnicon" href="#">icon-fire</a></li>
+        <li><i class="icon-eye-open"></i> <a class="btnicon" href="#">icon-eye-open</a></li>      
+        <li><i class="icon-eye-close"></i> <a class="btnicon" href="#">icon-eye-close</a></li>
+        <li><i class="icon-warning-sign"></i> <a class="btnicon" href="#">icon-warning-sign</a></li>
+        <li><i class="icon-plane"></i> <a class="btnicon" href="#">icon-plane</a></li>
+        <li><i class="icon-calendar"></i> <a class="btnicon" href="#">icon-calendar</a></li>
+        <li><i class="icon-random"></i> <a class="btnicon" href="#">icon-random</a></li>
+        <li><i class="icon-comment"></i> <a class="btnicon" href="#">icon-comment</a></li>
+        <li><i class="icon-magnet"></i> <a class="btnicon" href="#">icon-magnet</a></li>
+        <li><i class="icon-chevron-up"></i> <a class="btnicon" href="#">icon-chevron-up</a></li>
+        <li><i class="icon-chevron-down"></i> <a class="btnicon" href="#">icon-chevron-down</a></li>
+        <li><i class="icon-retweet"></i> <a class="btnicon" href="#">icon-retweet</a></li>
+        <li><i class="icon-shopping-cart"></i> <a class="btnicon" href="#">icon-shopping-cart</a></li>
+        <li><i class="icon-folder-close"></i> <a class="btnicon" href="#">icon-folder-close</a></li>
+        <li><i class="icon-folder-open"></i> <a class="btnicon" href="#">icon-folder-open</a></li>
+        <li><i class="icon-resize-vertical"></i> <a class="btnicon" href="#">icon-resize-vertical</a></li>
+        <li><i class="icon-resize-horizontal"></i> <a class="btnicon" href="#">icon-resize-horizontal</a></li>
+        <li><i class="icon-hdd"></i> <a class="btnicon" href="#">icon-hdd</a></li>
+        <li><i class="icon-bullhorn"></i> <a class="btnicon" href="#">icon-bullhorn</a></li>
+        <li><i class="icon-bell"></i> <a class="btnicon" href="#">icon-bell</a></li>
+        <li><i class="icon-certificate"></i> <a class="btnicon" href="#">icon-certificate</a></li>
+        <li><i class="icon-thumbs-up"></i> <a class="btnicon" href="#">icon-thumbs-up</a></li>
+        <li><i class="icon-thumbs-down"></i> <a class="btnicon" href="#">icon-thumbs-down</a></li>
+        <li><i class="icon-hand-right"></i> <a class="btnicon" href="#">icon-hand-right</a></li>
+        <li><i class="icon-hand-left"></i> <a class="btnicon" href="#">icon-hand-left</a></li>
+        <li><i class="icon-hand-up"></i> <a class="btnicon" href="#">icon-hand-up</a></li>
+        <li><i class="icon-hand-down"></i> <a class="btnicon" href="#">icon-hand-down</a></li>
+        <li><i class="icon-circle-arrow-right"></i> <a class="btnicon" href="#">icon-circle-arrow-right</a></li>
+        <li><i class="icon-circle-arrow-left"></i> <a class="btnicon" href="#">icon-circle-arrow-left</a></li>
+        <li><i class="icon-circle-arrow-up"></i> <a class="btnicon" href="#">icon-circle-arrow-up</a></li>
+        <li><i class="icon-circle-arrow-down"></i> <a class="btnicon" href="#">icon-circle-arrow-down</a></li>
+        <li><i class="icon-globe"></i> <a class="btnicon" href="#">icon-globe</a></li>
+        <li><i class="icon-wrench"></i> <a class="btnicon" href="#">icon-wrench</a></li>
+        <li><i class="icon-tasks"></i> <a class="btnicon" href="#">icon-tasks</a></li>
+        <li><i class="icon-filter"></i> <a class="btnicon" href="#">icon-filter</a></li>
+        <li><i class="icon-briefcase"></i> <a class="btnicon" href="#">icon-briefcase</a></li>
+        <li><i class="icon-fullscreen"></i> <a class="btnicon" href="#">icon-fullscreen</a></li>
+      </ul>
+    </div>
+  </div>
+  </div>
+  <div class="modal-footer">	
+    <a href="#" class="btn" data-dismiss="modal" id="lblEdit_Close">Close</a>
+    <a href="#" class="btn btn-primary" id="btnAdd">Save changes</a>
+  </div>
+				  
+			</div>
+            <div style="margin-top:10px;">
+                <h3 id="lblEdit_Howtouse">How to use Smart QrCode Generator</h3>
+                <iframe width="650" height="366" src="http://www.youtube.com/embed/Co3cuR-EPj0?rel=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+              <div style="margin-top:10px;">
+                  <h3>What to use this extension by own language</h3>
+                  <ol>
+                      <li>Download <a href="https://docs.google.com/open?id=0B0PLWmLo1pi-V1BBaXFYcUw5N0k" target="_blank"> Message.json</a></li>
+                      <li>Open with notepad</li>
+                      <li>Translate 'messages'</li>
+                      <li>Then send to <a href="mailto:ebattulga@gmail.com">ebattulga@gmail.com</a></li>
+                  </ol>                  
+				  Thanks dear<br/>
+				  <ul>
+				  <li>Achille Spacciante (Italian, Danish translation)</li>
+				  <li>Michal Jakubowski (Polish translation)</li>
+				  <li>Plexagora, Jose Manuel Franco Muñoz, Michell Hdz, Roberto Cánovas, Wilsen Hernandez (Spanish translation)</li>
+				  <li>Евгений Джамалдинов (Russian translation)</li>
+				  <li>Xabier Martínez Rolán (Galician translation) - But Chrome didn't support Galician</li>	
+                  <li>Thiemo Schuff (German translation)</li>
+                  <li>Gabriel Santos (Portuguese of Brazil translation)</li>		  
+                  <li>吴志明 (Chinese translation)</li>
+				  </ul>
+              </div>
+			  <div style="margin-top:10px;">
+				<h3>What's new in this version</h3>
+				<ul>
+				<li>2 language added (Portuguese, Chinese)</li>
+				<li>Selected text encoding added</li>
+				</ul>
+			  </div>
+          </div>          
+        </div><!--/span-->
+      </div><!--/row-->
+
+      <hr>
+
+      <footer>
+        <p>&copy; eBattulga 2012.  <span id="lblEdit_email">e-mail</span>: <a href="mailto:ebattulga@gmail.com">ebattulga@gmail.com</a></p>
+      </footer>
+
+    </div>
+</body>
+</html>

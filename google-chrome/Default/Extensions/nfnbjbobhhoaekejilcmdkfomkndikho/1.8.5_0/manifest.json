@@ -1,0 +1,33 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "css/basic.css" ],
+      "js": [ "jquery-1.7.1.js", "jquery.simplemodal.js", "qrcontent.js" ],
+      "matches": [ "\u003Call_urls\u003E" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "This is great chrome extension for every smartphone user",
+   "icons": {
+      "112": "icon-112.png",
+      "128": "icon-128.png",
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "96": "icon-96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDU0P3qa2/qKuQNNGZcGkPLyxHmA8qYOPyIY6C0gldUSAR5ySZLe7oUqVldgpPh/Od+Z73eW0Z2AQpIqAJm5tYIpTpevLwhLnmO4Qdk+dIFrGogRF9EMeR0wn8Xfa/1dgoj/KqQreeLx1qpMCvm6NbgXxsiyDR817+5vrCe1n5UcQIDAQAB",
+   "manifest_version": 2,
+   "name": "Smart QrCode Generator",
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": "icon-19.png",
+      "default_popup": "popup.html",
+      "default_title": "Generate QrCode"
+   },
+   "permissions": [ "contextMenus", "http://*/*", "https://*/*", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.8.5",
+   "web_accessible_resources": [ "popup.html", "img/basic/x.png" ]
+}

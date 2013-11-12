@@ -1,0 +1,48 @@
+<html>
+  <head>
+  	<style type="text/css">
+  	
+  	body
+  	{
+  		width: 140px;
+  		font-family: Arial;
+  		margin: 0;
+  		padding 0;
+  		font-size: 12px;
+  		color: #FFFFFF;
+  	}
+  	
+  	.FFbox
+  	{
+  		border: 1px solid #000000;
+  		padding: 5px;
+  	}
+  	
+  	.FFred
+  	{
+  		background: -webkit-gradient(linear, left top, left bottom, from(#48ac37), to(#2e6f23));
+  	}
+    .FFgreen
+    {
+    	background: -webkit-gradient(linear, left top, left bottom, from(#e10e2c), to(#9e0c21));
+    }
+    .FFgrey
+    {
+    	background: -webkit-gradient(linear, left top, left bottom, from(#CCCCCC), to(#666666));
+    }
+    
+    
+  	</style>
+  	<script src="third_party/fancy-settings/i18n.js"></script>
+    <script src="third_party/fancy-settings/js/i18n.js"></script>
+  	<script src="third_party/fancy-settings/lib/store.js"></script>
+    <script src="third_party/fancy-settings/manifest.js"></script>
+    <script src="popup.js"></script>
+  </head>
+ <body>
+ 	<div id="tabURL"></div>
+ 	<div class="FFbox FFgrey"><input id="toggleOnOff" type="checkbox">Enabled</div>
+ 	<div onclick="usePlaceHolders(true)" class="FFbox FFgrey"><input id="usePlaceHolders" type="checkbox">Show placeholders</div>
+ 	<div id="runOptions" class="FFbox FFgrey">Options</div>
+ </body>
+</html>

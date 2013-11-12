@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Customize Sharing Menu - AddThis</title>
+<link rel="stylesheet" type="text/css" href="../css/ATX.chrome.options.css"></link>
+	<link rel="stylesheet" href="https://cache.addthiscdn.com/icons/v1/sprites/services.css" type="text/css" media="screen" charset="utf-8" />
+	
+	<script type="text/javascript" src="../js/lib/jquery.1.7.2.js"></script>
+	
+	<script type="text/javascript" src="../js/lib/jquery.tinysort.1.3.27.js"></script>
+	<script type="text/javascript" src="../js/lib/jquery.UI.1.8.21.custom.js"></script>
+	<script type="text/javascript" src="../js/ATX.chrome.options.js"></script>
+	<script type="text/javascript" src="../js/ATX.chrome.optionScripts.js"></script>
+	<script src="https://cache.addthiscdn.com/services/v1/sharing.en.ssl.jsonp?jsonpcallback=displayResponse" type="text/javascript"></script>
+	<script type="text/javascript" src="../js/ATX.chrome.services.js"></script>
+	
+</head>
+<body>
+	<div id="sidenav">
+	    <h1>AddThis</h1>
+	    <ul>
+	        <li id="liServices" class="active"><a href="#customize">Customize Sharing Menu</a></li>
+	        <li id="liConnect" class="" ><a href="#quick">Connect Accounts</a></li>
+	        <li id="liMore" class=""><a href="#more">More Options</a></li>
+	    </ul>
+	</div>
+	<div id="content">
+	    <!-- CUSTOMIZE -->
+	    <div class="content content-customize">
+	        <h2 class="options_call_to_action">Customize Your AddThis Sharing Menu</h2>
+	        <p class="options_page_subtitle">
+	            Add and remove services, or change their order using the arrow buttons:
+	        </p>
+	        <div>
+	            <div id="preferred" class="service-box">
+	                <div class="service-box-head">
+	                    <h3 class="options_customize_page_all_services_title">All Available Services</h3>
+	                    <input class="options_customize_page_all_services_search_call" value="Find a Service" id="add-services-filter" name="" size="20" maxlength="64" />
+	                </div>
+	                <div id="add-services">
+	                </div>
+	            </div>
+	            <div id="all" class="service-box">
+	                <div class="service-box-head">
+	                    <h3 class="options_customize_page_my_services_title">My Customized Services</h3>
+	                    <small class="options_customize_page_my_services_max_count">11 services max.</small>
+	                </div>
+	                <div class="clearer"></div>
+	                <div id="services"></div>
+	            </div>
+	            <div class="clear"></div>
+
+	            <button id="addServiceBtn" title="Add Service" class="options_add_button"> &raquo;</button>
+	            <button id="removeServiceBtn" title="Remove Service" class="options_remove_button">&laquo; </button>
+	            <button id="upBtn" title="Move Up">&uarr;</button>
+	            <button id="downBtn" title="Move Down">&darr;</button>
+	            <div id="save">
+	            <div class="clearer"></div>
+	        <div class="savedChanges"></div>
+	                <button class="btn-bl options_save_changes" id="submitbtn">Save Changes</button>
+	                <span class="options_or"></span> <a id="resetbtn" href="#" title="reset services to default" class="options_reset">Reset services to default</a>
+	            </div>
+	         </div>
+	    </div>
+	    <!-- ONE CLICK -->
+	    <div class="content content-quick">
+	        <h2 class="connect_accounts_title">Connect Accounts</h2>
+	        <p class="connect_accounts_description">
+	            Connect your social media accounts to enable one-click sharing and other enhanced features:
+	        </p>
+	        <br/>
+	<p>
+	<input id="chkSocialServices" type="checkbox"/> 
+	<span class="enable_account_connections">Enable Account Connections (Recommended)</span>
+	</p>
+	<br/>
+	       <div class="clickitems" id="divSocial">
+	            <div id="divAuthFB" class="clickitem facebook">
+	                <input type="checkbox" id="chkFBAuth"/>&nbsp; <button id="btnOAuthFacebook" class="btn-grn connect_word">Connect</button>
+	                <div style="display: none" id="divFBUserInfo" class="clickitem-user">
+	                    <span><img id="imgFBAvatar" class="usericon" ></img><span id="spnFBUsername"></span></span>
+	                </div>
+	            </div>
+	            <div id="divAuthTwitter" class="clickitem twitter">
+	                <input type="checkbox" id="chkTwitterAuth"/>&nbsp;<button id="btnOAuthTwitter" class="btn-grn connect_word">Connect</button>
+	                <div id="divError">
+	                </div>
+	                <div style="display: none" id="divTwitterUserInfo" class="clickitem-user">
+	                    <span><img id="imgTwitterAvatar" class="usericon"></img><span id="spnTwitterUsername"></span></span>
+	                </div>
+	            </div>
+	        </div>
+	    </div>
+	    <!-- MORE... -->
+	    <div class="content content-more">
+	        <h2 class="more_options_title">More Options</h2>
+	        <p class="more_options_description">
+	            Select which sharing menu should be enabled in your browser.
+	        </p>
+	        <form>
+	            <p>
+	                <input id="chkContextMenu" checked="checked" type="checkbox"/>
+					<span> </span>
+					<span class="enable_context_menu">Enable Sharing in Context Menu (right-click in any page)</span>
+	            </p>
+
+	            <p>
+	                <input id="chkContextMenuSearch" type="checkbox"/>
+					<span> </span>
+					<span class="enable_context_menu_search">Enable Searching for Highlighted Text in Context Menu</span>
+	            </p>
+	        </form>
+	    </div>
+	</div>
+</body>
+</html>

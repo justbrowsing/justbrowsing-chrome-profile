@@ -1,0 +1,31 @@
+{
+   "background": {
+      "page": "html/ATX.chrome.background.html"
+   },
+   "browser_action": {
+      "default_icon": "images/19x19-full.png",
+      "default_popup": "html/ATX.chrome.browserAction.html",
+      "default_title": "Share, translate, bookmark, print"
+   },
+   "content_scripts": [ {
+      "js": [ "js/ATX.chrome.content.intercept.js" ],
+      "matches": [ "https://www.facebook.com/connect/login_success.html*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://graph.facebook.com https://*.facebook.com https://m.addthisedge.com https://addthis.com https://s7.addthis.com https://ct1.addthis.com https://cache.addthiscdn.com https://www.facebook.com https://connect.facebook.net; object-src 'self'",
+   "default_locale": "en",
+   "description": "Share to Facebook, Twitter and over 300 other services with the most popular sharing tool in the world.",
+   "icons": {
+      "128": "images/128x128.png",
+      "16": "images/16x16.png",
+      "19": "images/19x19.png",
+      "32": "images/32x32.png",
+      "64": "images/64x64.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/4mH2Fbva08PwzMy6boq23o2rkQkCpvjbt72C3I0P1NBhCT9xpZENK/VQLzhRlSpvtrCWH6kXabyLicG2C2zMRicwMlJRxqCWjepn7V3rP0wdm2bv5rkh+C4LzqEak+M4N/KCg8bxJkldW8yG1qK0iF2BACtUlZ5QPXkpVnQxRQIDAQAB",
+   "manifest_version": 2,
+   "name": "AddThis - Share & Bookmark (new)",
+   "options_page": "html/ATX.chrome.options.html",
+   "permissions": [ "tabs", "https://*.facebook.com/*", "contextMenus", "\u003Call_urls\u003E", "cookies", "notifications", "http://*/*", "https://*/*", "webRequest", "*://*/*", "contextMenus", "webNavigation", "https://s7.addthis.com" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.0.3"
+}

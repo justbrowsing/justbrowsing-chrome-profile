@@ -1,0 +1,24 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "content_scripts": [ {
+      "js": [ "oauth2/oauth2_inject.js" ],
+      "matches": [ "http://www.google.com/robots.txt*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwKklQFWC5gcVdgoAElbU4vCtbQDz2sshBIetRv8yxfVOk1D6qqWKA71OJ1E/d3wU5+7lGQpcGes2+YZO+RrsVGaH92OwevlrYPELx7fgaDFlbU5X0bRcgsWdVBVu+oKjq9qJZQBzPSfhLYloVtYLGszoHCrxrOA9L8cxUNQ6szwIDAQAB",
+   "manifest_version": 2,
+   "name": "Chrome to Mobile",
+   "page_action": {
+      "default_icon": "images/icon-19.png",
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "permissions": [ "tabs", "pageCapture", "https://www.google.com/cloudprint/*", "https://accounts.google.com/o/oauth2/token", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2"
+}

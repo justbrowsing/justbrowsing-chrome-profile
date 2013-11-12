@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "If you like this, Please review to help me :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "Go to Review Page"
+   },
+   "app_desc": {
+      "message": "This is great chrome extension for every smartphone user"
+   },
+   "app_title": {
+      "message": "Smart QrCode Generator"
+   },
+   "generate_qrcode": {
+      "message": "Generate Smart QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Add or Edit Rule"
+   },
+   "lblAddRule": {
+      "message": "Add Rule"
+   },
+   "lblEdit_Close": {
+      "message": "Close"
+   },
+   "lblEdit_Domain": {
+      "message": "Domain"
+   },
+   "lblEdit_Howtouse": {
+      "message": "How to use Smart QrCode Generator"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Image - src"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Regular Expression:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Replace String"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Selected text"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "Site URL"
+   },
+   "lblEdit_Source": {
+      "message": "Source:"
+   },
+   "lblEdit_Tag": {
+      "message": "Tag"
+   },
+   "lblEdit_Title": {
+      "message": "Title:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Saved Changes"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Icon"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Choose icon"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Disabled"
+   },
+   "lblEdit_version": {
+      "message": "version"
+   },
+   "lblRules": {
+      "message": "Rules"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Image"
+   },
+   "popup_link": {
+      "message": "Link"
+   },
+   "popup_selectedText": {
+      "message": "Selected text"
+   }
+}

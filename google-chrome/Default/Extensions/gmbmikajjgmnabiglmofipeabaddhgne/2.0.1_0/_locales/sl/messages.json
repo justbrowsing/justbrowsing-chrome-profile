@@ -1,0 +1,308 @@
+{
+   "account": {
+      "message": "Ra\u010Dun"
+   },
+   "apply": {
+      "message": "Uporabi"
+   },
+   "audio_default_filename": {
+      "message": "Neimenovana zvo\u010Dna datoteka"
+   },
+   "cancel": {
+      "message": "Prekli\u010Di"
+   },
+   "cannot_capture_chrome": {
+      "message": "Strani v brskalniku Chrome ni mogo\u010De zajeti."
+   },
+   "change_dest_folder": {
+      "message": "Spremeni ciljno mapo ..."
+   },
+   "chrome_extension_name": {
+      "message": "Shrani v Google Drive"
+   },
+   "close": {
+      "message": "Zapri"
+   },
+   "convert_to_google_format": {
+      "message": "Pretvori v Googlovo obliko zapisa"
+   },
+   "debug": {
+      "message": "Iskanje napak"
+   },
+   "default_filename": {
+      "message": "Neimenovano"
+   },
+   "download_canceled": {
+      "message": "Prenos je preklican."
+   },
+   "download_failure": {
+      "message": "Prenos ni uspel: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Prenos ni uspel: ni prejetih podatkov."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Prenos ni uspel: datoteka je prevelika ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Prenesi $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Prena\u0161anje ..."
+   },
+   "empty_page_capture": {
+      "message": "Vsebine strani ni mogo\u010De zajeti v obliki MHTML."
+   },
+   "enable_file_url": {
+      "message": "Naslovi URL datotek morajo biti omogo\u010Deni z mo\u017Enostjo \u00BBDovoli dostop do naslovov URL datotek\u00AB na strani z nastavitvami raz\u0161iritev."
+   },
+   "ext_description": {
+      "message": "Shranjevanje spletne vsebine ali zajem zaslonske slike neposredno v Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Vsebine strani ni mogo\u010De zajeti v obliki MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Po\u0161lji povratne informacije (samo interno)"
+   },
+   "file_bug_internal": {
+      "message": "Prijavi napako (samo interno)"
+   },
+   "file_was_saved": {
+      "message": "Datoteka \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\"\u003E\u003C/a\u003E je bila shranjena v mapo \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"\u003E\u003C/a\u003E. \u003Cspan id=\"$5\"\u003E(\u003Ca href=\"$6\" target=\"_blank\"\u003Espremeni\u003C/a\u003E)\u003C/span\u003E",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Datoteka \u003Cspan id=\"$1\"\u003E\u003C/span\u003E je bila premaknjena v ko\u0161. Za\u017Eenite program \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\"\u003EGoogle Drive\u003C/a\u003E.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Pomo\u010D"
+   },
+   "html_default_filename": {
+      "message": "Neimenovana datoteka HTML"
+   },
+   "image_capture_failed": {
+      "message": "Slike ni bilo mogo\u010De zajeti."
+   },
+   "image_capture_failed_reason": {
+      "message": "Slike ni bilo mogo\u010De zajeti ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Neimenovana slikovna datoteka"
+   },
+   "invalid_url": {
+      "message": "Neveljaven URL: $1. Preneseni URL se mora za\u010Deti na http://, https:// ali file ://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Posnetek neimenovane strani.mht"
+   },
+   "misc": {
+      "message": "Razno"
+   },
+   "my_drive": {
+      "message": "Moj pogon"
+   },
+   "options_header_text": {
+      "message": "Mo\u017Enosti raz\u0161iritve Shrani v Google Drive"
+   },
+   "options_title": {
+      "message": "Mo\u017Enosti raz\u0161iritve Shrani v Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Velikost strani ni podprta: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Neimenovana datoteka PDF"
+   },
+   "percent": {
+      "message": "$1 % dokon\u010Dano",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Zasebnost"
+   },
+   "rename": {
+      "message": "Preimenuj"
+   },
+   "rename_prompt": {
+      "message": "Preimenuj:"
+   },
+   "save_as_html": {
+      "message": "Vir HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google Dokument"
+   },
+   "save_as_image_entire": {
+      "message": "Slika celotne strani (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Slika vidne strani (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Spletni arhiv (.mht)"
+   },
+   "save_audio": {
+      "message": "Shrani zvo\u010Dno datoteko v aplikacijo Google Drive"
+   },
+   "save_image": {
+      "message": "Shrani slikovno datoteko v aplikacijo Google Drive"
+   },
+   "save_link": {
+      "message": "Shrani povezavo v aplikacijo Google Drive"
+   },
+   "save_page_as": {
+      "message": "Shrani stran kot:"
+   },
+   "save_to_folder_text": {
+      "message": "Shranjevanje v mapo"
+   },
+   "save_to_google_drive_action": {
+      "message": "Shrani v aplikacijo Google Drive"
+   },
+   "save_video": {
+      "message": "Shrani videodatoteko v aplikacijo Google Drive"
+   },
+   "saving": {
+      "message": "Shranjevanje datoteke $1 v aplikacijo Google Drive ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Izberite mapo za shranjevanje"
+   },
+   "send_feedback": {
+      "message": "Po\u0161lji povratne informacije"
+   },
+   "sign_out": {
+      "message": "Odjava"
+   },
+   "start_download_exception": {
+      "message": "Prenosa ni bilo mogo\u010De za\u010Deti: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Neimenovana besedilna datoteka"
+   },
+   "trash": {
+      "message": "Ko\u0161"
+   },
+   "unspecified_error": {
+      "message": "Neznana napaka"
+   },
+   "upload_canceled": {
+      "message": "Nalaganje je bilo preklicano"
+   },
+   "upload_failure": {
+      "message": "Prenos v stre\u017Enik ni uspel: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Nalaganje datoteke $1 v aplikacijo Google Drive ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\"\u003EOdprite povezavo\u003C/a\u003E in stran shranite z gumbom Shrani v aplikacijo Google Drive na desni strani naslovne vrstice.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "To je povezava do spletne strani"
+   },
+   "video_default_filename": {
+      "message": "Neimenovana videodatoteka"
+   },
+   "xml_default_filename": {
+      "message": "Neimenovana datoteka XML"
+   }
+}

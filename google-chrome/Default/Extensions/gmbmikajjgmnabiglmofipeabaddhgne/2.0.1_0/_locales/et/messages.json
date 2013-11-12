@@ -1,0 +1,308 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "apply": {
+      "message": "Rakenda"
+   },
+   "audio_default_filename": {
+      "message": "Pealkirjata helifail"
+   },
+   "cancel": {
+      "message": "T\u00FChista"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome'i lehti ei saa j\u00E4\u00E4dvustada."
+   },
+   "change_dest_folder": {
+      "message": "Muuda sihtkausta..."
+   },
+   "chrome_extension_name": {
+      "message": "Salvestamine Google Drive\u2019i"
+   },
+   "close": {
+      "message": "Sule"
+   },
+   "convert_to_google_format": {
+      "message": "Konverteeri Google'i vormingusse"
+   },
+   "debug": {
+      "message": "Silumine"
+   },
+   "default_filename": {
+      "message": "Pealkirjata"
+   },
+   "download_canceled": {
+      "message": "Allalaadimine t\u00FChistatud."
+   },
+   "download_failure": {
+      "message": "Allalaadimist\u00F5rge: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Allalaadimist\u00F5rge: andmeid pole vastu v\u00F5etud."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Allalaadimine eba\u00F5nnestus: l\u00E4htefail on liiga suur ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Faili $1 allalaadimine ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Allalaadimine ..."
+   },
+   "empty_page_capture": {
+      "message": "Lehe sisu ei \u00F5nnestunud h\u00F5ivata vormingus MHTML."
+   },
+   "enable_file_url": {
+      "message": "Faili URL-id peab Laienduste seadete lehel lubama valikuga \u201ELuba juurdep\u00E4\u00E4s faili URL-idele\u201D."
+   },
+   "ext_description": {
+      "message": "Salvestage veebisisu v\u00F5i ekraanipilt otse rakendusse Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Lehe sisu ei \u00F5nnestunud h\u00F5ivata vormingus MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Saada tagasisidet (ettev\u00F5ttesisene)"
+   },
+   "file_bug_internal": {
+      "message": "Teata veast (ettev\u00F5ttesisene)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\"\u003E\u003C/a\u003E salvestati rakendusse \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"\u003E\u003C/a\u003E. \u003Cspan id=\"$5\"\u003E(\u003Ca href=\"$6\" target=\"_blank\"\u003Emuuda\u003C/a\u003E)\u003C/span\u003E",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\"\u003E\u003C/span\u003E on pr\u00FCgikasti teisaldatud. Minge rakendusse \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\"\u003EGoogle Drive\u003C/a\u003E.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Abi"
+   },
+   "html_default_filename": {
+      "message": "Pealkirjata HTML"
+   },
+   "image_capture_failed": {
+      "message": "Kujutise j\u00E4\u00E4dvustamine eba\u00F5nnestus."
+   },
+   "image_capture_failed_reason": {
+      "message": "Kujutise j\u00E4\u00E4dvustamine eba\u00F5nnestus ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Pealkirjata pilt"
+   },
+   "invalid_url": {
+      "message": "Kehtetu URL: $1. Allalaaditud URL-id peavad algama kujul: http://, https:// v\u00F5i file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Pealkirjata lehe h\u00F5ive.mht"
+   },
+   "misc": {
+      "message": "Mitmesugused"
+   },
+   "my_drive": {
+      "message": "Minu ketas"
+   },
+   "options_header_text": {
+      "message": "Laienduse Salvestamine Google Drive\u2019i valikud"
+   },
+   "options_title": {
+      "message": "Laienduse Salvestamine Google Drive\u2019i valikud"
+   },
+   "page_size_not_supported": {
+      "message": "Lehe suurust ei toetata: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Pealkirjata pdf"
+   },
+   "percent": {
+      "message": "$1% valmis",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privaatsus"
+   },
+   "rename": {
+      "message": "Nimeta \u00FCmber"
+   },
+   "rename_prompt": {
+      "message": "Uus nimi:"
+   },
+   "save_as_html": {
+      "message": "HTML-i allikas (html-fail)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google'i dokument"
+   },
+   "save_as_image_entire": {
+      "message": "Kogu lehe kujutis (png-fail)"
+   },
+   "save_as_image_visible": {
+      "message": "N\u00E4htava lehe kujutis (png-fail)"
+   },
+   "save_as_mhtml": {
+      "message": "Veebiarhiiv (mht-fail)"
+   },
+   "save_audio": {
+      "message": "Salvesta heli rakendusse Google Drive"
+   },
+   "save_image": {
+      "message": "Salvesta pilt rakendusse Google Drive"
+   },
+   "save_link": {
+      "message": "Salvesta link rakendusse Google Drive"
+   },
+   "save_page_as": {
+      "message": "Salvesta leht nimega:"
+   },
+   "save_to_folder_text": {
+      "message": "Salvesta kausta"
+   },
+   "save_to_google_drive_action": {
+      "message": "Salvestage rakendusse Google Drive"
+   },
+   "save_video": {
+      "message": "Salvesta video rakendusse Google Drive"
+   },
+   "saving": {
+      "message": "Faili $1 salvestamine rakendusse Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Valige k\u00E4sk Salvesta kausta"
+   },
+   "send_feedback": {
+      "message": "Saada tagasisidet"
+   },
+   "sign_out": {
+      "message": "Logi v\u00E4lja"
+   },
+   "start_download_exception": {
+      "message": "Allalaadimise k\u00E4ivitamisel ilmnes t\u00F5rge: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Pealkirjata tekst"
+   },
+   "trash": {
+      "message": "Pr\u00FCgikast"
+   },
+   "unspecified_error": {
+      "message": "M\u00E4\u00E4ramata t\u00F5rge"
+   },
+   "upload_canceled": {
+      "message": "\u00DCleslaadimine t\u00FChistatud"
+   },
+   "upload_failure": {
+      "message": "\u00DCleslaadimise viga: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Faili $1 \u00FCleslaadimine rakendusse Google Drive ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\"\u003EAvage link\u003C/a\u003E ja salvestage leht, vajutades aadressiriba paremal pool olevale nupule Salvestage rakendusse Google Drive.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "See on link veebilehele"
+   },
+   "video_default_filename": {
+      "message": "Pealkirjata videofail"
+   },
+   "xml_default_filename": {
+      "message": "Pealkirjata xml"
+   }
+}

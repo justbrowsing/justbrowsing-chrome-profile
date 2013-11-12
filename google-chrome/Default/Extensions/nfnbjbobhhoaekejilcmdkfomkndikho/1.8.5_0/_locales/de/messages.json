@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Bitte gib deine Bewertung ab, um das Tool weiter zu verbessern :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "\u00D6ffne Bewertungen"
+   },
+   "app_desc": {
+      "message": "Dies ist eine sehr n\u00FCtzliche Erweiterung des Chrome Browsers f\u00FCr alle Besitzer eines Smartphones"
+   },
+   "app_title": {
+      "message": "Smart QrCode Generator"
+   },
+   "generate_qrcode": {
+      "message": "Generate Smart QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Regel bearbeiten oder neue hinzuf\u00FCgen"
+   },
+   "lblAddRule": {
+      "message": "Regel hinzuf\u00FCgen"
+   },
+   "lblEdit_Close": {
+      "message": "Schlie\u00DFen"
+   },
+   "lblEdit_Domain": {
+      "message": "Domain"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Wie wird der Smart QrCode Generator verwendet"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Bildquelle"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Bezeichnung:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Ersetzen durch:"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Ausgew\u00E4hlter Text"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "URL der Webseite"
+   },
+   "lblEdit_Source": {
+      "message": "Adresse:"
+   },
+   "lblEdit_Tag": {
+      "message": "Tag"
+   },
+   "lblEdit_Title": {
+      "message": "Titel:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "\u00C4nderungen speichern"
+   },
+   "lblEdit_email": {
+      "message": "E-Mail"
+   },
+   "lblEdit_icon": {
+      "message": "Icon"
+   },
+   "lblEdit_iconThumb": {
+      "message": "W\u00E4hle Icon"
+   },
+   "lblEdit_isDisabled": {
+      "message": "deaktivieren"
+   },
+   "lblEdit_version": {
+      "message": "Version"
+   },
+   "lblRules": {
+      "message": "Regeln"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Bild"
+   },
+   "popup_link": {
+      "message": "Link"
+   },
+   "popup_selectedText": {
+      "message": "Ausgew\u00E4hlter Text"
+   }
+}

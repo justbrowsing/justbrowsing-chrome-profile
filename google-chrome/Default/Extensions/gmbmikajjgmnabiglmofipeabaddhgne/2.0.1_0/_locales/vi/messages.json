@@ -1,0 +1,308 @@
+{
+   "account": {
+      "message": "T\u00E0i kho\u1EA3n"
+   },
+   "apply": {
+      "message": "A\u0301p du\u0323ng"
+   },
+   "audio_default_filename": {
+      "message": "\u00C2m thanh ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "cancel": {
+      "message": "H\u1EE7y"
+   },
+   "cannot_capture_chrome": {
+      "message": "Kh\u00F4ng th\u1EC3 ch\u1EE5p trang Chrome."
+   },
+   "change_dest_folder": {
+      "message": "Thay \u0111\u1ED5i Th\u01B0 m\u1EE5c \u0111\u00EDch..."
+   },
+   "chrome_extension_name": {
+      "message": "L\u01B0u v\u00E0o Google Drive"
+   },
+   "close": {
+      "message": "\u0110\u00F3ng"
+   },
+   "convert_to_google_format": {
+      "message": "Chuy\u1EC3n \u0111\u1ED5i sang \u0111\u1ECBnh d\u1EA1ng Google"
+   },
+   "debug": {
+      "message": "G\u1EE1 l\u1ED7i"
+   },
+   "default_filename": {
+      "message": "Ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "download_canceled": {
+      "message": "\u0110\u00E3 h\u1EE7y t\u1EA3i xu\u1ED1ng."
+   },
+   "download_failure": {
+      "message": "T\u1EA3i xu\u1ED1ng kh\u00F4ng th\u00E0nh c\u00F4ng: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "T\u1EA3i xu\u1ED1ng kh\u00F4ng th\u00E0nh c\u00F4ng: Kh\u00F4ng nh\u1EADn \u0111\u01B0\u1EE3c d\u1EEF li\u1EC7u n\u00E0o."
+   },
+   "download_failure_too_big_mb": {
+      "message": "T\u1EA3i xu\u1ED1ng kh\u00F4ng th\u00E0nh c\u00F4ng: Ngu\u1ED3n qu\u00E1 l\u1EDBn ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "\u0110ang t\u1EA3i xu\u1ED1ng $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "\u0110ang t\u1EA3i xu\u1ED1ng ..."
+   },
+   "empty_page_capture": {
+      "message": "Kh\u00F4ng th\u1EC3 ch\u1EE5p n\u1ED9i dung trang \u1EDF d\u1EA1ng MHTML."
+   },
+   "enable_file_url": {
+      "message": "URL c\u1EE7a t\u1EC7p ph\u1EA3i \u0111\u01B0\u1EE3c k\u00EDch ho\u1EA1t b\u1EB1ng t\u00F9y ch\u1ECDn \"Cho ph\u00E9p truy c\u1EADp v\u00E0o URL c\u1EE7a t\u1EC7p\" tr\u00EAn trang c\u00E0i \u0111\u1EB7t Ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng."
+   },
+   "ext_description": {
+      "message": "L\u01B0u n\u1ED9i dung trang web ho\u1EB7c \u1EA3nh ch\u1EE5p m\u00E0n h\u00ECnh tr\u1EF1c ti\u1EBFp v\u00E0o Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Kh\u00F4ng th\u1EC3 ch\u1EE5p n\u1ED9i dung trang d\u01B0\u1EDBi d\u1EA1ng MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "G\u1EEDi ph\u1EA3n h\u1ED3i (ch\u1EC9 d\u00E0nh cho n\u1ED9i b\u1ED9)"
+   },
+   "file_bug_internal": {
+      "message": "G\u1EEDi l\u1ED7i (ch\u1EC9 d\u00E0nh cho n\u1ED9i b\u1ED9)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\"\u003E\u003C/a\u003E \u0111\u00E3 \u0111\u01B0\u1EE3c l\u01B0u v\u00E0o \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"\u003E\u003C/a\u003E. \u003Cspan id=\"$5\"\u003E(\u003Ca href=\"$6\" target=\"_blank\"\u003Ethay \u0111\u1ED5i\u003C/a\u003E)\u003C/span\u003E",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\"\u003E\u003C/span\u003E \u0111\u00E3 \u0111\u01B0\u1EE3c chuy\u1EC3n v\u00E0o th\u00F9ng r\u00E1c. Chuy\u1EC3n \u0111\u1EBFn \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\"\u003EGoogle Drive\u003C/a\u003E.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Tr\u1EE3 gi\u00FAp"
+   },
+   "html_default_filename": {
+      "message": "HTML ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "image_capture_failed": {
+      "message": "Ch\u1EE5p \u1EA3nh kh\u00F4ng th\u00E0nh c\u00F4ng."
+   },
+   "image_capture_failed_reason": {
+      "message": "Ch\u1EE5p \u1EA3nh kh\u00F4ng th\u00E0nh c\u00F4ng ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "H\u00ECnh \u1EA3nh ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "invalid_url": {
+      "message": "URL kh\u00F4ng h\u1EE3p l\u1EC7: $1. URL \u0111\u01B0\u1EE3c t\u1EA3i xu\u1ED1ng ph\u1EA3i b\u1EAFt \u0111\u1EA7u b\u1EB1ng http://, https:// ho\u1EB7c file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Kha\u0301c"
+   },
+   "my_drive": {
+      "message": "\u1ED4 \u0111\u0129a c\u1EE7a t\u00F4i"
+   },
+   "options_header_text": {
+      "message": "T\u00F9y ch\u1ECDn ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng c\u1EE7a L\u01B0u v\u00E0o Google Drive"
+   },
+   "options_title": {
+      "message": "T\u00F9y ch\u1ECDn c\u1EE7a L\u01B0u v\u00E0o Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "K\u00EDch th\u01B0\u1EDBc trang kh\u00F4ng \u0111\u01B0\u1EE3c h\u1ED7 tr\u1EE3: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "percent": {
+      "message": "Ho\u00E0n th\u00E0nh $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "B\u1EA3o m\u1EADt"
+   },
+   "rename": {
+      "message": "\u0110\u1ED5i t\u00EAn"
+   },
+   "rename_prompt": {
+      "message": "\u0110\u00F4\u0309i t\u00EAn:"
+   },
+   "save_as_html": {
+      "message": "Ngu\u1ED3n HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "T\u00E0i li\u1EC7u c\u1EE7a Google"
+   },
+   "save_as_image_entire": {
+      "message": "H\u00ECnh \u1EA3nh c\u1EE7a to\u00E0n b\u1ED9 trang (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "H\u00ECnh \u1EA3nh c\u1EE7a trang hi\u1EC3n th\u1ECB (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "L\u01B0u tr\u1EEF web (.mht)"
+   },
+   "save_audio": {
+      "message": "L\u01B0u \u00E2m thanh v\u00E0o Google Drive"
+   },
+   "save_image": {
+      "message": "L\u01B0u h\u00ECnh \u1EA3nh v\u00E0o Google Drive"
+   },
+   "save_link": {
+      "message": "L\u01B0u li\u00EAn k\u1EBFt v\u00E0o Google Drive"
+   },
+   "save_page_as": {
+      "message": "L\u01B0u trang d\u01B0\u1EDBi d\u1EA1ng:"
+   },
+   "save_to_folder_text": {
+      "message": "Th\u01B0 m\u1EE5c d\u00F9ng \u0111\u1EC3 l\u01B0u"
+   },
+   "save_to_google_drive_action": {
+      "message": "L\u01B0u v\u00E0o Google Drive"
+   },
+   "save_video": {
+      "message": "L\u01B0u video v\u00E0o Google Drive"
+   },
+   "saving": {
+      "message": "\u0110ang l\u01B0u $1 v\u00E0o Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Ch\u1ECDn m\u1ED9t Th\u01B0 m\u1EE5c d\u00F9ng \u0111\u1EC3 l\u01B0u"
+   },
+   "send_feedback": {
+      "message": "G\u1EEDi ph\u1EA3n h\u1ED3i"
+   },
+   "sign_out": {
+      "message": "\u0110\u0103ng xu\u1EA5t"
+   },
+   "start_download_exception": {
+      "message": "Kh\u00F4ng th\u1EC3 b\u1EAFt \u0111\u1EA7u t\u1EA3i l\u00EAn: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "V\u0103n b\u1EA3n ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "trash": {
+      "message": "Th\u00F9ng r\u00E1c"
+   },
+   "unspecified_error": {
+      "message": "L\u1ED7i kh\u00F4ng x\u00E1c \u0111\u1ECBnh"
+   },
+   "upload_canceled": {
+      "message": "\u0110\u00E3 h\u1EE7y t\u1EA3i l\u00EAn"
+   },
+   "upload_failure": {
+      "message": "L\u1ED7i t\u1EA3i l\u00EAn: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "\u0110ang t\u1EA3i $1 l\u00EAn Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\"\u003EM\u1EDF li\u00EAn k\u1EBFt\u003C/a\u003E v\u00E0 l\u01B0u l\u1EA1i trang b\u1EB1ng c\u00E1ch s\u1EED d\u1EE5ng L\u01B0u v\u00E0o Google Drive n\u00FAt \u1EDF b\u00EAn ph\u1EA3i thanh \u0111\u1ECBa ch\u1EC9.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "\u0110\u00E2y l\u00E0 li\u00EAn k\u1EBFt \u0111\u1EBFn m\u1ED9t trang web"
+   },
+   "video_default_filename": {
+      "message": "Video ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   },
+   "xml_default_filename": {
+      "message": "XML ch\u01B0a c\u00F3 ti\u00EAu \u0111\u1EC1"
+   }
+}

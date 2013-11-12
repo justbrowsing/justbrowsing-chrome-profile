@@ -1,0 +1,89 @@
+{
+"app_title": {    
+    "message": "Smart QrCode Generator"
+  },
+"app_desc": {    
+    "message": "为智能手机用户提供的最好的二维码扩展"
+  },
+"generate_qrcode": {    
+    "message": "生成二维码"
+  },
+"PleaseReview": {    
+    "message": "如果你喜欢这个扩展，可以到主页为我评分 :)"
+  },
+"PleaseReviewGoto": {
+    "message": "打开网站"
+  },
+"lblRules": {    
+    "message": "规则"
+  },
+"lblAddRule": {    
+    "message": "添加规则"
+  },
+"lblAddOrEditGenerator": {    
+    "message": "添加或编辑规则"
+  },
+"lblEdit_Title": {    
+    "message": "标题："
+  },
+"lblEdit_Source": {    
+    "message": "源："
+  },
+"lblEdit_SiteUrl": {    
+    "message": "地址"
+  },
+"lblEdit_SelectedText": {    
+    "message": "选中的文本"
+  },
+"lblEdit_Domain": {    
+    "message": "域名"
+  },
+"lblEdit_Tag": {    
+    "message": "标签"
+  },
+"lblEdit_ImageSrc": {    
+    "message": "图片地址"
+  },
+"lblEdit_RegularExp": {    
+    "message": "正则表达式："
+  },
+"lblEdit_ReplaceString": {
+    "message": "字符串替换"
+  },
+"lblEdit_icon": {
+    "message": "图标"
+  },
+"lblEdit_iconThumb": {
+    "message": "选择图标"
+  },
+"lblEdit_isDisabled": {
+    "message": "禁用"
+  },
+"lblEdit_Close": {
+    "message": "关闭"
+  },
+"lblEdit_btnAdd": {
+    "message": "保存"
+  },
+"lblEdit_Howtouse": {
+    "message": "如何使用Smart QrCode Generator"
+  },
+"lblEdit_email": {    
+    "message": "E-mail"
+  },
+"lblEdit_version": {
+     "message": "版本"
+  },
+"popup_URL": {
+    "message": "地址"
+  },  
+"popup_selectedText": {
+    "message": "选中的文本"
+  },
+"popup_image": {
+    "message": "图片"
+  },
+"popup_link": {
+    "message": "链接"
+  }
+}

@@ -1,0 +1,89 @@
+{
+"app_title": {
+    "message": "Smart QrCode Generator"
+  },
+"app_desc": {
+    "message": "Esta é uma ótima extensão do Crome para todos os usuários de smartphones"
+  },
+"generate_qrcode": {
+    "message": "Gere Smart QrCode"
+  },
+"PleaseReview": {
+    "message": "Se você gostar desta extensão, por favor avalie para me ajudar :)"
+  },
+"PleaseReviewGoto": {
+    "message": "Ir para a página de avaliação"
+  },
+"lblRules": {
+    "message": "Regras"
+  },
+"lblAddRule": {
+    "message": "Adicionar uma regra"
+  },
+"lblAddOrEditGenerator": {
+    "message": "Adicionar ou editar uma regra"
+  },
+"lblEdit_Title": {
+    "message": "Título:"
+  },
+"lblEdit_Source": {
+    "message": "Fonte:"
+  },
+"lblEdit_SiteUrl": {
+    "message": "Site URL"
+  },
+"lblEdit_SelectedText": {
+    "message": "Texto selecionado"
+  },
+"lblEdit_Domain": {
+    "message": "Dominio"
+  },
+"lblEdit_Tag": {
+    "message": "Tag"
+  },
+"lblEdit_ImageSrc": {
+    "message": "Imagem - src"
+  },
+"lblEdit_RegularExp": {
+    "message": "Expressão regular:"
+  },
+"lblEdit_ReplaceString": {
+    "message": "Repor palavra"
+  },
+"lblEdit_icon": {
+    "message": "Icone"
+  },
+"lblEdit_iconThumb": {
+    "message": "Escolha um ícone"
+  },
+"lblEdit_isDisabled": {
+    "message": "Desativado"
+  },
+"lblEdit_Close": {
+    "message": "Fechar"
+  },
+"lblEdit_btnAdd": {
+    "message": "Alterações salvas"
+  },
+"lblEdit_Howtouse": {
+    "message": "Como usar o Smart QrCode Generator"
+  },
+"lblEdit_email": {
+    "message": "E-mail"
+  },
+"lblEdit_version": {
+    "message": "Versão"
+  },
+"popup_URL": {
+    "message": "URL"
+  },  
+"popup_selectedText": {
+    "message": "Texto selecionado"
+  },
+"popup_image": {
+    "message": "Imagem"
+  },
+"popup_link": {
+    "message": "Link"
+  }
+}
