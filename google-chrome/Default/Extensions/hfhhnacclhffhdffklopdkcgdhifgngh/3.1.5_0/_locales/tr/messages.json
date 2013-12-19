@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Geri git"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "G\u00FCzellik Salonu"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "B\u00FCy\u00FCk G\u00F6zler"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Koca Kafa"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "B\u00FCy\u00FCk \u00C7ene"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Tav\u015Fan Kafa"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Sinema"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Kapat"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Renklendir"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Sil"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Bu resmi galeriden kald\u0131rmay\u0131 ger\u00E7ekten istiyor musunuz?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Web kameran\u0131zla \u00E7\u0131lg\u0131n foto\u011Fraflar \u00E7ekin."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Hay\u0131r"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "Tamam"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Evet"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Se\u00E7ilen resim silinemiyor."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Se\u00E7ilen resim kaydedilemiyor."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Galeri y\u00FCklenemiyor."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Resim, galeriye kaydedilemiyor."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "Kameran\u0131z \u015Fu anda kullan\u0131lam\u0131yor."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Ba\u015Fka bir uygulama taraf\u0131ndan kullan\u0131l\u0131yor olabilir."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Donan\u0131m h\u0131zland\u0131rma \u00F6zelli\u011Fi kullan\u0131lam\u0131yor."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Bilgisayar\u0131n\u0131zdaki grafik kart\u0131 uyumsuz olabilir veya s\u00FCr\u00FCc\u00FCleri eski olabilir."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Diske kaydet"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Filtreleri a\u00E7/kapat"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Funky"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Galeriye git"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Galeri resimleri"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Gri Tonlamal\u0131"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Ekran\u0131 kapla"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Kamera"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Gazete"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Normal"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Yazd\u0131r"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro 30'lar"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro 50'ler"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro 60'lar"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Sepya"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Girdap"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Foto\u011Fraf \u00E7ek"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Minyat\u00FCrle\u015Ftirme"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Klasik"
+   }
+}

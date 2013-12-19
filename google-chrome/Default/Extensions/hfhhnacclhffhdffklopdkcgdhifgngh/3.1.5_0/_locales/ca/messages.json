@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Warhol"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Torna"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Bellesa"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Ulls grans"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Cap gran"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Mand\u00EDbula gran"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Cap de conillet"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Cinema"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Tanca"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Colorit"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Suprimeix"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Confirmeu que voleu suprimir aquesta foto de la galeria?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Feu fotos divertides amb la c\u00E0mera web."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "No"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "D'acord"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "S\u00ED"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "No es pot suprimir la foto seleccionada."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "No es pot desar la foto seleccionada."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "No es pot carregar la galeria."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "No es pot desar la foto a la galeria."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "La c\u00E0mera no est\u00E0 disponible en aquest moment."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Pot ser que una altra aplicaci\u00F3 l'estigui fent servir."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "L'acceleraci\u00F3 per maquinari no est\u00E0 disponible."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Pot ser que la targeta gr\u00E0fica de l'ordinador no sigui compatible o que els controladors siguin antics."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Desa al disc"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Commuta els filtres"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Modern"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "V\u00E9s a la galeria"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Imatges de la galeria"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Escala de grisos"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maximitza"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "C\u00E0mera"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Diari"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Normal"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Imprimeix"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro anys 30"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro anys 50"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro anys 60"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "S\u00E8pia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Espiral"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Fes una foto"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Maqueta"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Vintage"
+   }
+}

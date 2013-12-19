@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Kembali"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Kecantikan"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Mata Besar"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Kepala Besar"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Rahang Besar"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Kepala Arnab"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Pawagam"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Tutup"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Berwarna"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Padam"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Adakah anda benar-benar mahu mengalih keluar gambar ini daripada galeri?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Rakam gambar aksi gila-gila dengan kamera web anda."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Tidak"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Ya"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Tidak dapat memadam gambar yang dipilih."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Tidak dapat menyimpan gambar yang dipilih."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Tidak dapat memuatkan galeri."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Tidak dapat menyimpan gambar ke galeri."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "Kamera anda tidak tersedia pada masa ini."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Apl lain mungkin menggunakannya."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Pecutan perkakasan tidak tersedia."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Komputer anda mungkin mempunyai kad grafik yang tidak serasi atau pemacu yang lapuk."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Simpan pada cakera"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Togol penapis"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Funki"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Pergi ke galeri"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Imej galeri"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Skala kelabu"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maksimumkan"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Kamera"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Akhbar"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Biasa"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Cetak"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro 30-an"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro 50-an"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro 60-an"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Sepia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Pusar"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Ambil gambar"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Anjakan Condong"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Vintaj"
+   }
+}

@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Tillbaka"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Sk\u00F6nhet"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Stora \u00F6gon"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Stort huvud"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Stor haka"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Kaninhuvud"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Bio"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "St\u00E4ng"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "F\u00E4rgs\u00E4tt"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Ta bort"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Vill du ta bort bilden fr\u00E5n galleriet?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Ta galna bilder med webbkameran."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Nej"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Ja"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Det gick inte att ta bort den valda bilden."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Det gick inte att spara den valda bilden."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Det gick inte att l\u00E4sa in galleriet."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Det gick inte att spara bilderna i galleriet."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "Kameran \u00E4r inte tillg\u00E4nglig f\u00F6r n\u00E4rvarande."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Den anv\u00E4nds\u00A0kanske av en annan app."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Alternativet Maskinvaruacceleration \u00E4r inte tillg\u00E4ngligt."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Datorns grafikkort kanske inte \u00E4r kompatibelt, eller s\u00E5 \u00E4r drivrutinerna f\u00F6r gamla."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Spara p\u00E5 disk"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Filter p\u00E5/av"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Stencool"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Bes\u00F6k galleriet"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Bilder i galleriet"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Gr\u00E5skala"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maximera"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Kamera"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Dagstidning"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Normal"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Skriv ut"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "30-talsretro"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "50-talsretro"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "60-talsretro"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Sepia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Virvel"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Ta en bild"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Tiltshift"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Patinering"
+   }
+}

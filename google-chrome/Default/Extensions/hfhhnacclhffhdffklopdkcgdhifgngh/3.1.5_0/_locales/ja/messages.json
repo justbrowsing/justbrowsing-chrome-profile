@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "\u30DD\u30C3\u30D7 \u30A2\u30FC\u30C8"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "\u623B\u308B"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "\u30D3\u30E5\u30FC\u30C6\u30A3"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "\u30D3\u30C3\u30B0 \u30A2\u30A4"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "\u30D3\u30C3\u30B0 \u30D8\u30C3\u30C9"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "\u30D3\u30C3\u30B0 \u30B8\u30E7\u30FC"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "\u30D0\u30CB\u30FC \u30D8\u30C3\u30C9"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "\u30B7\u30CD\u30DE"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "\u9589\u3058\u308B"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "\u30AB\u30E9\u30FC\u30E9\u30A4\u30BA"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "\u524A\u9664"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "\u30AE\u30E3\u30E9\u30EA\u30FC\u304B\u3089\u3053\u306E\u753B\u50CF\u3092\u524A\u9664\u3057\u3066\u3082\u3088\u308D\u3057\u3044\u3067\u3059\u304B\uFF1F"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "\u30A6\u30A7\u30D6 \u30AB\u30E1\u30E9\u3067\u3055\u307E\u3056\u307E\u306A\u52B9\u679C\u3092\u4F7F\u7528\u3057\u305F\u5199\u771F\u3092\u64AE\u308B\u3053\u3068\u304C\u3067\u304D\u307E\u3059\u3002"
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "\u3044\u3044\u3048"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "\u306F\u3044"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "\u9078\u629E\u3057\u305F\u753B\u50CF\u306F\u524A\u9664\u3067\u304D\u307E\u305B\u3093\u3002"
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "\u9078\u629E\u3057\u305F\u753B\u50CF\u306F\u4FDD\u5B58\u3067\u304D\u307E\u305B\u3093\u3002"
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "\u30AE\u30E3\u30E9\u30EA\u30FC\u3092\u8AAD\u307F\u8FBC\u3081\u307E\u305B\u3093\u3002"
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "\u753B\u50CF\u3092\u30AE\u30E3\u30E9\u30EA\u30FC\u306B\u4FDD\u5B58\u3067\u304D\u307E\u305B\u3093\u3002"
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "\u73FE\u5728\u3001\u30AB\u30E1\u30E9\u306F\u4F7F\u7528\u3067\u304D\u307E\u305B\u3093\u3002"
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "\u5225\u306E\u30A2\u30D7\u30EA\u3067\u4F7F\u7528\u3055\u308C\u3066\u3044\u308B\u53EF\u80FD\u6027\u304C\u3042\u308A\u307E\u3059\u3002"
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "\u30CF\u30FC\u30C9\u30A6\u30A7\u30A2 \u30A2\u30AF\u30BB\u30E9\u30EC\u30FC\u30B7\u30E7\u30F3\u306F\u4F7F\u7528\u3067\u304D\u307E\u305B\u3093\u3002"
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "\u304A\u4F7F\u3044\u306E\u30D1\u30BD\u30B3\u30F3\u3067\u4E92\u63DB\u6027\u306E\u306A\u3044\u30B0\u30E9\u30D5\u30A3\u30C3\u30AF \u30AB\u30FC\u30C9\u304C\u4F7F\u7528\u3055\u308C\u3066\u3044\u308B\u304B\u3001\u30C9\u30E9\u30A4\u30D0\u304C\u53E4\u3044\u53EF\u80FD\u6027\u304C\u3042\u308A\u307E\u3059\u3002"
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "\u30C7\u30A3\u30B9\u30AF\u306B\u4FDD\u5B58"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "\u30D5\u30A3\u30EB\u30BF\u3092\u5207\u308A\u66FF\u3048\u308B"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "\u30D5\u30A1\u30F3\u30AD\u30FC"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "\u30AE\u30E3\u30E9\u30EA\u30FC\u306B\u79FB\u52D5"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "\u30AE\u30E3\u30E9\u30EA\u30FC\u306E\u753B\u50CF"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "\u30B0\u30EC\u30FC\u30B9\u30B1\u30FC\u30EB"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "\u6700\u5927\u5316"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "\u30AB\u30E1\u30E9"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "\u30CB\u30E5\u30FC\u30B9\u30DA\u30FC\u30D1\u30FC"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "\u30CE\u30FC\u30DE\u30EB"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "\u5370\u5237"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "30 \u5E74\u4EE3\u30EC\u30C8\u30ED"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "50 \u5E74\u4EE3\u30EC\u30C8\u30ED"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "60 \u5E74\u4EE3\u30EC\u30C8\u30ED"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "\u30BB\u30D4\u30A2"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "\u30B9\u30EF\u30FC\u30EB"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "\u5199\u771F\u3092\u64AE\u308B"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "\u30C6\u30A3\u30EB\u30C8 \u30B7\u30D5\u30C8"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "\u30D3\u30F3\u30C6\u30FC\u30B8"
+   }
+}

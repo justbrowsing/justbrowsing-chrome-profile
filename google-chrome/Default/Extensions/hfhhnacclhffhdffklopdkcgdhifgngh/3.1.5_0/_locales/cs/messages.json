@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "P\u0159ej\u00EDt zp\u011Bt"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Kr\u00E1sa"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Velk\u00E9 o\u010Di"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Velk\u00E1 hlava"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Velk\u00E1 \u010Delist"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Kr\u00E1li\u010D\u00ED hlava"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Film"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Zav\u0159\u00EDt"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Obarven\u00ED"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Smazat"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Opravdu chcete tuto fotku z galerie odstranit?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Fo\u0165te bl\u00E1zniv\u00E9 fotky pomoc\u00ED webov\u00E9 kamery."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Ne"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Ano"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Vybranou fotku nelze smazat."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Vybranou fotku nelze ulo\u017Eit."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Galerii nelze na\u010D\u00EDst."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Fotku nelze ulo\u017Eit do galerie."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "V\u00E1\u0161 fotoapar\u00E1t moment\u00E1ln\u011B nen\u00ED dostupn\u00FD."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Mo\u017En\u00E1 jej vyu\u017E\u00EDv\u00E1 jin\u00E1 aplikace."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Hardwarov\u00E1 akcelerace nen\u00ED k dispozici."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Grafick\u00E1 karta ve va\u0161em po\u010D\u00EDta\u010Di mo\u017En\u00E1 nen\u00ED kompatibiln\u00ED, p\u0159\u00EDpadn\u011B m\u00E1te star\u00E9 ovlada\u010De."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Ulo\u017Eit na disk"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "P\u0159epnout filtry"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Funky"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "P\u0159ej\u00EDt do galerie"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Obr\u00E1zky v galerii"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Odst\u00EDny \u0161edi"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maximalizovat"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Fotoapar\u00E1t"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Noviny"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Norm\u00E1ln\u00ED"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Tisk"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro \u2013 30. l\u00E9ta"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro \u2013 50. l\u00E9ta"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro \u2013 60. l\u00E9ta"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "S\u00E9pie"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "V\u00EDr"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Vyfotit"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Tilt shift"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Star\u00E1 klasika"
+   }
+}

@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Nazaj"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Lepota"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Velike o\u010Di"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Velika glava"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Velika \u010Deljust"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Zaj\u010Dja glava"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Kino"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Zapri"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Barvanje"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Izbri\u0161i"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Ali res \u017Eelite odstraniti to sliko iz galerije?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Posnemite nore slike s spletno kamero."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Ne"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "V redu"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Da"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Izbrane slike ni mogo\u010De izbrisati."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Izbrane slike ni mogo\u010De shraniti."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Galerije ni mogo\u010De nalo\u017Eiti."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Slike ni mogo\u010De shraniti v galerijo."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "Fotoaparat trenutno ni na voljo."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Morda ga uporablja druga aplikacija."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Strojno pospe\u0161evanje ni na voljo."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Ra\u010Dunalnik ima morda nezdru\u017Eljivo grafi\u010Dno kartico ali stare gonilnike."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Shrani na disk"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Preklopi filtre"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Od\u0161tekano"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "V galerijo"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Slike v galeriji"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Sivine"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maksimiraj"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Fotoaparat"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "\u010Casopis"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Navadno"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Natisni"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro trideseta"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro petdeseta"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro \u0161estdeseta"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Sepija"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Vrtinec"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Fotografiranje"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Nagib-premik"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Starinsko"
+   }
+}

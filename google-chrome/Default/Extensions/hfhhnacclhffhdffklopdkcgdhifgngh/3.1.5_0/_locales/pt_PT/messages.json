@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Voltar"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Beleza"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Olhos grandes"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Cabe\u00E7a grande"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Maxilar grande"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Cabe\u00E7a de coelho"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Cinema"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Fechar"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Colorir"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Eliminar"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Pretende realmente remover esta imagem da galeria?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Tire fotografias divertidas com a sua c\u00E2mara Web."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "N\u00E3o"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Sim"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "N\u00E3o \u00E9 poss\u00EDvel eliminar a imagem selecionada."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "N\u00E3o \u00E9 poss\u00EDvel guardar a imagem selecionada."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "N\u00E3o \u00E9 poss\u00EDvel carregar a galeria."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "N\u00E3o \u00E9 poss\u00EDvel guardar a imagem na galeria."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "A c\u00E2mara est\u00E1 atualmente indispon\u00EDvel."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Poder\u00E1 estar a ser utilizado/a por outra aplica\u00E7\u00E3o."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "A acelera\u00E7\u00E3o de hardware n\u00E3o est\u00E1 dispon\u00EDvel."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "O computador poder\u00E1 ter uma placa gr\u00E1fica incompat\u00EDvel ou controladores antigos."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Guardar no disco"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Ativar/desativar filtros"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Arrojado"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Ir para a galeria"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Imagens da galeria"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Tons de cinzento"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maximizar"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "C\u00E2mara"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Jornal"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Normal"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Imprimir"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro '30"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro '50"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro '60"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "S\u00E9pia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Redemoinho"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Tirar uma fotografia"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Vista de miniatura"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Vintage"
+   }
+}

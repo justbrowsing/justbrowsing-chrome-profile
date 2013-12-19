@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Mine tagasi"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Ilu"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Suured silmad"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Suur pea"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Suur l\u00F5ug"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "J\u00E4nku pea"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Film"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Sule"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "V\u00E4rvi"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Kustuta"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Kas soovite selle pildi galeriist kindlasti eemaldada?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Tehke oma veebikaameraga p\u00F6\u00F6raseid pilte."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Ei"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Jah"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Valitud pilti ei saa kustutada."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Valitud pilti ei saa salvestada."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Galeriid ei saa laadida."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Pilti ei saa galeriisse salvestada."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "Teie kaamera pole praegu saadaval."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Seda v\u00F5ib kasutada m\u00F5ni teine rakendus."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Riistvarakiirendus pole saadaval."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Teie arvuti graafikakaart v\u00F5ib olla \u00FChildumatu v\u00F5i draiverid on vanad."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Salvesta kettale"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "L\u00FClita filtrite vahel"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Stiilne"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Mine galeriisse"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Galerii kujutised"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Hallskaala"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Maksimeeri"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Kaamera"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Ajaleht"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Tavaline"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Prindi"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro '30-ndad"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro '50-ndad"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "Retro '60-ndad"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Seepia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Keerlev"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Pildista"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Kaldnihe"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Vana"
+   }
+}

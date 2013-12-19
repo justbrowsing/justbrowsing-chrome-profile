@@ -1,0 +1,115 @@
+/*
+* Copyright (c) 2011 The Chromium Authors. All rights reserved.
+* Use of this source code is governed by a BSD-style license that can be
+* found in the LICENSE file.
+*/
+
+body {
+  direction: __MSG_@@bidi_dir__;
+  min-width: 400px;
+  font: menu;
+  overflow: hidden;
+}
+
+.hidden {
+  display: none;
+}
+
+.selectedDevice {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div#welcomeHeaderDiv {
+  font-weight: bold;
+  overflow: hidden;
+  padding-top: 0.0em;
+  padding-bottom: 0.0em;
+  padding-__MSG_@@bidi_start_edge__: 0.0em;
+  padding-__MSG_@@bidi_end_edge__: 0.0em;
+  position: relative;
+}
+
+div#connectedHeaderDiv {
+}
+
+table#connectedHeaderTable {
+  width: 100%;
+}
+
+div#realNameDiv {
+  font-weight: bold;
+}
+
+div#accountNameDiv {
+  color: gray;
+}
+
+hr#separator {
+}
+
+div#messageDiv {
+  overflow: hidden;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-__MSG_@@bidi_start_edge__: 0.0em;
+  padding-__MSG_@@bidi_end_edge__: 0.0em;
+  position: relative;
+}
+
+div#deviceListDiv {
+  overflow: hidden;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-__MSG_@@bidi_start_edge__: 0.0em;
+  padding-__MSG_@@bidi_end_edge__: 0.0em;
+  position: relative;
+}
+
+div#includeSnapshotDiv {
+  overflow: hidden;
+  padding-top: 0.7em;
+  padding-bottom: 0.2em;
+  padding-__MSG_@@bidi_start_edge__: 0.0em;
+  padding-__MSG_@@bidi_end_edge__: 0.0em;
+  position: relative;
+
+}
+
+div#buttonsDiv {
+  text-align: right;
+  overflow: hidden;
+  padding-top: 1.0em;
+  padding-bottom: 0.0em;
+  padding-left: 0.0em;
+  padding-right: 0.0em;
+  position: relative;
+  float: right;
+}
+
+div#helpDiv {
+  text-align: left;
+  overflow: hidden;
+  padding-top: 1.0em;
+  padding-bottom: 0.0em;
+  padding-left: 0.0em;
+  padding-right: 0.0em;
+  position: relative;
+  float: left;
+}
+
+.disabledText {
+  color: gray;
+  font-style: italic;
+}
+
+::selection {
+  background: #E0E0E0;
+}

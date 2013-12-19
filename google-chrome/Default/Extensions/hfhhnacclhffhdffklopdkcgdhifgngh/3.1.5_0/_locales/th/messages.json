@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "\u0E41\u0E2D\u0E19\u0E14\u0E35\u0E49"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "\u0E22\u0E49\u0E2D\u0E19\u0E01\u0E25\u0E31\u0E1A"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "\u0E04\u0E27\u0E32\u0E21\u0E07\u0E32\u0E21"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "\u0E15\u0E32\u0E42\u0E15"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "\u0E2B\u0E31\u0E27\u0E42\u0E15"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "\u0E01\u0E23\u0E32\u0E21\u0E43\u0E2B\u0E0D\u0E48"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "\u0E2B\u0E31\u0E27\u0E01\u0E23\u0E30\u0E15\u0E48\u0E32\u0E22"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "\u0E20\u0E32\u0E1E\u0E22\u0E19\u0E15\u0E23\u0E4C"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "\u0E1B\u0E34\u0E14"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "\u0E23\u0E30\u0E1A\u0E32\u0E22\u0E2A\u0E35"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "\u0E25\u0E1A"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "\u0E04\u0E38\u0E13\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E25\u0E1A\u0E20\u0E32\u0E1E\u0E19\u0E35\u0E49\u0E2D\u0E2D\u0E01\u0E08\u0E32\u0E01\u0E41\u0E01\u0E25\u0E40\u0E25\u0E2D\u0E23\u0E35\u0E43\u0E0A\u0E48\u0E44\u0E2B\u0E21"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "\u0E16\u0E48\u0E32\u0E22\u0E23\u0E39\u0E1B\u0E20\u0E32\u0E1E\u0E2A\u0E19\u0E38\u0E01\u0E46 \u0E14\u0E49\u0E27\u0E22\u0E40\u0E27\u0E47\u0E1A\u0E41\u0E04\u0E21\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13"
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "\u0E44\u0E21\u0E48"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "\u0E15\u0E01\u0E25\u0E07"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "\u0E43\u0E0A\u0E48"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E25\u0E1A\u0E20\u0E32\u0E1E\u0E17\u0E35\u0E48\u0E40\u0E25\u0E37\u0E2D\u0E01"
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E20\u0E32\u0E1E\u0E17\u0E35\u0E48\u0E40\u0E25\u0E37\u0E2D\u0E01"
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E42\u0E2B\u0E25\u0E14\u0E41\u0E01\u0E25\u0E40\u0E25\u0E2D\u0E23\u0E35"
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E20\u0E32\u0E1E\u0E25\u0E07\u0E43\u0E19\u0E41\u0E01\u0E25\u0E40\u0E25\u0E2D\u0E23\u0E35"
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "\u0E01\u0E25\u0E49\u0E2D\u0E07\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13\u0E22\u0E31\u0E07\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E44\u0E14\u0E49\u0E43\u0E19\u0E02\u0E13\u0E30\u0E19\u0E35\u0E49"
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "\u0E41\u0E2D\u0E1B\u0E2D\u0E37\u0E48\u0E19\u0E2D\u0E32\u0E08\u0E01\u0E33\u0E25\u0E31\u0E07\u0E43\u0E0A\u0E49\u0E2D\u0E22\u0E39\u0E48"
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "\u0E01\u0E32\u0E23\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E04\u0E27\u0E32\u0E21\u0E40\u0E23\u0E47\u0E27\u0E14\u0E49\u0E27\u0E22\u0E2E\u0E32\u0E23\u0E4C\u0E14\u0E41\u0E27\u0E23\u0E4C\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E44\u0E14\u0E49"
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "\u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\u0E02\u0E2D\u0E07\u0E04\u0E38\u0E13\u0E2D\u0E32\u0E08\u0E21\u0E35\u0E01\u0E32\u0E23\u0E4C\u0E14\u0E01\u0E23\u0E32\u0E1F\u0E34\u0E01\u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E43\u0E0A\u0E49\u0E23\u0E48\u0E27\u0E21\u0E01\u0E31\u0E19\u0E44\u0E14\u0E49 \u0E2B\u0E23\u0E37\u0E2D\u0E21\u0E35\u0E44\u0E14\u0E23\u0E40\u0E27\u0E2D\u0E23\u0E4C\u0E40\u0E01\u0E48\u0E32"
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "\u0E1A\u0E31\u0E19\u0E17\u0E36\u0E01\u0E25\u0E07\u0E43\u0E19\u0E14\u0E34\u0E2A\u0E01\u0E4C"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "\u0E2A\u0E25\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E01\u0E23\u0E2D\u0E07"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "\u0E1F\u0E31\u0E4A\u0E07\u0E01\u0E35\u0E49"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "\u0E44\u0E1B\u0E17\u0E35\u0E48\u0E41\u0E01\u0E25\u0E40\u0E25\u0E2D\u0E23\u0E35"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "\u0E20\u0E32\u0E1E\u0E43\u0E19\u0E41\u0E01\u0E25\u0E40\u0E25\u0E2D\u0E23\u0E35"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "\u0E42\u0E17\u0E19\u0E2A\u0E35\u0E40\u0E17\u0E32"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "\u0E02\u0E22\u0E32\u0E22"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "\u0E01\u0E25\u0E49\u0E2D\u0E07"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "\u0E2B\u0E19\u0E31\u0E07\u0E2A\u0E37\u0E2D\u0E1E\u0E34\u0E21\u0E1E\u0E4C"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "\u0E1B\u0E01\u0E15\u0E34"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "\u0E1E\u0E34\u0E21\u0E1E\u0E4C"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "\u0E40\u0E23\u0E42\u0E17\u0E23 '30"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "\u0E40\u0E23\u0E42\u0E17\u0E23 '50"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "\u0E40\u0E23\u0E42\u0E17\u0E23 '60"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "\u0E0B\u0E35\u0E40\u0E1B\u0E35\u0E22"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "\u0E2B\u0E21\u0E38\u0E19\u0E23\u0E2D\u0E1A"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "\u0E16\u0E48\u0E32\u0E22\u0E20\u0E32\u0E1E"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "\u0E17\u0E34\u0E25\u0E17\u0E4C\u0E0A\u0E34\u0E1F\u0E15\u0E4C"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "\u0E27\u0E34\u0E19\u0E40\u0E17\u0E08"
+   }
+}

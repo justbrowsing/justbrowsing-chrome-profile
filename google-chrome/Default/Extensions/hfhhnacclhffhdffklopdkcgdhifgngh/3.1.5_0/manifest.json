@@ -1,0 +1,24 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/camera_app_icons_128.png",
+      "32": "images/camera_app_icons_32.png",
+      "48": "images/camera_app_icons_48.png",
+      "64": "images/camera_app_icons_64.png",
+      "96": "images/camera_app_icons_96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3oA1Ox8PiRORjuFDgJeWcwnzZDPHUzuH6fymTrx8KPybhfd6XIYFXvilSsRnsGKPslN+BXke3HWC4/MoB2HM2pNGmsQ+jNyTh2dgk4ISdZYRLfqjxr846/245dkznCJLYAZr72Lk+vRZUyYBcLNNox8jRV5ZF16+8uPPUsUiqbQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "videoCapture", "storage", "unlimitedStorage", {
+      "fileSystem": [ "write" ]
+   } ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.5"
+}

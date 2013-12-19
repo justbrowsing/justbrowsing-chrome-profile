@@ -1,0 +1,35 @@
+{
+   "background": {
+      "scripts": [ "js/common.js", "js/background.js" ]
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_extensionDescription__",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "19": "images/icon19.png",
+      "32": "images/icon32.png",
+      "38": "images/icon38.png",
+      "48": "images/icon48.png",
+      "96": "images/icon96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwKklQFWC5gcVdgoAElbU4vCtbQDz2sshBIetRv8yxfVOk1D6qqWKA71OJ1E/d3wU5+7lGQpcGes2+YZO+RrsVGaH92OwevlrYPELx7fgaDFlbU5X0bRcgsWdVBVu+oKjq9qJZQBzPSfhLYloVtYLGszoHCrxrOA9L8cxUNQ6szwIDAQAB",
+   "manifest_version": 2,
+   "name": "Chrome to Mobile",
+   "oauth2": {
+      "client_id": "648230873233-islgk4b89ar3ffikkpep4edc31hrpnsj.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/cloudprint", "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/userinfo.profile" ]
+   },
+   "page_action": {
+      "default_icon": {
+         "19": "images/icon19.png",
+         "38": "images/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "__MSG_extensionName__"
+   },
+   "permissions": [ "identity", "tabs", "pageCapture", "https://www.google.com/cloudprint/*", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1"
+}

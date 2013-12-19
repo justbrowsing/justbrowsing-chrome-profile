@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Siirry takaisin"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Kauneus"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Isot silm\u00E4t"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Iso p\u00E4\u00E4"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Iso leuka"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Pupup\u00E4\u00E4"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Elokuvateatteri"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Sulje"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "V\u00E4rit\u00E4"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "Poista"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Haluatko varmasti poistaa t\u00E4m\u00E4n kuvan galleriasta?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "Ota hassuja kuvia web-kamerallasi."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Ei"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Kyll\u00E4"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Valitun kuvan poisto ep\u00E4onnistui."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Valitun kuvan tallentaminen ep\u00E4onnistui."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Gallerian lataus ep\u00E4onnistui."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Kuvan tallentaminen galleriaan ep\u00E4onnistui."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "Kamerasi ei ole k\u00E4ytett\u00E4viss\u00E4 t\u00E4ll\u00E4 hetkell\u00E4."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Jokin toinen sovellus saattaa k\u00E4ytt\u00E4\u00E4 sit\u00E4."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Laitteistokiihdytys ei ole k\u00E4ytett\u00E4viss\u00E4."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Tietokoneessasi voi olla yhteensopimaton n\u00E4yt\u00F6nohjain tai vanhoja ajureita."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Tallenna levylle"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Ota suodattimet k\u00E4ytt\u00F6\u00F6n tai pois k\u00E4yt\u00F6st\u00E4"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Omalaatuinen"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Siirry galleriaan"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Gallerian kuvat"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Harmaas\u00E4vy"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Suurenna"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "Kamera"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "Sanomalehti"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Normaali"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Tulosta"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "30-luvun retro"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "50-luvun retro"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "60-luvun retro"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Seepia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "Py\u00F6rre"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "Ota kuva"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "Kallistussiirto"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Vanhanaikainen"
+   }
+}

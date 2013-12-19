@@ -1,0 +1,174 @@
+{
+   "andyEffect": {
+      "description": "Andy effect's name.",
+      "message": "Andy"
+   },
+   "backButton": {
+      "description": "Label for the back button.",
+      "message": "Vissza"
+   },
+   "beautyEffect": {
+      "description": "Beauty effect's name. Smooths skin and increases brightness.",
+      "message": "Sz\u00E9ps\u00E9g"
+   },
+   "bigEyesEffect": {
+      "description": "Big Eyes effect's name.",
+      "message": "Nagy szemek"
+   },
+   "bigHeadEffect": {
+      "description": "Big Head effect's name.",
+      "message": "Nagy fej"
+   },
+   "bigJawEffect": {
+      "description": "Big Jaw effect's name.",
+      "message": "Nagy \u00E1ll"
+   },
+   "bunnyHeadEffect": {
+      "description": "Bunny Head effect's name.",
+      "message": "Nyuszifej"
+   },
+   "cinemaEffect": {
+      "description": "Cinema effect's name. Makes the image look like from a movie.",
+      "message": "Mozi"
+   },
+   "closeButton": {
+      "description": "Text to speech label for the close button.",
+      "message": "Bez\u00E1r\u00E1s"
+   },
+   "colorizeEffect": {
+      "description": "Colorize effect's name.",
+      "message": "Sz\u00EDnez\u00E9s"
+   },
+   "deleteButton": {
+      "description": "Label for the delete button.",
+      "message": "T\u00F6rl\u00E9s"
+   },
+   "deleteConfirmationMsg": {
+      "description": "Confirmation message before removing a picture from the gallery.",
+      "message": "Biztosan elt\u00E1vol\u00EDtja ezt a k\u00E9pet a gal\u00E9ri\u00E1b\u00F3l?"
+   },
+   "description": {
+      "description": "Short description of the Camera App.",
+      "message": "K\u00E9sz\u00EDtsen \u0151r\u00FClt k\u00E9peket webkamer\u00E1j\u00E1val."
+   },
+   "dialogNoButton": {
+      "description": "Label for the dismissing button in the confirmation dialog.",
+      "message": "Nem"
+   },
+   "dialogOKButton": {
+      "description": "Label for the OK button in the alert dialog.",
+      "message": "OK"
+   },
+   "dialogYesButton": {
+      "description": "Label for the accepting button in the confirmation dialog.",
+      "message": "Igen"
+   },
+   "errorMsgGalleryDeleteFailed": {
+      "description": "Error message shown when deleting the selected file from gallery failed.",
+      "message": "Nem lehet t\u00F6r\u00F6lni a kiv\u00E1lasztott k\u00E9pet."
+   },
+   "errorMsgGalleryExportFailed": {
+      "description": "Error message shown when saving the selected file to an external directory failed.",
+      "message": "Nem lehet menteni a kiv\u00E1lasztott k\u00E9pet."
+   },
+   "errorMsgGalleryLoadFailed": {
+      "description": "Error message shown when loading the gallery failed.",
+      "message": "Nem lehet bet\u00F6lteni a gal\u00E9ri\u00E1t."
+   },
+   "errorMsgGallerySaveFailed": {
+      "description": "Error message shown when saving a picture to the gallery failed.",
+      "message": "Nem lehet menteni a k\u00E9pet a gal\u00E9ri\u00E1ba."
+   },
+   "errorMsgNoCamera": {
+      "description": "Error message shown when it was impossible to connect to the camera due to unavailability or busy camera.",
+      "message": "A kamera jelenleg nem \u00E9rhet\u0151 el."
+   },
+   "errorMsgNoCameraHint": {
+      "description": "Hint message shown below the main error message. A hint for a user why the error occured.",
+      "message": "Lehet, hogy egy m\u00E1sik alkalmaz\u00E1s haszn\u00E1lja."
+   },
+   "errorMsgNoWebGL": {
+      "description": "Error message shown when WebGL is not available.",
+      "message": "Hardvergyors\u00EDt\u00E1s nem \u00E9rhet\u0151 el."
+   },
+   "errorMsgNoWebGLHint": {
+      "description": "Hint shown below the main error message, when WebGL is not detected.",
+      "message": "Sz\u00E1m\u00EDt\u00F3g\u00E9p\u00E9ben nem kompatibilis a grafikai k\u00E1rtya vagy r\u00E9giek a meghajt\u00F3k."
+   },
+   "exportButton": {
+      "description": "Label for the exporting button.",
+      "message": "Ment\u00E9s lemezre"
+   },
+   "filtersButton": {
+      "description": "Label for the toggle filters button.",
+      "message": "Sz\u0171r\u0151k v\u00E1lt\u00E1sa"
+   },
+   "funkyEffect": {
+      "description": "Funky effect's name.",
+      "message": "Funky"
+   },
+   "galleryButton": {
+      "description": "Label for the gallery button.",
+      "message": "Ugr\u00E1s a gal\u00E9ri\u00E1ba"
+   },
+   "galleryImages": {
+      "description": "Text to speech label for the gallery list.",
+      "message": "Gal\u00E9riak\u00E9pek"
+   },
+   "grayscaleEffect": {
+      "description": "Grayscale effect's name. Makes the images in grayscale.",
+      "message": "Sz\u00FCrke\u00E1rnyalat"
+   },
+   "maximizeButton": {
+      "description": "Text to speech Label for the maximize button.",
+      "message": "Teljes m\u00E9ret"
+   },
+   "name": {
+      "description": "Name of the Camera App.",
+      "message": "F\u00E9nyk\u00E9pez\u0151g\u00E9p"
+   },
+   "newspaperEffect": {
+      "description": "Newspaper effect's name. Makes the image look like in a newspaper.",
+      "message": "\u00DAjs\u00E1g"
+   },
+   "normalEffect": {
+      "description": "Name of the normal effect, which means that no effect will be applied.",
+      "message": "Norm\u00E1l"
+   },
+   "printButton": {
+      "description": "Label for the printing button.",
+      "message": "Nyomtat\u00E1s"
+   },
+   "retro30Effect": {
+      "description": "Retro '30 effect's name. Makes the image look like a retro picture.",
+      "message": "30-as \u00E9vek retr\u00F3 st\u00EDlusa"
+   },
+   "retro50Effect": {
+      "description": "Retro '50 effect's name. Makes the image look like a retro picture.",
+      "message": "50-es \u00E9vek retr\u00F3 st\u00EDlusa"
+   },
+   "retro60Effect": {
+      "description": "Retro '60 effect's name. Makes the image look like a retro picture.",
+      "message": "60-as \u00E9vek retr\u00F3 st\u00EDlusa"
+   },
+   "sepiaEffect": {
+      "description": "Sepia effect's name. Makes the image look like an old picture.",
+      "message": "Sz\u00E9pia"
+   },
+   "swirlEffect": {
+      "description": "Swirl effect's name. Makes the image look like a whirlpool.",
+      "message": "\u00D6rv\u00E9ny"
+   },
+   "takePictureButton": {
+      "description": "Label for the red picture taking button.",
+      "message": "K\u00E9pk\u00E9sz\u00EDt\u00E9s"
+   },
+   "tiltShiftEffect": {
+      "description": "Tils Shift effect's name.",
+      "message": "K\u00E9ps\u00EDk eltol\u00E1sa"
+   },
+   "vintageEffect": {
+      "description": "Vintage effect's name. Makes the image look vintage.",
+      "message": "Klasszikus"
+   }
+}
