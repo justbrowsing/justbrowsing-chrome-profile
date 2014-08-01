@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Lisätietoja"
+   },
+   "app_nacl_crash_report": {
+      "message": "Ilmoita ongelmasta..."
+   },
+   "application_description": {
+      "message": "Asiakirjojen muokkaaminen"
+   },
+   "extension_description": {
+      "message": "Tarkastele ja muokkaa Microsoft Word-, Excel-  ja PowerPoint-tiedostoja Google Docsin, Sheetsin ja Slidesin avulla."
+   },
+   "extension_name": {
+      "message": "Office Editing for Docs, Sheets & Slides"
+   },
+   "file_loading_spinner_label": {
+      "message": "Ladataan"
+   },
+   "file_not_found_msg": {
+      "message": "Pyytämääsi tiedostoa ei löydy."
+   },
+   "file_not_found_title": {
+      "message": "Tiedostoa ei löydy."
+   }
+}

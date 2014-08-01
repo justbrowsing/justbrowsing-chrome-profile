@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Ketahui lebih lanjut"
+   },
+   "app_nacl_crash_report": {
+      "message": "Laporkan isu..."
+   },
+   "application_description": {
+      "message": "Penyuntingan dokumen"
+   },
+   "extension_description": {
+      "message": "Lihat dan edit fail Microsoft Word, Excel dan PowerPoint dengan Dokumen, Helaian dan Slaid Google"
+   },
+   "extension_name": {
+      "message": "Pengeditan Fail Office untuk Dokumen, Helaian & Slaid"
+   },
+   "file_loading_spinner_label": {
+      "message": "Memuatkan"
+   },
+   "file_not_found_msg": {
+      "message": "Fail yang anda minta telah dialihkan."
+   },
+   "file_not_found_title": {
+      "message": "Fail tidak dijumpai."
+   }
+}

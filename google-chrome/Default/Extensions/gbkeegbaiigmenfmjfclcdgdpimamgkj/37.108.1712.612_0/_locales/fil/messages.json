@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Matuto nang higit pa"
+   },
+   "app_nacl_crash_report": {
+      "message": "Mag-ulat ng isyu..."
+   },
+   "application_description": {
+      "message": "Pag-edit sa dokumento"
+   },
+   "extension_description": {
+      "message": "Tingnan at i-edit ang mga Microsoft Word, Excel, at PowerPoint file sa Google Docs, Sheets, at Slides"
+   },
+   "extension_name": {
+      "message": "Office Editing para sa Docs, Sheets at Slides"
+   },
+   "file_loading_spinner_label": {
+      "message": "Naglo-load"
+   },
+   "file_not_found_msg": {
+      "message": "Nailipat na ang hiniling mong file."
+   },
+   "file_not_found_title": {
+      "message": "Hindi nakita ang file."
+   }
+}

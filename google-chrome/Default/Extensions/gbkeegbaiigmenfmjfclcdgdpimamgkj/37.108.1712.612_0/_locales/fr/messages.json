@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "En savoir plus"
+   },
+   "app_nacl_crash_report": {
+      "message": "Signaler un problème…"
+   },
+   "application_description": {
+      "message": "Modification de documents"
+   },
+   "extension_description": {
+      "message": "Consultez et modifiez vos fichiers Microsoft Word, Excel et PowerPoint à l'aide de Google Docs, Sheets et Slides."
+   },
+   "extension_name": {
+      "message": "Modification de fichiers Office pour Docs, Sheets et Slides"
+   },
+   "file_loading_spinner_label": {
+      "message": "Chargement en cours…"
+   },
+   "file_not_found_msg": {
+      "message": "Le fichier demandé a été déplacé."
+   },
+   "file_not_found_title": {
+      "message": "Fichier introuvable."
+   }
+}

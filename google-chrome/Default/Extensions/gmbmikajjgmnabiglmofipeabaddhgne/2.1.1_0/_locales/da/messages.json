@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "apply": {
+      "message": "Anvend"
+   },
+   "audio_default_filename": {
+      "message": "Ikke-navngivet lyd"
+   },
+   "authorization_needed": {
+      "message": "Du skal give Gem på Google Drev tilladelse."
+   },
+   "cancel": {
+      "message": "Annuller"
+   },
+   "cannot_capture_chrome": {
+      "message": "Kan ikke skærmfotografere Chrome-sider. Prøv en standardwebside."
+   },
+   "change_dest_folder": {
+      "message": "Skift destinationsmappe..."
+   },
+   "chrome_extension_name": {
+      "message": "Gem på Google Drev"
+   },
+   "close": {
+      "message": "Luk"
+   },
+   "convert_to_google_format": {
+      "message": "Konvertér det gemte link til Google-redigeringsformat"
+   },
+   "debug": {
+      "message": "Fejlretning"
+   },
+   "default_filename": {
+      "message": "Ikke-navngivet"
+   },
+   "download_canceled": {
+      "message": "Download annulleret."
+   },
+   "download_failure": {
+      "message": "Downloadfejl: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Downloadfejl: Der blev ikke modtaget nogen data."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Downloadfejl: Kilden er for stor ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Downloader $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Downloader..."
+   },
+   "empty_page_capture": {
+      "message": "Sidens indhold kunne ikke hentes som MHTML."
+   },
+   "enable_file_url": {
+      "message": "Filers webadresser skal være aktiveret med valgmuligheden \"Tillad adgang til filers webadresser på filer\" på siden med udvidelsesindstillinger."
+   },
+   "ext_description": {
+      "message": "Gem webindhold eller skærmbillede direkte i Google Drev."
+   },
+   "failure_page_capture": {
+      "message": "Sidens indhold kunne ikke hentes som MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Send feedback (kun internt)"
+   },
+   "file_bug_internal": {
+      "message": "Indgiv en fejl (kun internt)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> blev gemt i \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">rediger\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> blev flyttet til papirkurven. Gå til \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drev\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drev"
+   },
+   "help": {
+      "message": "Hjælp"
+   },
+   "html_default_filename": {
+      "message": "Ikke-navngivet HTML"
+   },
+   "image_capture_failed": {
+      "message": "Hentningen af billedet mislykkedes."
+   },
+   "image_capture_failed_reason": {
+      "message": "Billedet kunne ikke tages ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Ikke-navngivet billede"
+   },
+   "invalid_url": {
+      "message": "Ugyldig webadresse: $1. Downloadede webadresser skal begynde med http://, https:// eller file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Hentet unavngivet side.mht"
+   },
+   "misc": {
+      "message": "Diverse"
+   },
+   "my_drive": {
+      "message": "Mit drev"
+   },
+   "options_header_text": {
+      "message": "Valgmuligheder for udvidelsen: Gem på Google Drev"
+   },
+   "options_title": {
+      "message": "Valgmuligheder for Gem på Google Drev"
+   },
+   "page_size_not_supported": {
+      "message": "Sidestørrelsen understøttes ikke: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Ikke-navngivet PDF"
+   },
+   "percent": {
+      "message": "$1% udført",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privatliv"
+   },
+   "rename": {
+      "message": "Omdøb"
+   },
+   "rename_prompt": {
+      "message": "Omdøb:"
+   },
+   "save_as_html": {
+      "message": "HTML-kilde (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google-dokument"
+   },
+   "save_as_image_entire": {
+      "message": "Billede af hele siden (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Billede af den synlige del af siden (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Webarkiv (.mht)"
+   },
+   "save_audio": {
+      "message": "Gem lyd til Google Drev"
+   },
+   "save_image": {
+      "message": "Gem billede til Google Drev"
+   },
+   "save_link": {
+      "message": "Gem link til Google Drev"
+   },
+   "save_page_as": {
+      "message": "Gem siden som:"
+   },
+   "save_to_folder_text": {
+      "message": "Gem i mappe"
+   },
+   "save_to_google_drive_action": {
+      "message": "Gem i Google Drev"
+   },
+   "save_video": {
+      "message": "Gem video til Google Drev"
+   },
+   "saving": {
+      "message": "Gemmer $1 til Google Drev...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Vælg en mappe, du vil gemme i"
+   },
+   "send_feedback": {
+      "message": "Send feedback"
+   },
+   "sign_out": {
+      "message": "Log ud"
+   },
+   "start_download_exception": {
+      "message": "Der opstod en fejl med at starte downloaden: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Ikke-navngivet tekst"
+   },
+   "trash": {
+      "message": "Papirkurv"
+   },
+   "unspecified_error": {
+      "message": "Uspecificeret fejl"
+   },
+   "upload_canceled": {
+      "message": "Upload annulleret"
+   },
+   "upload_failure": {
+      "message": "Uploadfejl: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Uploader $1 til Google Drev ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Åbn linket\u003C/a>, og gem siden ved hjælp af knappen Gem i Google Drev til højre for adresselinjen.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Dette er et link til en webside"
+   },
+   "video_default_filename": {
+      "message": "Ikke-navngivet video"
+   },
+   "xml_default_filename": {
+      "message": "Ikke-navngivet XML"
+   }
+}

@@ -1,0 +1,40 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": "skin/fusion/19_19/default.png",
+      "default_popup": "ratingwindow.html",
+      "default_title": "WOT"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "http://www.mywot.com/*", "https://www.mywot.com/*" ],
+      "js": [ "wot.js", "content/common.js", "content/i-warning.js", "content/url.js", "content/popup.js", "content/search.js", "content/welcome_tips.js", "content/surveys.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "wot.js", "content/common.js", "content/my.js", "content/settings.js" ],
+      "matches": [ "http://www.mywot.com/*", "https://www.mywot.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "style-src 'self' 'unsafe-inline' http://fonts.googleapis.com; script-src 'self' https://ssl.google-analytics.com; object-src 'self'; img-src *",
+   "default_locale": "en",
+   "description": "__MSG_ext_description__",
+   "icons": {
+      "128": "skin/fusion/icons/128.png",
+      "16": "skin/fusion/icons/16.png",
+      "32": "skin/fusion/icons/32.png",
+      "48": "skin/fusion/icons/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+5gqgUc6+WAXv9isVvOB2+4QJN0yG+hT5PVVqmA+rMdbj6/849Rbj7BilvSKC1w8S8rKMP0O+xp5g+qrmegkobz7HXvZUM2zYADWwQZOmPzh8I/wjeSHQHgBpq9DXCXdtkiq5bMuQqZH+g2+xP5dtBt8jvanbdXoFrvtYm2dOoQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18",
+   "name": "WOT",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "contextMenus", "http://www.mywot.com/*", "http://api.mywot.com/*", "https://api.mywot.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.5.15",
+   "web_accessible_resources": [ "content/warning.html", "widgets/surveys.html", "skin/include/popup.css", "skin/include/warning.css", "skin/include/welcometips.css", "skin/fusion/logo.png", "skin/b/logo.png", "skin/b/confidence_150dpi.png", "skin/b/donuts_150.png", "skin/b/bubl_speech_c_150.png", "skin/b/bubl_speech_l_150.png", "skin/b/bubl_speech_r_150.png", "skin/b/ws/robot.png", "skin/b/ws/list_c.png", "skin/b/ws/list_l.png", "skin/b/ws/list_r.png", "skin/b/accessible/donuts_150.png", "skin/b/welcometips/wt_intro_0.png", "skin/b/welcometips/wt_intro_top.png", "skin/b/welcometips/wt_left_corner.png", "skin/b/welcometips/wt_left_corner_2.png", "skin/fusion/accessible/16_16/plain/r0.png", "skin/fusion/accessible/16_16/plain/r1.png", "skin/fusion/accessible/16_16/plain/r2.png", "skin/fusion/accessible/16_16/plain/r3.png", "skin/fusion/accessible/16_16/plain/r4.png", "skin/fusion/accessible/16_16/plain/r5.png", "skin/fusion/16_16/plain/lock.png", "skin/fusion/16_16/plain/locked.png", "skin/fusion/16_16/plain/r0.png", "skin/fusion/16_16/plain/r1.png", "skin/fusion/16_16/plain/r2.png", "skin/fusion/16_16/plain/r3.png", "skin/fusion/16_16/plain/r4.png", "skin/fusion/16_16/plain/r5.png", "skin/fusion/16_16/plain/rx.png" ]
+}

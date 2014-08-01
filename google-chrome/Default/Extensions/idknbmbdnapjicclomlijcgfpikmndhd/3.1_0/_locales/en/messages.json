@@ -146,7 +146,7 @@
    },
    "snapshotDisabledMessage": {
       "description": "The message displayed to indicate that the current version of Chrome does not support the snapshot generation API",
-      "message": "This version of Chrome does not support snapshots. Snapshots are offline browsable version of a page. Make sure to use the \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Edev channel version\u003C/a\u003E to enable snapshots."
+      "message": "This version of Chrome does not support snapshots. Snapshots are offline browsable version of a page. Make sure to use the \u003Ca href='javascript:void()' onclick='openDevChannelTab()'>dev channel version\u003C/a> to enable snapshots."
    },
    "tryAgain": {
       "description": "The text to show as a clickable link if we want the user to try an action again, such as fetching devices on error or sending a page again.",

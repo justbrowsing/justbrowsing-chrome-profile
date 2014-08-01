@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "مزيد من المعلومات"
+   },
+   "app_nacl_crash_report": {
+      "message": "الإبلاغ عن مشكلة..."
+   },
+   "application_description": {
+      "message": "تعديل المستندات"
+   },
+   "extension_description": {
+      "message": "‏عرض وتعديل ملفات Microsoft Word، وExcel، وPowerPoint مع مستندات، وأوراق، وشرائح Google"
+   },
+   "extension_name": {
+      "message": "‏تعديل Office للمستندات، والأوراق، والشرائح"
+   },
+   "file_loading_spinner_label": {
+      "message": "جارٍ التحميل"
+   },
+   "file_not_found_msg": {
+      "message": "لقد تم نقل الملف الذي طلبته."
+   },
+   "file_not_found_title": {
+      "message": "لم يتم العثور على الملف."
+   }
+}

@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "അക്കൗണ്ട്"
+   },
+   "apply": {
+      "message": "പ്രയോഗിക്കുക"
+   },
+   "audio_default_filename": {
+      "message": "പേരില്ലാത്ത ഓഡിയോ"
+   },
+   "authorization_needed": {
+      "message": "Google ഡ്രൈവിൽ സംരക്ഷിക്കുക എന്നത് നിങ്ങൾ അംഗീകൃതമാക്കണം."
+   },
+   "cancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome പേജുകളുടെ സ്‌ക്രീൻ ക്യാപ്‌ചർ ചെയ്യാനാകുന്നില്ല. ഒരു അടിസ്ഥാന വെബ് പേജ് പരീക്ഷിക്കുക."
+   },
+   "change_dest_folder": {
+      "message": "ലക്ഷ്യസ്ഥാന ഫോൾഡർ മാറ്റുക..."
+   },
+   "chrome_extension_name": {
+      "message": "Google ഡ്രൈവിൽ സംരക്ഷിക്കുക"
+   },
+   "close": {
+      "message": "അടയ്ക്കുക"
+   },
+   "convert_to_google_format": {
+      "message": "സംരക്ഷിച്ച ലിങ്കിനെ Google എഡിറ്റർ ഫോർമാറ്റിലേക്ക് പരിവർത്തനം ചെയ്യുക"
+   },
+   "debug": {
+      "message": "ഡീബഗ് ചെയ്യുക"
+   },
+   "default_filename": {
+      "message": "പേരില്ലാത്തത്"
+   },
+   "download_canceled": {
+      "message": "ഡൗൺലോഡുചെയ്യൽ റദ്ദാക്കി."
+   },
+   "download_failure": {
+      "message": "ഡൗൺലോഡ് ചെയ്യലിൽ പരാജയം: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ഡൗൺ‌ലോഡ് പരാജയം: ഡാറ്റയൊന്നും ലഭിച്ചില്ല."
+   },
+   "download_failure_too_big_mb": {
+      "message": "ഡൗൺലോഡ് പരാജയം: ഉറവിടം വളരെ വലുതാണ് ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 ഡൗൺലോഡുചെയ്യുന്നു...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "ഡൗൺലോഡുചെയ്യുന്നു..."
+   },
+   "empty_page_capture": {
+      "message": "MHTML ആയി പേജ് ഉള്ളടക്കം എടുക്കാൻ കഴിയുന്നില്ല."
+   },
+   "enable_file_url": {
+      "message": "വിപുലീകരണ ക്രമീകരണങ്ങൾ പേജിലെ \"ഫയൽ URL-കളിലേക്കുള്ള ആക്‌സസ്സ് അനുവദിക്കുക\" എന്ന ഓപ്‌ഷൻ ഉപയോഗിച്ച് ഫയൽ URL-കൾ പ്രാപ്‌തമാക്കിയിരിക്കണം."
+   },
+   "ext_description": {
+      "message": "Google ഡ്രൈവ് എന്നതിലേക്ക് വെബ് ഉള്ളടക്കമോ സ്‌ക്രീൻ ക്യാപ്‌ചറോ നേരിട്ട് സംരക്ഷിക്കുക."
+   },
+   "failure_page_capture": {
+      "message": "MHTML ആയി ഉള്ളടക്ക പേജ് ക്യാപ്ചർ ചെയ്യാൻ കഴിയില്ല : $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ഫീഡ്‌ബാക്ക് അയ‌യ്‌ക്കുക (ആന്തരികം മാത്രം)"
+   },
+   "file_bug_internal": {
+      "message": "ഒരു ബഗ് ഫയൽ ചെയ്യുക (ആന്തരികം മാത്രം)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> എന്നത് \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> എന്നതിൽ സംരക്ഷിച്ചു. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">മാറ്റുക\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> എന്നത് ട്രാഷിലേക്ക് നീക്കി. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ഡ്രൈവ്\u003C/a> എന്നതിലേക്ക് പോകുക.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ഡ്രൈവ്"
+   },
+   "help": {
+      "message": "സഹായം"
+   },
+   "html_default_filename": {
+      "message": "പേരില്ലാത്ത HTML"
+   },
+   "image_capture_failed": {
+      "message": "ചിത്രം എടുക്കുന്നത് പരാജയപ്പെട്ടു."
+   },
+   "image_capture_failed_reason": {
+      "message": "ചിത്രമെടുക്കൽ പരാജയപ്പെട്ടു ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "പേരില്ലാത്ത ചിത്രം"
+   },
+   "invalid_url": {
+      "message": "URL അസാധുവാണ്: $1. ഡൗൺലോഡുചെയ്‌ത URL-കൾ http://, https:// അല്ലെങ്കിൽ file:// എന്നതിൽ ആരംഭിക്കണം.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "പേരില്ലാത്ത Capture.mht"
+   },
+   "misc": {
+      "message": "പലവക"
+   },
+   "my_drive": {
+      "message": "എന്റെ ഡ്രൈവ്"
+   },
+   "options_header_text": {
+      "message": "Google ഡ്രൈവിൽ സംരക്ഷിക്കുക വിപുലീകരണ ഓപ്‌ഷനുകൾ"
+   },
+   "options_title": {
+      "message": "Google ഡ്രൈവിൽ സംരക്ഷിക്കുക ഓപ്‌ഷനുകൾ"
+   },
+   "page_size_not_supported": {
+      "message": "പേജ് വലുപ്പം പിന്തുണയ്‌ക്കുന്നില്ല: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "പേരില്ലാത്ത PDF"
+   },
+   "percent": {
+      "message": "$1% പൂർത്തിയായി",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "സ്വകാര്യത"
+   },
+   "rename": {
+      "message": "പേരുമാറ്റുക"
+   },
+   "rename_prompt": {
+      "message": "പേരുമാറ്റുക:"
+   },
+   "save_as_html": {
+      "message": "HTML ഉറവിടം (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google പ്രമാണം"
+   },
+   "save_as_image_entire": {
+      "message": "മുഴുവൻ പേജിന്റേയും ചിത്രം (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "ദൃശ്യമായ പേജിന്റെ ചിത്രം (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "വെബ് ആർക്കൈവ് (.mht)"
+   },
+   "save_audio": {
+      "message": "Google ഡ്രൈവ്-ലേക്ക് ഓഡിയോ സംരക്ഷിക്കുക"
+   },
+   "save_image": {
+      "message": "Google ഡ്രൈവ്-ലേക്ക് ഇമേജ് സംരക്ഷിക്കുക"
+   },
+   "save_link": {
+      "message": "Google ഡ്രൈവ്-ലേക്ക് ലിങ്ക് സംരക്ഷിക്കുക"
+   },
+   "save_page_as": {
+      "message": "പേജ് ഇതായി സംരക്ഷിക്കുക:"
+   },
+   "save_to_folder_text": {
+      "message": "സംരക്ഷിക്കാനുള്ള ഫോൾഡർ"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google ഡ്രൈവ്-ൽ സംരക്ഷിക്കുക"
+   },
+   "save_video": {
+      "message": "Google ഡ്രൈവ്-ലേക്ക് വീഡിയോ സംരക്ഷിക്കുക"
+   },
+   "saving": {
+      "message": "$1-നെ Google ഡ്രൈവ്-ലേക്ക് സംരക്ഷിക്കുന്നു...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "സംരക്ഷിക്കാനുള്ള ഒരു ഫോൾഡർ തിരഞ്ഞെടുക്കുക"
+   },
+   "send_feedback": {
+      "message": "ഫീഡ്ബാക്ക് അയയ്ക്കുക"
+   },
+   "sign_out": {
+      "message": "സൈൻ ഔട്ട് ചെയ്യുക"
+   },
+   "start_download_exception": {
+      "message": "ഡൗൺ‌ലോഡ് ആരംഭിക്കുന്നതിൽ പരാജയം: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "പേരില്ലാത്ത വാചകം"
+   },
+   "trash": {
+      "message": "ട്രാഷ്"
+   },
+   "unspecified_error": {
+      "message": "വ്യക്തമല്ലാത്ത പിശക്"
+   },
+   "upload_canceled": {
+      "message": "അപ്‌ലോഡുചെയ്യുക റദ്ദാക്കി"
+   },
+   "upload_failure": {
+      "message": "അ‌പ്‌ലോഡ് പരാജയം: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Google ഡ്രൈവ് എന്നതിലേക്ക് $1 അപ്‌ലോഡുചെയ്യുന്നു...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">ലിങ്ക് തുറക്കുക\u003C/a>, തുടർന്ന് വിലാസ ബാറിന്റെ വലതുഭാഗത്തുള്ള Google ഡ്രൈവ്-ൽ സംരക്ഷിക്കുക ബട്ടൺ ഉപയോഗിച്ച് പേജ് സംരക്ഷിക്കുക.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "ഇത് ഒരു വെബ് പേജിലേക്കുള്ള ലിങ്കാണ്"
+   },
+   "video_default_filename": {
+      "message": "പേരില്ലാത്ത വീഡിയോ"
+   },
+   "xml_default_filename": {
+      "message": "പേരില്ലാത്ത XML"
+   }
+}

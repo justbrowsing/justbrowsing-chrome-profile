@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "帐户"
+   },
+   "apply": {
+      "message": "应用"
+   },
+   "audio_default_filename": {
+      "message": "无标题的音频"
+   },
+   "authorization_needed": {
+      "message": "您必须向保存到 Google 云端硬盘授权。"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cannot_capture_chrome": {
+      "message": "无法对Chrome页面进行截屏。请尝试标准网页。"
+   },
+   "change_dest_folder": {
+      "message": "更改目标文件夹..."
+   },
+   "chrome_extension_name": {
+      "message": "保存到 Google 云端硬盘"
+   },
+   "close": {
+      "message": "关闭"
+   },
+   "convert_to_google_format": {
+      "message": "将保存的链接转换为Google编辑器格式"
+   },
+   "debug": {
+      "message": "调试"
+   },
+   "default_filename": {
+      "message": "无标题"
+   },
+   "download_canceled": {
+      "message": "下载已取消。"
+   },
+   "download_failure": {
+      "message": "下载失败：$1。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "下载失败：未收到任何数据。"
+   },
+   "download_failure_too_big_mb": {
+      "message": "下载失败：源文件过大 ($1 MB)。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "正在下载“$1”...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "正在下载..."
+   },
+   "empty_page_capture": {
+      "message": "无法将网页内容抓取为 MHTML。"
+   },
+   "enable_file_url": {
+      "message": "必须在“扩展程序”设置页上通过“允许访问文件网址”选项来启用文件网址。"
+   },
+   "ext_description": {
+      "message": "将网络内容或屏幕截图直接保存到Google 云端硬盘。"
+   },
+   "failure_page_capture": {
+      "message": "无法将网页内容抓取为 MHTML：$1。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "发送反馈（仅限内部使用）"
+   },
+   "file_bug_internal": {
+      "message": "提交错误（仅限内部使用）"
+   },
+   "file_was_saved": {
+      "message": "已将\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a>保存到\u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>\u003Cspan id=\"$5\">（\u003Ca href=\"$6\" target=\"_blank\">更改\u003C/a>）\u003C/span>。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "已将\u003Cspan id=\"$1\">\u003C/span>移至回收站。转到\u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google 云端硬盘\u003C/a>。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google 云端硬盘"
+   },
+   "help": {
+      "message": "帮助"
+   },
+   "html_default_filename": {
+      "message": "无标题的 HTML"
+   },
+   "image_capture_failed": {
+      "message": "图片捕获失败。"
+   },
+   "image_capture_failed_reason": {
+      "message": "图片捕获失败（$1）",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "无标题的图片"
+   },
+   "invalid_url": {
+      "message": "“$1”为无效网址。下载网址必须以 http://、https:// 或 file:// 开头。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "抓取的无标题网页.mht"
+   },
+   "misc": {
+      "message": "其他"
+   },
+   "my_drive": {
+      "message": "我的云端硬盘"
+   },
+   "options_header_text": {
+      "message": "保存到 Google 云端硬盘扩展选项"
+   },
+   "options_title": {
+      "message": "保存到 Google 云端硬盘选项"
+   },
+   "page_size_not_supported": {
+      "message": "不支持的页面大小：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "无标题的 PDF"
+   },
+   "percent": {
+      "message": "已完成 $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "隐私权"
+   },
+   "rename": {
+      "message": "重命名"
+   },
+   "rename_prompt": {
+      "message": "重命名："
+   },
+   "save_as_html": {
+      "message": "HTML 源代码 (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google 文档"
+   },
+   "save_as_image_entire": {
+      "message": "整个网页的图片 (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "页面可见部分的图像 (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "网络存档 (.mht)"
+   },
+   "save_audio": {
+      "message": "将音频保存到 Google 云端硬盘"
+   },
+   "save_image": {
+      "message": "将图片保存到 Google 云端硬盘"
+   },
+   "save_link": {
+      "message": "将链接保存到 Google 云端硬盘"
+   },
+   "save_page_as": {
+      "message": "网页另存为："
+   },
+   "save_to_folder_text": {
+      "message": "要存入的文件夹"
+   },
+   "save_to_google_drive_action": {
+      "message": "保存到Google 云端硬盘"
+   },
+   "save_video": {
+      "message": "将视频保存到 Google 云端硬盘"
+   },
+   "saving": {
+      "message": "正在将 $1 保存到 Google 云端硬盘...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "选择要存入的文件夹"
+   },
+   "send_feedback": {
+      "message": "发送反馈"
+   },
+   "sign_out": {
+      "message": "退出"
+   },
+   "start_download_exception": {
+      "message": "开始下载时失败：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "无标题的文本"
+   },
+   "trash": {
+      "message": "回收站"
+   },
+   "unspecified_error": {
+      "message": "状态值未指定的错误"
+   },
+   "upload_canceled": {
+      "message": "上传已取消"
+   },
+   "upload_failure": {
+      "message": "上传失败：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "正在将 $1 上传到 Google 云端硬盘...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">打开链接\u003C/a>，并使用地址栏右侧的保存到Google 云端硬盘按钮保存网页。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "这是指向网页的链接"
+   },
+   "video_default_filename": {
+      "message": "无标题的视频"
+   },
+   "xml_default_filename": {
+      "message": "无标题的 XML"
+   }
+}

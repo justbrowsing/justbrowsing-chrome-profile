@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "เรียนรู้เพิ่มเติม"
+   },
+   "app_nacl_crash_report": {
+      "message": "รายงานปัญหา..."
+   },
+   "application_description": {
+      "message": "การแก้ไขเอกสาร"
+   },
+   "extension_description": {
+      "message": "ดูและแก้ไขไฟล์ Microsoft Word, Excel และ PowerPoint ด้วย Google เอกสาร ชีต และสไลด์"
+   },
+   "extension_name": {
+      "message": "การแก้ไขไฟล์ Office สำหรับเอกสาร ชีต และสไลด์"
+   },
+   "file_loading_spinner_label": {
+      "message": "กำลังโหลด"
+   },
+   "file_not_found_msg": {
+      "message": "ไฟล์ที่คุณขอได้ถูกอัปโหลดและย้ายไปแล้ว"
+   },
+   "file_not_found_title": {
+      "message": "ไม่พบไฟล์"
+   }
+}

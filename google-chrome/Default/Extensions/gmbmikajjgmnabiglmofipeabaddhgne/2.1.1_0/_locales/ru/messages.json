@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Аккаунт"
+   },
+   "apply": {
+      "message": "Применить"
+   },
+   "audio_default_filename": {
+      "message": "Звук без названия"
+   },
+   "authorization_needed": {
+      "message": "Авторизуйте скрипт Сохранить на Google Диске."
+   },
+   "cancel": {
+      "message": "Отмена"
+   },
+   "cannot_capture_chrome": {
+      "message": "Невозможно сделать скриншот страницы Chrome. Выберите обычную веб-страницу."
+   },
+   "change_dest_folder": {
+      "message": "Выбрать другую папку"
+   },
+   "chrome_extension_name": {
+      "message": "Сохранить на Google Диске"
+   },
+   "close": {
+      "message": "Закрыть"
+   },
+   "convert_to_google_format": {
+      "message": "Преобразовывать сохраненные ссылки в формат редактора Google"
+   },
+   "debug": {
+      "message": "Выполнить отладку"
+   },
+   "default_filename": {
+      "message": "Без названия"
+   },
+   "download_canceled": {
+      "message": "Скачивание отменено."
+   },
+   "download_failure": {
+      "message": "Ошибка при скачивании: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Ошибка при скачивании: данные не получены."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Ошибка при скачивании: слишком большой исходный файл ($1 МБ).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Выполняется скачивание $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Выполняется скачивание..."
+   },
+   "empty_page_capture": {
+      "message": "Не удалось сохранить страницу в формате MHTML."
+   },
+   "enable_file_url": {
+      "message": "Необходимо включить опцию \"Разрешить открывать файлы по ссылкам\" на странице настроек расширений."
+   },
+   "ext_description": {
+      "message": "Сохраняйте содержимое веб-страниц и скриншоты в приложении \"Google Диск\"."
+   },
+   "failure_page_capture": {
+      "message": "Не удалось сохранить страницу в формате MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Отправить отзыв (только для внутреннего использования)"
+   },
+   "file_bug_internal": {
+      "message": "Сообщить об ошибке (только для внутреннего использования)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> теперь находится в папке \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> – \u003Cspan id=\"$5\">\u003Ca href=\"$6\" target=\"_blank\">изменить\u003C/a>\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Файл \u003Cspan id=\"$1\">\u003C/span> перемещен в корзину. Перейдите в приложение \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Диск\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Диск"
+   },
+   "help": {
+      "message": "Справка"
+   },
+   "html_default_filename": {
+      "message": "Безымянный файл HTML"
+   },
+   "image_capture_failed": {
+      "message": "Сохранить изображение не удалось."
+   },
+   "image_capture_failed_reason": {
+      "message": "Не удалось сохранить изображение ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Безымянный файл изображения"
+   },
+   "invalid_url": {
+      "message": "Недействительный URL: $1. URL-адреса, предназначенные для загрузки файлов, должны начинаться с http://, https:// или file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Безымянная страница.mht"
+   },
+   "misc": {
+      "message": "Прочие"
+   },
+   "my_drive": {
+      "message": "Мой диск"
+   },
+   "options_header_text": {
+      "message": "Настройки расширения \"Сохранить на Google Диске\""
+   },
+   "options_title": {
+      "message": "Настройки расширения \"Сохранить на Google Диске\""
+   },
+   "page_size_not_supported": {
+      "message": "Размер страницы ($1) превышает допустимый.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Безымянный файл PDF"
+   },
+   "percent": {
+      "message": "$1% завершено",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Конфиденциальность"
+   },
+   "rename": {
+      "message": "Переименовать"
+   },
+   "rename_prompt": {
+      "message": "Переименовать:"
+   },
+   "save_as_html": {
+      "message": "Исходный код HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Документ Google"
+   },
+   "save_as_image_entire": {
+      "message": "Скриншот всей страницы (PNG)"
+   },
+   "save_as_image_visible": {
+      "message": "Снимок видимой области страницы (PNG)"
+   },
+   "save_as_mhtml": {
+      "message": "Веб-архив (.mht)"
+   },
+   "save_audio": {
+      "message": "Сохранить аудио в Google Диск"
+   },
+   "save_image": {
+      "message": "Сохранить изображение в Google Диск"
+   },
+   "save_link": {
+      "message": "Сохранить ссылку в Google Диск"
+   },
+   "save_page_as": {
+      "message": "Сохранить страницу как:"
+   },
+   "save_to_folder_text": {
+      "message": "Сохранение в папку"
+   },
+   "save_to_google_drive_action": {
+      "message": "Сохранить в Google Диск"
+   },
+   "save_video": {
+      "message": "Сохранить видео в Google Диск"
+   },
+   "saving": {
+      "message": "Сохранение файла \"$1\" в Google Диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Сохранить в..."
+   },
+   "send_feedback": {
+      "message": "Отправить отзыв"
+   },
+   "sign_out": {
+      "message": "Выйти"
+   },
+   "start_download_exception": {
+      "message": "Ошибка при скачивании: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Безымянный текстовый файл"
+   },
+   "trash": {
+      "message": "Корзина"
+   },
+   "unspecified_error": {
+      "message": "Неизвестная ошибка"
+   },
+   "upload_canceled": {
+      "message": "Загрузка отменена"
+   },
+   "upload_failure": {
+      "message": "Ошибка загрузки: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Загрузка файла \"$1\" в Google Диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Перейдите по ссылке\u003C/a> и сохраните страницу, нажав кнопку Сохранить в Google Диск справа от адресной строки.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Эта ссылка ведет на веб-страницу"
+   },
+   "video_default_filename": {
+      "message": "Безымянный видеофайл"
+   },
+   "xml_default_filename": {
+      "message": "Безымянный файл XML"
+   }
+}

@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Hvis du kan lide det,  skriv en anmeldelse :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "Gå til anmeldelse-side"
+   },
+   "app_desc": {
+      "message": "Smart Chrome udvidelse til smartphone brugere"
+   },
+   "app_title": {
+      "message": "Smart QrCode Generator"
+   },
+   "generate_qrcode": {
+      "message": "Lav Smart QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Tilføj eller ændre regler"
+   },
+   "lblAddRule": {
+      "message": "Tilføj regler"
+   },
+   "lblEdit_Close": {
+      "message": "Luk"
+   },
+   "lblEdit_Domain": {
+      "message": "Domain"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Hvordan bruger man Smart QrCode Generator"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Billede - src"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Regulære udtryk:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Ændr string"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Udvalgte text"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "URL"
+   },
+   "lblEdit_Source": {
+      "message": "Kilde:"
+   },
+   "lblEdit_Tag": {
+      "message": "Tag"
+   },
+   "lblEdit_Title": {
+      "message": "Titel:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Gem"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Ikon"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Vælg ikon"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Deaktiver"
+   },
+   "lblEdit_version": {
+      "message": "version"
+   },
+   "lblRules": {
+      "message": "Regler"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Billede"
+   },
+   "popup_link": {
+      "message": "Link"
+   },
+   "popup_selectedText": {
+      "message": "Udvalgt text"
+   }
+}

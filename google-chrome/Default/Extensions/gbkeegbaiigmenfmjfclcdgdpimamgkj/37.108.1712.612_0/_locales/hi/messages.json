@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "अधिक जानें"
+   },
+   "app_nacl_crash_report": {
+      "message": "किसी समस्‍या की रिपोर्ट करें..."
+   },
+   "application_description": {
+      "message": "दस्तावेज़ संपादन"
+   },
+   "extension_description": {
+      "message": "Google दस्तावेज़, पत्रक और स्लाइड वाली Microsoft Word, Excel और PowerPoint फ़ाइलें देखें और संपादित करें"
+   },
+   "extension_name": {
+      "message": "दस्तावेज़, पत्रक और स्लाइड के लिए Office संपादन"
+   },
+   "file_loading_spinner_label": {
+      "message": "लोड हो रहा है"
+   },
+   "file_not_found_msg": {
+      "message": "आपके द्वारा अनुरोधित फ़ाइल डाउनलोड होने में विफल रही."
+   },
+   "file_not_found_title": {
+      "message": "फ़ाइल नहीं मिली."
+   }
+}

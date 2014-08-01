@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Més informació"
+   },
+   "app_nacl_crash_report": {
+      "message": "Informeu d'un problema..."
+   },
+   "application_description": {
+      "message": "Edició del document"
+   },
+   "extension_description": {
+      "message": "Permet visualitzar i editar fitxers de Microsoft Word, Excel i PowerPoint mitjançant Documents, Fulls de càlcul i Presentacions de Google."
+   },
+   "extension_name": {
+      "message": "Edició d'Office per a Documents, Fulls de càlcul i Presentacions"
+   },
+   "file_loading_spinner_label": {
+      "message": "S'està carregant"
+   },
+   "file_not_found_msg": {
+      "message": "El fitxer que heu sol·licitat s'ha mogut."
+   },
+   "file_not_found_title": {
+      "message": "No s'ha trobat el fitxer."
+   }
+}

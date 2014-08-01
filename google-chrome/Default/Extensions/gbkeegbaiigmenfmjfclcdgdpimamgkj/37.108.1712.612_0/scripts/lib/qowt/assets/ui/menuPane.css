@@ -1,0 +1,130 @@
+.qowt-menuPane {
+  /* Basic menu pane styling for all apps.*/
+  background: white;
+  position: absolute;
+  list-style-type: none;
+  margin: 0;
+  padding: 6px 0;
+  border: 1px solid rgba(0, 0, 0, .2);
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+  /* Ensure menu panes have high z-index priority to display on top of other
+   ui elements (eg sheet-selector)
+   Note: if you change this you must also modify the qowt-menu-shield z-index
+   value accordingly. See menubar.css.;
+   */
+  z-index: 105;
+  color: black;
+  font-size: 13px;
+  outline: none;
+  margin-left: -1px;
+  -webkit-user-select: none;
+}
+
+#cmd-cellAlign + .qowt-menuPane {
+  width: 84px;
+  padding: 6px 4px;
+  white-space: normal;
+}
+
+.qowt-menuPane .qowt-spacer {
+  /* Menu pane spacer (separator) styling.*/
+  border-top: 1px solid #EBEBEB;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.qowt-menuPane .qowt-menuitem, menu.qowt-color-pane div.qowt-menuitem {
+  /* Basic styling for menu pane items.*/
+  padding: 6px 7em 6px 30px;
+  cursor: pointer;
+  position: relative;
+  -webkit-user-select: none;
+}
+
+.qowt-menupane .qowt-menuitem-disabled {
+  cursor: default;
+}
+
+.qowt-menuitem-icon {
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 21px;
+  height: 21px;
+}
+
+/* Overrides for Office Compatibility Mode menu item styling */
+#menuitem-officeCompatibilityMode {
+  padding-left: 8px;
+}
+.qowt-word-context #menuitem-officeCompatibilityMode {
+  background-color: #4285f4;
+}
+.qowt-sheet-context #menuitem-officeCompatibilityMode {
+  background-color: #0f9d58;
+}
+.qowt-point-context #menuitem-officeCompatibilityMode {
+  background-color: #f4b400;
+}
+#menuitem-officeCompatibilityMode .qowt-menuitem-content {
+  color: #fff;
+}
+#menuitem-officeCompatibilityMode .qowt-menuitem-icon {
+  right: 8px;
+  left: auto;
+}
+#menuitem-officeCompatibilityMode:hover,
+.qowt-menuPane .qowt-menuitem:hover,
+.qowt-menuPane .qowt-menuitem.selected {
+  /* Styling when you hover over a menu pane item.*/
+  background-color: #EEE;
+  border-color: #EEE;
+  border-width: 1px 0;
+  border-style: dotted;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.qowt-word-context #menuitem-officeCompatibilityMode:hover .qowt-menuitem-content {
+  color: #4285f4;
+}
+.qowt-sheet-context #menuitem-officeCompatibilityMode:hover .qowt-menuitem-content {
+  color: #0f9d58;
+}
+.qowt-point-context #menuitem-officeCompatibilityMode:hover .qowt-menuitem-content {
+  color: #f4b400;
+}
+
+/* Disabled menu items.*/
+.qowt-menupane .qowt-menuitem-disabled,
+.qowt-menupane .qowt-menuitem-disabled .qowt-shortcut {
+color: #ccc;
+}
+.qowt-menupane .qowt-menuitem-disabled .qowt-menuitem-icon {
+  opacity: 0.3;
+}
+
+/* Disabled menu items should have no hover effect.*/
+.qowt-menuPane .qowt-menuitem-disabled:hover {
+  background-color: inherit;
+  border-color: white;
+}
+
+/* Overrides the styles for buttons when they are inside a menu pane */
+menu.qowt-menuPane button {
+  width: 28px;
+  height: 28px;
+  margin: 0;
+  cursor: pointer;
+}
+
+/* Overrides the styles for buttons when they are inside a menu pane */
+menu.qowt-menuPane button:not(disabled):not(disabled).latched,
+.qowt-menu-active menu.qowt-menuPane button:not(disabled):not(disabled) {
+  -webkit-box-shadow: none;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+.qowt-main-buttonbar menu.qowt-menuPane button:not(disabled):not(disabled):hover {
+  background-color: #e0edfe;
+}

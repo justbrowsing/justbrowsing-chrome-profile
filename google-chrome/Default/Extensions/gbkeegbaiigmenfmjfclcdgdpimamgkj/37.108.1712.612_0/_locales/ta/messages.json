@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "மேலும் அறிக"
+   },
+   "app_nacl_crash_report": {
+      "message": "சிக்கல் எனப் புகார் செய்க..."
+   },
+   "application_description": {
+      "message": "ஆவணத்தைத் திருத்துதல்"
+   },
+   "extension_description": {
+      "message": "Google ஆவணம், விரிதாள் மற்றும் ஸ்லைடு மூலம் Microsoft Word, Excel மற்றும் PowerPoint கோப்புகளைப் பார்க்கலாம் மற்றும் திருத்தலாம்"
+   },
+   "extension_name": {
+      "message": "ஆவணம், விரிதாள் மற்றும் ஸ்லைடிற்கான Office எடிட்டிங்"
+   },
+   "file_loading_spinner_label": {
+      "message": "ஏற்றுகிறது"
+   },
+   "file_not_found_msg": {
+      "message": "நீங்கள் கோரிய கோப்பானது பதிவிறக்க முடியாமல் நகர்த்தப்பட்டது."
+   },
+   "file_not_found_title": {
+      "message": "கோப்பு இல்லை."
+   }
+}

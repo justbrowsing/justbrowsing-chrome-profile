@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Saznajte više"
+   },
+   "app_nacl_crash_report": {
+      "message": "Prijava problema..."
+   },
+   "application_description": {
+      "message": "Uređivanje dokumenta"
+   },
+   "extension_description": {
+      "message": "Prikaz i uređivanje datoteka programa Microsoft Word, Excel i PowerPoint pomoću Google dokumenata, Tablica i Prezentacija"
+   },
+   "extension_name": {
+      "message": "Office Editing za Dokumente, Tablice i Prezentacije"
+   },
+   "file_loading_spinner_label": {
+      "message": "Učitavanje"
+   },
+   "file_not_found_msg": {
+      "message": "Zatražena je datoteka premještena."
+   },
+   "file_not_found_title": {
+      "message": "Datoteka nije pronađena."
+   }
+}

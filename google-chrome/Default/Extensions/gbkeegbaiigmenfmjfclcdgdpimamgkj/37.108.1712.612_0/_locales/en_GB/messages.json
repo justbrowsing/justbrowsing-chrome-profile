@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Learn more"
+   },
+   "app_nacl_crash_report": {
+      "message": "Report an issue..."
+   },
+   "application_description": {
+      "message": "Document editing"
+   },
+   "extension_description": {
+      "message": "View and edit Microsoft Word, Excel and PowerPoint files with Google Docs, Sheets and Slides"
+   },
+   "extension_name": {
+      "message": "Office Editing for Docs, Sheets & Slides"
+   },
+   "file_loading_spinner_label": {
+      "message": "Loading"
+   },
+   "file_not_found_msg": {
+      "message": "The file that you've requested has up and moved."
+   },
+   "file_not_found_title": {
+      "message": "File not found."
+   }
+}

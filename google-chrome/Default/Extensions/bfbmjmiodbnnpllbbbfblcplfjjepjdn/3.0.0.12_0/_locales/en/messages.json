@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "About",
+      "message": "About"
+   },
+   "addbutton": {
+      "description": "Add",
+      "message": "Add"
+   },
+   "advancedoptions": {
+      "description": "Advanced Options",
+      "message": "Advanced Options"
+   },
+   "basicsettings": {
+      "description": "Basics",
+      "message": "Basics"
+   },
+   "bottom": {
+      "description": "bottom",
+      "message": "bottom"
+   },
+   "changelog": {
+      "description": "changelog link",
+      "message": "Changelog"
+   },
+   "deletebutton": {
+      "description": "Delete",
+      "message": "Delete"
+   },
+   "des1checkmotion": {
+      "description": "Make sure your room is not dark and that it have enough light.",
+      "message": "Make sure your room is not dark and that it have enough light."
+   },
+   "des2checkmotion": {
+      "description": "Your camera must not receive direct sunlight.",
+      "message": "Your camera must not receive direct sunlight."
+   },
+   "des3checkmotion": {
+      "description": "You use a front facing camera.",
+      "message": "You use a front facing camera."
+   },
+   "desaddvideobutton": {
+      "description": "Show the add button from this YouTube video.",
+      "message": "Show the add button from this YouTube video."
+   },
+   "desalllightsoff": {
+      "description": "Clicking the lamp button will toggle the lights on/off on all open tabs when this option is enabled.",
+      "message": "Clicking the lamp button will toggle the lights on/off on all open tabs when this option is enabled."
+   },
+   "desambilight": {
+      "description": "Show you the atmosphere lighting effect of the current playing video.",
+      "message": "Show you the atmosphere lighting effect of the current playing video."
+   },
+   "desambilight4color": {
+      "description": "4 choosen colors around the video:",
+      "message": "4 choosen colors around the video:"
+   },
+   "desambilightfixcolor": {
+      "description": "Only one color:",
+      "message": "Only one color:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "If set a lower value the shadow will be sharp, the higher the number, the more blurred it will be.",
+      "message": "If set to a lower value the shadow will be sharp, the higher the number, the more blurred it will be."
+   },
+   "desambilightrangespreadradius": {
+      "description": "Positive values increase the size of the shadow, negative values decrease the size.",
+      "message": "Positive values increase the size of the shadow, negative values decrease the size."
+   },
+   "desambilightvarcolor": {
+      "description": "Extract the color from the video.",
+      "message": "Extract the color from the video."
+   },
+   "desapitext": {
+      "description": "Wiki API for Website Developer",
+      "message": "Wiki API for Website Developer"
+   },
+   "desatmosphereonly": {
+      "description": "Use the atmosphere lighting feature only the following video site:",
+      "message": "Use the atmosphere lighting feature only the following video site:"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "Automatically dim the background when you click the play button and versus.",
+      "message": "Automatically dim the background when you click the play button and versus."
+   },
+   "desautoplaydelay": {
+      "description": "Brighten again the background when the video ended after",
+      "message": "Brighten again the background when the video ended after"
+   },
+   "desautoplaydelayend": {
+      "description": "seconds",
+      "message": "seconds"
+   },
+   "desautoplayonly": {
+      "description": "Dim only the following video site(s):",
+      "message": "Dim only the following video site(s):"
+   },
+   "desbrowserextension": {
+      "description": "browser extension",
+      "message": "browser extension"
+   },
+   "desbrowsersupport": {
+      "description": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer.",
+      "message": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer."
+   },
+   "desbrowsertheme": {
+      "description": "browser theme",
+      "message": "browser theme"
+   },
+   "descammotiononly": {
+      "description": "Activate the Camera Motion only on the following site(s):",
+      "message": "Activate the Camera Motion only on the following site(s):"
+   },
+   "desconfirmpassword": {
+      "description": "Confirm password",
+      "message": "Confirm password"
+   },
+   "desconfirmtime": {
+      "description": "Confirm time",
+      "message": "Confirm time"
+   },
+   "desconfirmtimesaver": {
+      "description": "Confirm Screen Saver Time",
+      "message": "Confirm Screen Saver Time"
+   },
+   "descontextmenus": {
+      "description": "Show the context menu to focus an item.",
+      "message": "Show the context menu to focus an item."
+   },
+   "description": {
+      "description": "The entire page will be fading to dark, so you can watch the video as if you were in the cinema.",
+      "message": "The entire page will be fading to dark, so you can watch the video as if you were in the cinema."
+   },
+   "desdynamicblocks": {
+      "description": "Blocks",
+      "message": "Blocks"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "Fish Tank",
+      "message": "Fish Tank"
+   },
+   "desdynamicraindrops": {
+      "description": "Raindrops",
+      "message": "Raindrops"
+   },
+   "desdynamicspace": {
+      "description": "Space Universe",
+      "message": "Space Universe"
+   },
+   "deseastereggs": {
+      "description": "Clicking on the T key, a complement is added to the 'theatre mode'.",
+      "message": "Clicking on the T key, a complement is added to the 'theatre mode'."
+   },
+   "desenterpassword": {
+      "description": "Enter your password in the box below:",
+      "message": "Enter your password in the box below:"
+   },
+   "deseyea": {
+      "description": "Automatically dim the background when opening a page.",
+      "message": "Automatically dim the background when opening a page."
+   },
+   "deseyealist": {
+      "description": "Automatically dim the background when opening the following page(s):",
+      "message": "Automatically dim the background when opening the following page(s):"
+   },
+   "deseyen": {
+      "description": "Normal use (lights go out when you click on the lamp icon).",
+      "message": "Normal use (lights go out when you click on the lamp icon)."
+   },
+   "deseyetimesaver": {
+      "description": "When a page is inactive (no mouse or keyboard input) for the time specified below, the page will automatically go dark.",
+      "message": "When a page is inactive (no mouse or keyboard input) for the time specified below, the page will automatically go dark."
+   },
+   "desfadein": {
+      "description": "Show the fade in effect.",
+      "message": "Show the fade in effect."
+   },
+   "desfadeout": {
+      "description": "Show the fade out effect.",
+      "message": "Show the fade out effect."
+   },
+   "desflash": {
+      "description": "Show all Flash objects.",
+      "message": "Show all Flash objects."
+   },
+   "deshardflash": {
+      "description": "Show all Flash objects, skipping the URL filter. This will fix problems with some video players being hidden, but will also display ads.",
+      "message": "Show all Flash objects, skipping the URL filter. This will fix problems with some video players being hidden, but will also display ads."
+   },
+   "deshead": {
+      "description": "Show the YouTube Channel bar or the name.",
+      "message": "Show the YouTube Channel bar or the name."
+   },
+   "desinfobar": {
+      "description": "Show the description information about the video.",
+      "message": "Show the description information about the video."
+   },
+   "deslikebar": {
+      "description": "Show the like/dislike bar under YouTube videos.",
+      "message": "Show the like/dislike bar under YouTube videos."
+   },
+   "deslikebutton": {
+      "description": "Show the like & dislike buttons of YouTube for this video.",
+      "message": "Show the like & dislike buttons of YouTube for this video."
+   },
+   "desmotion": {
+      "description": "Camera Motion",
+      "message": "Enable the Camera Motion so that the web page could darkens with a hand sweep down."
+   },
+   "desmotionChecklist": {
+      "description": "Checklist:",
+      "message": "Checklist:"
+   },
+   "desmousespotlighta": {
+      "description": "If the light is off, show a spotlight around the mouse cursor.",
+      "message": "If the light is off, show a spotlight around the mouse cursor."
+   },
+   "desmousespotlightc": {
+      "description": "If the light is off, you can select an area to focus a item.",
+      "message": "If the light is off, you can select an area to focus a item."
+   },
+   "desmousespotlighto": {
+      "description": "Normal use (disables the mouse settings below)",
+      "message": "Normal use (disables the mouse settings below)"
+   },
+   "desmousespotlightt": {
+      "description": "Allows you to click through the darkened screen when the lights are off.",
+      "message": "Allows you to click through the darkened screen when the lights are off."
+   },
+   "desnightenabletheme": {
+      "description": "When you open a new page it go automatic to the night mode.",
+      "message": "When you open a new page it go automatic to the night mode."
+   },
+   "desnightonly": {
+      "description": "Show the Night Mode only the following site(s):",
+      "message": "Show the Night Mode only the following site(s):"
+   },
+   "desnighttheme": {
+      "description": "Show the night switch button below the web page to make the page dark or light.",
+      "message": "Show the night switch button below the web page to make the page dark or light."
+   },
+   "desnoflash": {
+      "description": "Don't use this feature.",
+      "message": "Don't use this feature."
+   },
+   "despassword": {
+      "description": "Require a password to be entered before turning the lights back on.",
+      "message": "Require a password to be entered before turning the lights back on."
+   },
+   "desplaylist": {
+      "description": "Show the YouTube playlist on the YouTube website.",
+      "message": "Show the YouTube playlist on the YouTube website."
+   },
+   "desproject": {
+      "description": "project",
+      "message": "project"
+   },
+   "desreadera": {
+      "description": "Always show the dimness level bar when the lights go out.",
+      "message": "Always show the dimness level bar when the lights go out."
+   },
+   "desreadern": {
+      "description": "Never show the dimness level bar.",
+      "message": "Never show the dimness level bar."
+   },
+   "desrememberpage": {
+      "description": "If this option is enabled, it will show you not the remember page.",
+      "message": "If this option is enabled, it will show you not the remember page."
+   },
+   "dessaver": {
+      "description": "Screen Saver:",
+      "message": "Screen Saver:"
+   },
+   "dessharebutton": {
+      "description": "Show the share button of YouTube for this video.",
+      "message": "Show the share button of YouTube for this video."
+   },
+   "desshortcutlight": {
+      "description": "Enable the keyboard shortcuts below.",
+      "message": "Enable the keyboard shortcuts below."
+   },
+   "desspeech": {
+      "description": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:",
+      "message": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "play video",
+      "message": "play video"
+   },
+   "desspeech4command": {
+      "description": "pause video",
+      "message": "pause video"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "Activate the Speech Recognition only the following site(s):",
+      "message": "Activate the Speech Recognition only the following site(s):"
+   },
+   "desspotlightradius": {
+      "description": "is the diameter of the search lamp.",
+      "message": "is the diameter of the search lamp."
+   },
+   "dessuggestions": {
+      "description": "Show the suggestions of the YouTube website.",
+      "message": "Show the suggestions of the YouTube website."
+   },
+   "destime": {
+      "description": "Lights off between the following times:",
+      "message": "Lights off between the following times:"
+   },
+   "destrymotion": {
+      "description": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc.",
+      "message": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc."
+   },
+   "desuntil": {
+      "description": "until",
+      "message": "until"
+   },
+   "desvideoheadline": {
+      "description": "Show and invert the color of the video title.",
+      "message": "Show and invert the color of the video title."
+   },
+   "desviewcount": {
+      "description": "Show the number of view for this video.",
+      "message": "Show the number of view for this video."
+   },
+   "donatepromotext": {
+      "description": "If you can make a donation of any amount, I'd appreciate it immensely!",
+      "message": "If you can make a donation of any amount, I'd appreciate it immensely!"
+   },
+   "eastereggsquestion": {
+      "description": "Do you like a real movie theater?",
+      "message": "Do you like a real movie theater?"
+   },
+   "enjoyshare": {
+      "description": "Enjoy this extension and share it with others who you think will appreciate it.",
+      "message": "Enjoy this extension and share it with others who you think will appreciate it."
+   },
+   "eyedivoff": {
+      "description": "OFF",
+      "message": "OFF"
+   },
+   "eyedivon": {
+      "description": "ON",
+      "message": "ON"
+   },
+   "friendlyremember": {
+      "description": "Friendly Remember...",
+      "message": "Friendly Remember..."
+   },
+   "guide": {
+      "description": "TOtL Welcome Guide",
+      "message": "TOtL Welcome Guide"
+   },
+   "help": {
+      "description": "Help",
+      "message": "Help"
+   },
+   "helpautoplay": {
+      "description": "The 'Eye protection' is enabled. To use the below feature, disable the 'Eye protection' option.",
+      "message": "The 'Eye protection' is enabled. To use the below feature, disable the 'Eye protection' option."
+   },
+   "helpeyeprotection": {
+      "description": "Enabling 'Eye protection' will automatically disable the 'Auto play' feature.",
+      "message": "Enabling 'Eye protection' will automatically disable the 'Auto play' feature."
+   },
+   "hoveroptionapply": {
+      "description": "apply",
+      "message": "apply"
+   },
+   "hoveroptiondyn5": {
+      "description": "with flying",
+      "message": "with flying"
+   },
+   "howworkmotion": {
+      "description": "How does it work?",
+      "message": "How does it work?"
+   },
+   "installadblocker": {
+      "description": "Use then an Adblocker extension",
+      "message": "Use then an Adblocker extension"
+   },
+   "lastchecked": {
+      "description": "Latest version checked on",
+      "message": "Latest version checked on"
+   },
+   "left": {
+      "description": "left",
+      "message": "left"
+   },
+   "lockentername": {
+      "description": "Please enter your password",
+      "message": "Please enter your password"
+   },
+   "lockwrongpassword": {
+      "description": "Wrong password, please try again.",
+      "message": "Wrong password, please try again."
+   },
+   "longdonatetext": {
+      "description": "I'd truly appreciate if you can donate me to keep this browser extension alive for the other new users. Whether it's $$1 or $$100, your support is immensely appreciated!",
+      "message": "I'd truly appreciate if you can donate me to keep this browser extension alive for the other new users. Whether it's $$1 or $$100, your support is immensely appreciated!"
+   },
+   "motionoptions": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "name": {
+      "description": "Turn Off the Lights",
+      "message": "Turn Off the Lights"
+   },
+   "nightoptions": {
+      "description": "Night Mode",
+      "message": "Night Mode"
+   },
+   "optionecosaversaved": {
+      "description": "Seconds is saved successfully!",
+      "message": "Seconds is saved successfully!"
+   },
+   "optionpagetitle": {
+      "description": "Option page title",
+      "message": "Turn Off the Lights - Options"
+   },
+   "optionpasswordsaved": {
+      "description": "Password is saved successfully!",
+      "message": "Password is saved successfully!"
+   },
+   "optiontimesaved": {
+      "description": "Time is saved successfully!",
+      "message": "Time is saved successfully!"
+   },
+   "optionwrongimg": {
+      "description": "Invalid image file!",
+      "message": "Invalid image file!"
+   },
+   "pageatitle": {
+      "description": "Turn Off the Lights",
+      "message": "Turn Off the Lights"
+   },
+   "pagehelp": {
+      "description": "help",
+      "message": "help"
+   },
+   "pagestillloading": {
+      "description": "The page is still loading?",
+      "message": "The page is still loading?"
+   },
+   "pagetitle": {
+      "description": "Darken this page",
+      "message": "Darken this page"
+   },
+   "productshare": {
+      "description": "Gadgets",
+      "message": "Gadgets"
+   },
+   "ratedes": {
+      "description": "And let everyone know about this great extension!",
+      "message": "And let everyone know about this great extension!"
+   },
+   "rateitema": {
+      "description": "Rate 5 stars",
+      "message": "Rate 5 stars"
+   },
+   "ratetitle": {
+      "description": "Please rate & review my extension",
+      "message": "Please rate & review my extension"
+   },
+   "recflash": {
+      "description": "Recommended",
+      "message": "Recommended"
+   },
+   "rememberrate": {
+      "description": "Rate",
+      "message": "Rate"
+   },
+   "reportbug": {
+      "description": "Report an Issue",
+      "message": "Report an Issue"
+   },
+   "reportlist": {
+      "description": "See the full issue list",
+      "message": "(see list)"
+   },
+   "resetbrowserextension": {
+      "description": "Reset the Turn Off the Lights settings",
+      "message": "Reset the Turn Off the Lights settings"
+   },
+   "right": {
+      "description": "right",
+      "message": "right"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Settings"
+   },
+   "shortcutalllights": {
+      "description": "to toggle the lights on/off for all open tabs.",
+      "message": "to toggle the lights on/off for all open tabs."
+   },
+   "shortcutbright": {
+      "description": "to brighten the screen (decrease opacity).",
+      "message": "to brighten the screen (decrease opacity)."
+   },
+   "shortcutdark": {
+      "description": "to darken the screen (increase opacity).",
+      "message": "to darken the screen (increase opacity)."
+   },
+   "shortcuteyeprotection": {
+      "description": "to enable/disable the eye protection feature.",
+      "message": "to enable/disable the eye protection feature."
+   },
+   "shortcutopacity": {
+      "description": "to restore to the set darkness (opacity) setting.",
+      "message": "to restore to the set darkness (opacity) setting."
+   },
+   "shortcutsavingopacity": {
+      "description": "to save this opacity value",
+      "message": "to save this opacity value"
+   },
+   "shortcuttotl": {
+      "description": "to toggle the lights on/off.",
+      "message": "to toggle the lights on/off."
+   },
+   "showremember": {
+      "description": "doesn't show this remember page again when I open the option page.",
+      "message": "doesn't show this remember page again when I open the option page."
+   },
+   "skipremember": {
+      "description": "Skip this, and open now the option page",
+      "message": "Skip this, and open now the option page"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Speech Recognition"
+   },
+   "step1description": {
+      "description": "Enable the Camera Motion feature",
+      "message": "Enable the Camera Motion feature"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Then the black layer slide automatically down.",
+      "message": "Then the black layer slide automatically down."
+   },
+   "textfoot": {
+      "description": "This software is licensed under the CC-GNU GPL. To view a copy of this license, visit",
+      "message": "This software is licensed under the CC-GNU GPL. To view a copy of this license, visit"
+   },
+   "titeladdvideobutton": {
+      "description": "Add Button",
+      "message": "Add Button"
+   },
+   "titelalllightsoff": {
+      "description": "All open tabs",
+      "message": "All open tabs"
+   },
+   "titelambilight": {
+      "description": "Atmosphere Lighting",
+      "message": "Atmosphere Lighting"
+   },
+   "titelapideveloper": {
+      "description": "API Developer",
+      "message": "API Developer"
+   },
+   "titelautoplay": {
+      "description": "Autoplay",
+      "message": "Autoplay"
+   },
+   "titelautoplayblacklist": {
+      "description": "Blacklist",
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Whitelist",
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "description": "Automatically set the YouTube player to the larger size.",
+      "message": "Automatically set the YouTube player to the larger size."
+   },
+   "titelblur": {
+      "description": "Blur the rest",
+      "message": "Blur the rest"
+   },
+   "titelblurradius": {
+      "description": "The blur radius",
+      "message": "The blur radius"
+   },
+   "titelcamera": {
+      "description": "Camera",
+      "message": "Camera"
+   },
+   "titelcinemaontop": {
+      "description": "Movie theater mode: it shows the 'lights off' layer only on the top of the window.",
+      "message": "Movie theater mode: it shows the 'lights off' layer only on the top of the window."
+   },
+   "titelcolor": {
+      "description": "Color",
+      "message": "Color"
+   },
+   "titelcolora": {
+      "description": "Color A",
+      "message": "Color A"
+   },
+   "titelcolorb": {
+      "description": "Color B",
+      "message": "Color B"
+   },
+   "titelcontextmenus": {
+      "description": "Context Menu",
+      "message": "Context Menu"
+   },
+   "titeldeveloper": {
+      "description": "Developer",
+      "message": "Developer"
+   },
+   "titeldownloadbutton": {
+      "description": "Download this Upgrade!",
+      "message": "Download this Upgrade!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser.",
+      "message": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser."
+   },
+   "titeldownloadupgrade": {
+      "description": "The upgrade adds support for focusing selected images, and will display a gallery of images on the site.",
+      "message": "The upgrade adds support for focusing selected images, and will display a gallery of images on the site."
+   },
+   "titeldynamic": {
+      "description": "Dynamic Background",
+      "message": "Dynamic Background"
+   },
+   "titeleastereggs": {
+      "description": "Easter Eggs",
+      "message": "Easter Eggs"
+   },
+   "titeleye": {
+      "description": "Eye Protection",
+      "message": "Eye Protection"
+   },
+   "titelfadein": {
+      "description": "Fade In",
+      "message": "Fade In"
+   },
+   "titelfadeout": {
+      "description": "Fade Out",
+      "message": "Fade Out"
+   },
+   "titelflash": {
+      "description": "Flash Detection",
+      "message": "Flash Detection"
+   },
+   "titelhead": {
+      "description": "Channel",
+      "message": "Channel"
+   },
+   "titelimage": {
+      "description": "Background Image",
+      "message": "Background Image"
+   },
+   "titelinfobar": {
+      "description": "Infobar",
+      "message": "Infobar"
+   },
+   "titellamp": {
+      "description": "Bulb",
+      "message": "Bulb"
+   },
+   "titellampregular": {
+      "description": "Show always the lamp icon in the omnibox",
+      "message": "Show always the lamp icon in the omnibox"
+   },
+   "titellampvideo": {
+      "description": "Show the lamp icon only if a video player is detected",
+      "message": "Show the lamp icon only if a video player is detected"
+   },
+   "titellessmore": {
+      "description": "Show less",
+      "message": "Show less"
+   },
+   "titellikebar": {
+      "description": "Like Bar",
+      "message": "Like Bar"
+   },
+   "titellikebutton": {
+      "description": "Like & Dislike Buttons",
+      "message": "Like & Dislike Buttons"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "Automatically set to this resolution:",
+      "message": "Automatically set to this resolution:"
+   },
+   "titelmouse": {
+      "description": "Mouse",
+      "message": "Mouse"
+   },
+   "titelnighttheme": {
+      "description": "Night Mode",
+      "message": "Night Mode"
+   },
+   "titeloff": {
+      "description": "Off",
+      "message": "Off"
+   },
+   "titelon": {
+      "description": "On",
+      "message": "On"
+   },
+   "titelopacity": {
+      "description": "Opacity",
+      "message": "Opacity"
+   },
+   "titelpageaction": {
+      "description": "Hide the lamp icon in the omnibox",
+      "message": "Hide the lamp icon in the omnibox"
+   },
+   "titelpassword": {
+      "description": "Password Protection",
+      "message": "Password Protection"
+   },
+   "titelplaylist": {
+      "description": "Playlist",
+      "message": "Playlist"
+   },
+   "titelqualityyoutube": {
+      "description": "Automatically set the quality of YouTube videos.",
+      "message": "Automatically set the quality of YouTube videos."
+   },
+   "titelreader": {
+      "description": "Dimness Level Bar",
+      "message": "Dimness Level Bar"
+   },
+   "titelrememberpage": {
+      "description": "Remember page",
+      "message": "Remember page"
+   },
+   "titelreset": {
+      "description": "Reset settings",
+      "message": "Reset settings"
+   },
+   "titelrightsreserved": {
+      "description": "Some rights reserved.",
+      "message": "Some rights reserved."
+   },
+   "titelscreen": {
+      "description": "Screen",
+      "message": "Screen"
+   },
+   "titelseeonline": {
+      "description": "See online for more examples",
+      "message": "See online for more examples"
+   },
+   "titelsharebutton": {
+      "description": "Share Buttons",
+      "message": "Share Buttons"
+   },
+   "titelshortcutlight": {
+      "description": "Shortcut Key",
+      "message": "Shortcut Key"
+   },
+   "titelshowmore": {
+      "description": "Show more",
+      "message": "Show more"
+   },
+   "titelspeech": {
+      "description": "Speech",
+      "message": "Speech"
+   },
+   "titelspreadradius": {
+      "description": "The spread radius",
+      "message": "The spread radius"
+   },
+   "titelsuggestions": {
+      "description": "Suggestions",
+      "message": "Suggestions"
+   },
+   "titelsupportatmos": {
+      "description": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card.",
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card."
+   },
+   "titelsync": {
+      "description": "Sync",
+      "message": "Sync"
+   },
+   "titelsyncbrowser": {
+      "description": "Sync the extension settings with your other browser.",
+      "message": "Sync the extension settings with your other browser."
+   },
+   "titelupgrade": {
+      "description": "Upgrade",
+      "message": "Upgrade"
+   },
+   "titelvideoheadline": {
+      "description": "Video Title",
+      "message": "Video Title"
+   },
+   "titelvideosample": {
+      "description": "Video Sample",
+      "message": "Video Sample"
+   },
+   "titelviewcount": {
+      "description": "Number of Views",
+      "message": "Number of Views"
+   },
+   "titelwebsite": {
+      "description": "Website",
+      "message": "Website"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "Donate",
+      "message": "Donate"
+   },
+   "top": {
+      "description": "top",
+      "message": "top"
+   },
+   "translateme": {
+      "description": "Help Translate",
+      "message": "Help Translate"
+   },
+   "trymotion": {
+      "description": "Try it yourself!",
+      "message": "Try it yourself!"
+   },
+   "upgradecontextitemma": {
+      "description": "light off with your hand",
+      "message": "light off with your hand"
+   },
+   "upgradecontextitemmb": {
+      "description": "Control the web page more accurately",
+      "message": "Control the web page more accurately"
+   },
+   "upgradecontextitemta": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "upgradecontextitemtb": {
+      "description": "Speech Recognition",
+      "message": "Speech Recognition"
+   },
+   "upgradecontextmessage": {
+      "description": "That make this extension even more amazing",
+      "message": "That make this extension even more amazing"
+   },
+   "upgradecontexttitle": {
+      "description": "We have added some new features for you",
+      "message": "We have added some new features for you"
+   },
+   "upgradefbshare": {
+      "description": "Facebook Share",
+      "message": "Facebook Share"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "Version number text",
+      "message": "Version"
+   },
+   "videotitle": {
+      "description": "Focus this video",
+      "message": "Focus this video"
+   },
+   "visualeffects": {
+      "description": "Visual Effects",
+      "message": "Visual Effects"
+   },
+   "warning": {
+      "description": "Warning!",
+      "message": "Warning!"
+   },
+   "warningtextambilight": {
+      "description": "If it's unable to receive video data because of a site's security rule, then it will show the chosen solid color instead.",
+      "message": "If it's unable to receive video data because of a site's security rule, then it will show the chosen solid color instead."
+   }
+}

@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Fiók"
+   },
+   "apply": {
+      "message": "Alkalmaz"
+   },
+   "audio_default_filename": {
+      "message": "Névtelen hang"
+   },
+   "authorization_needed": {
+      "message": "Engedélyeznie kell a(z) Mentés a Google Drive-ra bővítményt."
+   },
+   "cancel": {
+      "message": "Mégse"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome-oldalakról nem lehet képernyőképet készíteni. Próbálkozzon normál weboldallal."
+   },
+   "change_dest_folder": {
+      "message": "Célmappa módosítása…"
+   },
+   "chrome_extension_name": {
+      "message": "Mentés a Google Drive-ra"
+   },
+   "close": {
+      "message": "Bezárás"
+   },
+   "convert_to_google_format": {
+      "message": "Mentett link átalakítása Google-formátumba"
+   },
+   "debug": {
+      "message": "Hibakeresés"
+   },
+   "default_filename": {
+      "message": "Névtelen"
+   },
+   "download_canceled": {
+      "message": "A letöltés megszakítva."
+   },
+   "download_failure": {
+      "message": "Letöltési hiba: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Letöltési hiba: Nem érkeztek adatok."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Letöltési hiba: A forrás túl nagy ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "A(z) $1 letöltése...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Letöltés..."
+   },
+   "empty_page_capture": {
+      "message": "Nem sikerült MHTML formátumban menteni az oldal tartalmát."
+   },
+   "enable_file_url": {
+      "message": "A fájl URL-címét engedélyezni kell a \"Hozzáférés engedélyezése a fájl URL-címéhez\" opcióval a Bővítmények beállításai oldalon."
+   },
+   "ext_description": {
+      "message": "Mentse a webes tartalmakat és a képernyőmentéseket közvetlenül a(z) Google Drive alkalmazásba!"
+   },
+   "failure_page_capture": {
+      "message": "Nem sikerült MHTML formátumban menteni az oldal tartalmát: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Visszajelzés küldése (csak belső használatra)"
+   },
+   "file_bug_internal": {
+      "message": "Hibabejelentés (csak belső használatra)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> mentésének helye \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">módosítás\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "A(z) \u003Cspan id=\"$1\">\u003C/span> fájlt a kukába helyezte. Ugrás a(z) \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a> alkalmazásra.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Súgó"
+   },
+   "html_default_filename": {
+      "message": "Névtelen HTML"
+   },
+   "image_capture_failed": {
+      "message": "A képrögzítés nem sikerült."
+   },
+   "image_capture_failed_reason": {
+      "message": "A képrögzítés nem sikerült ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Névtelen kép"
+   },
+   "invalid_url": {
+      "message": "Érvénytelen URL: $1. A letöltött URL-eknek a http://, https:// vagy file:// karakterekkel kell kezdődniük.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Névtelen Mentett Oldal.mht"
+   },
+   "misc": {
+      "message": "Egyéb"
+   },
+   "my_drive": {
+      "message": "Saját meghajtó"
+   },
+   "options_header_text": {
+      "message": "A(z) Mentés a Google Drive-ra bővítmény opciói"
+   },
+   "options_title": {
+      "message": "A(z) Mentés a Google Drive-ra opciói"
+   },
+   "page_size_not_supported": {
+      "message": "Az oldal mérete nem támogatott: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Névtelen PDF"
+   },
+   "percent": {
+      "message": "$1% kész",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Adatvédelem"
+   },
+   "rename": {
+      "message": "Átnevezés"
+   },
+   "rename_prompt": {
+      "message": "Átnevezés:"
+   },
+   "save_as_html": {
+      "message": "HTML-forrásként (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google-dokumentumként"
+   },
+   "save_as_image_entire": {
+      "message": "Teljes oldal mentése képként (.png formátumban)"
+   },
+   "save_as_image_visible": {
+      "message": "Oldal látható részének mentése képként (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Internetes archívumként (.mht)"
+   },
+   "save_audio": {
+      "message": "Hang mentése a(z) Google Drive alkalmazásba"
+   },
+   "save_image": {
+      "message": "Kép mentése a(z) Google Drive alkalmazásba"
+   },
+   "save_link": {
+      "message": "Link mentése a(z) Google Drive alkalmazásba"
+   },
+   "save_page_as": {
+      "message": "Oldal mentése:"
+   },
+   "save_to_folder_text": {
+      "message": "Mentési mappa"
+   },
+   "save_to_google_drive_action": {
+      "message": "Mentés a(z) Google Drive alkalmazásba"
+   },
+   "save_video": {
+      "message": "Videó mentése a(z) Google Drive alkalmazásba"
+   },
+   "saving": {
+      "message": "A(z) $1 fájl mentése a(z) Google Drive alkalmazásba...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Válassza ki a mentés célhelyéül szolgáló mappát"
+   },
+   "send_feedback": {
+      "message": "Visszajelzés küldése"
+   },
+   "sign_out": {
+      "message": "Kijelentkezés"
+   },
+   "start_download_exception": {
+      "message": "Hiba a letöltés indításakor: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Névtelen szöveg"
+   },
+   "trash": {
+      "message": "Kuka"
+   },
+   "unspecified_error": {
+      "message": "Ismeretlen hiba"
+   },
+   "upload_canceled": {
+      "message": "A feltöltés leállítva"
+   },
+   "upload_failure": {
+      "message": "Feltöltési hiba: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "A(z) $1 feltöltése a(z) Google Drive alkalmazásba...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Nyissa meg a linket\u003C/a>, és a címsávtól jobbra található Mentés a(z) Google Drive alkalmazásba gombbal mentse el az oldalt.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Ez egy weboldalra mutató link"
+   },
+   "video_default_filename": {
+      "message": "Névtelen videó"
+   },
+   "xml_default_filename": {
+      "message": "Névtelen XML"
+   }
+}

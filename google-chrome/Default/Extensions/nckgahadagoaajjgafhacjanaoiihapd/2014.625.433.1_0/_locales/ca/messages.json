@@ -1,0 +1,190 @@
+{
+   "chrome_ext_cannot_connect": {
+      "message": "No es pot connectar a Google. Comprova la connexió a Internet."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts dóna vida a les converses amb fotos, emoji i, fins i tot, videotrucades de grup gratuïtes."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Comentaris"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Dóna'ns la teva opinió"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "t'ha convidat a una videotrucada de conversa de grup"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Dóna'ns la teva opinió"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "No s'ha iniciat la sessió"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Situa les converses per sobre de les altres finestres"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "t'està fent una videotrucada mitjançant Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Permet el mode en segon pla"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Inicia la sessió a Hangouts quan s'iniciï Chrome"
+   },
+   "chrome_ext_short_name": {
+      "message": "Hangouts"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Estat: connectada\nMissatges no llegits."
+   },
+   "quasar_answer_button_text": {
+      "message": "Respon"
+   },
+   "quasar_button_apply": {
+      "message": "Aplica"
+   },
+   "quasar_button_cancel": {
+      "message": "Cancel·la"
+   },
+   "quasar_button_save": {
+      "message": "D'acord"
+   },
+   "quasar_chat_title": {
+      "message": "$1 diu...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Fes clic per anar a la pàgina..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Rebutja"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Cancel·la"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Plataforma:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Avís de privadesa"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "S'enviarà la descripció, informació del producte, informació addicional i la vostra adreça electrònica a Google. Consulteu els Termes i condicions de Google Feedback. En enviar aquest contingut, concediu a Google el dret de fer-lo servir per millorar els nostres productes i els nostres serveis. Consulteu la nostra Política de privadesa."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Dóna'ns la teva opinió"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Informació del sistema"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Agent d'usuari:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Del xat en grup..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 és en un Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Ajuda"
+   },
+   "quasar_label_all_notification": {
+      "message": "Desactiva les notificacions"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Desactiva les notificacions del xat"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Temps d'espera (en segons):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Permet que s'esgoti automàticament el temps d'espera de les notificacions del xat"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Mostra la icona a la safata del sistema"
+   },
+   "quasar_legend_notifications": {
+      "message": "Notificacions"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Aplicació"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Opinió"
+   },
+   "quasar_menutext_quit": {
+      "message": "Surt"
+   },
+   "quasar_menutext_settings": {
+      "message": "Opcions"
+   },
+   "quasar_menutext_signout": {
+      "message": "Tanca la sessió"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Desconegut"
+   },
+   "quasar_sign_in": {
+      "message": "Inicia la sessió"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Inicia la sessió per començar a parlar amb els amics"
+   },
+   "quasar_tip_connected": {
+      "message": "Estat: connectada"
+   },
+   "quasar_tip_connecting": {
+      "message": "Estat: s'està connectant"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Estat: desconnectat"
+   },
+   "quasar_tip_not_load": {
+      "message": "Estat: error de càrrega"
+   },
+   "quasar_tip_not_login": {
+      "message": "Estat: sessió no iniciada"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Estat: s'està tornant a connectar"
+   },
+   "quasar_try_now": {
+      "message": "Prova-ho ara"
+   },
+   "quasar_video_details": {
+      "message": "t'està trucant amb videotrucades"
+   },
+   "quasar_video_title": {
+      "message": "Videotrucada de: $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "t'està trucant"
+   },
+   "quasar_voice_title": {
+      "message": "Trucada de veu de $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

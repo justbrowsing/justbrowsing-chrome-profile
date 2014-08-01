@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Профил"
+   },
+   "apply": {
+      "message": "Прилагане"
+   },
+   "audio_default_filename": {
+      "message": "Неозаглавен аудиоклип"
+   },
+   "authorization_needed": {
+      "message": "Трябва да упълномощите Запазване в Google Диск."
+   },
+   "cancel": {
+      "message": "Отказ"
+   },
+   "cannot_capture_chrome": {
+      "message": "Не може да се прави екранна снимка на страница на Chrome. Опитайте със стандартна уеб страница."
+   },
+   "change_dest_folder": {
+      "message": "Промяна на целевата папка…"
+   },
+   "chrome_extension_name": {
+      "message": "Запазване в Google Диск"
+   },
+   "close": {
+      "message": "Затваряне"
+   },
+   "convert_to_google_format": {
+      "message": "Преобразуване на запазената връзка във формата на редактор на Google"
+   },
+   "debug": {
+      "message": "Отстраняване на грешки"
+   },
+   "default_filename": {
+      "message": "Неозаглавено"
+   },
+   "download_canceled": {
+      "message": "Изтеглянето е анулирано."
+   },
+   "download_failure": {
+      "message": "Неуспешно изтегляне: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Неуспешно изтегляне: Не бяха получени данни."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Неуспешно изтегляне: Източникът е твърде голям ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "„$1“ се изтегля...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Изтегля се..."
+   },
+   "empty_page_capture": {
+      "message": "Съдържанието на страницата не можа да се запише като MHTML."
+   },
+   "enable_file_url": {
+      "message": "Опцията „Да се разреши достъп до URL адресите на файловете“ трябва да бъде активирана за\nURL адресите на файлове от страницата с настройките на разширенията."
+   },
+   "ext_description": {
+      "message": "Запазвайте уеб съдържание или екранни снимки директно в/ъв Google Диск."
+   },
+   "failure_page_capture": {
+      "message": "Съдържанието на страницата не можа да се запише като MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Изпращане на отзиви (само за вътрешна употреба)"
+   },
+   "file_bug_internal": {
+      "message": "Сигнализиране за програмен дефект (само за вътрешна употреба)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> беше запазен в \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">промяна\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> беше преместен в кошчето. Към \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Диск\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Диск"
+   },
+   "help": {
+      "message": "Помощ"
+   },
+   "html_default_filename": {
+      "message": "Неозаглавен HTML файл"
+   },
+   "image_capture_failed": {
+      "message": "Екранната снимка на изображението не бе успешна."
+   },
+   "image_capture_failed_reason": {
+      "message": "Екранната снимка на изображението не бе успешна ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Неозаглавено изображение"
+   },
+   "invalid_url": {
+      "message": "Невалиден URL адрес: $1. Изтеглените URL адреси трябва да започват с „http://“, „https://“ или „file://“.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Неозаглавен запис на страница.mht"
+   },
+   "misc": {
+      "message": "Разни"
+   },
+   "my_drive": {
+      "message": "Моят диск"
+   },
+   "options_header_text": {
+      "message": "Опции на разширението „Запазване в Google Диск“"
+   },
+   "options_title": {
+      "message": "Опции на „Запазване в Google Диск“"
+   },
+   "page_size_not_supported": {
+      "message": "Този размер на страницата не се поддържа: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Неозаглавен PDF файл"
+   },
+   "percent": {
+      "message": "Завършено: $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Поверителност"
+   },
+   "rename": {
+      "message": "Преименуване"
+   },
+   "rename_prompt": {
+      "message": "Преименуване:"
+   },
+   "save_as_html": {
+      "message": "Изходен HTML код (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Документ в Google"
+   },
+   "save_as_image_entire": {
+      "message": "Изображение на цялата страница (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Изображение на видимата страница (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Уеб архив (.mht)"
+   },
+   "save_audio": {
+      "message": "Запазване на аудиоклипа в Google Диск"
+   },
+   "save_image": {
+      "message": "Запазване на изображението в Google Диск"
+   },
+   "save_link": {
+      "message": "Запазване на връзката в Google Диск"
+   },
+   "save_page_as": {
+      "message": "Запазване на страницата като:"
+   },
+   "save_to_folder_text": {
+      "message": "Папка за запазване"
+   },
+   "save_to_google_drive_action": {
+      "message": "Запазване в Google Диск"
+   },
+   "save_video": {
+      "message": "Запазване на видеоклипа в Google Диск"
+   },
+   "saving": {
+      "message": "„$1“ се запазва в Google Диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Избор на папка за запазване"
+   },
+   "send_feedback": {
+      "message": "Изпращане на отзиви"
+   },
+   "sign_out": {
+      "message": "Изход"
+   },
+   "start_download_exception": {
+      "message": "Неуспешно стартиране на изтеглянето: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Неозаглавен текст"
+   },
+   "trash": {
+      "message": "Кошче"
+   },
+   "unspecified_error": {
+      "message": "Неуточнена грешка"
+   },
+   "upload_canceled": {
+      "message": "Качването е анулирано"
+   },
+   "upload_failure": {
+      "message": "Качването не бе успешно: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 се качва в/ъв Google Диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Отворете връзката\u003C/a> и запазете страницата чрез бутона Запазване в Google Диск отдясно на адресната лента.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Това е връзка към уеб страница."
+   },
+   "video_default_filename": {
+      "message": "Неозаглавен видеоклип"
+   },
+   "xml_default_filename": {
+      "message": "Неозаглавен XML файл"
+   }
+}

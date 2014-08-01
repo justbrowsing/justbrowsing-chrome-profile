@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Докладніше"
+   },
+   "app_nacl_crash_report": {
+      "message": "Повідомити про проблему..."
+   },
+   "application_description": {
+      "message": "Редагування документів"
+   },
+   "extension_description": {
+      "message": "Перегляд і редагування файлів Microsoft Word, Excel, PowerPoint у Google Документах, Таблицях і Презентаціях"
+   },
+   "extension_name": {
+      "message": "Редагування файлів Документів, Таблиць і Презентацій в Office"
+   },
+   "file_loading_spinner_label": {
+      "message": "Завантаження"
+   },
+   "file_not_found_msg": {
+      "message": "Потрібний вам файл переміщено."
+   },
+   "file_not_found_title": {
+      "message": "Файл не знайдено."
+   }
+}

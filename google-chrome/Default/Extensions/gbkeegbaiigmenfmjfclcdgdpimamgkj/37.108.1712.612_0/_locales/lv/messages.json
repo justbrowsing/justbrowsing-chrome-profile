@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Uzziniet vairāk"
+   },
+   "app_nacl_crash_report": {
+      "message": "Ziņot par problēmu..."
+   },
+   "application_description": {
+      "message": "Dokumenta rediģēšana"
+   },
+   "extension_description": {
+      "message": "Skatiet un rediģējiet Microsoft Word, Excel un PowerPoint failus, izmantojot Google dokumentus, izklājlapas un prezentācijas."
+   },
+   "extension_name": {
+      "message": "Lietojumprogramma Office Editing dokumentiem, izklājlapām un prezentācijām"
+   },
+   "file_loading_spinner_label": {
+      "message": "Notiek ielāde"
+   },
+   "file_not_found_msg": {
+      "message": "Jūsu pieprasītais fails ir pārvietots."
+   },
+   "file_not_found_title": {
+      "message": "Fails nav atrasts."
+   }
+}

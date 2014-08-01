@@ -1,0 +1,507 @@
+/*
+The styles are applied to the toolbar and menu for add shapes [Add Shape
+drop down specifically shapeItems in shapeItems pane].
+More specifically these are the icons corresponding to shape draw operation.
+Single sprite image is used by setting the background-position to display
+all the shapes in menu and toolbar button for add shape.
+*/
+
+.qowt-shape-item.icon-rect {
+    background-position: 0px -132px;
+}
+
+.qowt-shape-item.icon-roundRect {
+    background-position: 0px -154px;
+}
+
+.qowt-shape-item.icon-snip1Rect {
+    background-position: 0px -1782px;
+}
+
+.qowt-shape-item.icon-snip2SameRect {
+    background-position: 0px -1826px;
+}
+
+.qowt-shape-item.icon-snip2DiagRect {
+    background-position: 0px -1804px;
+}
+
+.qowt-shape-item.icon-snipRoundRect {
+    background-position: 0px -1848px;
+}
+
+.qowt-shape-item.icon-round1Rect {
+    background-position: 0px -1672px;
+}
+
+.qowt-shape-item.icon-round2SameRect {
+    background-position: 0px -1716px;
+}
+
+.qowt-shape-item.icon-round2DiagRect {
+    background-position: 0px -1694px;
+}
+
+.qowt-shape-item.icon-ellipse {
+    background-position: 0px -176px;
+}
+
+.qowt-shape-item.icon-triangle {
+    background-position: 0px -2156px;
+}
+
+.qowt-shape-item.icon-rtTriangle {
+    background-position: 0px -1738px;
+}
+
+.qowt-shape-item.icon-parallelogram {
+    background-position: 0px -1386px;
+}
+
+.qowt-shape-item.icon-trapezoid {
+    background-position: 0px -2134px;
+}
+
+.qowt-shape-item.icon-diamond {
+    background-position: 0px -616px;
+}
+
+.qowt-shape-item.icon-pentagon {
+    background-position: 0px -1408px;
+}
+
+.qowt-shape-item.icon-hexagon {
+    background-position: 0px -858px;
+}
+
+.qowt-shape-item.icon-heptagon {
+    background-position: 0px -836px;
+}
+
+.qowt-shape-item.icon-octagon {
+    background-position: 0px -1364px;
+}
+
+.qowt-shape-item.icon-decagon {
+    background-position: 0px -572px;
+}
+
+.qowt-shape-item.icon-dodecagon {
+    background-position: 0px -638px;
+}
+
+.qowt-shape-item.icon-pie {
+    background-position: 0px -1430px;
+}
+
+.qowt-shape-item.icon-chord {
+    background-position: 0px -396px;
+}
+
+.qowt-shape-item.icon-teardrop {
+    background-position: 0px -3498px;
+}
+
+.qowt-shape-item.icon-frame {
+    background-position: 0px -770px;
+}
+
+.qowt-shape-item.icon-halfFrame {
+    background-position: 0px -792px;
+}
+
+.qowt-shape-item.icon-corner {
+    background-position: 0px -440px;
+}
+
+.qowt-shape-item.icon-diagStripe {
+    background-position: 0px -592px;
+}
+
+.qowt-shape-item.icon-plus {
+    background-position: 0px -1474px;
+}
+
+.qowt-shape-item.icon-plaque {
+    background-position: 0px -1452px;
+}
+
+.qowt-shape-item.icon-can {
+    background-position: 0px -352px;
+}
+
+.qowt-shape-item.icon-cube {
+    background-position: 0px -462px;
+}
+
+.qowt-shape-item.icon-bevel {
+    background-position: 0px -264px;
+}
+
+.qowt-shape-item.icon-donut {
+    background-position: 0px -660px;
+}
+
+.qowt-shape-item.icon-noSmoking {
+    background-position: 0px -1320px;
+}
+
+.qowt-shape-item.icon-blockArc {
+    background-position: 0px -286px;
+}
+
+.qowt-shape-item.icon-foldedCorner {
+    background-position: 0px -748px;
+}
+
+.qowt-shape-item.icon-smileyFace {
+    background-position: 0px -1760px;
+}
+
+.qowt-shape-item.icon-heart {
+    background-position: 0px -814px;
+}
+
+.qowt-shape-item.icon-lightningBolt {
+    background-position: 0px -1144px;
+}
+
+.qowt-shape-item.icon-sun {
+    background-position: 0px -2112px;
+}
+
+.qowt-shape-item.icon-moon {
+    background-position: 0px -1298px;
+}
+
+.qowt-shape-item.icon-cloud {
+    background-position: 0px -418px;
+}
+
+.qowt-shape-item.icon-flowChartProcess {
+    background-position: 0px -2904px;
+}
+
+.qowt-shape-item.icon-flowChartAlternateProcess {
+    background-position: 0px -2398px;
+}
+
+.qowt-shape-item.icon-flowChartDecision {
+    background-position: 0px -2464px;
+}
+
+.qowt-shape-item.icon-flowChartInputOutput {
+    background-position: 0px -2574px;
+}
+
+.qowt-shape-item.icon-flowChartPredefinedProcess {
+    background-position: 0px -2860px;
+}
+
+.qowt-shape-item.icon-flowChartInternalStorage {
+    background-position: 0px -2596px;
+}
+
+.qowt-shape-item.icon-flowChartDocument {
+    background-position: 0px -2530px;
+}
+
+.qowt-shape-item.icon-flowChartMultidocument {
+    background-position: 0px -2750px;
+}
+
+.qowt-shape-item.icon-flowChartTerminator {
+    background-position: 0px -3014px;
+}
+
+.qowt-shape-item.icon-flowChartPreparation {
+    background-position: 0px -2882px;
+}
+
+.qowt-shape-item.icon-flowChartManualInput {
+    background-position: 0px -2684px;
+}
+
+.qowt-shape-item.icon-flowChartManualOperation {
+    background-position: 0px -2706px;
+}
+
+.qowt-shape-item.icon-flowChartConnector {
+    background-position: 0px -2442px;
+}
+
+.qowt-shape-item.icon-flowChartOffpageConnector {
+    background-position: 0px -2794px;
+}
+
+.qowt-shape-item.icon-flowChartPunchedCard {
+    background-position: 0px -2926px;
+}
+
+.qowt-shape-item.icon-flowChartPunchedTape {
+    background-position: 0px -2948px;
+}
+
+.qowt-shape-item.icon-flowChartSummingJunction {
+    background-position: 0px -2992px;
+}
+
+.qowt-shape-item.icon-flowChartOr {
+    background-position: 0px -2838px;
+}
+
+.qowt-shape-item.icon-flowChartCollate {
+    background-position: 0px -2420px;
+}
+
+.qowt-shape-item.icon-flowChartSort {
+    background-position: 0px -2970px;
+}
+
+.qowt-shape-item.icon-flowChartExtract {
+    background-position: 0px -2552px;
+}
+
+.qowt-shape-item.icon-flowChartMerge {
+    background-position: 0px -2728px;
+}
+
+.qowt-shape-item.icon-flowChartOnlineStorage {
+    background-position: 0px -2816px;
+}
+
+.qowt-shape-item.icon-flowChartDelay {
+    background-position: 0px -2486px;
+}
+
+.qowt-shape-item.icon-flowChartMagneticTape {
+    background-position: 0px -2662px;
+}
+
+.qowt-shape-item.icon-flowChartMagneticDisk {
+    background-position: 0px -2618px;
+}
+
+.qowt-shape-item.icon-flowChartMagneticDrum {
+    background-position: 0px -2640px;
+}
+
+.qowt-shape-item.icon-flowChartDisplay {
+    background-position: 0px -2508px;
+}
+
+.qowt-shape-item.icon-rightArrow {
+    background-position: 0px -1584px;
+}
+
+.qowt-shape-item.icon-leftArrow {
+    background-position: 0px -968px;
+}
+
+.qowt-shape-item.icon-upArrow {
+    background-position: 0px -2178px;
+}
+
+.qowt-shape-item.icon-downArrow {
+    background-position: 0px -704px;
+}
+
+.qowt-shape-item.icon-leftRightArrow {
+    background-position: 0px -1056px;
+}
+
+.qowt-shape-item.icon-upDownArrow {
+    background-position: 0px -2222px;
+}
+
+.qowt-shape-item.icon-quadArrow {
+    background-position: 0px -1496px;
+}
+
+.qowt-shape-item.icon-leftRightUpArrow {
+    background-position: 0px -1100px;
+}
+
+.qowt-shape-item.icon-bentArrow {
+    background-position: 0px -220px;
+}
+
+.qowt-shape-item.icon-uturnArrow {
+    background-position: 0px -2244px;
+}
+
+.qowt-shape-item.icon-leftUpArrow {
+    background-position: 0px -1122px;
+}
+
+.qowt-shape-item.icon-bentUpArrow {
+    background-position: 0px -242px;
+}
+
+.qowt-shape-item.icon-curvedRightArrow {
+    background-position: 0px -528px;
+}
+
+.qowt-shape-item.icon-curvedLeftArrow {
+    background-position: 0px -506px;
+}
+
+.qowt-shape-item.icon-curvedUpArrow {
+    background-position: 0px -550px;
+}
+
+.qowt-shape-item.icon-curvedDownArrow {
+    background-position: 0px -484px;
+}
+
+.qowt-shape-item.icon-stripedRightArrow {
+    background-position: 0px -2090px;
+}
+
+.qowt-shape-item.icon-notchedRightArrow {
+    background-position: 0px -1342px;
+}
+
+.qowt-shape-item.icon-homePlate {
+    background-position: 0px -880px;
+}
+
+.qowt-shape-item.icon-chevron {
+    background-position: 0px -374px;
+}
+
+.qowt-shape-item.icon-rightArrowCallout {
+    background-position: 0px -1606px;
+}
+
+.qowt-shape-item.icon-downArrowCallout {
+    background-position: 0px -726px;
+}
+
+.qowt-shape-item.icon-leftArrowCallout {
+    background-position: 0px -990px;
+}
+
+.qowt-shape-item.icon-upArrowCallout {
+    background-position: 0px -2200px;
+}
+
+.qowt-shape-item.icon-leftRightArrowCallout {
+    background-position: 0px -1078px;
+}
+
+.qowt-shape-item.icon-quadArrow {
+    background-position: 0px -1496px;
+}
+
+.qowt-shape-item.icon-irregularSeal1 {
+    background-position: 0px -924px;
+}
+
+.qowt-shape-item.icon-irregularSeal2 {
+    background-position: 0px -946px;
+}
+
+.qowt-shape-item.icon-star4 {
+    background-position: 0px -1980px;
+}
+
+.qowt-shape-item.icon-star5 {
+    background-position: 0px -2002px;
+}
+
+.qowt-shape-item.icon-star6 {
+    background-position: 0px -2024px;
+}
+
+.qowt-shape-item.icon-star7 {
+    background-position: 0px -2046px;
+}
+
+.qowt-shape-item.icon-star8 {
+    background-position: 0px -2068px;
+}
+
+.qowt-shape-item.icon-star10 {
+    background-position: 0px -1870px;
+}
+
+.qowt-shape-item.icon-star12 {
+    background-position: 0px -1892px;
+}
+
+.qowt-shape-item.icon-star16 {
+    background-position: 0px -1914px;
+}
+
+.qowt-shape-item.icon-star24 {
+    background-position: 0px -1936px;
+}
+
+.qowt-shape-item.icon-star32 {
+    background-position: 0px -1958px;
+}
+
+.qowt-shape-item.icon-wedgeRectCallout {
+    background-position: 0px -2332px;
+}
+
+.qowt-shape-item.icon-wedgeRoundRectCallout {
+    background-position: 0px -2354px;
+}
+
+.qowt-shape-item.icon-wedgeEllipseCallout {
+    background-position: 0px -2310px;
+}
+
+.qowt-shape-item.icon-cloudCallout {
+    background-position: 0px -3564px;
+}
+
+.qowt-shape-item.icon-mathPlus {
+    background-position: 0px -1276px;
+}
+
+.qowt-shape-item.icon-mathMinus {
+    background-position: 0px -1210px;
+}
+
+.qowt-shape-item.icon-mathMultiply {
+    background-position: 0px -1232px;
+}
+
+.qowt-shape-item.icon-mathDivide {
+    background-position: 0px -1166px;
+}
+
+.qowt-shape-item.icon-mathEqual {
+    background-position: 0px -1188px;
+}
+
+.qowt-shape-item.icon-mathNotEqual {
+    background-position: 0px -1254px;
+}
+
+.qowt-shape-item.icon-bracketPair {
+    background-position: 0px -330px;
+}
+
+.qowt-shape-item.icon-bracePair {
+    background-position: 0px -308px;
+}
+
+.qowt-shape-item.icon-leftBracket {
+    background-position: 0px -1034px;
+}
+
+.qowt-shape-item.icon-rightBracket {
+    background-position: 0px -1650px;
+}
+
+.qowt-shape-item.icon-leftBrace {
+    background-position: 0px -1012px;
+}
+
+.qowt-shape-item.icon-rightBrace {
+    background-position: 0px -1628px;
+}

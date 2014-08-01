@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Lisateave"
+   },
+   "app_nacl_crash_report": {
+      "message": "Probleemist teavitamine ..."
+   },
+   "application_description": {
+      "message": "Dokumendi muutmine"
+   },
+   "extension_description": {
+      "message": "Vaadake ja muutke rakendustega Google'i dokumendid, arvutustabelid ja esitlused Microsoft Wordi, Exceli ja PowerPointi faile"
+   },
+   "extension_name": {
+      "message": "Office'i failide muutmine rakendustega Dokumendid, Arvutustabelid ja Esitlused"
+   },
+   "file_loading_spinner_label": {
+      "message": "Laadimine"
+   },
+   "file_not_found_msg": {
+      "message": "Taotletud fail pole enam selles kohas."
+   },
+   "file_not_found_title": {
+      "message": "Faili ei leitud."
+   }
+}

@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Λογαριασμός"
+   },
+   "apply": {
+      "message": "Εφαρμογή"
+   },
+   "audio_default_filename": {
+      "message": "Ήχος χωρίς τίτλο"
+   },
+   "authorization_needed": {
+      "message": "Πρέπει να παρέχετε εξουσιοδότηση στο Αποθήκευση στο Google Drive."
+   },
+   "cancel": {
+      "message": "Ακύρωση"
+   },
+   "cannot_capture_chrome": {
+      "message": "Δεν είναι δυνατή η λήψη στιγμιότυπου οθόνης σελίδων του Chrome. Δοκιμάστε μια τυπική ιστοσελίδα."
+   },
+   "change_dest_folder": {
+      "message": "Αλλαγή φακέλου προορισμού…"
+   },
+   "chrome_extension_name": {
+      "message": "Αποθήκευση στο Google Drive"
+   },
+   "close": {
+      "message": "Κλείσιμο"
+   },
+   "convert_to_google_format": {
+      "message": "Μετατροπή αποθηκευμένου συνδέσμου σε μορφή προγράμματος επεξεργασίας Google"
+   },
+   "debug": {
+      "message": "Εντοπισμός σφαλμάτων"
+   },
+   "default_filename": {
+      "message": "Χωρίς τίτλο"
+   },
+   "download_canceled": {
+      "message": "Η λήψη ακυρώθηκε."
+   },
+   "download_failure": {
+      "message": "Αποτυχία λήψης: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Αποτυχία λήψης: δεν λήφθηκαν δεδομένα."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Αποτυχία λήψης: Πολύ μεγάλο αρχείο ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Λήψη του $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Λήψη ..."
+   },
+   "empty_page_capture": {
+      "message": "Δεν ήταν δυνατή η λήψη των περιεχομένων της σελίδας ως MHTML."
+   },
+   "enable_file_url": {
+      "message": "Οι διευθύνσεις URL αρχείου πρέπει να ενεργοποιηθούν με την επιλογή \"Να επιτρέπεται η πρόσβαση σε διευθύνσεις URL αρχείων\" στη σελίδα ρυθμίσεων των επεκτάσεων."
+   },
+   "ext_description": {
+      "message": "Αποθήκευση περιεχομένου ιστού ή λήψης οθόνης απευθείας στο Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Δεν ήταν δυνατή η λήψη περιεχομένων σελίδας ως MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Αποστολή σχολίων (μόνο για εσωτερική χρήση)"
+   },
+   "file_bug_internal": {
+      "message": "Υποβολή σφάλματος (μόνο για εσωτερική χρήση)"
+   },
+   "file_was_saved": {
+      "message": "Το \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> αποθηκεύτηκε στο \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">αλλαγή\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Το \u003Cspan id=\"$1\">\u003C/span> μετακινήθηκε στον Κάδο απορριμμάτων. Μεταβείτε στο \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Βοήθεια"
+   },
+   "html_default_filename": {
+      "message": "Αρχείο HTML χωρίς τίτλο"
+   },
+   "image_capture_failed": {
+      "message": "Η σύλληψη εικόνας απέτυχε"
+   },
+   "image_capture_failed_reason": {
+      "message": "Η λήψη εικόνας απέτυχε ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Εικόνα χωρίς τίτλο"
+   },
+   "invalid_url": {
+      "message": "Μη έγκυρη διεύθυνση URL: $1. Οι διευθύνσεις URL που κατεβάζετε πρέπει να ξεκινούν με http://, https:// ή file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Capture.mht σελίδας χωρίς τίτλο"
+   },
+   "misc": {
+      "message": "Διάφορα"
+   },
+   "my_drive": {
+      "message": "Το Drive μου"
+   },
+   "options_header_text": {
+      "message": "Επιλογές επέκτασης Αποθήκευση στο Google Drive"
+   },
+   "options_title": {
+      "message": "Επιλογές Αποθήκευση στο Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Το μέγεθος της σελίδας δεν υποστηρίζεται: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Αρχείο PDF χωρίς τίτλο"
+   },
+   "percent": {
+      "message": "Ολοκληρώθηκε κατά $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Απόρρητο"
+   },
+   "rename": {
+      "message": "Μετονομασία"
+   },
+   "rename_prompt": {
+      "message": "Μετονομασία:"
+   },
+   "save_as_html": {
+      "message": "Πηγή HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Έγγραφο Google"
+   },
+   "save_as_image_entire": {
+      "message": "Εικόνα ολόκληρης της σελίδας (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Εικόνα ορατής σελίδας (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Αρχείο ιστού (.mht)"
+   },
+   "save_audio": {
+      "message": "Αποθήκευση αρχείου ήχου στην εφαρμογή Google Drive"
+   },
+   "save_image": {
+      "message": "Αποθήκευση εικόνας στην εφαρμογή Google Drive"
+   },
+   "save_link": {
+      "message": "Αποθήκευση συνδέσμου στην εφαρμογή Google Drive"
+   },
+   "save_page_as": {
+      "message": "Αποθήκευση σελίδας ως:"
+   },
+   "save_to_folder_text": {
+      "message": "Αποθήκευση σε φάκελο"
+   },
+   "save_to_google_drive_action": {
+      "message": "Αποθήκευση στην εφαρμογή Google Drive"
+   },
+   "save_video": {
+      "message": "Αποθήκευση βίντεο στην εφαρμογή Google Drive"
+   },
+   "saving": {
+      "message": "Γίνεται αποθήκευση του αρχείου $1 στην εφαρμογή Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Επιλέξτε τη λειτουργία \"Αποθήκευση σε φάκελο\""
+   },
+   "send_feedback": {
+      "message": "Αποστολή σχολίων"
+   },
+   "sign_out": {
+      "message": "Έξοδος"
+   },
+   "start_download_exception": {
+      "message": "Αποτυχία έναρξης της λήψης: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Κείμενο χωρίς τίτλο"
+   },
+   "trash": {
+      "message": "Κάδος απορριμμάτων"
+   },
+   "unspecified_error": {
+      "message": "Μη προσδιορισμένο σφάλμα"
+   },
+   "upload_canceled": {
+      "message": "Η μεταφόρτωση ακυρώθηκε"
+   },
+   "upload_failure": {
+      "message": "Αποτυχία μεταφόρτωσης: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Μεταφόρτωση $1 στο Google Drive…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Ανοίξτε το σύνδεσμο\u003C/a> και αποθηκεύστε τη σελίδα χρησιμοποιώντας το κουμπί Αποθήκευση στην εφαρμογή Google Drive που βρίσκεται δεξιά από τη γραμμή διευθύνσεων.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Αυτός είναι ένας σύνδεσμος προς μια ιστοσελίδα"
+   },
+   "video_default_filename": {
+      "message": "Βίντεο χωρίς τίτλο"
+   },
+   "xml_default_filename": {
+      "message": "Αρχείο XML χωρίς τίτλο"
+   }
+}

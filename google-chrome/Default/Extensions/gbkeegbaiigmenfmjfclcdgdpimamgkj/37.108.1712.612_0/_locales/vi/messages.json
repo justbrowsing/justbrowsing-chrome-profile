@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Tìm hiểu thêm"
+   },
+   "app_nacl_crash_report": {
+      "message": "Báo cáo sự cố..."
+   },
+   "application_description": {
+      "message": "Chỉnh sửa tài liệu"
+   },
+   "extension_description": {
+      "message": "Xem và chỉnh sửa các tệp Microsoft Word, Excel và PowerPoint bằng Google Tài liệu, Trang tính và Trang trình bày"
+   },
+   "extension_name": {
+      "message": "Chỉnh sửa Office cho Tài liệu, Trang tính và Trang trình bày"
+   },
+   "file_loading_spinner_label": {
+      "message": "Đang tải"
+   },
+   "file_not_found_msg": {
+      "message": "Tệp bạn yêu cầu đã không còn và đã bị di chuyển."
+   },
+   "file_not_found_title": {
+      "message": "Không tìm thấy tệp."
+   }
+}

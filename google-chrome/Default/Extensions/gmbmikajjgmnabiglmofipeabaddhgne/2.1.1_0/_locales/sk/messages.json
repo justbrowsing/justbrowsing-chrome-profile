@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Účet"
+   },
+   "apply": {
+      "message": "Použiť"
+   },
+   "audio_default_filename": {
+      "message": "Zvuk bez názvu"
+   },
+   "authorization_needed": {
+      "message": "Musíte oprávniť Uložiť na Disk Google."
+   },
+   "cancel": {
+      "message": "Zrušiť"
+   },
+   "cannot_capture_chrome": {
+      "message": "Nedá sa urobiť snímka stránok prehliadača Chrome. Skúste štandardnú webovú stránku."
+   },
+   "change_dest_folder": {
+      "message": "Zmeniť cieľový priečinok..."
+   },
+   "chrome_extension_name": {
+      "message": "Uložiť na Disk Google"
+   },
+   "close": {
+      "message": "Zavrieť"
+   },
+   "convert_to_google_format": {
+      "message": "Konvertovať uložený odkaz do formátu editora Google"
+   },
+   "debug": {
+      "message": "Ladiť"
+   },
+   "default_filename": {
+      "message": "Bez názvu"
+   },
+   "download_canceled": {
+      "message": "Sťahovanie bolo zrušené."
+   },
+   "download_failure": {
+      "message": "Zlyhanie sťahovania: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Zlyhanie sťahovania: Neprijali sa žiadne údaje."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Sťahovanie zlyhalo: zdroj je príliš veľký ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Sťahuje sa súbor $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Sťahuje sa..."
+   },
+   "empty_page_capture": {
+      "message": "Obsah stránky nebolo možné zaznamenať ako MHTML."
+   },
+   "enable_file_url": {
+      "message": "Adresa URL súboru musí byť povolená na stránke rozšírených nastavení pomocou možnosti \"Povoliť prístup k adrese URL súboru\"."
+   },
+   "ext_description": {
+      "message": "Ukladajte webový obsah alebo snímajte obrazovky priamo v aplikácii Disk Google."
+   },
+   "failure_page_capture": {
+      "message": "Obsah stránky nebolo možné zachytiť ako MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Odoslať pripomienku (iba interne)"
+   },
+   "file_bug_internal": {
+      "message": "Nahlásiť chybu (iba interne)"
+   },
+   "file_was_saved": {
+      "message": "Súbor \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> sa uložil do priečinka \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">zmeniť\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Súbor \u003Cspan id=\"$1\">\u003C/span> sa presunul do koša. Prejdite do aplikácie \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Disk Google\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Disk Google"
+   },
+   "help": {
+      "message": "Pomocník"
+   },
+   "html_default_filename": {
+      "message": "HTML bez názvu"
+   },
+   "image_capture_failed": {
+      "message": "Zaznamenanie obrázka zlyhalo."
+   },
+   "image_capture_failed_reason": {
+      "message": "Zaznamenanie obrázka zlyhalo ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Obrázok bez názvu"
+   },
+   "invalid_url": {
+      "message": "Neplatná adresa URL: $1. Stiahnuté adresy URL musia začínať znakmi http://, https:// alebo file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Zachytenie stranky bez nazvu.mht"
+   },
+   "misc": {
+      "message": "Rôzne"
+   },
+   "my_drive": {
+      "message": "Môj disk"
+   },
+   "options_header_text": {
+      "message": "Možnosti rozšírenia Uložiť na Disk Google"
+   },
+   "options_title": {
+      "message": "Uložiť na Disk Google – možnosti"
+   },
+   "page_size_not_supported": {
+      "message": "Veľkosť stránky nie je podporovaná: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF bez názvu"
+   },
+   "percent": {
+      "message": "Dokončené na $1 %",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Ochrana osobných údajov"
+   },
+   "rename": {
+      "message": "Premenovať"
+   },
+   "rename_prompt": {
+      "message": "Premenovať:"
+   },
+   "save_as_html": {
+      "message": "Zdroj HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Dokument Google"
+   },
+   "save_as_image_entire": {
+      "message": "Obrázok celej stránky (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Obrázok viditeľnej stránky (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Webový archív (.mht)"
+   },
+   "save_audio": {
+      "message": "Uložiť zvuk v službe Disk Google"
+   },
+   "save_image": {
+      "message": "Uložiť obrázok v službe Disk Google"
+   },
+   "save_link": {
+      "message": "Uložiť odkaz v službe Disk Google"
+   },
+   "save_page_as": {
+      "message": "Uložiť stránku ako:"
+   },
+   "save_to_folder_text": {
+      "message": "Priečinok na uloženie"
+   },
+   "save_to_google_drive_action": {
+      "message": "Uložiť v aplikácii Disk Google"
+   },
+   "save_video": {
+      "message": "Uložiť video v službe Disk Google"
+   },
+   "saving": {
+      "message": "Ukladá sa súbor $1 v službe Disk Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Vyberte priečinok na uloženie"
+   },
+   "send_feedback": {
+      "message": "Odoslať pripomienky"
+   },
+   "sign_out": {
+      "message": "Odhlásiť sa"
+   },
+   "start_download_exception": {
+      "message": "Zlyhanie pri spustení sťahovania: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Text bez názvu"
+   },
+   "trash": {
+      "message": "Kôš"
+   },
+   "unspecified_error": {
+      "message": "Nešpecifikovaná chyba"
+   },
+   "upload_canceled": {
+      "message": "Nahrávanie bolo zrušené"
+   },
+   "upload_failure": {
+      "message": "Nahrávanie zlyhalo: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Súbor $1 sa nahráva do aplikácie Disk Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Otvorte odkaz\u003C/a> a uložte stránku pomocou tlačidla Uložiť v aplikácii Disk Google napravo od riadka s adresou.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Toto je odkaz na webovú stránku"
+   },
+   "video_default_filename": {
+      "message": "Video bez názvu"
+   },
+   "xml_default_filename": {
+      "message": "XML bez názvu"
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "ተጨማሪ ለመረዳት"
+   },
+   "app_nacl_crash_report": {
+      "message": "ጉዳዩን ሪፖርት ያድርጉ..."
+   },
+   "application_description": {
+      "message": "የሰነድ አርትዖት"
+   },
+   "extension_description": {
+      "message": "የMicrosoft Word፣ Excel እና PowerPoint ፋይሎችን በGoogle ሰነዶች፣ ሉሆች እና ተንሸራታቾች ይመልከቱና አርትእ ያድርጉ"
+   },
+   "extension_name": {
+      "message": "ለሰነዶች፣ ሉሆች እና ተንሸራታቾች የከመስመር ውጪ አርትኦት"
+   },
+   "file_loading_spinner_label": {
+      "message": "በመጫን ላይ"
+   },
+   "file_not_found_msg": {
+      "message": "የጠየቁት ፋይል ተወስዷል።"
+   },
+   "file_not_found_title": {
+      "message": "ፋይል አልተገኘም።"
+   }
+}

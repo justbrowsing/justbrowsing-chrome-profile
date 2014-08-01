@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Pelajari lebih lanjut"
+   },
+   "app_nacl_crash_report": {
+      "message": "Laporkan masalah..."
+   },
+   "application_description": {
+      "message": "Pengeditan dokumen"
+   },
+   "extension_description": {
+      "message": "Melihat dan mengedit file Microsoft Word, Excel, dan PowerPoint dengan Google Dokumen, Spreadsheet, dan Slide"
+   },
+   "extension_name": {
+      "message": "Pengeditan Office untuk Dokumen, Spreadsheet, dan Slide"
+   },
+   "file_loading_spinner_label": {
+      "message": "Memuat"
+   },
+   "file_not_found_msg": {
+      "message": "File yang Anda minta telah dipindahkan."
+   },
+   "file_not_found_title": {
+      "message": "File tidak ditemukan."
+   }
+}

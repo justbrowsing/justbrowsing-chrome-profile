@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Обліковий запис"
+   },
+   "apply": {
+      "message": "Застосувати"
+   },
+   "audio_default_filename": {
+      "message": "Аудіофайл без назви"
+   },
+   "authorization_needed": {
+      "message": "Потрібно авторизувати розширення \"Зберегти на Google Диску\"."
+   },
+   "cancel": {
+      "message": "Скасувати"
+   },
+   "cannot_capture_chrome": {
+      "message": "Не вдається зробити знімок сторінок Chrome. Повторіть спробу зі звичайною веб-сторінкою."
+   },
+   "change_dest_folder": {
+      "message": "Змінити папку призначення…"
+   },
+   "chrome_extension_name": {
+      "message": "Зберегти на Google Диску"
+   },
+   "close": {
+      "message": "Закрити"
+   },
+   "convert_to_google_format": {
+      "message": "Конвертувати збережене посилання у формат редактора Google"
+   },
+   "debug": {
+      "message": "Виправлення помилок"
+   },
+   "default_filename": {
+      "message": "Без назви"
+   },
+   "download_canceled": {
+      "message": "Завантаження скасовано."
+   },
+   "download_failure": {
+      "message": "Помилка під час завантаження: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Помилка завантаження: дані не отримано."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Помилка завантаження: вихідний файл завеликий ($1 Мб).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Завантаження $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Завантаження ..."
+   },
+   "empty_page_capture": {
+      "message": "Не вдалося зняти вміст сторінки у форматі MHTML."
+   },
+   "enable_file_url": {
+      "message": "URL-адреси файлу потрібно ввімкнути за допомогою опції \"Надавати доступ до URL-адрес файлу\" на сторінці налаштувань розширень."
+   },
+   "ext_description": {
+      "message": "Збереження веб-вмісту або знімка екрана безпосередньо в програмі Google Диск."
+   },
+   "failure_page_capture": {
+      "message": "Не вдалося зняти вміст сторінки у форматі MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Надіслати відгук (лише для внутрішнього використання)"
+   },
+   "file_bug_internal": {
+      "message": "Повідомити про помилку (лише для внутрішнього використання)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> збережено на \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">Змінити\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Файл \u003Cspan id=\"$1\">\u003C/span> переміщено до кошика. Перейти в \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Диск\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Диск"
+   },
+   "help": {
+      "message": "Довідка"
+   },
+   "html_default_filename": {
+      "message": "Файл HTML без назви"
+   },
+   "image_capture_failed": {
+      "message": "Не вдалося зробити знімок."
+   },
+   "image_capture_failed_reason": {
+      "message": "Не вдалося зробити знімок ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Зображення без назви"
+   },
+   "invalid_url": {
+      "message": "Недійсна URL-адреса: $1. Завантажені URL-адреси мають починатися з http://, https:// або file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Знімок сторінки без назви.mht"
+   },
+   "misc": {
+      "message": "Інше"
+   },
+   "my_drive": {
+      "message": "Мій диск"
+   },
+   "options_header_text": {
+      "message": "Параметри розширення Зберегти на Google Диску"
+   },
+   "options_title": {
+      "message": "Параметри Зберегти на Google Диску"
+   },
+   "page_size_not_supported": {
+      "message": "Розмір сторінки не підтримується: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Файл PDF без назви"
+   },
+   "percent": {
+      "message": "Виконано $1 %",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Конфіденційність"
+   },
+   "rename": {
+      "message": "Перейменувати"
+   },
+   "rename_prompt": {
+      "message": "Перейменувати:"
+   },
+   "save_as_html": {
+      "message": "HTML-код (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Документ Google"
+   },
+   "save_as_image_entire": {
+      "message": "Зображення всієї сторінки (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Зображення видимої частини сторінки (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Веб-архів (.mht)"
+   },
+   "save_audio": {
+      "message": "Зберегти аудіо в Google Диск"
+   },
+   "save_image": {
+      "message": "Зберегти зображення в Google Диск"
+   },
+   "save_link": {
+      "message": "Зберегти посилання в Google Диск"
+   },
+   "save_page_as": {
+      "message": "Зберегти сторінку як:"
+   },
+   "save_to_folder_text": {
+      "message": "Зберегти в папку"
+   },
+   "save_to_google_drive_action": {
+      "message": "Зберегти на Google Диск"
+   },
+   "save_video": {
+      "message": "Зберегти відео в Google Диск"
+   },
+   "saving": {
+      "message": "Триває збереження $1 в Google Диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Натисніть \"Зберегти в папку\""
+   },
+   "send_feedback": {
+      "message": "Надіслати відгук"
+   },
+   "sign_out": {
+      "message": "Вийти"
+   },
+   "start_download_exception": {
+      "message": "Помилка завантаження: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Текст без назви"
+   },
+   "trash": {
+      "message": "Кошик"
+   },
+   "unspecified_error": {
+      "message": "Невизначена помилка"
+   },
+   "upload_canceled": {
+      "message": "Завантаження скасовано"
+   },
+   "upload_failure": {
+      "message": "Помилка завантаження: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Завантаження файлу $1 в Google Диск…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Відкрийте посилання\u003C/a> та збережіть цю сторінку, натиснувши кнопку Зберегти на Google Диск праворуч від адресного рядка.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Це посилання на веб-сторінку"
+   },
+   "video_default_filename": {
+      "message": "Відеофайл без назви"
+   },
+   "xml_default_filename": {
+      "message": "Файл XML без назви"
+   }
+}

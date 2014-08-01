@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Si vous aimez, votez et commentez dans le store :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "Allez à la page de commentaires"
+   },
+   "app_desc": {
+      "message": "La meilleure extension chrome pour tout les utilisateurs de Smartphones"
+   },
+   "app_title": {
+      "message": "Simple Générateur de QrCode"
+   },
+   "generate_qrcode": {
+      "message": "Générer un QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Ajouter ou Éditer une Règle"
+   },
+   "lblAddRule": {
+      "message": "Ajouter une Règle"
+   },
+   "lblEdit_Close": {
+      "message": "Fermer"
+   },
+   "lblEdit_Domain": {
+      "message": "Domaine"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Comment utiliser ce Générateur de QrCode"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Source d'Image"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Expression régulière:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Replacer le String"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Texte sélectionné"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "URL"
+   },
+   "lblEdit_Source": {
+      "message": "Source:"
+   },
+   "lblEdit_Tag": {
+      "message": "Tag"
+   },
+   "lblEdit_Title": {
+      "message": "Titre:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Sauvegarder"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Icône"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Choisir une Icône"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Désactivé"
+   },
+   "lblEdit_version": {
+      "message": "version"
+   },
+   "lblRules": {
+      "message": "Règles"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Image"
+   },
+   "popup_link": {
+      "message": "Lien"
+   },
+   "popup_selectedText": {
+      "message": "Texte sélectionné"
+   }
+}

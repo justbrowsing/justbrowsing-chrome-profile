@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "このアプリについて",
+      "message": "このアプリについて"
+   },
+   "addbutton": {
+      "description": "追加",
+      "message": "追加"
+   },
+   "advancedoptions": {
+      "description": "高度なオプション",
+      "message": "詳細オプション"
+   },
+   "basicsettings": {
+      "description": "基本",
+      "message": "基礎"
+   },
+   "bottom": {
+      "description": "下部",
+      "message": "下"
+   },
+   "changelog": {
+      "description": "更新履歴リンク",
+      "message": "改訂履歴"
+   },
+   "deletebutton": {
+      "description": "削除",
+      "message": "削除"
+   },
+   "des1checkmotion": {
+      "description": "Make sure your room is not dark and that it have enough light.",
+      "message": "Make sure your room is not dark and that it have enough light."
+   },
+   "des2checkmotion": {
+      "description": "Your camera must not receive direct sunlight.",
+      "message": "Your camera must not receive direct sunlight."
+   },
+   "des3checkmotion": {
+      "description": "You use a front facing camera.",
+      "message": "You use a front facing camera."
+   },
+   "desaddvideobutton": {
+      "description": "この YouTube のビデオから追加] ボタンを表示します。",
+      "message": "YouTube ビデオの追加 ボタンを明るく表示する"
+   },
+   "desalllightsoff": {
+      "description": "ランプ ボタンをクリックしてこのオプションを有効にするすべての開いているタブのオン/オフのライトが切り替えられます。",
+      "message": "このオプションを有効にすると、アドレスバーのランプボタンをクリックしてすべてのタブにおけるライトのオン/オフが切り替えられます。"
+   },
+   "desambilight": {
+      "description": "現在再生中のビデオの雰囲気照明効果を見る。",
+      "message": "再生中のビデオの雰囲気照明効果を表示する"
+   },
+   "desambilight4color": {
+      "description": "4 選ばれた色ビデオのまわり:",
+      "message": "4色の選ばれたビデオのまわり:"
+   },
+   "desambilightfixcolor": {
+      "description": "固体の色:",
+      "message": "単色:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "設定値が小さいほど、シャドウが鋭い場合、数値が高いほどよりぼやけているでしょう。",
+      "message": "影の低い値に設定する場合シャープ、数値が高いほどよりぼやけているでしょう。"
+   },
+   "desambilightrangespreadradius": {
+      "description": "正の値は、影のサイズを増やす、負の値は、サイズを小さきます。",
+      "message": "正の値では影を大きくし、負の値では小さくします。"
+   },
+   "desambilightvarcolor": {
+      "description": "ビデオから色を取る。",
+      "message": "ビデオから色を取得"
+   },
+   "desapitext": {
+      "description": "Wiki API for Website Developer",
+      "message": "Wiki API for Website Developer"
+   },
+   "desatmosphereonly": {
+      "description": "雰囲気照明機能次のビデオのサイトのみを使用します。",
+      "message": "雰囲気照明機能を次のビデオサイトでのみ使用する"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "自動的に再生ボタンをクリックして対背景を暗きます。",
+      "message": "再生すると自動的に背景を暗くする"
+   },
+   "desautoplaydelay": {
+      "description": "Brighten again the background when the video ended after",
+      "message": "Brighten again the background when the video ended after"
+   },
+   "desautoplaydelayend": {
+      "description": "seconds",
+      "message": "seconds"
+   },
+   "desautoplayonly": {
+      "description": "薄暗いだけ次の動画サイト：",
+      "message": "次の動画サイトでのみ画面を暗くする："
+   },
+   "desbrowserextension": {
+      "description": "browser extension",
+      "message": "browser extension"
+   },
+   "desbrowsersupport": {
+      "description": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer.",
+      "message": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer."
+   },
+   "desbrowsertheme": {
+      "description": "browser theme",
+      "message": "browser theme"
+   },
+   "descammotiononly": {
+      "description": "Activate the Camera Motion only on the following site(s):",
+      "message": "Activate the Camera Motion only on the following site(s):"
+   },
+   "desconfirmpassword": {
+      "description": "パスワードの確認入力",
+      "message": "パスワードの確認入力"
+   },
+   "desconfirmtime": {
+      "description": "時間を確認します。",
+      "message": "時間を確認する"
+   },
+   "desconfirmtimesaver": {
+      "description": "スクリーン セーバーの時間を確認します。",
+      "message": "スクリーン セーバーの時間を確認"
+   },
+   "descontextmenus": {
+      "description": "コンテキスト メニューを表示する項目に焦点を当てます。",
+      "message": "コンテキストメニューを表示する"
+   },
+   "description": {
+      "description": "ページ全体は映画館であったかのように、ビデオを見ることができるように暗い、衰えるでしょう。",
+      "message": "動画以外のページ全体を薄暗くして、映画スクリーンの様に、映像や動画を見ることが出来ます。"
+   },
+   "desdynamicblocks": {
+      "description": "ブロック",
+      "message": "ブロック"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "魚の水槽",
+      "message": "さかなの水槽"
+   },
+   "desdynamicraindrops": {
+      "description": "雨滴",
+      "message": "レインデュロップス"
+   },
+   "desdynamicspace": {
+      "description": "スペース宇宙",
+      "message": "スペースユニヴァース"
+   },
+   "deseastereggs": {
+      "description": "この拡張機能のボーナス。",
+      "message": "この拡張機能のボーナス"
+   },
+   "desenterpassword": {
+      "description": "下のボックスにパスワードを入力してください。",
+      "message": "下のボックスにパスワードを入力してください"
+   },
+   "deseyea": {
+      "description": "自動的にページを開く場合、背景を暗きます。",
+      "message": "ページを開くと自動的に暗くする"
+   },
+   "deseyealist": {
+      "description": "以下のページを開くとき自動的背景に淡色表示します。",
+      "message": "以下のページを開くとき、自動的にライトをオフにする"
+   },
+   "deseyen": {
+      "description": "通常の使用を (ライトが出てをクリックすると、ランプのアイコン)。",
+      "message": "通常使用(ランプアイコンをクリックして動作させる)"
+   },
+   "deseyetimesaver": {
+      "description": "ページがアクティブでないとき (マウスまたはキーボード入力なし) 以下で指定した時間のページは、自動的に消灯します。",
+      "message": "ページがアクティブでなくなったとき、 (マウスまたはキーボード入力なし) 以下で指定した時間でページは自動的に暗くなります。"
+   },
+   "desfadein": {
+      "description": "要するに、フェードを示してください。",
+      "message": "フェードインを有効にする"
+   },
+   "desfadeout": {
+      "description": "フェードアウト効果を示してください。",
+      "message": "フェードアウトを有効にする"
+   },
+   "desflash": {
+      "description": "フラッシュのすべてのオブジェクトを表示します。",
+      "message": "全てのFlashコンテンツを表示する"
+   },
+   "deshardflash": {
+      "description": "URL フィルターをスキップするすべてのフラッシュ オブジェクトを表示します。隠されていくつかのビデオ プレーヤーとの問題を解決これも広告が表示されます。",
+      "message": "すべてのフラッシュオブジェクトを表示し、URL フィルターをスキップする。これはいくつかのビデオ プレーヤーが表示されなくなる問題を解決しますが、広告が表示されます。"
+   },
+   "deshead": {
+      "description": "YouTube のチャンネル バーまたは名前を示します。",
+      "message": "YouTubeチャンネルバーを表示する"
+   },
+   "desinfobar": {
+      "description": "ビデオの説明情報を表示します。",
+      "message": "ビデオの概要を表示する"
+   },
+   "deslikebar": {
+      "description": "ショーは好きです/嫌う YouTube の動画の下のバー。",
+      "message": "YouTubeの動画の評価バーを明るく表示する"
+   },
+   "deslikebutton": {
+      "description": "そのようなものを示す & この動画に YouTube のボタンを嫌います。",
+      "message": "Youtubeの評価する／しないボタンを表示する。"
+   },
+   "desmotion": {
+      "description": "Camera Motion",
+      "message": "Enable the Camera Motion so that the web page could darkens with a hand sweep down."
+   },
+   "desmotionChecklist": {
+      "description": "Checklist:",
+      "message": "Checklist:"
+   },
+   "desmousespotlighta": {
+      "description": "ライトが消灯している場合、マウス カーソルの周囲のスポット ライトを示します。",
+      "message": "ライトがオフのとき、マウス カーソルの周囲にスポット ライトを表示する"
+   },
+   "desmousespotlightc": {
+      "description": "ライトがオフの場合、項目を集中する領域を選択できます。",
+      "message": "ライトがオフのとき、明るくするエリア領域を選択できるようにする"
+   },
+   "desmousespotlighto": {
+      "description": "通常の使用 （以下のマウス設定が無効になります)",
+      "message": "通常の使用 （以下のマウス設定は無効になります)"
+   },
+   "desmousespotlightt": {
+      "description": "ライトがオフのとき、暗い画面をクリックすることができます。",
+      "message": "ライトをオフにしたまま、画面をクリックすることができるようにする"
+   },
+   "desnightenabletheme": {
+      "description": "新しいページを開くとき、自動でナイトモードにする",
+      "message": "新しいページを開くとき、自動でナイトモードにする"
+   },
+   "desnightonly": {
+      "description": "次のサイトのみナイトモードを表示する",
+      "message": "次のサイトのみナイトモードを表示する"
+   },
+   "desnighttheme": {
+      "description": "暗くしたり明るくしたりするために、ウェブページの下にナイトスウィッチボタンを表示する",
+      "message": "暗くしたり明るくしたりするために、ウェブページの下にナイトスウィッチボタンを表示する"
+   },
+   "desnoflash": {
+      "description": "この機能を使用しないでください。",
+      "message": "この機能を使用しないでください。"
+   },
+   "despassword": {
+      "description": "ライトを入れる前に入力するパスワードが必要です。",
+      "message": "ライトをオンにする前にパスワードを要求する"
+   },
+   "desplaylist": {
+      "description": "YouTube ウェブサイト YouTube のプレイリストを表示します。",
+      "message": "Youtubeのプレイリストを表示する"
+   },
+   "desproject": {
+      "description": "project",
+      "message": "project"
+   },
+   "desreadera": {
+      "description": "ライトが出かけるとき、薄暗さレベル バーが表示常に。",
+      "message": "暗くしている時に調節バーを常に表示する。"
+   },
+   "desreadern": {
+      "description": "薄暗さレベルのバーを表示しません。",
+      "message": "調節バーは表示しない"
+   },
+   "desrememberpage": {
+      "description": "このオプションが有効な場合ではなく、記憶のページが表示されます。",
+      "message": "このオプションが有効な場合、記憶されたページが開かなくなります。"
+   },
+   "dessaver": {
+      "description": "スクリーン セーバー:",
+      "message": "スクリーン セーバー:"
+   },
+   "dessharebutton": {
+      "description": "このビデオを YouTube の共有ボタンを表示します。",
+      "message": "Youtubeの共有ボタンを表示する。"
+   },
+   "desshortcutlight": {
+      "description": "次のキーボード ショートカットを有効にします。",
+      "message": "下記のキーボード ショートカットを有効にする"
+   },
+   "desspeech": {
+      "description": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:",
+      "message": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "play video",
+      "message": "play video"
+   },
+   "desspeech4command": {
+      "description": "pause video",
+      "message": "pause video"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "Activate the Speech Recognition only the following site(s):",
+      "message": "Activate the Speech Recognition only the following site(s):"
+   },
+   "desspotlightradius": {
+      "description": "検索ランプの直径です。",
+      "message": "サーチランプの直径"
+   },
+   "dessuggestions": {
+      "description": "YouTube サイトの提案を示します。",
+      "message": "YouTubeおすすめビデオを明るく表示する"
+   },
+   "destime": {
+      "description": "ライトをオフ、次の回の間:",
+      "message": "下記の時間、ライトをオフにする:"
+   },
+   "destrymotion": {
+      "description": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc.",
+      "message": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc."
+   },
+   "desuntil": {
+      "description": "まで",
+      "message": "これまで"
+   },
+   "desvideoheadline": {
+      "description": "表示し、ビデオ タイトルの色を反転します。",
+      "message": "動画のタイトル色を目立たせる。"
+   },
+   "desviewcount": {
+      "description": "このビデオのビューの数を表示します。",
+      "message": "このビデオのビュー数を明るく表示する"
+   },
+   "donatepromotext": {
+      "description": "場合は任意の金額の寄付をすることができます、私は非常にそれをいただければと思います ！",
+      "message": "拡張機能が気に入ったら、いくらでも構いませんので、寄付を頂けると大変嬉しく存じます。"
+   },
+   "eastereggsquestion": {
+      "description": "本物の映画館は好きですか？",
+      "message": "本物の映画館は好きですか？"
+   },
+   "enjoyshare": {
+      "description": "この拡張機能をお楽しみください、あなたはそれを感謝だと思う他の人と共有します。",
+      "message": "この拡張機能をお楽しみください。もしよければ、あなたがこの拡張機能に喜んでくれると思う人と共有してください。"
+   },
+   "eyedivoff": {
+      "description": "オフ",
+      "message": "オフ"
+   },
+   "eyedivon": {
+      "description": "ON",
+      "message": "オン"
+   },
+   "friendlyremember": {
+      "description": "フレンドリーを覚えている.",
+      "message": "ともだちを忘れない..."
+   },
+   "guide": {
+      "description": "TOtL ようこそガイド",
+      "message": "TOtL ウェルカムガイド"
+   },
+   "help": {
+      "description": "ヘルプ",
+      "message": "ヘルプ"
+   },
+   "helpautoplay": {
+      "description": "'目の保護' を有効にします。使用する、'目の保護' オプションを無効にする機能は、以下。",
+      "message": "'目の保護' を有効にします。以下の機能を利用したい場合は、'目の保護' オプションを無効にしてください。"
+   },
+   "helpeyeprotection": {
+      "description": "'目の保護' を有効にする '自動再生' 機能を自動的に無効になります。",
+      "message": "'目の保護' を有効にすると、'自動再生' 機能は自動的に無効になります。"
+   },
+   "hoveroptionapply": {
+      "description": "適用",
+      "message": "適用"
+   },
+   "hoveroptiondyn5": {
+      "description": "飛行を持つ",
+      "message": "フライング"
+   },
+   "howworkmotion": {
+      "description": "どうすればいいの？",
+      "message": "どうすればいいの？"
+   },
+   "installadblocker": {
+      "description": "Adblocker 拡張子を使用します。",
+      "message": "広告をブロックする拡張機能と一緒に使用します。"
+   },
+   "lastchecked": {
+      "description": "最新バージョンをチェック アウト",
+      "message": "最新バージョンをチェック アウト"
+   },
+   "left": {
+      "description": "左",
+      "message": "左"
+   },
+   "lockentername": {
+      "description": "あなたのパスワードを入力してください。",
+      "message": "あなたのパスワードを入力してください。"
+   },
+   "lockwrongpassword": {
+      "description": "パスワードが間違っている、もう一度やり直してください。",
+      "message": "パスワードが間違っています。もう一度やり直してください。"
+   },
+   "longdonatetext": {
+      "description": "私は本当にいただければ、他の新しいユーザーの生きているこのブラウザー拡張機能を保つために私を寄付することができます。$$ 1 または $100 ドルが、かどうかあなたのサポートは非常に大歓迎です ！",
+      "message": "もしこのブラウザー拡張機能が開発停止せず、他の新しいユーザーにも使ってもらえるように寄付していただけるのなら、1ドルでも100 ドルでもあなたのサポートに本当に感謝します。"
+   },
+   "motionoptions": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "name": {
+      "description": "ライトをオフに",
+      "message": "Turn Off the Lights"
+   },
+   "nightoptions": {
+      "description": "ナイトモード",
+      "message": "ナイトモード"
+   },
+   "optionecosaversaved": {
+      "description": "秒は正常に保存されました ！",
+      "message": "秒数は正常に保存されました ！"
+   },
+   "optionpagetitle": {
+      "description": "オプション ページのタイトル",
+      "message": "Turn Off the Lights - オプション"
+   },
+   "optionpasswordsaved": {
+      "description": "パスワードは正常に保存されました ！",
+      "message": "パスワードは正常に保存されました ！"
+   },
+   "optiontimesaved": {
+      "description": "時間は正常に保存されました ！",
+      "message": "時間は正常に保存されました ！"
+   },
+   "optionwrongimg": {
+      "description": "無効な画像ファイル ！",
+      "message": "無効な画像ファイルです！"
+   },
+   "pageatitle": {
+      "description": "ライトをオフに",
+      "message": "ライトをオフに"
+   },
+   "pagehelp": {
+      "description": "ヘルプ",
+      "message": "ヘルプ"
+   },
+   "pagestillloading": {
+      "description": "ページがまだ読み込み中か？",
+      "message": "ページの読み込みはまだですか？"
+   },
+   "pagetitle": {
+      "description": "このページを暗くします。",
+      "message": "このページを暗くする"
+   },
+   "productshare": {
+      "description": "共有",
+      "message": "シェア"
+   },
+   "ratedes": {
+      "description": "And let everyone know about this great extension!",
+      "message": "And let everyone know about this great extension!"
+   },
+   "rateitema": {
+      "description": "Rate 5 stars",
+      "message": "Rate 5 stars"
+   },
+   "ratetitle": {
+      "description": "Please rate & review my extension",
+      "message": "Please rate & review my extension"
+   },
+   "recflash": {
+      "description": "お勧めします",
+      "message": "推奨"
+   },
+   "rememberrate": {
+      "description": "レート",
+      "message": "評価する"
+   },
+   "reportbug": {
+      "description": "問題を報告します。",
+      "message": "バグを報告する"
+   },
+   "reportlist": {
+      "description": "完全な問題のリストを見なさい",
+      "message": "全ての改訂履歴を見る"
+   },
+   "resetbrowserextension": {
+      "description": "Reset the Turn Off the Lights settings",
+      "message": "Reset the Turn Off the Lights settings"
+   },
+   "right": {
+      "description": "右",
+      "message": "右"
+   },
+   "settings": {
+      "description": "設定",
+      "message": "設定"
+   },
+   "shortcutalllights": {
+      "description": "オン/オフのすべての開いているタブのライトを切り替えます。",
+      "message": "すべてのタブのおけるライトのオン/オフを切り替えます。"
+   },
+   "shortcutbright": {
+      "description": "(不透明度減少) 画面を明るくには",
+      "message": "でスクリーンを明るくする(透明度を高くする)"
+   },
+   "shortcutdark": {
+      "description": "(不透明度増加) 画面を暗くには",
+      "message": "でスクリーンを暗くする(透明度を低くする)"
+   },
+   "shortcuteyeprotection": {
+      "description": "有効/無効を目保護機能。",
+      "message": "目の保護機能を有効/無効にする"
+   },
+   "shortcutopacity": {
+      "description": "暗闇のセット中 (不透明度) の設定を復元します。",
+      "message": "で暗さ (不透明度) の設定を復元します。"
+   },
+   "shortcutsavingopacity": {
+      "description": "この不透明度の値を保存するには",
+      "message": "で不透明度の値を保存する"
+   },
+   "shortcuttotl": {
+      "description": "オン/オフのライトを切り替えます。",
+      "message": "でライトのオン/オフを切り替える"
+   },
+   "showremember": {
+      "description": "オプション ページを開くときに再びこの記憶ページを表示しません。",
+      "message": "オプションページを開くときに再びページ設定の保存を表示しない"
+   },
+   "skipremember": {
+      "description": "これをとばすし、オプションのページを今すぐ開く",
+      "message": "スキップしてオプションのページを今すぐ開く"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Speech Recognition"
+   },
+   "step1description": {
+      "description": "Enable the Camera Motion feature",
+      "message": "Enable the Camera Motion feature"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Then the black layer slide automatically down.",
+      "message": "Then the black layer slide automatically down."
+   },
+   "textfoot": {
+      "description": "このソフトウェアは、CC GNU GPL の下でライセンスされています。このライセンスのコピーを参照してください。",
+      "message": "この拡張機能は、CC-GNU GPL ライセンスで保護されています。ライセンスについては次のURLを参照。"
+   },
+   "titeladdvideobutton": {
+      "description": "[追加] ボタン",
+      "message": "追加ボタン"
+   },
+   "titelalllightsoff": {
+      "description": "すべての開いているタブ",
+      "message": "開いているすべてのタブ"
+   },
+   "titelambilight": {
+      "description": "雰囲気照明",
+      "message": "雰囲気照明"
+   },
+   "titelapideveloper": {
+      "description": "API Developer",
+      "message": "API Developer"
+   },
+   "titelautoplay": {
+      "description": "自動再生",
+      "message": "自動再生する"
+   },
+   "titelautoplayblacklist": {
+      "description": "Blacklist",
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Whitelist",
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "description": "自動的にサイズが大きくなる YouTube プレーヤーを設定します。",
+      "message": "YouTube プレーヤーを自動的にサイズが大きくなるように設定する"
+   },
+   "titelblur": {
+      "description": "残りの部分をぼかし",
+      "message": "ライトがオフの部分をぼかす"
+   },
+   "titelblurradius": {
+      "description": "ぼかし半径",
+      "message": "ぼかし半径"
+   },
+   "titelcamera": {
+      "description": "Camera",
+      "message": "Camera"
+   },
+   "titelcinemaontop": {
+      "description": "映画劇場モード: それだけ、ウィンドウの上部にある 'ライト' レイヤーを表示します。",
+      "message": "映画館モード: ウィンドウの上部に 'ライトを消す' ボタンを表示します"
+   },
+   "titelcolor": {
+      "description": "色",
+      "message": "色"
+   },
+   "titelcolora": {
+      "description": "Color A",
+      "message": "Color A"
+   },
+   "titelcolorb": {
+      "description": "Color B",
+      "message": "Color B"
+   },
+   "titelcontextmenus": {
+      "description": "コンテキスト メニュー",
+      "message": "コンテキストメニュー"
+   },
+   "titeldeveloper": {
+      "description": "Developer",
+      "message": "Developer"
+   },
+   "titeldownloadbutton": {
+      "description": "このアップグレードをダウンロード ！",
+      "message": "このアップグレードをダウンロード ！"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser.",
+      "message": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser."
+   },
+   "titeldownloadupgrade": {
+      "description": "アップグレード選択した画像の焦点のためのサポートが追加され、サイト上の画像のギャラリーが表示されます。",
+      "message": "このアップグレードは選択した画像へのフォーカスのためのサポートが追加され、サイト上の画像ギャラリーが表示されます。"
+   },
+   "titeldynamic": {
+      "description": "動的背景",
+      "message": "動的背景"
+   },
+   "titeleastereggs": {
+      "description": "イースターの卵",
+      "message": "隠し機能(Easter Egg)"
+   },
+   "titeleye": {
+      "description": "眼の保護",
+      "message": "目に優しい機能"
+   },
+   "titelfadein": {
+      "description": "フェードインします。",
+      "message": "フェードイン"
+   },
+   "titelfadeout": {
+      "description": "フェードアウトします。",
+      "message": "フェードアウト"
+   },
+   "titelflash": {
+      "description": "フラッシュの検出",
+      "message": "Flashコンテンツを検知する"
+   },
+   "titelhead": {
+      "description": "チャネル",
+      "message": "チャンネル"
+   },
+   "titelimage": {
+      "description": "背景イメージ",
+      "message": "背景画像"
+   },
+   "titelinfobar": {
+      "description": "情報バー",
+      "message": "情報"
+   },
+   "titellamp": {
+      "description": "電球",
+      "message": "電球"
+   },
+   "titellampregular": {
+      "description": "Show always the lamp icon in the omnibox",
+      "message": "Show always the lamp icon in the omnibox"
+   },
+   "titellampvideo": {
+      "description": "Show the lamp icon only if a video player is detected",
+      "message": "Show the lamp icon only if a video player is detected"
+   },
+   "titellessmore": {
+      "description": "表示未満",
+      "message": "非表示にする"
+   },
+   "titellikebar": {
+      "description": "バーのように",
+      "message": "グッドバー"
+   },
+   "titellikebutton": {
+      "description": "ような & ボタンを嫌う",
+      "message": "評価ボタン"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "この解像度を自動的に設定されます。",
+      "message": "自動的に解像度を設定する"
+   },
+   "titelmouse": {
+      "description": "マウス",
+      "message": "マウス"
+   },
+   "titelnighttheme": {
+      "description": "ナイトモード",
+      "message": "ナイトモード"
+   },
+   "titeloff": {
+      "description": "オフ",
+      "message": "オフ"
+   },
+   "titelon": {
+      "description": "上",
+      "message": "オン"
+   },
+   "titelopacity": {
+      "description": "不透明度",
+      "message": "透明度"
+   },
+   "titelpageaction": {
+      "description": "pageaction のアイコンを隠す",
+      "message": "ランプアイコンを隠す"
+   },
+   "titelpassword": {
+      "description": "パスワード保護",
+      "message": "パスワード保護"
+   },
+   "titelplaylist": {
+      "description": "プレイリスト",
+      "message": "プレイリスト"
+   },
+   "titelqualityyoutube": {
+      "description": "自動的に YouTube のビデオの品質を設定します。",
+      "message": "自動的に YouTube のビデオの品質を設定します。"
+   },
+   "titelreader": {
+      "description": "薄暗さレベル バー",
+      "message": "暗度調節バー"
+   },
+   "titelrememberpage": {
+      "description": "ページを覚えています。",
+      "message": "ページ設定の保存"
+   },
+   "titelreset": {
+      "description": "Reset settings",
+      "message": "Reset settings"
+   },
+   "titelrightsreserved": {
+      "description": "Some rights reserved.",
+      "message": "Some rights reserved."
+   },
+   "titelscreen": {
+      "description": "画面",
+      "message": "画面"
+   },
+   "titelseeonline": {
+      "description": "See online for more examples",
+      "message": "See online for more examples"
+   },
+   "titelsharebutton": {
+      "description": "共有ボタン",
+      "message": "共有ボタン"
+   },
+   "titelshortcutlight": {
+      "description": "ショートカット キー",
+      "message": "ショートカットキー"
+   },
+   "titelshowmore": {
+      "description": "もっと見る",
+      "message": "もっと見る"
+   },
+   "titelspeech": {
+      "description": "Speech",
+      "message": "Speech"
+   },
+   "titelspreadradius": {
+      "description": "拡散半径",
+      "message": "拡散半径"
+   },
+   "titelsuggestions": {
+      "description": "提案",
+      "message": "おすすめ"
+   },
+   "titelsupportatmos": {
+      "description": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card.",
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card."
+   },
+   "titelsync": {
+      "description": "同期",
+      "message": "同期"
+   },
+   "titelsyncbrowser": {
+      "description": "他のブラウザーの拡張機能の設定を同期します。",
+      "message": "他のブラウザーの拡張機能と設定を同期する"
+   },
+   "titelupgrade": {
+      "description": "アップグレード",
+      "message": "アップグレードする"
+   },
+   "titelvideoheadline": {
+      "description": "ビデオ タイトル",
+      "message": "動画のタイトル"
+   },
+   "titelvideosample": {
+      "description": "Video Sample",
+      "message": "Video Sample"
+   },
+   "titelviewcount": {
+      "description": "ビューの数",
+      "message": "見られた回数"
+   },
+   "titelwebsite": {
+      "description": "Website",
+      "message": "Website"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "寄付",
+      "message": "寄付"
+   },
+   "top": {
+      "description": "ページのトップへ",
+      "message": "上"
+   },
+   "translateme": {
+      "description": "翻訳に役立つ",
+      "message": "翻訳を手伝う"
+   },
+   "trymotion": {
+      "description": "Try it yourself!",
+      "message": "Try it yourself!"
+   },
+   "upgradecontextitemma": {
+      "description": "light off with your hand",
+      "message": "light off with your hand"
+   },
+   "upgradecontextitemmb": {
+      "description": "Control the web page more accurately",
+      "message": "Control the web page more accurately"
+   },
+   "upgradecontextitemta": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "upgradecontextitemtb": {
+      "description": "Speech Recognition",
+      "message": "Speech Recognition"
+   },
+   "upgradecontextmessage": {
+      "description": "That make this extension even more amazing",
+      "message": "That make this extension even more amazing"
+   },
+   "upgradecontexttitle": {
+      "description": "We have added some new features for you",
+      "message": "We have added some new features for you"
+   },
+   "upgradefbshare": {
+      "description": "Facebook で共有",
+      "message": "Facebook で共有"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "バージョン番号のテキスト",
+      "message": "バージョン"
+   },
+   "videotitle": {
+      "description": "このビデオ フォーカス",
+      "message": "動画をフォーカスする"
+   },
+   "visualeffects": {
+      "description": "視覚効果",
+      "message": "視覚効果"
+   },
+   "warning": {
+      "description": "警告 ！",
+      "message": "警告 ！"
+   },
+   "warningtextambilight": {
+      "description": "サイトのセキュリティの規則のためのビデオ ・ データを受信できる場合、それは代わりに選択した単色を表示は。",
+      "message": "サイトのセキュリティの規則のためのビデオデータを受信できない場合、代わりに選択した単色を表示します。"
+   }
+}

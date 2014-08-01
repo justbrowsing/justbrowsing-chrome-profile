@@ -1,0 +1,577 @@
+{
+   "activityscore_bronze": {
+      "description": "",
+      "message": "bronz"
+   },
+   "activityscore_gold": {
+      "description": "",
+      "message": "altın"
+   },
+   "activityscore_next": {
+      "description": "",
+      "message": "{NEXT_LEVEL} düzeyine ulaşmak için derecelendirmeye devam edin!"
+   },
+   "activityscore_platinum": {
+      "description": "",
+      "message": "platin"
+   },
+   "activityscore_rookie": {
+      "description": "",
+      "message": "çaylak"
+   },
+   "activityscore_silver": {
+      "description": "",
+      "message": "gümüş"
+   },
+   "activityscore_text": {
+      "description": "",
+      "message": "Etkinlik skorunuz şu anda {SCORE}"
+   },
+   "auto_update_button_no": {
+      "description": "imported from firefox add-on",
+      "message": "Daha sonra hatırlat"
+   },
+   "auto_update_button_yes": {
+      "description": "imported from firefox add-on",
+      "message": "Şimdi güncelle"
+   },
+   "auto_update_check": {
+      "description": "imported from firefox add-on",
+      "message": "Otomatik güncelleştirmeleri etkinleştir (önerilen)"
+   },
+   "auto_update_message": {
+      "description": "imported from firefox add-on",
+      "message": "Yeni sürüm mevcut - güncellemek için buraya tıklayın?"
+   },
+   "auto_update_title": {
+      "description": "imported from firefox add-on",
+      "message": "WOT Güncelleme"
+   },
+   "bl_description": {
+      "description": "",
+      "message": "Bu web-sitesi bir üçüncü taraf kara listesinde görünmektedir"
+   },
+   "bl_description_pl": {
+      "description": "",
+      "message": "Bu web-sitesi üçüncü taraf kara listelerinde görünmektedir"
+   },
+   "bl_information": {
+      "description": "",
+      "message": "WOT, virüs ya da kötü amaçlı yazılımlar gibi teknik tehditler hakkında kullanıcıları uyarmak için üçüncü taraf kara listelerini kullanmaktadır \u003Ca>Daha fazlasını okuyun\u003C/a>"
+   },
+   "bl_malware": {
+      "description": "",
+      "message": "Kötü amaçlı yazılım"
+   },
+   "bl_other": {
+      "description": "",
+      "message": "Diğer sebep"
+   },
+   "bl_phishing": {
+      "description": "",
+      "message": "Kimlik avı (Phishing)"
+   },
+   "bl_scam": {
+      "description": "",
+      "message": "Dolandırıcılık (Scam)"
+   },
+   "bl_spam": {
+      "description": "",
+      "message": "İstenmeyen İleti (SPAM)"
+   },
+   "bl_tracking": {
+      "description": "",
+      "message": "İzleme"
+   },
+   "buttons_cancel": {
+      "description": "",
+      "message": "İptal"
+   },
+   "buttons_delete": {
+      "description": "",
+      "message": "derecelendirmeleri sil"
+   },
+   "buttons_delete_title": {
+      "description": "",
+      "message": "bu web-sitesi için derecelendirmelerimi ve kategorilerimi sil"
+   },
+   "buttons_ok": {
+      "description": "",
+      "message": "TAMAM"
+   },
+   "buttons_save": {
+      "description": "",
+      "message": "Kaydet"
+   },
+   "components_0": {
+      "message": "Dürüstlük"
+   },
+   "components_4": {
+      "message": "Çocuk güvenliği"
+   },
+   "components__short_0": {
+      "message": "Dürüstlük"
+   },
+   "components__short_4": {
+      "message": "Çocuk güvenliği"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "WOT skor kartını aç"
+   },
+   "description_restart": {
+      "description": "imported from firefox add-on",
+      "message": "WOT’u etkinleştirmek için tarayıcınızı yeniden başlatın."
+   },
+   "description_uninstall": {
+      "description": "imported from firefox add-on",
+      "message": "WOT sisteminiz yeniden başlatıldıktan sonra kaldırılacak."
+   },
+   "ext_description": {
+      "message": "WOT oylamaları, global anlamda milyonlarca kullanıcının deneyimleri ile milyonlarca web sayfasının oylanması ile geliştirilmiştir."
+   },
+   "fbl_dismiss": {
+      "description": "",
+      "message": "reddet"
+   },
+   "fbl_final": {
+      "description": "",
+      "message": "Teşekkürler!"
+   },
+   "fbl_hideforever": {
+      "description": "",
+      "message": "Sonsuza dek gizle"
+   },
+   "fbl_optout_no": {
+      "description": "",
+      "message": "Hayır"
+   },
+   "fbl_optout_text": {
+      "description": "",
+      "message": "Eğer kendinize sorular sorulmamasını tercih ediyorsanız, \"evet\"e tıklayın"
+   },
+   "fbl_optout_yes": {
+      "description": "",
+      "message": "evet"
+   },
+   "fbl_submit": {
+      "description": "",
+      "message": "Gönder"
+   },
+   "fbl_this_website": {
+      "description": "",
+      "message": "bu web-sitesi"
+   },
+   "fbl_whatisthis": {
+      "description": "",
+      "message": "Bu nedir?"
+   },
+   "fbl_whatisthis_text": {
+      "description": "",
+      "message": "\u003Ca href='http://www.mywot.com?utm_source=addon&utm_content=fbl-whatisthis' target='_blank'>Web of Trust (WOT)\u003C/a>, web üzerindeki milyonlarca kullanıcı için güvenlik ve kaliteyi teşvik etmek üzere çalışıyor. Siz de bu iletiyi gördüğünüz her an görüşlerinizi göndererek bize yardımcı olabilirsiniz."
+   },
+   "lang": {
+      "message": "tr-TR"
+   },
+   "locale": {
+      "message": "tr"
+   },
+   "messages_disabled": {
+      "description": "imported from firefox add-on",
+      "message": "Eklentileri devre dışı bıraktınız"
+   },
+   "messages_error_register": {
+      "description": "imported from firefox add-on",
+      "message": "Failed to activate the add-on; retrying shortly."
+   },
+   "messages_failed": {
+      "message": "Oyları yüklemek başarısız oldu; hemen tekrar deneniyor."
+   },
+   "messages_initializing": {
+      "message": "WOT başlatılıyor…"
+   },
+   "messages_loading": {
+      "message": "Oylar yükleniyor..."
+   },
+   "messages_notavailable": {
+      "message": "Oylar erişilebilir değil."
+   },
+   "messages_notready": {
+      "message": "WOT… etkinleştiriliyor"
+   },
+   "messages_offline": {
+      "description": "imported from firefox add-on",
+      "message": "Tarayıcı çevrimdışıyken devre dışıdır."
+   },
+   "messages_ready": {
+      "description": "",
+      "message": "İtibarı"
+   },
+   "popup_headertext": {
+      "description": "",
+      "message": "ayrıntıları görüntülemek için tıklayın"
+   },
+   "popup_nocattext": {
+      "description": "",
+      "message": "bu websitesi hakkındaki görüşünüzü paylaşın"
+   },
+   "ratingwindow_addcomment": {
+      "description": "",
+      "message": "Bir yorum ekle"
+   },
+   "ratingwindow_backtoratings": {
+      "description": "",
+      "message": "Nedenelere geri dön"
+   },
+   "ratingwindow_backtoratings_category": {
+      "description": "",
+      "message": "Neden seç"
+   },
+   "ratingwindow_categories": {
+      "description": "",
+      "message": "En az bir neden belirt"
+   },
+   "ratingwindow_check_1a": {
+      "message": "Other users may not understand why you selected 'good site' if you also had severe negative things to say."
+   },
+   "ratingwindow_check_1b": {
+      "message": "Other users may not think that a site designed for children should have such negative characteristics."
+   },
+   "ratingwindow_check_2a": {
+      "message": "Other users may not consider your review credible, because you selected several unrelated negative things."
+   },
+   "ratingwindow_check_3a": {
+      "message": "Other users may question if all negative statements on content and site functionality are true."
+   },
+   "ratingwindow_check_4a": {
+      "message": "Other users may not consider your review credible, because you selected several unrelated things."
+   },
+   "ratingwindow_check_5a": {
+      "message": "'Other' category should be used only if no other options applies, and then explained in written comments."
+   },
+   "ratingwindow_check_6a": {
+      "message": "Too many categories may result in people questioning the credibility of your review."
+   },
+   "ratingwindow_comment": {
+      "description": "",
+      "message": "Yorum yap"
+   },
+   "ratingwindow_comment_captchalink": {
+      "description": "",
+      "message": "Skor kartını şimdi aç"
+   },
+   "ratingwindow_comment_captchatext": {
+      "description": "",
+      "message": "Yorumunuzu yayınlamanız için skor kartındaki güvenlik kodunu girmeniz gerekiyor."
+   },
+   "ratingwindow_comment_placeholder": {
+      "description": "",
+      "message": "Burada deneyimini açıkla…"
+   },
+   "ratingwindow_comment_register": {
+      "description": "",
+      "message": "Şimdi bir hesap oluşturun"
+   },
+   "ratingwindow_comment_regtext": {
+      "description": "",
+      "message": "Yorumunuzu yayınlamak için bir hesabınız olması gerekiyor."
+   },
+   "ratingwindow_commenthints": {
+      "description": "",
+      "message": "\u003Cp>Açık olun\u003C/p>\u003Cp>Kanıt ya da örnek verin\u003C/p>\u003Cp>Gerçek deneyimleriniz doğrultusunda yorum yapın\u003C/p>\u003Cp>Spam yapmayın\u003C/p>"
+   },
+   "ratingwindow_editcomment": {
+      "description": "",
+      "message": "Yorumu düzenle"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_fulllist": {
+      "description": "",
+      "message": "tam listeyi göster"
+   },
+   "ratingwindow_guide": {
+      "description": "",
+      "message": "Tur"
+   },
+   "ratingwindow_invite_rw": {
+      "message": "You can rate websites using this tool. Click on the colored bars to express how much you trust a website."
+   },
+   "ratingwindow_morecats": {
+      "description": "",
+      "message": "daha fazla"
+   },
+   "ratingwindow_myrating": {
+      "message": "Oyum"
+   },
+   "ratingwindow_newversion": {
+      "message": "Yeni sürüm mevcut - güncellemek için buraya tıklayın"
+   },
+   "ratingwindow_novoted": {
+      "description": "",
+      "message": "Neden belirtmek için buraya tıkla"
+   },
+   "ratingwindow_profile": {
+      "description": "",
+      "message": "Profilim"
+   },
+   "ratingwindow_question0": {
+      "description": "",
+      "message": "Bu siteye ne kadar güveniyorsunuz?"
+   },
+   "ratingwindow_question4": {
+      "description": "",
+      "message": "Bu site çocuklar için ne kadar uygun?"
+   },
+   "ratingwindow_rerate_category": {
+      "description": "TODO: TRANSLATE",
+      "message": " "
+   },
+   "ratingwindow_rerate_change": {
+      "description": "",
+      "message": "değiştir"
+   },
+   "ratingwindow_settings": {
+      "message": "Ayarlar"
+   },
+   "ratingwindow_thankyou": {
+      "description": "",
+      "message": "Deneyiminizi paylaştığınız için teşekkürler!"
+   },
+   "ratingwindow_viewscorecard": {
+      "description": "",
+      "message": "Ayrıntıları ve yorumları görüntüle"
+   },
+   "ratingwindow_vote_no": {
+      "description": "",
+      "message": "Kabul etmiyorum"
+   },
+   "ratingwindow_vote_yes": {
+      "description": "",
+      "message": "Evet"
+   },
+   "ratingwindow_wgcommenthints": {
+      "message": "\u003Cp>Be precise and truthful\u003C/p>\u003Cp>Use tags as shorthand\u003C/p>\u003Cp>Comment what you know\u003C/p>"
+   },
+   "ratingwindow_wotrating": {
+      "description": "",
+      "message": "WOT kullanıcıları diyor ki"
+   },
+   "reputationlevels_r0": {
+      "description": "",
+      "message": "Bilinmeyen"
+   },
+   "reputationlevels_r1": {
+      "message": "Çok kötü"
+   },
+   "reputationlevels_r2": {
+      "message": "Düşük"
+   },
+   "reputationlevels_r3": {
+      "message": "Tatmin edici değil"
+   },
+   "reputationlevels_r4": {
+      "message": "İyi"
+   },
+   "reputationlevels_r5": {
+      "message": "Mükemmel"
+   },
+   "testimony_0_levels_r0": {
+      "description": "",
+      "message": "derecelendirmek için tıklayın"
+   },
+   "testimony_0_levels_r1": {
+      "description": "",
+      "message": "Güvenmiyorum"
+   },
+   "testimony_0_levels_r2": {
+      "description": "",
+      "message": "Güvenmiyorum"
+   },
+   "testimony_0_levels_r3": {
+      "description": "",
+      "message": "Şüpheli"
+   },
+   "testimony_0_levels_r4": {
+      "description": "",
+      "message": "Güveniyorum"
+   },
+   "testimony_0_levels_r5": {
+      "description": "",
+      "message": "Güveniyorum"
+   },
+   "testimony_4_levels_r0": {
+      "description": "",
+      "message": "derecelendirmek için tıklayın"
+   },
+   "testimony_4_levels_r1": {
+      "description": "",
+      "message": "uygun değil"
+   },
+   "testimony_4_levels_r2": {
+      "description": "",
+      "message": "uygun değil"
+   },
+   "testimony_4_levels_r3": {
+      "description": "",
+      "message": "temkinli olun"
+   },
+   "testimony_4_levels_r4": {
+      "description": "",
+      "message": "uygun"
+   },
+   "testimony_4_levels_r5": {
+      "description": "",
+      "message": "uygun"
+   },
+   "testimony_delete": {
+      "description": "",
+      "message": "sil"
+   },
+   "testimony_unrated": {
+      "description": "",
+      "message": "görüş yok"
+   },
+   "warning": {
+      "description": "imported from firefox add-on",
+      "message": "WOT Uyarısı: %S"
+   },
+   "warning_button": {
+      "description": "imported from firefox add-on",
+      "message": "Değerlendirme bilgileri"
+   },
+   "warnings_back": {
+      "message": "Geri git"
+   },
+   "warnings_blocked": {
+      "description": "imported from firefox add-on",
+      "message": "Kilitlendi"
+   },
+   "warnings_goto": {
+      "message": "Siteye gite"
+   },
+   "warnings_information": {
+      "description": "",
+      "message": "Ayrıntıları ve yorumları görüntüle"
+   },
+   "warnings_leave": {
+      "description": "",
+      "message": "Çıkış"
+   },
+   "warnings_message_rating": {
+      "description": "imported from firefox add-on",
+      "message": "Bu siteye uyarıya sebep olan düşük bir oy verdiniz"
+   },
+   "warnings_message_reputation": {
+      "description": "imported from firefox add-on",
+      "message": "Bu site kullanıcı oylarına göre kötü bir üne sahip"
+   },
+   "warnings_noreasontitle": {
+      "description": "",
+      "message": "Kullanıcılar bu siteyi henüz tanımlamadılar, sadece derecelendirdiler"
+   },
+   "warnings_othersreasontitle": {
+      "description": "",
+      "message": "Diğer kullanıcıların görüşleri"
+   },
+   "warnings_ratesite": {
+      "description": "",
+      "message": "Bu siteye güveniyorsanız, lütfen \u003Ca>derecelendirin\u003C/a>"
+   },
+   "warnings_rating": {
+      "message": "Bu siteye uyarıya sebep olan \u003Cbr />düşük bir oy verdiniz"
+   },
+   "warnings_reasontitle": {
+      "description": "",
+      "message": "Kullanıcılar aşağıdaki sorunları saptadılar"
+   },
+   "warnings_reputation": {
+      "message": "Bu site kullanıcı oylarına göre\u003Cbr/> kötü bir üne sahip"
+   },
+   "warnings_reratesite": {
+      "description": "",
+      "message": "Bu siteyi tekrar derecelendirmek istiyorsanız \u003Ca>buraya tıklayın\u003C/a>"
+   },
+   "warnings_unknown": {
+      "message": "Bu site bilinmeyen bir oylamaya sahip"
+   },
+   "warnings_warning": {
+      "message": "Uyarı!"
+   },
+   "wg_about": {
+      "message": "what's this?"
+   },
+   "wg_about_content": {
+      "message": "WOT Groups Beta enables various communities to build together a perfect Web site online directory around their passion and interests. The filtering and site reputation tools make the Web use easy and trusted."
+   },
+   "wg_about_more": {
+      "message": "open Groups"
+   },
+   "wg_about_ok": {
+      "message": "OK, got it"
+   },
+   "wg_about_title": {
+      "message": "What is WOT Groups Beta?"
+   },
+   "wg_add": {
+      "message": "add a tag"
+   },
+   "wg_add_long": {
+      "message": "click to comment with tags"
+   },
+   "wg_edit": {
+      "message": "edit my tags"
+   },
+   "wg_expander": {
+      "message": "show more"
+   },
+   "wg_expander_less": {
+      "message": "show less"
+   },
+   "wg_title": {
+      "message": "WOT Groups\u003Cspan class='wg-beta'>beta\u003C/span>"
+   },
+   "wg_viewer_title_wikipedia": {
+      "message": "Wikipedia"
+   },
+   "wt_donut_btn": {
+      "description": "",
+      "message": "TAMAM, anladım"
+   },
+   "wt_donut_msg": {
+      "description": "",
+      "message": "\u003Cp>WOT, diğer kullanıcıların deneyimlerine dayanarak size trafik ışığı biçimindeki ikonlar göstermek yoluyla web-sitesi itibarlarını gösterir.\u003C/p>\u003Cp>İtibarları ve bunların arkasındaki sebepleri görmek için farenizi ikonun üstünde tutun.\u003C/p>"
+   },
+   "wt_intro_0_btn": {
+      "description": "",
+      "message": "TAMAM, anladım"
+   },
+   "wt_intro_0_msg": {
+      "description": "",
+      "message": "\u003Cimg src='{ADDON_BASEURI}skin/b/welcometips/wt_intro_0.png' width='196px' height='40px'/>\u003Cp>Yeni WOT tarayıcınıza eklendi.\u003C/p>\u003Cp>Bu ikona tıklayarak web-sitelerini derecelendirmeye başlayın {ICO1}\u003C/p>\u003Cp>{WT_LEARNMORE}\u003C/p>"
+   },
+   "wt_learnmore_link": {
+      "description": "",
+      "message": "WOT hakkında \u003Ca id='wt-learnmore-link'>daha fazlasını öğrenin\u003C/a>."
+   },
+   "wt_rw_text": {
+      "description": "",
+      "message": "\u003Cp>WOT derecelendirme penceresi, diğer kullanıcıların deneyimlerine dayanarak size websitesinin itibarını gösterir. Artık doğrudan güncellenen pencereden derecelendirme ve yorum yapabilirsiniz. Renkli çubuklara tıklayarak derecelendirmeye başlayın.\u003C/p>\u003Cp class='wot-c'>WOT hakkında \u003Ca id='wt-learnmore-link'>daha fazlasını öğrenin\u003C/a>\u003C/p>"
+   },
+   "wt_rw_text_hdr": {
+      "description": "",
+      "message": "Deneyimlerinizi paylaşın!"
+   },
+   "wt_warning_ok": {
+      "description": "",
+      "message": "TAMAM, anladım"
+   },
+   "wt_warning_text": {
+      "description": "",
+      "message": "\u003Cp>WOT, kötü itibarlı bir siteye denk geldiğinizde, diğer kullanıcıların derecelendirmeleri ya da üçüncü taraflardan gelen kara listelere dayanarak, sizi uyarır. Uyarı, size kötü itibarın arkasındaki sebepleri de ayrıca gösterir.\u003C/p>\u003Cp>{WT_LEARNMORE}\u003C/p>\u003Cp>Eğer uyarıları görmek istemezseniz, kapatabilirsiniz.\u003C/p>"
+   },
+   "wt_warning_turnoff": {
+      "description": "",
+      "message": "Uyarları kapat"
+   }
+}

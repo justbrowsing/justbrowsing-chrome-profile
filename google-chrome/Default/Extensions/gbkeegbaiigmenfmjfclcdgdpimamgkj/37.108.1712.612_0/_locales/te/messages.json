@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "మరింత తెలుసుకోండి"
+   },
+   "app_nacl_crash_report": {
+      "message": "సమస్యను నివేదించండి..."
+   },
+   "application_description": {
+      "message": "పత్రాన్ని సవరించడం"
+   },
+   "extension_description": {
+      "message": "Google డాక్స్, షీట్‌లు మరియు స్లయిడ్‌లతో Microsoft Word, Excel మరియు PowerPoint ఫైల్‌లను వీక్షించండి మరియు సవరించండి"
+   },
+   "extension_name": {
+      "message": "డాక్స్, షీట్‌లు & స్లయిడ్‌ల కోసం Office సవరణ"
+   },
+   "file_loading_spinner_label": {
+      "message": "లోడ్ అవుతోంది"
+   },
+   "file_not_found_msg": {
+      "message": "మీరు అభ్యర్థించిన ఫైల్ లేదు మరియు తరలించబడింది."
+   },
+   "file_not_found_title": {
+      "message": "ఫైల్ కనుగొనబడలేదు."
+   }
+}

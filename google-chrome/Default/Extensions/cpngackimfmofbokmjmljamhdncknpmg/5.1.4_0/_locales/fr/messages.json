@@ -1,6 +1,6 @@
 {
    "autosave": {
-      "message": "Enregistrement Auto - apr\u00E8s capture, passe l'\u00E9cran d'\u00E9dition et sauvegarde la capture dans le dossier par d\u00E9faut avec pour nom le titre de la page web"
+      "message": "Enregistrement Auto - après capture, passe l'écran d'édition et sauvegarde la capture dans le dossier par défaut avec pour nom le titre de la page web"
    },
    "blur": {
       "message": "Flou"
@@ -12,10 +12,10 @@
       "message": "Annuler"
    },
    "capture_area": {
-      "message": "Capture r\u00E9gion"
+      "message": "Capture région"
    },
    "capture_webpage": {
-      "message": "Capture page enti\u00E8re"
+      "message": "Capture page entière"
    },
    "capture_window": {
       "message": "Capture contenu visible"
@@ -30,13 +30,13 @@
       "message": "Copie"
    },
    "default_title": {
-      "message": "Capture \u00E9cran"
+      "message": "Capture écran"
    },
    "description": {
-      "message": "Capture le contenu visible de l'onglet, une r\u00E9gion de la page web, ou la page enti\u00E8re en image PNG."
+      "message": "Capture le contenu visible de l'onglet, une région de la page web, ou la page entière en image PNG."
    },
    "edit_tip": {
-      "message": "Ci-dessous la capture d'\u00E9cran. Vous pouvez l'\u00E9diter avec les outils \u00E0 gauche. Cliquez Enregister quand vous avez termin\u00E9."
+      "message": "Ci-dessous la capture d'écran. Vous pouvez l'éditer avec les outils à gauche. Cliquez Enregister quand vous avez terminé."
    },
    "highlight": {
       "message": "Cadre"
@@ -51,10 +51,10 @@
       "message": "Capture sans perte"
    },
    "lossy": {
-      "message": "Capture compress\u00E9e"
+      "message": "Capture compressée"
    },
    "name": {
-      "message": "Capture d'\u00E9cran (par Google)"
+      "message": "Capture d'écran (par Google)"
    },
    "ok": {
       "message": "OK"
@@ -66,7 +66,7 @@
       "message": "Options"
    },
    "quality_setting": {
-      "message": "Param\u00E8tres de qualit\u00E9: "
+      "message": "Paramètres de qualité: "
    },
    "rect": {
       "message": "Surface pleine"
@@ -81,34 +81,34 @@
       "message": "Enregistrer & Fermer"
    },
    "save_fail": {
-      "message": "L'enregistrement de la capture a \u00E9chou\u00E9!"
+      "message": "L'enregistrement de la capture a échoué!"
    },
    "save_image": {
       "message": "Enregistrement de l'image"
    },
    "save_setting": {
-      "message": "Param\u00E8tres d'enregistrement de la capture: "
+      "message": "Paramètres d'enregistrement de la capture: "
    },
    "save_success": {
-      "message": "Capture enregistr\u00E9e."
+      "message": "Capture enregistrée."
    },
    "save_tip": {
-      "message": "Chemin d'enregistrement par d\u00E9faut: "
+      "message": "Chemin d'enregistrement par défaut: "
    },
    "set_save_path": {
       "message": "Parcourir..."
    },
    "set_save_path_title": {
-      "message": "Selectionnez l'emplacement d'enregistrement par d\u00E9faut"
+      "message": "Selectionnez l'emplacement d'enregistrement par défaut"
    },
    "shortcut_setting": {
-      "message": "Param\u00E8tre du raccourci:"
+      "message": "Paramètre du raccourci:"
    },
    "shortcutsetting_text": {
       "message": "Activer les raccourcis clavier"
    },
    "size_huge": {
-      "message": "\u00C9norme"
+      "message": "Énorme"
    },
    "size_large": {
       "message": "Grande"
@@ -123,15 +123,15 @@
       "message": "Noir"
    },
    "special": {
-      "message": "C'est une page sp\u00E9ciale. Impossible d'effectuer une capture d'\u00E9cran sur cette page."
+      "message": "C'est une page spéciale. Impossible d'effectuer une capture d'écran sur cette page."
    },
    "text": {
       "message": "Texte"
    },
    "tip_copy_failed": {
-      "message": "La copie de la capture a \u00E9chou\u00E9!"
+      "message": "La copie de la capture a échoué!"
    },
    "tip_copy_succeed": {
-      "message": "Capture copi\u00E9e."
+      "message": "Capture copiée."
    }
 }

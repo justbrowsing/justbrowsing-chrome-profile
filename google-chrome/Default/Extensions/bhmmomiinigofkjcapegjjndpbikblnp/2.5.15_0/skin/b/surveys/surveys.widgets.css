@@ -1,0 +1,334 @@
+.hidden {
+    display: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    -webkit-user-select: none;
+}
+
+.surveys-window {
+    position: relative;
+    margin: 10px;
+    border: 1px solid silver;
+    font-family: arial, sans-serif;
+    font-size: 11pt;
+    box-shadow: 0px 0px 10px rgba(27, 27, 27, 0.8);
+}
+
+.top-section {
+    width: 340px;
+    padding: 20px 15px 10px;
+    border-bottom: 1px solid silver;
+    background: #ffffff;
+}
+
+.bottom-section {
+    display: none;
+    padding: 1em 1em 1.2em;
+    background-color: #edf0f5;
+    box-shadow: inset 0 1px 1px rgba(152, 157, 169, 0.7);
+    font-size: 10pt;
+    color: #656565;
+    position: relative;
+}
+
+/* Top Section */
+
+#tab-question {
+    display: block;
+}
+
+#tab-final {
+    display: none;
+    font-size: 110%;
+}
+
+.wot-logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 42px;
+    height: 17px;
+    background-image: url(/skin/fusion/logo.png);
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 19px;
+    height: 19px;
+    background-image: url(/skin/b/surveys/close-button.png);
+    background-position: 0 0;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    background-position: 0 -19px;
+}
+
+.surveys-question {
+    margin: 1em 0 0.5em 0;
+    font-size: 13pt;
+    text-align: center;
+    -webkit-user-select: text;
+}
+
+.surveys-question.long {
+    font-size: 11pt;
+    line-height: 1.4em;
+}
+
+.surveys-question .domainname {
+    font-weight: bold;
+}
+
+.surveys-answer {
+    position: relative;
+    margin: 0 auto 0;
+    height: 64px;
+}
+
+.surveys-submit {
+    width: 101px;
+    height: 30px;
+    margin: 0.5em auto 0.1em;
+    padding-top: 0.6em;
+    padding-bottom: 0.1em;  /* :active shift compensator */
+    text-align: center;
+    background-image: url(/skin/b/surveys/submit-button.png);
+    background-position: 0 -111px;
+    font-size: 92%;
+    color: #888;
+    text-shadow: 1px 1px 2px silver;
+}
+
+.surveys-submit.enabled {
+    background-position: 0 0px;
+    color: #3E4B3E;
+    cursor: pointer;
+}
+
+.surveys-submit.enabled:hover {
+    background-position: 0 -37px;
+}
+
+.surveys-submit.enabled:active {
+    padding-top: 0.7em;
+    padding-bottom: 0;
+    background-position: 0 -74px;
+}
+
+.surveys-action {
+    position: relative;
+    right: 0;
+    margin-top: -34px;
+    max-width: 33%;
+    overflow: hidden;
+    text-align: right;
+    height: 2.5em;
+    margin-left: auto;
+}
+
+.action-dismiss {
+    border-bottom: 1px dashed rgb(85, 123, 204);
+    color: rgb(85, 123, 204);
+    font-size: 10pt;
+    cursor: pointer;
+}
+
+.action-dismiss:hover {
+    border-bottom-color: rgb(25, 71, 255);
+    color: rgb(25, 71, 255);
+}
+
+.surveys-whatsthis,
+.surveys-optout {
+    color: #a7a7a7;
+    font-size: 80%;
+    display: inline-block;
+}
+
+.surveys-whatsthis {
+    float: right;
+    top: 4px;
+    position: relative;
+}
+
+.pseudo-link {
+    border-bottom: 1px dashed silver;
+    cursor: pointer;
+}
+
+.pseudo-link:hover {
+    border-bottom: 1px dashed silver;
+    color: #5d5d5d;
+}
+
+
+
+/* From jquery.ui.slider.css */
+.ui-slider { position: relative; text-align: left; }
+.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 1.2em; height: 1.2em; cursor: default; }
+.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: .7em; display: block; border: 0; background-position: 0 0; }
+
+.ui-slider-horizontal { height: .8em; }
+.ui-slider-horizontal .ui-slider-handle { top: -.3em; margin-left: -.6em; }
+.ui-slider-horizontal .ui-slider-range { top: 0; height: 100%; }
+.ui-slider-horizontal .ui-slider-range-min { left: 0; }
+.ui-slider-horizontal .ui-slider-range-max { right: 0; }
+
+/* overriding styles of Jquery UI components */
+.ui-widget-content,
+.ui-state-default,
+.ui-widget-content .ui-state-default {
+    background-image: none;
+    border: none;
+    background-color: transparent;
+}
+
+
+#slider .ui-slider-handle {
+    width: 26px;
+    height: 29px;
+    background-image: url(/skin/b/surveys/slider-handle.png);
+    background-repeat: no-repeat;
+    top: -11px;
+    margin-left: -13px;
+}
+
+#slider .ui-slider-handle.ui-state-focus {
+    border: none;
+    outline: none;
+}
+
+.surveys-slider-bounds {
+    position: relative;
+}
+
+.surveys-slider-right-bound,
+.surveys-slider-left-bound {
+    position: absolute;
+    top: -1.9em;
+    font-size: 80%;
+    color: gray;
+}
+
+.surveys-slider-left-bound {
+    left: 4px;
+}
+
+.surveys-slider-right-bound {
+    right: 4px;
+}
+
+/* Tab Final */
+
+.thank-you-text {
+    text-align: center;
+}
+
+/* Bottom Section -- */
+
+.close-button-secondary {
+    width: 11px;
+    height: 11px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    background-image: url(/skin/b/surveys/close-button-secondary.png);
+    background-position: 0 0;
+    cursor: pointer;
+}
+
+.close-button-secondary:hover {
+    background-position: 0 -12px;
+}
+
+/* -- tab OptOut */
+
+#btab-optout {
+    display: none;
+}
+
+.text-optout-confirm {
+    display: inline-block;
+    max-width: 210px;
+    float: left;
+
+}
+
+.optout-buttons {
+    display: inline-block;
+}
+
+.button-yes,
+.button-no {
+    border: 1px solid silver;
+    display: inline-block;
+    padding: 0.3em 1em;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.47);
+}
+
+.button-yes:hover,
+.button-no:hover {
+    background-image: -webkit-linear-gradient(top, #e5fad1 0%, #b2e186 39%, #83bc4a 83%, #83BC4A);
+}
+
+.button-yes {
+    margin-right: 1em;
+    background-color: silver;
+    color: #787f8c;
+    border-color: #b5bcca;
+    background-image: -webkit-linear-gradient(top, #edf1f8 0%, #e7ebf5 6%, #d9dee9 48%, #b3b9c7);
+    box-shadow: 0px 1px 1px #787f8c;
+}
+
+.button-no {
+    border-color: #84bf42;
+    background-image: -webkit-linear-gradient(top, #ade279 0%, #67a62b);
+}
+
+
+#btab-whatsthis {
+    display: none;
+    padding-top: 0.5em;
+}
+
+#btab-whatsthis a,
+#btab-whatsthis a:visited,
+#btab-whatsthis a:link {
+    color: #4848F1;
+}
+
+/* Override some styles of rating slider */
+.surveys-answer .wot-rating {
+    position: relative;
+    height: 60px;
+    width: 186px;
+    -webkit-user-select: none;
+    margin: 0 auto;
+    top: 0;
+}
+
+.surveys-answer .wot-rating-bounds {
+    opacity: 0;
+    display: none;
+    -webkit-transition: opacity 1.5s;
+}
+
+.surveys-answer .wot-rating-help {
+    -webkit-transition: opacity 2.5s linear 0.1s;
+}
+
+#ratings-area:not([disabled=disabled]) .wot-rating:hover .wot-rating-data[r=r0] .wot-rating-help,
+#ratings-area:not([disabled=disabled]) .wot-rating.hover .wot-rating-data[r=r0] .wot-rating-help {
+    display: block;
+}

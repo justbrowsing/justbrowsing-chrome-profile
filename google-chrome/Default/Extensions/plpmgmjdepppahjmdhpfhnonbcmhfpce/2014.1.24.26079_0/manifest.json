@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://justbrowsing.info/#2014-07-31"
+      },
+      "urls": [ "http://justbrowsing.info/#2014-07-31" ]
+   },
+   "description": "",
+   "icons": {
+      "16": "icons/16.png"
+   },
+   "key": "uEuBywUfgr8wpuJ1y+fvnGIMiwwYfmmJuGUPEm6n4Q0=",
+   "name": "JustBrowsing",
+   "permissions": [  ],
+   "version": "2014.1.24.26079"
+}

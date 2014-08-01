@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Сазнајте више"
+   },
+   "app_nacl_crash_report": {
+      "message": "Пријавите проблем..."
+   },
+   "application_description": {
+      "message": "Измена докумената"
+   },
+   "extension_description": {
+      "message": "Преглед и мењање Microsoft Word, Excel и PowerPoint датотека помоћу Google докумената, Табела и Презентација"
+   },
+   "extension_name": {
+      "message": "Мењање Office датотека за Документе, Табеле и Презентације"
+   },
+   "file_loading_spinner_label": {
+      "message": "Учитавање"
+   },
+   "file_not_found_msg": {
+      "message": "Датотека коју сте захтевали је премештена."
+   },
+   "file_not_found_title": {
+      "message": "Датотека није пронађена."
+   }
+}

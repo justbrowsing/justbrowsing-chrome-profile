@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "자세히 알아보기"
+   },
+   "app_nacl_crash_report": {
+      "message": "문제 신고..."
+   },
+   "application_description": {
+      "message": "문서 수정"
+   },
+   "extension_description": {
+      "message": "Google 문서, 스프레드시트, 프레젠테이션에서 Microsoft Word, Excel, PowerPoint 파일을 확인하고 수정하세요."
+   },
+   "extension_name": {
+      "message": "문서, 스프레드시트, 프레젠테이션용 Office 수정"
+   },
+   "file_loading_spinner_label": {
+      "message": "로드 중"
+   },
+   "file_not_found_msg": {
+      "message": "요청하신 파일이 잘못되었습니다."
+   },
+   "file_not_found_title": {
+      "message": "파일을 찾을 수 없습니다."
+   }
+}

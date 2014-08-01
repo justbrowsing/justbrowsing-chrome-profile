@@ -3,13 +3,13 @@
       "message": "Cancelar"
    },
    "connectbutton": {
-      "message": "Conecta tu dispositivo m\u00F3vil"
+      "message": "Conecta tu dispositivo móvil"
    },
    "disconnect": {
       "message": "Desvincular"
    },
    "error": {
-      "message": "No se ha podido enviar esta p\u00E1gina a tu $1. $2",
+      "message": "No se ha podido enviar esta página a tu $1. $2",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -20,10 +20,10 @@
       }
    },
    "errorgeneratingsnapshot": {
-      "message": "Se ha producido un error al generar la captura de p\u00E1gina."
+      "message": "Se ha producido un error al generar la captura de página."
    },
    "errorretrieving": {
-      "message": "No se ha podido establecer conexi\u00F3n con tus dispositivos m\u00F3viles. $1",
+      "message": "No se ha podido establecer conexión con tus dispositivos móviles. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -31,10 +31,10 @@
       }
    },
    "extensiondescription": {
-      "message": "Env\u00EDa p\u00E1ginas web desde Chrome en tu ordenador al navegador Chrome de tu tel\u00E9fono o tablet."
+      "message": "Envía páginas web desde Chrome en tu ordenador al navegador Chrome de tu teléfono o tablet."
    },
    "extensionname": {
-      "message": "De Chrome al m\u00F3vil"
+      "message": "De Chrome al móvil"
    },
    "help": {
       "message": "Ayuda"
@@ -43,10 +43,10 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "includesnapshotmessage": {
-      "message": "Enviar tambi\u00E9n una copia para verla sin conexi\u00F3n (generando...)"
+      "message": "Enviar también una copia para verla sin conexión (generando...)"
    },
    "includesnapshotmessagewithsize": {
-      "message": "Enviar tambi\u00E9n una copia para verla sin conexi\u00F3n ($1)",
+      "message": "Enviar también una copia para verla sin conexión ($1)",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -54,13 +54,13 @@
       }
    },
    "learnmore": {
-      "message": "M\u00E1s informaci\u00F3n"
+      "message": "Más información"
    },
    "learnmoreurl": {
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "nomobiledevicesfound": {
-      "message": "No se han encontrado dispositivos. Conecta un dispositivo m\u00F3vil. $1",
+      "message": "No se han encontrado dispositivos. Conecta un dispositivo móvil. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -92,7 +92,7 @@
       }
    },
    "searchingfordevices": {
-      "message": "Buscando dispositivos m\u00F3viles"
+      "message": "Buscando dispositivos móviles"
    },
    "sendbutton": {
       "message": "Enviar"
@@ -101,7 +101,7 @@
       "message": "Enviando"
    },
    "sendthispageto": {
-      "message": "Enviar esta p\u00E1gina a $1",
+      "message": "Enviar esta página a $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -109,18 +109,18 @@
       }
    },
    "sendthispagetolist": {
-      "message": "Enviar esta p\u00E1gina a:"
+      "message": "Enviar esta página a:"
    },
    "sent": {
       "message": "Enviado"
    },
    "snapshotdisabledmessage": {
-      "message": "Esta versi\u00F3n de Chrome no admite capturas de p\u00E1ginas. Las capturas de p\u00E1ginas permiten navegar por una p\u00E1gina sin conexi\u00F3n. Aseg\u00FArate de utilizar la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Eversi\u00F3n del canal para desarrolladores\u003C/a\u003E para habilitar las capturas de p\u00E1ginas."
+      "message": "Esta versión de Chrome no admite capturas de páginas. Las capturas de páginas permiten navegar por una página sin conexión. Asegúrate de utilizar la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'>versión del canal para desarrolladores\u003C/a> para habilitar las capturas de páginas."
    },
    "tryagain": {
       "message": "Intentar de nuevo"
    },
    "welcomemessage": {
-      "message": "Env\u00EDa p\u00E1ginas web a tu tel\u00E9fono o a tu tablet."
+      "message": "Envía páginas web a tu teléfono o a tu tablet."
    }
 }

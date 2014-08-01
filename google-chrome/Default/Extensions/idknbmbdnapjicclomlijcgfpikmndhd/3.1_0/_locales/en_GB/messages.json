@@ -115,7 +115,7 @@
       "message": "Sent!"
    },
    "snapshotdisabledmessage": {
-      "message": "This version of Chrome does not support snapshots. Snapshots are offline browsable versions of a page. Make sure that you use the \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Edev channel version\u003C/a\u003E to enable snapshots."
+      "message": "This version of Chrome does not support snapshots. Snapshots are offline browsable versions of a page. Make sure that you use the \u003Ca href='javascript:void()' onclick='openDevChannelTab()'>dev channel version\u003C/a> to enable snapshots."
    },
    "tryagain": {
       "message": "Try again."

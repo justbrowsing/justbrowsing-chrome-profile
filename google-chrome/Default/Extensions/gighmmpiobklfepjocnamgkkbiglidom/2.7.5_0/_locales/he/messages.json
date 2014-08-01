@@ -1,0 +1,1154 @@
+{
+   "adalreadyblocked": {
+      "description": "on the ad report page, telling a user there is nothing to do",
+      "message": "אתה לא צריך לעשות כלום כי הפרסומת כבר חסומה :)"
+   },
+   "adblock_auto_removes_ads_thats_all": {
+      "description": "Install page: explaining how to use adblock.",
+      "message": "AdBlock חוסם פרסומת אוטומטי. זה כל העניין."
+   },
+   "adblock_click_for_details": {
+      "description": "Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button.  Do not translate the beginning 'AdBlock - ' part.",
+      "message": "AdBlock - לחץ לפרטים"
+   },
+   "adblock_is_paused": {
+      "description": "resourceblocking page string",
+      "message": "AdBlock מושבת :(\nבטל את ההשבתה"
+   },
+   "adblock_outdated_chrome": {
+      "description": "Ad report page instructions to update AdBlock in Chrome. The link will point to 'chrome://chrome/extensions/'",
+      "message": "אתה משתמש בגרסה ישנה של AdBlock. עבור בבקשה לפה \u003Ca href='#'>the extensions page\u003C/a>, אפשר 'מצב מפתח' ולחץ על 'עדכן הרחבה כעת'"
+   },
+   "adblock_wont_run_on_pages_matching": {
+      "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
+      "message": "AdBlock לא יופעל על דפי התאמה:"
+   },
+   "adblockinglist": {
+      "description": "List for subscribed ad blocking fiters",
+      "message": "רשימות חסימה של AdBlock"
+   },
+   "adblockreportinganad": {
+      "description": "title of ad report page",
+      "message": "AdBlock - דווח על פרסומת"
+   },
+   "addthisfilter": {
+      "description": "resourceblocking page string",
+      "message": "הוסף רשימה זאת"
+   },
+   "adreport2": {
+      "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
+      "message": "אז מצאת פרסומת ?\nאתה יכול לדווח לנו ואנו נדאג לחסום אותה \nזכור הדיווח הוא בהתנדבות \nאתה יכול גם לחסום אותה בעצמך בהגדרות בקטגוריה התאמה אישית\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "adstillappear": {
+      "description": "question on ad reporting page",
+      "message": "הפרסומת עדין מופיעה ?"
+   },
+   "anysite": {
+      "description": "resourceblocking page string",
+      "message": "בכל אתר"
+   },
+   "appliedwhenbrowsing": {
+      "description": "resourceblocking page string",
+      "message": "הוספת רשימה זאת בהצלחה ! :)\nזכור ! אל תוסיף יותר רשימות ממה שאתה צריך כמה שפחות יותר טוב כל רשימה מאיטה קצת את הדפדפן ולכן תירשם רק למה שאתה צריך"
+   },
+   "betalabel": {
+      "description": "Option on first tab page",
+      "message": "בבדיקה"
+   },
+   "blacklistclickmessage": {
+      "description": "Message at the top of the blacklist options tab",
+      "message": "לחיצה ימנית בשביל לחסום -- או חסום את זה כאן באופן ידני."
+   },
+   "blacklisterblockedelement": {
+      "description": "Tells the user what the blocked element is on the slider page",
+      "message": "אלמנטים חסומים:"
+   },
+   "blacklisterblocksalloftype": {
+      "description": "Warns the user that all elements of type X will be blocked",
+      "message": "תיזהר ! חסימת אלמנט זה חוסמת את כל האלמנטים $elementtype$ באתר ! \nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה",
+      "placeholders": {
+         "elementtype": {
+            "content": "$1",
+            "example": "DIV"
+         }
+      }
+   },
+   "blacklistereditfilter": {
+      "description": "Text if the user wants to manually edit a filter.  'OK' is the standard javascript popup button text.",
+      "message": "תרשום בבקשה רשימה נכונה ולחץ על אישור"
+   },
+   "blacklistereditinvalid1": {
+      "description": "Messagebox if the manually edited filter is invalid. Error messages are not translated.",
+      "message": "הרשימה לא נכונה: $exception$ / יש בעיה ברשימה",
+      "placeholders": {
+         "exception": {
+            "content": "$1",
+            "example": "This filter is not supported"
+         }
+      }
+   },
+   "blacklistermatches": {
+      "description": "Tells the user multiple matches were found",
+      "message": "נמצאו מספר אלמנטים בעמוד $matchcount$",
+      "placeholders": {
+         "matchcount": {
+            "content": "$1",
+            "example": "5"
+         }
+      }
+   },
+   "blacklisternofilter": {
+      "description": "Warning if the user hasn't specified a filter",
+      "message": "לא צוין חוק ספציפי!"
+   },
+   "blacklisternotsure": {
+      "description": "Blacklister attribute choosing page message.  'Block it!' must be the same as the text of the 'buttonblockit' message.",
+      "message": "\u003Cb>Not sure?\u003C/b> פשוט לחץ 'חסום את זה!' למטה."
+   },
+   "blacklisteroptions1": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "מה אתה חושב יהיה נכון לגבי הפרסומת הזאת בכל פעם שתבקר באתר זה ?"
+   },
+   "blacklisteroptionstitle": {
+      "description": "Blacklister options page title",
+      "message": "שלב אחרון: מה הופך את זה לפרסומת?"
+   },
+   "blacklistersinglematch": {
+      "description": "Tells the user only one match was found",
+      "message": "נמצא אלמנט \u003Cb>1\u003C/b> בעמוד."
+   },
+   "blacklisterthefilter": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "החוק יכול להיות משונה בעמוד ההגדרות"
+   },
+   "blacklistertype": {
+      "description": "node name is called 'Type'",
+      "message": "כתוב"
+   },
+   "blacklisterwarningnofilter": {
+      "description": "Warns the user that no filter was specified",
+      "message": "אזהרה! לא צוין חוק ספציפי"
+   },
+   "block_an_ad_on_this_page": {
+      "description": "Toolbar button menu entry and context menu entry",
+      "message": "חסום פרסומת בעמוד זה\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "block_by_url_instead": {
+      "description": "Link on blacklister slider page",
+      "message": "מתקדם: חסום על ידי קישור\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "block_this_ad": {
+      "description": "Context and popup menu entry",
+      "message": "חסום פרסומת זאת"
+   },
+   "blockanadtitle": {
+      "description": "Title of the first two dialogs of the blacklister",
+      "message": "חסום פרסומת בעזרת העוזר"
+   },
+   "blockdomain": {
+      "description": "Message of the url and css -blocking area",
+      "message": "קישור לאישור"
+   },
+   "blocked_ads": {
+      "description": "Title for popup menu section showing number of ads blocked.",
+      "message": "פרסומות חסומות:"
+   },
+   "blocked_n_in_total": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked since AdBlock was installed. $count$ will be a number between 1 and 999,999,999.",
+      "message": "$count$ בסך הכל",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123,456\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blocked_n_on_this_page": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked on this page. $count$ will be a number between 1 and 999.",
+      "message": "$count$ בעמוד זה",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blockeverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "חסום כל אלמנט שמכיל:\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "blockmoreads": {
+      "description": "Section header on third tab",
+      "message": "חסום עוד פרסומות:\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "blockurlwithtext": {
+      "description": "Message of the url-blocking area",
+      "message": "חסום קישור"
+   },
+   "buttonback": {
+      "description": "Back to previous wizard page button",
+      "message": "אחורה"
+   },
+   "buttonblockit": {
+      "description": "Block button",
+      "message": "חסום את זה!"
+   },
+   "buttoncancel": {
+      "description": "Cancel button",
+      "message": "ביטול"
+   },
+   "buttonedit": {
+      "description": "Edit filter manually button",
+      "message": "ערוך"
+   },
+   "buttonexclude": {
+      "description": "Button for excluding a domain in the whitelister dialog",
+      "message": "תכלול"
+   },
+   "buttonlooksgood": {
+      "description": "Looks good button",
+      "message": "נראה טוב"
+   },
+   "buttonok": {
+      "description": "OK button",
+      "message": "אישור !"
+   },
+   "cantblockflash": {
+      "description": "Result of the final ad report question",
+      "message": "עדין איי אפשר לחסום מודעות מסוג זה אנחנו מחכים ל WebKit בדפדפן ואז נוכל לחסום\nכשיהיה אפשרי המודעה הזאת תיחסם זה הכל ענין של זמן\nזכור כל יום אנחנו עובדים קשה בשביל לשפר את AdBlock!"
+   },
+   "cantblockflashwarning": {
+      "description": "Text of the final ad report question",
+      "message": "הפרסומת מופיעה לפני הסרטון / לפני המשחק ?"
+   },
+   "casesensitive": {
+      "description": "resourceblocking page string",
+      "message": "חוק זה רגיש:"
+   },
+   "changelabel": {
+      "description": "link to change resources on the resourceblock page",
+      "message": "שנה"
+   },
+   "checkinfirefox_1": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "התקן Firefox $chrome$, אם אין לך.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome2'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_2": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad. Don't translate the name 'AdBlock Plus'.",
+      "message": "התקן Adblock Plus ל Firefox $chrome$, אם אין לך.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='adblockforchrome'>\u003C/span>",
+            "example": "'or AdBlock for Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_3": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "הדפדפן רשום לאותה רשימה שיש לך כאן חוץ מרשימות בהתאמה אישית ב FireFox"
+   },
+   "checkinfirefox_4": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "טען את העמוד עם הפרסומת"
+   },
+   "checkinfirefox_5": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "הפרסומת מופיעה גם פה ?"
+   },
+   "chromebutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "message": "בשביל להסתייר את הכפתור לחץ על הכפתור עם קליק ימני ובחר הסתר את הכפתור.\nאפשר להסתיר כם על ידי כניסה להגדרות ההרחבה תחת chrome://chrome/extensions"
+   },
+   "clickthead": {
+      "description": "When you have to click the ad to continue",
+      "message": "לחץ על הפרסומת ואני אדריך אותך איך לחסום אותה\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "clickupdatefilters": {
+      "description": "instruction on ad report page",
+      "message": "לחץ על \u003Ca>update my filters!\u003C/a>"
+   },
+   "close": {
+      "description": "resourceblocking page string",
+      "message": "סגור"
+   },
+   "close_tab_begin_browsing": {
+      "description": "Install page string",
+      "message": "אתה יכול לסגור את הכרטיסה הזאת ולהתחיל לגלוש חופשי בלי פרסומות תהנה !"
+   },
+   "confirm_undo_custom_filters": {
+      "description": "Confirmation message when user wants to undo their custom blocks for a domain. $count$ will be a number between 1 and 999,999,999, $host$ will be the domain where the custom blocks will be reset",
+      "message": "? אתה בטוח שאתה רוצה להסיר את $count$ שיצרת ב $host$?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "The number of custom blocks for a domain."
+         },
+         "host": {
+            "content": "$2",
+            "example": "code.google.ph, ph.msn.com, stackoverflow.com"
+         }
+      }
+   },
+   "correctfilters": {
+      "description": "on the ad report page, label describing having the right set of filters",
+      "message": "לתקן רשימות"
+   },
+   "csstomatch": {
+      "description": "Message of the css-hiding area",
+      "message": "יותר מדי CSS"
+   },
+   "customfilters": {
+      "description": "List for custom filters the user subscribed to",
+      "message": "רשימות מותאמות אישית"
+   },
+   "custompattern": {
+      "description": "Label in front of the 'custom block pattern' textbox in resourceblock, after clicking a resource",
+      "message": "מותאם אישית:"
+   },
+   "debuginlogoption": {
+      "description": "Option on first tab page",
+      "message": "הראה Show debug statements in Console Log יכול לגרום להאטה לא מומלץ לסמן ב V"
+   },
+   "description2": {
+      "description": "Extension description in manifest",
+      "message": "ההרחבה הכי פופולרית לכרום מעל 15 מליון משתמשים חסום פרסומות בכל מקום באינטרנט"
+   },
+   "disableallextensions": {
+      "description": "instruction on ad report page",
+      "message": "השבת את כל ההרחבות חוץ מ AdBlock"
+   },
+   "disabled_by_filter_lists": {
+      "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
+      "message": "מצטערים AdBlock מושבת באתר זה בגלל אחת הרשימות שלך"
+   },
+   "disabled_on_this_page": {
+      "description": "Message shown in toolbar button on web pages that have been whitelisted.",
+      "message": "AdBlock מושבת בעמוד זה"
+   },
+   "disableforchromeandsafaristeptwo": {
+      "description": "Step 2 for disabling chrome and safari extensions",
+      "message": "השבת את כל ההרחבות חוץ מ AdBlock"
+   },
+   "disableforchromestepone": {
+      "description": "Step 1 for disabling chrome extensions",
+      "message": "פתח את \u003Ca href='#'>the extensions page\u003C/a>"
+   },
+   "disableforopera": {
+      "description": "Opera instructions",
+      "message": "עבור Opera"
+   },
+   "disableforoperainstructions": {
+      "description": "shows user how to disable all their extensions in Opera.",
+      "message": "לחץ על כפתור התפריט לאחר מכן לך להרחבות והשבת של את ההרחבות חוץ מ AdBlock"
+   },
+   "disableforsafaristepone": {
+      "description": "Step 1 for disabling safari extensions",
+      "message": "לחץ על תפריט הדפדפן &rarr; Preferences &rarr; הרחבות."
+   },
+   "doesntmatchoriginal": {
+      "description": "resourceblocking page string",
+      "message": "מה שעשית אולי לא טוב ויכול להיות מסוכן! להמשיך בכל זאת ? \nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "dont_run_on_pages_on_domain": {
+      "description": "Menu entry to open the whitelist wizard.",
+      "message": "אל תפעיל עמודים באתר זה"
+   },
+   "dont_run_on_this_page": {
+      "description": "Menu entry to whitelist a page",
+      "message": "אל תפעיל בעמוד זה"
+   },
+   "excludedomainorurl": {
+      "description": "Message of the exclude area",
+      "message": "AdBlock לא אמור לחסום פה כלום"
+   },
+   "excludefilterremoved": {
+      "description": "Warning when a page exclusion rule was removed in resourceblock.html",
+      "message": "הרשימה נמחקה בבקשה טען את העמוד מחדש"
+   },
+   "failedtofetchfilter": {
+      "description": "Error messagebox",
+      "message": "שגיאה בהורדת הרשימה / ברשימה"
+   },
+   "fetchinglabel": {
+      "description": "Status label",
+      "message": "בבקשה המתן"
+   },
+   "filteradblock_custom": {
+      "description": "A filter list. Don't translate 'AdBlock'",
+      "message": "AdBlock רשימות מותאמות אישית (מומלץ)"
+   },
+   "filterannoyances": {
+      "description": "Name of the filter list",
+      "message": "Fanboy's Annoyances (חוסם מטרדים ברחבי האינטרנט)"
+   },
+   "filterantisocial": {
+      "description": "Name of the filter list",
+      "message": "אנטי חברתי (מחיקת כפתורי רשתות חברתיות)"
+   },
+   "filterchinese": {
+      "description": "language",
+      "message": "סין"
+   },
+   "filterczech": {
+      "description": "Language names for a filter list",
+      "message": "צ'כיה וסלובקיה"
+   },
+   "filterdanish": {
+      "description": "language",
+      "message": "דנמרק"
+   },
+   "filterdutch": {
+      "description": "language",
+      "message": "הולנד"
+   },
+   "filtereasylist": {
+      "description": "A filter list. Don't translate 'EasyList'",
+      "message": "EasyList (מומלץ)"
+   },
+   "filtereasylist_plun_korean": {
+      "description": "language",
+      "message": "קוריאה"
+   },
+   "filtereasylist_plus_bulgarian": {
+      "description": "language",
+      "message": "בולגריה"
+   },
+   "filtereasylist_plus_finnish": {
+      "description": "language",
+      "message": "פינלנד"
+   },
+   "filtereasylist_plus_french": {
+      "description": "language",
+      "message": "צרפת"
+   },
+   "filtereasylist_plus_german": {
+      "description": "language",
+      "message": "גרמניה"
+   },
+   "filtereasylist_plus_greek": {
+      "description": "language",
+      "message": "Greek"
+   },
+   "filtereasylist_plus_indonesian": {
+      "description": "A filter list.",
+      "message": "אינדונזיה"
+   },
+   "filtereasylist_plus_polish": {
+      "description": "language",
+      "message": "פולין"
+   },
+   "filtereasylist_plus_romanian": {
+      "description": "language",
+      "message": "רומניה"
+   },
+   "filtereasylist_plus_spanish": {
+      "description": "language",
+      "message": "ספרד"
+   },
+   "filtereasyprivacy": {
+      "description": "A filter list. Don't translate the name 'EasyPrivacy'.",
+      "message": "EasyPrivacy (הגנת על הפרטיות)"
+   },
+   "filterhasbeenadded": {
+      "description": "resourceblocking page string (the 'slash n' is a line break)",
+      "message": "הרשימה נוספה בהצלחה\nטען את העמוד מחדש וראה את התוצאות"
+   },
+   "filterhungarian": {
+      "description": "language",
+      "message": "הונגריה"
+   },
+   "filterisraeli": {
+      "description": "language",
+      "message": "עברית"
+   },
+   "filteritalian": {
+      "description": "language",
+      "message": "איטליה"
+   },
+   "filterjapanese": {
+      "description": "language",
+      "message": "יפן"
+   },
+   "filterlatvian": {
+      "description": "A filter list.",
+      "message": "לטביה"
+   },
+   "filterlistlink": {
+      "description": "Explanation of the filter lists",
+      "message": "אל תירשם ליותר רשימות ממה שאתה באמת צריך, כמה שפחות יותר טוב בגלל שכל רשימה מאיטה קצת את הדפדפן עוד רשימות אפשר למצוא \u003Ca>here\u003C/a>."
+   },
+   "filterlistsrock": {
+      "description": "Header text on the Customize tab.  'Filter lists' should be the same text as the tabfilterlists message.",
+      "message": "הרשימות חוסמת את רוב הפרסומות אבל אתה יכול בנוסף:"
+   },
+   "filtermalware": {
+      "description": "A filter list.",
+      "message": "הגנה מפני ווירוסים"
+   },
+   "filternorwegian": {
+      "description": "A filter list.",
+      "message": "נורבגיה"
+   },
+   "filterrussian": {
+      "description": "Language names for a filter list",
+      "message": "רוסיה ואוקריאנה"
+   },
+   "filtersavewarning": {
+      "description": "Warning when blacklisting manually",
+      "message": "תיזהר! אם אתה עושה טעות כאן אתה יכול להרוס את הרשימה הרשמית \u003Cbr/>קרא את \u003Ca>המדריך לרשימות\u003C/a>\nעדיף לדווח לנו על המודעה ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "filterstabtitle": {
+      "description": "Title of the filter list tab",
+      "message": "הירשם לרשימה"
+   },
+   "filterswedish": {
+      "description": "A filter list.",
+      "message": "שבדיה"
+   },
+   "filterturkish": {
+      "description": "A filter list.",
+      "message": "טורקיה"
+   },
+   "findingads": {
+      "description": "When you press ctrl-shift-K the blacklister searches for ads",
+      "message": "מוצא פרסומות \u003Cbr/>\u003Cbr/>\u003Ci>זה יקח כמה רגעים.\u003C/i>"
+   },
+   "firefox_explanation": {
+      "description": "Explanation of the Check-in-Firefox step in the ad reporter",
+      "message": "מטרה של השאלה הזאת היא לקבוע מי אמור לקבל את הדוח אם תענה על שאלה זאת לא נכונה האיש הלא נכון יקבל את הדוח"
+   },
+   "fixityourself": {
+      "description": "telling a user who won't report an ad to us how to handle it for herself",
+      "message": "טוב אתה עדין יכול לחסום את הפרסומת לעצמך באפשרויות - התאמה אישית"
+   },
+   "flashads": {
+      "description": "Title of the final ad report question if the ad didn't appear in FF",
+      "message": "ווידאו ופלאש"
+   },
+   "format_site1_site2_site3": {
+      "description": "Example showing users how to input a list of sites on the Customize tab. You can translate the 'news' and 'siteN' but leave the '|'s and '~'s in place.",
+      "message": "Format: ~site1.com|~site2.com|~news.site3.org"
+   },
+   "generaloptions": {
+      "description": "Title of first tab page",
+      "message": "הגדרות כלליות"
+   },
+   "headerfilter": {
+      "description": "resourceblocking page string",
+      "message": "מוסיף רשימה"
+   },
+   "headerresource": {
+      "description": "resourceblocking page string",
+      "message": "אלמנט"
+   },
+   "headertype": {
+      "description": "resourceblocking page string",
+      "message": "כתוב"
+   },
+   "hide_this_button": {
+      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "message": "הסתר כפתור זה"
+   },
+   "how_to_use_adblock": {
+      "description": "Install page section title",
+      "message": "איך להשתמש ב AdBlock:"
+   },
+   "invalidListUrl": {
+      "description": "Message when you subscribe to a non-list URL",
+      "message": "קישור שגוי זה הולך להימחק..."
+   },
+   "lang_czech": {
+      "description": "language",
+      "message": "צ'כיה"
+   },
+   "lang_english": {
+      "description": "language",
+      "message": "אנגלית"
+   },
+   "lang_russian": {
+      "description": "language",
+      "message": "רוסיה"
+   },
+   "lang_slovak": {
+      "description": "language",
+      "message": "סלובקיה"
+   },
+   "lang_ukranian": {
+      "description": "language",
+      "message": "אוקראינה"
+   },
+   "languagedropdowndescription": {
+      "description": "Dropdown list for language specific filters",
+      "message": "הוסף רשימות לשפות אחרות:"
+   },
+   "linkblockadbyurl": {
+      "description": "Link on the third tab",
+      "message": "חסום פרסומת על ידי הקישור שלה"
+   },
+   "linkhidesection": {
+      "description": "Link on the third tab",
+      "message": "הסתר חלק בעמוד"
+   },
+   "linkunblock": {
+      "description": "Link on the third tab",
+      "message": "הראה פרסומות בעמוד או באתר"
+   },
+   "loading": {
+      "description": "resourceblocking page string",
+      "message": "טוען... אנא המתן..."
+   },
+   "manualfilteredit": {
+      "description": "Subtitle on the third tab",
+      "message": "שנה באופן ידני את הרשימות"
+   },
+   "modifydomain": {
+      "description": "Caption for the whitelist wizard slider that modifies the domain part of a URL",
+      "message": "אתר:"
+   },
+   "modifypath": {
+      "description": "Caption for the whitelist wizard slider that modifies the path part of a URL",
+      "message": "עמוד:"
+   },
+   "multipledomainshint": {
+      "description": "resourceblocking page string",
+      "message": "הפרידו שמות מתחם מרובים בעזרת פסיקים/רווח"
+   },
+   "nextstep": {
+      "description": "resourceblocking page string",
+      "message": "צעד הבא"
+   },
+   "no": {
+      "description": "A negative response to a question",
+      "message": "לא"
+   },
+   "nodefaultfilter1": {
+      "description": "instructions on ad report page pointing users to EasyList subscriptions list. 'Customize' should be the same message as 'tabcustomize'.",
+      "message": "אין לנו רשימה מעודפת לשפה זו.\u003Cbr/>בבקשה נסה למצוא רשימה שתומכת בשפה זו $link$ או חסום את הפרסומות הזאת בעצמך בעמוד ההתאמה האישית.",
+      "placeholders": {
+         "link": {
+            "content": "\u003Ca id='link'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "noresourcessend2": {
+      "description": "resourceblocking page string",
+      "message": "משהו לא בסדר נסה לטעון מחדש"
+   },
+   "nosearchresults": {
+      "description": "Text in resourceblock shown if no results are found after searching",
+      "message": "לא נמצאו אלמנטים"
+   },
+   "novalidurlpattern": {
+      "description": "resourceblocking page string",
+      "message": "בבקשה הכנס קישור תקין"
+   },
+   "only_block_ads_on_these_sites": {
+      "description": "Label for textbox where user enters a list of sites on Customize tab",
+      "message": "חסום פרסומות רק באתרים הבאים:"
+   },
+   "onlyondomains": {
+      "description": "resourceblocking page string",
+      "message": "רק עמודים באתר זה:"
+   },
+   "onlyresourcetypes": {
+      "description": "resourceblocking page string",
+      "message": "מסנן זה חל על משאבים מסוגים אלה:"
+   },
+   "opera_120_install": {
+      "description": "Opera \u003C 12.10 warning during installation",
+      "message": "בגרסות של דפדפן Opera לפני 12.10 חלק מפרסומות לא יחסמו זה בלתי אפשרי ממגבלות של הדפדפן. זה תוקן בכל הגרסאות אחרי 12.10."
+   },
+   "opera_120_options": {
+      "description": "Opera \u003C 12.10 warning above options page",
+      "message": "בגרסות של דפדפן Opera לפני 12.10 חלק מפרסומות לא יחסמו זה בלתי אפשרי ממגבלות של הדפדפן. זה תוקן בכל הגרסאות אחרי 12.10."
+   },
+   "opera_allow_secure": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "אם אתה רוצה להשתמש ב AdBlock בעמודים מאובטחים אתה צריך קודם לאשר את האפשרות על ידי לחיצה על האיקון בסרגל הכתובות"
+   },
+   "opera_can_also_change_setting": {
+      "description": "Message when the storage quota is reached, for advanced users in Opera",
+      "message": "באפשרותך גם להגדיל את הערך של $setting$",
+      "placeholders": {
+         "setting": {
+            "content": "$1",
+            "example": "opera:config#PersistentStorage|DomainQuotaForWidgetPreferences"
+         }
+      }
+   },
+   "opera_donations_button": {
+      "description": "Opera donate request in the button",
+      "message": "אם אתה אוהב את AdBlock אתה יכול לתרום לנו דרך עמוד האפשרויות"
+   },
+   "opera_donations_install": {
+      "description": "Opera donate request in the install page",
+      "message": "אם אתה אוהב את AdBlock אתה יכול לתרום לנו דרך עמוד האפשרויות"
+   },
+   "opera_enabledin": {
+      "description": "Hover text of items disabled in an older browser version",
+      "message": "אפשר ב $browserversion$",
+      "placeholders": {
+         "browserversion": {
+            "content": "$1",
+            "example": "Opera 12.10"
+         }
+      }
+   },
+   "opera_excludedomainorurl": {
+      "description": "Opera version of the 'excludedomainorurl' string",
+      "message": "האתר ש AdBlock לא אמור לחסום דבר"
+   },
+   "opera_for_more_options": {
+      "description": "Install page string telling where to find the preferences in Opera. &rArr; makes a right arrow (->)",
+      "message": "בשביל עוד הגדרות אתה יכול ללחוץ על הכפתור ב toolbar"
+   },
+   "opera_linkunblock": {
+      "description": "Opera version of the 'linkunblock' string",
+      "message": "הראה מודעות באתר:"
+   },
+   "opera_reenable_button": {
+      "description": "Opera browser button message when you click 'hide this button'",
+      "message": "אתה יכול להפעיל מחדש את הכפתור בהעדפות של ההרחבה"
+   },
+   "opera_secure_pages": {
+      "description": "Title of an area in the ad report page in Opera. Only visible if the opener tab was a secure url (https)",
+      "message": "מקורות העמוד"
+   },
+   "opera_secure_pages_enabled": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "לך לעמוד ההרחבות דרך התפריט חפש את AdBlock וסמן ב V \"אפשר במצב גלישה פרטית\""
+   },
+   "opera_show_toolbar_button": {
+      "description": "Opera option to show/hide the button",
+      "message": "הראה את הכפתור toolbar"
+   },
+   "options": {
+      "description": "The text of the link on chrome://chrome/extensions that gets you to the Options page for an extension",
+      "message": "אפשריות"
+   },
+   "optionstitle": {
+      "description": "Title for the options page",
+      "message": "אפשריות AdBlock"
+   },
+   "optionsversion": {
+      "description": "Version number",
+      "message": "גרסה $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.9"
+         }
+      }
+   },
+   "orenteraurl": {
+      "description": "link for custom subscription",
+      "message": "או הכנס קישור:"
+   },
+   "other": {
+      "description": "multiple choice option",
+      "message": "אחר"
+   },
+   "otherfilters": {
+      "description": "List for other filters the user subscribed to",
+      "message": "רשימות אחרות"
+   },
+   "pagelanguagecheck": {
+      "description": "question on ad report page",
+      "message": "באיזה שפה העמוד הזה כתוב ?"
+   },
+   "pause_adblock": {
+      "description": "Menu entry to pause AdBlock.",
+      "message": "השבת את AdBlock"
+   },
+   "performscan": {
+      "description": "instruction on ad report page",
+      "message": "בצע סריקה מלאה של אנטי וירוס למחשבך, חלק מהווירוסים מחדירים פרסומות ש\"עוקפות\" את AdBlock."
+   },
+   "project_home": {
+      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "message": "עמוד הבית של הפרויקט (האתר שלנו)"
+   },
+   "reenableadsonebyone": {
+      "description": "tells the user to reenable the extensions one by one.",
+      "message": "עכשיו שהפרסומות נעלמו, צריך לבדוק איזה הרחבה גורמת לבעיה.\nלך לעמוד ההרחבות והשבת את כל ההרחבות ובדוק מי ההרחבה הבעייתית ומחק אותה.\n"
+   },
+   "refusetocheck": {
+      "description": "user is telling us they don't wish to investigate something for us",
+      "message": "אני לא רוצה לבדוק את זה"
+   },
+   "reloadadpage": {
+      "description": "instruction on ad report page",
+      "message": "טען את העמוד עם הפרסומת"
+   },
+   "removefromlist": {
+      "description": "Label to remove a custom filter",
+      "message": "מחק מהרשימה"
+   },
+   "removelabel": {
+      "description": "link to remove a filter",
+      "message": "מחק"
+   },
+   "report_ad_on_page": {
+      "description": "Link in the button",
+      "message": "דווח על פרסומת בעמוד זה"
+   },
+   "reportfilterlistproblem": {
+      "description": "telling the user to report an ad to a filter list maintainer",
+      "message": "יש בעיה ברשימה דווח כאן $link$",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "EXAMPLE 1: \u003Ca href='mailto:someguy@list.com'>John Doe\u003C/a>  EXAMPLE 2: \u003Ca href='http://easylist.org'>EasyList forums\u003C/a>"
+         }
+      }
+   },
+   "reportpubliclyavailable": {
+      "description": "Ad report page string, when you're about to submit a report",
+      "message": "שים לב ! הדיווח שלך עלול להיות ציבורי אל תכלול דברים פרטים"
+   },
+   "reporttous2": {
+      "description": "NOTE: non-English translations should replace the first sentence and instead say 'If you can speak English, you can report the ad to us \u003Ca>in the issue tracker\u003C/a>.'",
+      "message": "אתה יכול לדווח לנו על הפרסומת \u003Ca>in the issue tracker\u003C/a>."
+   },
+   "resourceblocklegend1": {
+      "description": "resourceblocking page string",
+      "message": "כתובת"
+   },
+   "resourceblocklegend2": {
+      "description": "resourceblocking page string",
+      "message": "חסום אלמנטים"
+   },
+   "resourceblocklegend3": {
+      "description": "resourceblocking page string",
+      "message": "הרשה אלמנטים"
+   },
+   "resourceblocklegend4": {
+      "description": "resourceblocking page string",
+      "message": "חסום אלמנטים"
+   },
+   "resourceblocklegend5": {
+      "description": "resourceblocking page string",
+      "message": "הסתר חוקים מיושמים"
+   },
+   "resourceblocktitle": {
+      "description": "resourceblocking page string",
+      "message": "חסום אלמנט"
+   },
+   "resourcedomain": {
+      "description": "Text shown when hovering over an item in the third-party column",
+      "message": "טעון עמוד עם קישור\n$domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "resourceiswhitelisted": {
+      "description": "resourceblocking page string",
+      "message": "האלמנט נבחר כ\"מותר\" ולכן אתה לא יכול לחסום אותו."
+   },
+   "retryaftersubscribe": {
+      "description": "instructions on ad report page telling users to subscribe to a filter list and then check again to see whether the ad exists",
+      "message": "הירשם לרשימה ונסה שוב $list_title$",
+      "placeholders": {
+         "list_title": {
+            "content": "$1",
+            "example": "French filters"
+         }
+      }
+   },
+   "safari50_updatenotice": {
+      "description": "A message shown to Safari 5.0 users urging them to upgrade",
+      "message": "אתה משתמש בגרסה ישנה של Safari. הורד את הגרסה החדשה בכדי להשתמש ב AdBlock.  \u003Ca>Upgrade now\u003C/a>."
+   },
+   "sameAdsOnDifferentPages": {
+      "description": "A question on the ad report page, asking if the user sees similar ads on different websites.",
+      "message": "אתה רואה פרסומות דומות/זהות באתרים שונים ?"
+   },
+   "savebutton": {
+      "description": "Save button",
+      "message": "שמור !"
+   },
+   "savereminder": {
+      "description": "Reminder to press save",
+      "message": "אל תשכח לשמור !"
+   },
+   "scancomputer": {
+      "description": "instruction on ad report page",
+      "message": "סרוק את מחשבך בעזרת אנטי וירוס"
+   },
+   "searchexplanation": {
+      "description": "Text in resourceblock when you hover your mouse over the search textbox",
+      "message": "השתמש ב * כדי להתאים אפס או יותר אותיות.  לדוגמה, '' banner*.gif תואם את התמונות'banner.gif' 'banner123.gif', 'bannerxyz.gif'."
+   },
+   "searchplaceholder": {
+      "description": "Text in resourceblock shown in the search textbox before you type something",
+      "message": "מחפש אלמנט..."
+   },
+   "selectlanguage": {
+      "description": "Text for the first option in Langage Dropdown for Filter Lists tab in options.  Include the ' -- ' on either side of your translation.",
+      "message": "  -- בחר שפה -- \n"
+   },
+   "selectresources": {
+      "description": "resourceblocking page string",
+      "message": "בחר את המשאב שברצונך לחסום או לבטל את החסימה"
+   },
+   "show_ads_except_for": {
+      "description": "Section title for blacklisting section of Customize tab",
+      "message": "הראה פרסומות \u003Ci>everywhere\u003C/i> חוץ מהאתרים..."
+   },
+   "show_on_adblock_button": {
+      "description": "Label for checkbox letting user choose whether the toolbar button should show a badge with the number of ads blocked",
+      "message": "הראה את כפתור AdBlock"
+   },
+   "show_resourcelist": {
+      "description": "Link in the button",
+      "message": "הראה את מקורות הרשימה"
+   },
+   "similarAds": {
+      "description": "On the ad report page, see 'Do you see the same or similar...' / 'sameAdsOnDifferentPages'",
+      "message": "פרסומות דומות/זהות בכל עמוד"
+   },
+   "sliderexplanation": {
+      "description": "Blacklister slider page message",
+      "message": "הזז עד שהפרסומת נחסמה והאתר נראה בסדר\nעדיף לדווח לנו על הפרסומת ואנו נדאג לחסום אותה אם אתה לא יודע מה אתה עושה ואתה עושה טעות זה יכול להרוס את הרשימה"
+   },
+   "slidertitle": {
+      "description": "Blacklister slider page title",
+      "message": "צעד 1: להבין מה לחסום"
+   },
+   "spread_the_word": {
+      "description": "Text of a share link",
+      "message": "עזור להפיץ את השמועה!"
+   },
+   "status_disabled": {
+      "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
+      "message": "AdBlock לא יכול להיות מופעל על אתר זה"
+   },
+   "status_paused": {
+      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "message": "AdBlock מושבת. :("
+   },
+   "stop_blocking_ads": {
+      "description": "Section header on third tab",
+      "message": "הפסק לחסום מודעות"
+   },
+   "storage_quota_exceeded": {
+      "description": "Message shown when the user uses more storage than allowed by the browser",
+      "message": "עברת את המקסימום רשימות ש AdBlock יכול להשתמש. בבקשה בטל את הרשמתך למספר רשימות."
+   },
+   "subscribebutton": {
+      "description": "subscribe to a list button",
+      "message": "הרשמה"
+   },
+   "subscribingfailed": {
+      "description": "abp: link subscriber result",
+      "message": "נכשל ! :("
+   },
+   "subscribingfinished": {
+      "description": "abp: link subscriber result",
+      "message": "הסתיים!"
+   },
+   "subscribingtitle": {
+      "description": "abp: link subscriber title",
+      "message": "נרשמת לרשימה בהצלחה..."
+   },
+   "tabcustomize": {
+      "description": "A tab on the options page",
+      "message": "מותאם אישית"
+   },
+   "tabcustomizetitle": {
+      "description": "Title of the third tab",
+      "message": "התאמה אישית של AdBlock - ממולץ רק לאנשים מנוסים"
+   },
+   "tabfilterlists": {
+      "description": "A tab on the options page",
+      "message": "רשימות"
+   },
+   "tabgeneral": {
+      "description": "A tab on the options page",
+      "message": "כללי"
+   },
+   "thats_it": {
+      "description": "Install page string",
+      "message": "זה הכל !"
+   },
+   "thirdparty": {
+      "description": "Resource list column title telling if the resource originates from a different domain",
+      "message": "צד שלישי"
+   },
+   "thirdpartycheckbox": {
+      "description": "resourceblocking page string",
+      "message": "כל אתר חוץ מ $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "translator_credit": {
+      "description": "Will be followed by a list of translator names (separate string)",
+      "message": "קרדיט לתרגום:"
+   },
+   "translator_names": {
+      "example": "The translator's names go here. Example: Michael G, Drew R",
+      "message": "BsT"
+   },
+   "typehiding": {
+      "description": "A resource type",
+      "message": "להסתיר"
+   },
+   "typeimage": {
+      "description": "A resource type",
+      "message": "תמונה"
+   },
+   "typemedia": {
+      "description": "A resource type",
+      "message": "שמע / ווידאו"
+   },
+   "typeobject": {
+      "description": "A resource type",
+      "message": "אלמנט אינטראקטיבי"
+   },
+   "typeother": {
+      "description": "A resource type",
+      "message": "אחרים"
+   },
+   "typepage": {
+      "description": "A resource type",
+      "message": "עמוד"
+   },
+   "typepopup": {
+      "description": "A resource type",
+      "message": "פופאפ קופץ"
+   },
+   "typescript": {
+      "description": "A resource type",
+      "message": "סקריפט"
+   },
+   "typestylesheet": {
+      "description": "A resource type",
+      "message": "הגדרת סגנון"
+   },
+   "typesubdocument": {
+      "description": "A resource type",
+      "message": "מסגרת"
+   },
+   "typeunknown": {
+      "description": "A resource type",
+      "message": "לא ידוע"
+   },
+   "undo_last_block": {
+      "description": "Menu entry to let the user cancel the result of running the blacklist wizard.",
+      "message": "לבטל את החוסם על שם מתחם זה"
+   },
+   "unsubscribedlabel": {
+      "description": "Status label",
+      "message": "ביטלת את הרשמתך מרשימה זו"
+   },
+   "updateddayago": {
+      "description": "Label for subscription",
+      "message": "עודכן אתמול"
+   },
+   "updateddaysago": {
+      "description": "Label for subscription",
+      "message": "עודכן $days$ לפני ימים",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedhourago": {
+      "description": "Label for subscription",
+      "message": "עודכן לפני שעה"
+   },
+   "updatedhoursago": {
+      "description": "Label for subscription",
+      "message": "עודכן$hours$ לפני שעות",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedminuteago": {
+      "description": "Label for subscription",
+      "message": "עודכן לפני דקה"
+   },
+   "updatedminutesago": {
+      "description": "Label for subscription",
+      "message": "עודכן $minutes$ לפני דקות",
+      "placeholders": {
+         "minutes": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedrightnow": {
+      "description": "Label for subscription",
+      "message": "עודכן ממש עכשיו :)"
+   },
+   "updatedsecondsago": {
+      "description": "Label for subscription",
+      "message": "עודכן $seconds$ לפני שניות",
+      "placeholders": {
+         "seconds": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updateyourlists": {
+      "description": "instruction on ad report page",
+      "message": "בדוק שהרשימות שלך מעודכנות"
+   },
+   "warning_overrules_filters": {
+      "description": "Message on the third tab of the options page, explaining the danger of adding a blacklisting filter",
+      "message": "אזהרה! בכל שאר האתרים אתה תראה פרסומות!"
+   },
+   "whats_this": {
+      "description": "Text of a link pointing to the explanation of a new feature",
+      "message": "מה זה ?"
+   },
+   "whitelistertitle2": {
+      "description": "The title of the whitelister dialog",
+      "message": "אל תפעיל את AdBlock ב..."
+   },
+   "whitelisteverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "רשימה לבנה"
+   },
+   "wildcardhint": {
+      "description": "resourceblocking page string",
+      "message": "ניתן להשתמש בתווים כללים פה"
+   },
+   "work_around_hulu_problems": {
+      "description": "Advanced Options page checkbox, which users only need to use if Hulu.com videos break.  It directs the user to restart their browser in order for changes to the checkbox to take effect",
+      "message": "עבודה בסביבת Hulu.com שהווידאו לא מתנגן (דורש הפעלה מחדש של הדפדפן)"
+   },
+   "yes": {
+      "description": "A positive response to a question",
+      "message": "כן"
+   },
+   "you_can_slide_to_change": {
+      "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
+      "message": "אתה יכול לבחור איפה AdBlock ירוץ"
+   },
+   "you_know_thats_a_bad_idea_right": {
+      "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
+      "message": "יותר מדי רשימות מאיטות את הדפדפן ואפילו יכולות להקריס את הדפדפן !\nאל תירשם ליותר רשימות ממה שאתה באמת צריך\nלחץ אישור אם אתה בכל זאת רוצה להירשם לרשימה זאת"
+   }
+}

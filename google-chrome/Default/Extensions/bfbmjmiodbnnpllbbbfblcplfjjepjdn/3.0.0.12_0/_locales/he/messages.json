@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "אודות",
+      "message": "אודות"
+   },
+   "addbutton": {
+      "description": "להוסיף",
+      "message": "הוסף"
+   },
+   "advancedoptions": {
+      "description": "אפשרויות מתקדמות",
+      "message": "אפשרויות מתקדמות"
+   },
+   "basicsettings": {
+      "description": "יסודות",
+      "message": "יסודות"
+   },
+   "bottom": {
+      "description": "התחתון",
+      "message": "תחתון"
+   },
+   "changelog": {
+      "description": "רשימת שינויים בקישור",
+      "message": "לוג שינויים"
+   },
+   "deletebutton": {
+      "description": "מחק",
+      "message": "מחק"
+   },
+   "des1checkmotion": {
+      "description": "Make sure your room is not dark and that it have enough light.",
+      "message": "Make sure your room is not dark and that it have enough light."
+   },
+   "des2checkmotion": {
+      "description": "Your camera must not receive direct sunlight.",
+      "message": "Your camera must not receive direct sunlight."
+   },
+   "des3checkmotion": {
+      "description": "You use a front facing camera.",
+      "message": "You use a front facing camera."
+   },
+   "desaddvideobutton": {
+      "description": "הצג לחצן הוסף וידאו YouTube הזה.",
+      "message": "הראה את לחצן ההוספה מסרטון ה-YouTube הזה"
+   },
+   "desalllightsoff": {
+      "description": "לחיצה על לחצן המנורה יהיה למתג את האורות על כל הכרטיסיות הפתוחות כאשר אפשרות זו מופעלת.",
+      "message": "לחיצה על לחצן המנורה יהיה למתג את האורות על כל הכרטיסיות הפתוחות כאשר אפשרות זו מופעלת."
+   },
+   "desambilight": {
+      "description": ". אראה לך את השפעת תאורת אווירה משחק הווידאו הנוכחי.",
+      "message": ". אראה לך את השפעת תאורת אווירה משחק הווידאו הנוכחי."
+   },
+   "desambilight4color": {
+      "description": "4 צבעים סקין סביב הווידאו:",
+      "message": "4 צבעים נבחרים מסביב לווידאו:"
+   },
+   "desambilightfixcolor": {
+      "description": "צבע אחיד:",
+      "message": "צבע אחיד:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "אם ערך נמוך הצל יהיו חדים, ככל שהמספר גבוה יותר, שמימין יותר זה יהיה.",
+      "message": "כלל שהערך שבחרת יהיה נמוך יותר,כך הצל יהיה חד יותר, וככל שהערך שבחרת יהיה גבוהה יותר, כך הצל יהיה מעומעם יותר."
+   },
+   "desambilightrangespreadradius": {
+      "description": "ערכים חיוביים מגדילים את גודל הצל, ערכים שליליים להקטין את הגודל.",
+      "message": "ערכים חיוביים מגדילים את גודל הצל, ערכים שליליים מקטינים אותו."
+   },
+   "desambilightvarcolor": {
+      "description": "קח את הצבע של הווידאו.",
+      "message": "קח את הצבע מהסרט."
+   },
+   "desapitext": {
+      "description": "Wiki API for Website Developer",
+      "message": "Wiki API for Website Developer"
+   },
+   "desatmosphereonly": {
+      "description": "להשתמש בתכונה תאורת אווירה רק וידאו באתר הבא:",
+      "message": "להשתמש בתכונה תאורת אווירה רק וידאו באתר הבא:"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "עמום ברקע באופן אוטומטי כאשר תלחץ על כפתור play, לעומת.",
+      "message": "עמעם את הרקע באופן אוטומטי כאשר לוחצים על לחצן הניגון, ולהפך."
+   },
+   "desautoplaydelay": {
+      "description": "Brighten again the background when the video ended after",
+      "message": "Brighten again the background when the video ended after"
+   },
+   "desautoplaydelayend": {
+      "description": "seconds",
+      "message": "seconds"
+   },
+   "desautoplayonly": {
+      "description": "עמעם רק את האתר הסרטונים הבאים:",
+      "message": "עמעום רק באתרי הסרטים הבאים:"
+   },
+   "desbrowserextension": {
+      "description": "browser extension",
+      "message": "browser extension"
+   },
+   "desbrowsersupport": {
+      "description": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer.",
+      "message": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer."
+   },
+   "desbrowsertheme": {
+      "description": "browser theme",
+      "message": "browser theme"
+   },
+   "descammotiononly": {
+      "description": "Activate the Camera Motion only on the following site(s):",
+      "message": "Activate the Camera Motion only on the following site(s):"
+   },
+   "desconfirmpassword": {
+      "description": "אשר את הסיסמה",
+      "message": "אישור סיסמה"
+   },
+   "desconfirmtime": {
+      "description": "לאשר את מועד",
+      "message": "לאשר את מועד"
+   },
+   "desconfirmtimesaver": {
+      "description": "לאשר את זמן שומר מסך",
+      "message": "אישור זמן שומר המסך"
+   },
+   "descontextmenus": {
+      "description": "הצג את תפריט ההקשר כדי למקד את פריט.",
+      "message": "הצג תפריט כדי להתמקד על פריט."
+   },
+   "description": {
+      "description": "הדף כולו נמוגה אל אפל, כך שתוכל לצפות הוידאו כאילו היית בקולנוע.",
+      "message": "העמוד כולו יעומעם לאפלה, כדי שתוכלו לצפות בסרטון כאילו הייתם בקולנוע."
+   },
+   "desdynamicblocks": {
+      "description": "רחובות",
+      "message": "בלוקים"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "אקווריום",
+      "message": "אקווריום"
+   },
+   "desdynamicraindrops": {
+      "description": "טיפות גשם",
+      "message": "טיפות גשם"
+   },
+   "desdynamicspace": {
+      "description": "מרחב היקום",
+      "message": "מרחב היקום"
+   },
+   "deseastereggs": {
+      "description": "בונוס של הרחבה זו.",
+      "message": "בונוס בהרחבה זו."
+   },
+   "desenterpassword": {
+      "description": "הזן את הסיסמה בתיבה שלהלן:",
+      "message": "הזן את הסיסמה בתיבה שלהלן:"
+   },
+   "deseyea": {
+      "description": "עמום ברקע באופן אוטומטי בעת פתיחת דף.",
+      "message": "עמעם את הרקע אוטומטית כאשר נפתח דף"
+   },
+   "deseyealist": {
+      "description": "לעמעם את הרקע באופן אוטומטי בעת פתיחת הדף הבא:",
+      "message": "לעמעם את הרקע באופן אוטומטי בעת פתיחת הדף הבא:"
+   },
+   "deseyen": {
+      "description": "בשימוש רגיל (כשההצגה תתחיל בעת לחיצה על סמל המנורה).",
+      "message": "שימוש רגיל (האורות כבים כאשר לוחצים על סמל הנורה)"
+   },
+   "deseyetimesaver": {
+      "description": "כאשר דף אינו פעיל (קלט ללא עכבר או לוח מקשים) בפעם המפורט להלן, הדף באופן אוטומטי יחשיך.",
+      "message": "כאשר דף אינו פעיל (קלט ללא עכבר או לוח מקשים) בפעם המפורט להלן, הדף באופן אוטומטי יחשיך."
+   },
+   "desfadein": {
+      "description": "הצג העמעום בתוקף.",
+      "message": "הראה את אפקט העמעום"
+   },
+   "desfadeout": {
+      "description": "הצג עמעום אפקט.",
+      "message": "הצג את אפקט הדהייה"
+   },
+   "desflash": {
+      "description": "הצג את כל אובייקטי Flash.",
+      "message": "הצג את כל אובייקטי הפלאש בעמוד"
+   },
+   "deshardflash": {
+      "description": "הצג את כל אובייקטי Flash, דילוג על המסנן ' כתובת URL '. זה יהיה לתקן את בעיות עם כמה נגני וידאו שיהיו מוסתרות, אך גם תציג מודעות.",
+      "message": "הצג את כל אובייקטי Flash, דילוג על המסנן ' כתובת URL '. זה יהיה לתקן את בעיות עם כמה נגני וידאו שיהיו מוסתרות, אך גם תציג מודעות."
+   },
+   "deshead": {
+      "description": "הצג סרגל ערוץ YouTube או השם.",
+      "message": "הצג את סרגל הערוצים או השם באתר יוטיוב"
+   },
+   "desinfobar": {
+      "description": "הצג את תיאור מידע על הסרטון.",
+      "message": "הצג את תאור הסרטון"
+   },
+   "deslikebar": {
+      "description": "הצג כמו/סלידה בר תחת קטעי וידאו.",
+      "message": "הצגת סרגל ה-אהבתי/לא אהבתי מתחת לסרטוני YouTube."
+   },
+   "deslikebutton": {
+      "description": "להראות כמו & אוהב את הכפתורים של YouTube עבור וידאו זה.",
+      "message": "הצג את סרגל ה'לייק' / 'דיסלייק' בסרטון הזה"
+   },
+   "desmotion": {
+      "description": "Camera Motion",
+      "message": "Enable the Camera Motion so that the web page could darkens with a hand sweep down."
+   },
+   "desmotionChecklist": {
+      "description": "Checklist:",
+      "message": "Checklist:"
+   },
+   "desmousespotlighta": {
+      "description": "אם הנורית כבויה, הצג זרקור סביב סמן העכבר.",
+      "message": "אם האורות כבויים, להציג זרקור סביב סמן העכבר."
+   },
+   "desmousespotlightc": {
+      "description": "אם הנורית כבויה, באפשרותך לבחור אזור למקד את פריט.",
+      "message": "אם האור כבוי, ניתן לבחור אזור להתמקדות על פריט."
+   },
+   "desmousespotlighto": {
+      "description": "בשימוש רגיל (מבטל את הגדרות העכבר למטה)",
+      "message": "שימוש רגיל (מנטרל את הגדרות העכבר למטה)"
+   },
+   "desmousespotlightt": {
+      "description": "מאפשר לחץ דרך המסך הכהה כאשר האורות כבויים.",
+      "message": "מאפשר לכם ללחוץ מבעד למסך המוחשך כאשר האורות כבויים."
+   },
+   "desnightenabletheme": {
+      "description": "כאשר אתה פותח דף חדש זה הולך אוטומטית מצב לילה.",
+      "message": "כאשר אתה פותח דף חדש זה הולך אוטומטית מצב לילה."
+   },
+   "desnightonly": {
+      "description": "הצג מצב לילה רק את האתר הבא:",
+      "message": "הצג מצב לילה רק את האתר הבא:"
+   },
+   "desnighttheme": {
+      "description": "הצג לחצן בורר בלילה מתחת לדף האינטרנט כדי להפוך את העמוד כהים או בהירים.",
+      "message": "הצג לחצן בורר בלילה מתחת לדף האינטרנט כדי להפוך את העמוד כהים או בהירים."
+   },
+   "desnoflash": {
+      "description": "לא להשתמש בתכונה זו.",
+      "message": "לא להשתמש בתכונה זו."
+   },
+   "despassword": {
+      "description": "דרוש סיסמה כדי להזין לפני הפעלת את האורות בחזרה.",
+      "message": "דרוש סיסמה כדי להזין לפני הפעלת את האורות בחזרה."
+   },
+   "desplaylist": {
+      "description": "הצג את רשימת ההשמעה YouTube באתר YouTube.",
+      "message": "הצג את רשימת ההשמעה של יוטיוב באתר יוטיוב"
+   },
+   "desproject": {
+      "description": "project",
+      "message": "project"
+   },
+   "desreadera": {
+      "description": "הצג תמיד הבר רמת העמימות כאשר האורות כבים.",
+      "message": "הצג תמיד את סרגל העמימות כאשר האורות כבים."
+   },
+   "desreadern": {
+      "description": "אף פעם לא מראים הבר רמת העמימות.",
+      "message": "לעולם אל תציג את סרגל העמימות."
+   },
+   "desrememberpage": {
+      "description": "אם אפשרות זו מופעלת, זה יראה לך לא זכור הדף.",
+      "message": "אם אפשרות זו מופעלת, זה יראה לך לא זכור הדף."
+   },
+   "dessaver": {
+      "description": "שומר מסך:",
+      "message": "שומר מסך:"
+   },
+   "dessharebutton": {
+      "description": "הצג את הלחצנים נתח של YouTube עבור וידאו זה.",
+      "message": "הצג את לחצן השיתוף של יוטיוב עבור הסרטון הזה"
+   },
+   "desshortcutlight": {
+      "description": "הפעל את קיצורי המקשים שלהלן.",
+      "message": "אפשור מקשי קיצור מקלדת שלהלן."
+   },
+   "desspeech": {
+      "description": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:",
+      "message": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "play video",
+      "message": "play video"
+   },
+   "desspeech4command": {
+      "description": "pause video",
+      "message": "pause video"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "Activate the Speech Recognition only the following site(s):",
+      "message": "Activate the Speech Recognition only the following site(s):"
+   },
+   "desspotlightradius": {
+      "description": "זה הקוטר של המנורה חיפוש.",
+      "message": "זה הקוטר של המנורה חיפוש."
+   },
+   "dessuggestions": {
+      "description": "הצג את ההצעות של אתר YouTube.",
+      "message": "הצג הצעות מאתר YouTube."
+   },
+   "destime": {
+      "description": "האורות בזמנים הבאים:",
+      "message": "האורות בזמנים הבאים:"
+   },
+   "destrymotion": {
+      "description": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc.",
+      "message": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc."
+   },
+   "desuntil": {
+      "description": "עד",
+      "message": "עד ש"
+   },
+   "desvideoheadline": {
+      "description": ". תראה, להפוך את הצבע של הכותרת וידאו.",
+      "message": "הצג והפוך את צבע כותרת הסרטון"
+   },
+   "desviewcount": {
+      "description": "הצג את מספר תצוגה עבור וידאו זה.",
+      "message": "הצג את מספר התצוגה עבור וידאו זה."
+   },
+   "donatepromotext": {
+      "description": "אם ניתן לבצע תרומה של כל סכום, אני אעריך את זה מאוד!",
+      "message": "אם תוכלו לתרום, סכום כלשהו, אעריך זאת מאד!"
+   },
+   "eastereggsquestion": {
+      "description": "אתה אוהב קולנוע אמיתי?",
+      "message": "אתה אוהב קולנוע אמיתי?"
+   },
+   "enjoyshare": {
+      "description": "ליהנות הרחבה זו ולשתף אותו עם אחרים, מי אתה חושב יעריך את זה.",
+      "message": "ליהנות הרחבה זו ולשתף אותו עם אחרים, מי אתה חושב יעריך את זה."
+   },
+   "eyedivoff": {
+      "description": ".",
+      "message": "."
+   },
+   "eyedivon": {
+      "description": "אן",
+      "message": "אן"
+   },
+   "friendlyremember": {
+      "description": "ידידותי זוכר...",
+      "message": "ידידותי זוכר..."
+   },
+   "guide": {
+      "description": ". ברוך הבא TOtL מדריך",
+      "message": ". ברוך הבא TOtL מדריך"
+   },
+   "help": {
+      "description": "עזרה",
+      "message": "עזרה"
+   },
+   "helpautoplay": {
+      "description": "'עין הגנה' מופעלת. להשתמש מתחת תכונה, בטל את האפשרות 'עין הגנה'.",
+      "message": "'עין הגנה' מופעלת. להשתמש מתחת תכונה, בטל את האפשרות 'עין הגנה'."
+   },
+   "helpeyeprotection": {
+      "description": "הפעלת 'הגנה העין' מבטלות באופן אוטומטי את התכונה 'הפעלה אוטומטית'.",
+      "message": "הפעלת 'הגנה העין' מבטלות באופן אוטומטי את התכונה 'הפעלה אוטומטית'."
+   },
+   "hoveroptionapply": {
+      "description": "החל",
+      "message": "החל"
+   },
+   "hoveroptiondyn5": {
+      "description": "עם מטוסים",
+      "message": "עם מטוסים"
+   },
+   "howworkmotion": {
+      "description": "How does it work?",
+      "message": "How does it work?"
+   },
+   "installadblocker": {
+      "description": "השתמש בסיומת Adblocker.",
+      "message": "שימוש עם הרחבת חוסם פרסומות."
+   },
+   "lastchecked": {
+      "description": "הגירסה העדכנית ביותר להסתודד",
+      "message": "נבדק לאחרונה על גירסה"
+   },
+   "left": {
+      "description": "שמאל",
+      "message": "שמאל"
+   },
+   "lockentername": {
+      "description": "אנא הכניסו את הסיסמה שלך",
+      "message": "אנא הכנס את סיסמתך."
+   },
+   "lockwrongpassword": {
+      "description": "הלא נכון סיסמה, אנא נסה שנית.",
+      "message": "טעות בסיסמא, אנא הכנס שנית."
+   },
+   "longdonatetext": {
+      "description": ". אני באמת אעריך אם תוכל לתרום לי לשמור על ההרחבה לדפדפן זו בחיים עבור משתמשים חדשים אחרים. בין אם זה $$ 1 או $100 דולר, מוערכת לאין שיעור התמיכה שלך!",
+      "message": ". אני באמת אעריך אם תוכל לתרום לי לשמור על ההרחבה לדפדפן זו בחיים עבור משתמשים חדשים אחרים. בין אם זה $$ 1 או $100 דולר, מוערכת לאין שיעור התמיכה שלך!"
+   },
+   "motionoptions": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "name": {
+      "description": "לכבות את האורות",
+      "message": "לכבות את האורות"
+   },
+   "nightoptions": {
+      "description": "מצב לילה",
+      "message": "מצב לילה"
+   },
+   "optionecosaversaved": {
+      "description": "שניות נשמר בהצלחה!",
+      "message": "שניות נשמר בהצלחה!"
+   },
+   "optionpagetitle": {
+      "description": "כותרת הדף באפשרות",
+      "message": "Turn Off the Lights - אפשרויות"
+   },
+   "optionpasswordsaved": {
+      "description": "הסיסמה נשמר בהצלחה!",
+      "message": "הסיסמה נשמרה בהצלחה!"
+   },
+   "optiontimesaved": {
+      "description": "זמן נשמר בהצלחה!",
+      "message": "הזמן נשמר בהצלחה!"
+   },
+   "optionwrongimg": {
+      "description": "קובץ התמונה לא חוקי!",
+      "message": "קובץ התמונה לא חוקי!"
+   },
+   "pageatitle": {
+      "description": "לכבות את האורות",
+      "message": "לכבות את האורות"
+   },
+   "pagehelp": {
+      "description": "עזרה",
+      "message": "עזרה"
+   },
+   "pagestillloading": {
+      "description": "הדף עדיין עולה?",
+      "message": "הדף עדיין עולה?"
+   },
+   "pagetitle": {
+      "description": "דארקן בדף זה",
+      "message": "הכהה את הדף הנוכחי"
+   },
+   "productshare": {
+      "description": "שיתוף",
+      "message": "שתף"
+   },
+   "ratedes": {
+      "description": "And let everyone know about this great extension!",
+      "message": "And let everyone know about this great extension!"
+   },
+   "rateitema": {
+      "description": "Rate 5 stars",
+      "message": "Rate 5 stars"
+   },
+   "ratetitle": {
+      "description": "Please rate & review my extension",
+      "message": "Please rate & review my extension"
+   },
+   "recflash": {
+      "description": "מומלץ",
+      "message": "מומלץ"
+   },
+   "rememberrate": {
+      "description": "קצב",
+      "message": "קצב"
+   },
+   "reportbug": {
+      "description": "לדווח על בעיה המתעוררת",
+      "message": "דווח על בעיה"
+   },
+   "reportlist": {
+      "description": "לראות את הרשימה המלאה בנושא",
+      "message": "(ראה רשימה)"
+   },
+   "resetbrowserextension": {
+      "description": "Reset the Turn Off the Lights settings",
+      "message": "Reset the Turn Off the Lights settings"
+   },
+   "right": {
+      "description": "נכון",
+      "message": "ימין"
+   },
+   "settings": {
+      "description": "הגדרות",
+      "message": "הגדרות"
+   },
+   "shortcutalllights": {
+      "description": "כדי להחליף את האורות/ביטול של כל הכרטיסיות הפתוחות.",
+      "message": "כדי להחליף בין אורות דלוקים/כבויים בכל הלשוניות הפתוחות."
+   },
+   "shortcutbright": {
+      "description": "כדי להאיר את המסך (ירידה אטימות).",
+      "message": "כדי להאיר את המסך (ירידה אטימות)."
+   },
+   "shortcutdark": {
+      "description": "כדי להכהות את המסך (עלייה אטימות).",
+      "message": "כדי להכהות את המסך (עלייה אטימות)."
+   },
+   "shortcuteyeprotection": {
+      "description": "כדי להפעיל/להשבית תכונת הגנה העין.",
+      "message": "כדי להפעיל/להשבית תכונת הגנה העין."
+   },
+   "shortcutopacity": {
+      "description": "כדי לשחזר החושך set (אטימות) הגדרת.",
+      "message": "כדי לשחזר החושך set (אטימות) הגדרת."
+   },
+   "shortcutsavingopacity": {
+      "description": "כדי לשמור את ערך אטימות",
+      "message": "כדי לשמור את ערך אטימות"
+   },
+   "shortcuttotl": {
+      "description": "כדי להחליף את האורות/ביטול.",
+      "message": "כדי להחליף את האורות/ביטול."
+   },
+   "showremember": {
+      "description": ". לא תראה בדף זה זכור שוב כאשר אני פותח את הדף באפשרות",
+      "message": ". לא תראה בדף זה זכור שוב כאשר אני פותח את הדף באפשרות"
+   },
+   "skipremember": {
+      "description": "לדלג על זה, לפתוח עכשיו את הדף באפשרות",
+      "message": "לדלג על זה, לפתוח עכשיו את הדף באפשרות"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Speech Recognition"
+   },
+   "step1description": {
+      "description": "Enable the Camera Motion feature",
+      "message": "Enable the Camera Motion feature"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Then the black layer slide automatically down.",
+      "message": "Then the black layer slide automatically down."
+   },
+   "textfoot": {
+      "description": "תוכנה זו הוא בעל רישיון CC-GNU GPL. כדי להציג עותק של רישיון זה, בקר",
+      "message": "התוכנה הזו פועלת תחת רשיון - CC-GNU GPL . בכדי לראות את עותק הרשיון , אנא בקרו ב"
+   },
+   "titeladdvideobutton": {
+      "description": "הוספת לחצן",
+      "message": "לחצן ההוספה"
+   },
+   "titelalllightsoff": {
+      "description": "כל הכרטיסיות הפתוחות",
+      "message": "כל הכרטיסיות הפתוחות"
+   },
+   "titelambilight": {
+      "description": "תאורת אווירה",
+      "message": "תאורת אווירה"
+   },
+   "titelapideveloper": {
+      "description": "API Developer",
+      "message": "API Developer"
+   },
+   "titelautoplay": {
+      "description": "הפעלה אוטומטית",
+      "message": "ניגון אוטומטי"
+   },
+   "titelautoplayblacklist": {
+      "description": "Blacklist",
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Whitelist",
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "description": "להגדיר באופן אוטומטי את השחקן YouTube לגודל גדול יותר.",
+      "message": "להגדיר באופן אוטומטי את השחקן YouTube לגודל גדול יותר."
+   },
+   "titelblur": {
+      "description": "לטשטש את השאר",
+      "message": "לטשטש את השאר"
+   },
+   "titelblurradius": {
+      "description": "רדיוס טשטוש",
+      "message": "רדיוס העמעום"
+   },
+   "titelcamera": {
+      "description": "Camera",
+      "message": "Camera"
+   },
+   "titelcinemaontop": {
+      "description": "מצב סרט קולנוע: זה להראות את השכבה 'מאיר את' רק בראש החלון.",
+      "message": "מצב סרט קולנוע: מציג את שכבת ה-'כיבוי אורות' רק בחלק העליון של החלון."
+   },
+   "titelcolor": {
+      "description": "צבע",
+      "message": "צבע"
+   },
+   "titelcolora": {
+      "description": "Color A",
+      "message": "Color A"
+   },
+   "titelcolorb": {
+      "description": "Color B",
+      "message": "Color B"
+   },
+   "titelcontextmenus": {
+      "description": "תפריט תלוי-הקשר",
+      "message": "תפריט הקשר"
+   },
+   "titeldeveloper": {
+      "description": "Developer",
+      "message": "Developer"
+   },
+   "titeldownloadbutton": {
+      "description": "להוריד את השדרוג!",
+      "message": "להוריד את השדרוג!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser.",
+      "message": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser."
+   },
+   "titeldownloadupgrade": {
+      "description": "השדרוג מוסיף תמיכה עבור התמקדות לתמונות הנבחרות, ויציג גלריה של תמונות באתר.",
+      "message": "השדרוג מוסיף תמיכה עבור התמקדות לתמונות הנבחרות, ויציג גלריה של תמונות באתר."
+   },
+   "titeldynamic": {
+      "description": "רקע דינאמי",
+      "message": "רקע דינאמי"
+   },
+   "titeleastereggs": {
+      "description": "ביצי פסחא",
+      "message": "ביצי פסחא"
+   },
+   "titeleye": {
+      "description": "הגנה העין",
+      "message": "הגנה לעיניים"
+   },
+   "titelfadein": {
+      "description": "עמעום",
+      "message": "עמעם פנימה"
+   },
+   "titelfadeout": {
+      "description": "עמעום",
+      "message": "לדהות"
+   },
+   "titelflash": {
+      "description": "זיהוי פלאש",
+      "message": "איתור פלאש"
+   },
+   "titelhead": {
+      "description": "ערוץ",
+      "message": "ערוץ"
+   },
+   "titelimage": {
+      "description": "תמונת רקע",
+      "message": "תמונת רקע"
+   },
+   "titelinfobar": {
+      "description": "סרגל המידע",
+      "message": "סרגל המידע"
+   },
+   "titellamp": {
+      "description": "הנורה",
+      "message": "נורה"
+   },
+   "titellampregular": {
+      "description": "הראה תמיד את אייקון המנורה בשורת הכתובת",
+      "message": "הראה תמיד את אייקון המנורה בשורת הכתובת"
+   },
+   "titellampvideo": {
+      "description": "הראה את אייקון המנורה רק אם אותר וידאו",
+      "message": "הראה את אייקון המנורה רק אם אותר וידאו"
+   },
+   "titellessmore": {
+      "description": "הצג פחות",
+      "message": "הצג פחות"
+   },
+   "titellikebar": {
+      "description": "כמו בר",
+      "message": "סרגל ה'לייק'"
+   },
+   "titellikebutton": {
+      "description": "כמו & אוהב כפתורים",
+      "message": "כפתורי 'לייק' ו'דיסלייק'"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "באופן אוטומטי מוגדר החלטה זו:",
+      "message": "באופן אוטומטי מוגדר החלטה זו:"
+   },
+   "titelmouse": {
+      "description": "העכבר",
+      "message": "עכבר"
+   },
+   "titelnighttheme": {
+      "description": "מצב לילה",
+      "message": "מצב לילה"
+   },
+   "titeloff": {
+      "description": ".",
+      "message": "מכובה"
+   },
+   "titelon": {
+      "description": "על",
+      "message": "פועל"
+   },
+   "titelopacity": {
+      "description": "אטימות",
+      "message": "אטימות"
+   },
+   "titelpageaction": {
+      "description": "להסתיר את סמל pageaction",
+      "message": "הסתרת סמל המנורה"
+   },
+   "titelpassword": {
+      "description": "הגנה באמצעות סיסמה",
+      "message": "הגנה באמצעות סיסמה"
+   },
+   "titelplaylist": {
+      "description": "רשימת השמעה",
+      "message": "רשימת השמעה"
+   },
+   "titelqualityyoutube": {
+      "description": "להגדיר באופן אוטומטי את האיכות של קטעי וידאו.",
+      "message": "להגדיר באופן אוטומטי את האיכות של קטעי וידאו."
+   },
+   "titelreader": {
+      "description": "הבר רמת העמימות",
+      "message": "סרגל עמימות"
+   },
+   "titelrememberpage": {
+      "description": "זוכר את דף",
+      "message": "זכירת העמוד"
+   },
+   "titelreset": {
+      "description": "Reset settings",
+      "message": "Reset settings"
+   },
+   "titelrightsreserved": {
+      "description": "Some rights reserved.",
+      "message": "Some rights reserved."
+   },
+   "titelscreen": {
+      "description": "מסך",
+      "message": "מסך"
+   },
+   "titelseeonline": {
+      "description": "See online for more examples",
+      "message": "See online for more examples"
+   },
+   "titelsharebutton": {
+      "description": "כפתורי שיתוף",
+      "message": "כפתורי שיתוף"
+   },
+   "titelshortcutlight": {
+      "description": "מקש קיצור",
+      "message": "מקש קיצור"
+   },
+   "titelshowmore": {
+      "description": "הצג יותר",
+      "message": "הצג יותר"
+   },
+   "titelspeech": {
+      "description": "Speech",
+      "message": "Speech"
+   },
+   "titelspreadradius": {
+      "description": "רדיוס כפולה",
+      "message": "רדיוס ההתפשטות"
+   },
+   "titelsuggestions": {
+      "description": "הצעות",
+      "message": "הצעות"
+   },
+   "titelsupportatmos": {
+      "description": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card.",
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card."
+   },
+   "titelsync": {
+      "description": "סינכרון",
+      "message": "סינכרון"
+   },
+   "titelsyncbrowser": {
+      "description": "לסנכרן את ההגדרות הרחבה לדפדפן אחרים.",
+      "message": "לסנכרן את ההגדרות הרחבה לדפדפן אחרים."
+   },
+   "titelupgrade": {
+      "description": "שדרוג",
+      "message": "שדרג"
+   },
+   "titelvideoheadline": {
+      "description": "הכותרת וידאו",
+      "message": "כותרת הסרטון"
+   },
+   "titelvideosample": {
+      "description": "Video Sample",
+      "message": "Video Sample"
+   },
+   "titelviewcount": {
+      "description": "מספר צפיות",
+      "message": "מספר צפיות"
+   },
+   "titelwebsite": {
+      "description": "Website",
+      "message": "Website"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "תרום",
+      "message": "תרומה"
+   },
+   "top": {
+      "description": "העליון",
+      "message": "עליון"
+   },
+   "translateme": {
+      "description": ". תעזרי לי",
+      "message": "עזור לתרגם"
+   },
+   "trymotion": {
+      "description": "Try it yourself!",
+      "message": "Try it yourself!"
+   },
+   "upgradecontextitemma": {
+      "description": "light off with your hand",
+      "message": "light off with your hand"
+   },
+   "upgradecontextitemmb": {
+      "description": "Control the web page more accurately",
+      "message": "Control the web page more accurately"
+   },
+   "upgradecontextitemta": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "upgradecontextitemtb": {
+      "description": "Speech Recognition",
+      "message": "Speech Recognition"
+   },
+   "upgradecontextmessage": {
+      "description": "That make this extension even more amazing",
+      "message": "That make this extension even more amazing"
+   },
+   "upgradecontexttitle": {
+      "description": "We have added some new features for you",
+      "message": "We have added some new features for you"
+   },
+   "upgradefbshare": {
+      "description": "Facebook Share",
+      "message": "Facebook Share"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "הטקסט מספר גירסה",
+      "message": "גירסא"
+   },
+   "videotitle": {
+      "description": "למקד את הוידאו הזה",
+      "message": "התמקד על הסרטון הזה"
+   },
+   "visualeffects": {
+      "description": "אפקטים חזותיים",
+      "message": "אפקטים חזותיים"
+   },
+   "warning": {
+      "description": "אזהרה!",
+      "message": "אזהרה!"
+   },
+   "warningtextambilight": {
+      "description": "אם אין אפשרות לקבל נתוני וידאו כלל אבטחה של אתר, ואז זה יראה מוצק הצבע שבחרת במקום.",
+      "message": "אם אין אפשרות לקבל נתוני וידאו כלל אבטחה של אתר, ואז זה יראה מוצק הצבע שבחרת במקום."
+   }
+}

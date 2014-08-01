@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "瞭解詳情"
+   },
+   "app_nacl_crash_report": {
+      "message": "回報問題..."
+   },
+   "application_description": {
+      "message": "編輯文件"
+   },
+   "extension_description": {
+      "message": "使用 Google 文件、試算表和簡報檢視及編輯 Microsoft Word、Excel 和 PowerPoint 檔案"
+   },
+   "extension_name": {
+      "message": "文件、試算表和簡報的 Office 檔案編輯功能"
+   },
+   "file_loading_spinner_label": {
+      "message": "載入中"
+   },
+   "file_not_found_msg": {
+      "message": "您所要求的檔案已遭移除。"
+   },
+   "file_not_found_title": {
+      "message": "找不到檔案。"
+   }
+}

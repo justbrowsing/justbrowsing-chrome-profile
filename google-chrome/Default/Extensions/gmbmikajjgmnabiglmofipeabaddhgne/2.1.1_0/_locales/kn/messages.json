@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "ಖಾತೆ"
+   },
+   "apply": {
+      "message": "ಅನ್ವಯಿಸು"
+   },
+   "audio_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ ಆಡಿಯೋ"
+   },
+   "authorization_needed": {
+      "message": "ನೀವು Google ಡ್ರೈವ್‌ಗೆ ಉಳಿಸಿ ಅನ್ನು ದೃಢೀಕರಿಸಬೇಕು."
+   },
+   "cancel": {
+      "message": "ರದ್ದುಮಾಡು"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome ಪುಟಗಳನ್ನು ಸೆರೆಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ. ಪ್ರಮಾಣಿತ ವೆಬ್ ಪುಟ ಪ್ರಯತ್ನಿಸಿ."
+   },
+   "change_dest_folder": {
+      "message": "ಗಮ್ಯಸ್ಥಾನ ಫೋಲ್ಡರ್‌‌ ಬದಲಿಸು..."
+   },
+   "chrome_extension_name": {
+      "message": "Google ಡ್ರೈವ್‌ಗೆ ಉಳಿಸಿ"
+   },
+   "close": {
+      "message": "ಮುಚ್ಚು"
+   },
+   "convert_to_google_format": {
+      "message": "Google ಸಂಪಾದಕ ಸ್ವರೂಪಕ್ಕೆ ಉಳಿಸಿದ ಲಿಂಕ್ ಅನ್ನು ಪರಿವರ್ತಿಸಿ"
+   },
+   "debug": {
+      "message": "ಡೀಬಗ್"
+   },
+   "default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ"
+   },
+   "download_canceled": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಅನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ."
+   },
+   "download_failure": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ: ಯಾವುದೇ ಡೇಟಾವನ್ನು ಸ್ವೀಕರಿಸಿಲ್ಲ."
+   },
+   "download_failure_too_big_mb": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ವಿಫಲ: ಮೂಲವು ತುಂಬಾ ದೊಡ್ಡದಾಗಿದೆ ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 ಡೌನ್‌ಲೋಡ್‌‌ ಆಗುತ್ತಿದೆ ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ..."
+   },
+   "empty_page_capture": {
+      "message": "MHTML ಪುಟದ ವಿಷಯಗಳ ಸಂಗ್ರಹಣೆ ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "enable_file_url": {
+      "message": "ವಿಸ್ತರಣೆಗಳ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಪುಟದಲ್ಲಿ \"ಫೈಲ್ URLಗಳಿಗೆ ಪ್ರವೇಶ ಅನುಮತಿಸು\" ಆಯ್ಕೆಯೊಂದಿಗೆ ಫೈಲ್ URL ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬೇಕು."
+   },
+   "ext_description": {
+      "message": "ವೆಬ್ ವಿಷಯ ಅಥವಾ ಸ್ಕ್ರೀನ್ ಕ್ಯಾಪ್ಚರ್ ಅನ್ನು ನೇರವಾಗಿ Google ಡ್ರೈವ್‌‌ ನಲ್ಲಿ ಉಳಿಸಿ."
+   },
+   "failure_page_capture": {
+      "message": "ಪುಟದ ವಿಷಯಗಳನ್ನು MHTML ರೂಪದಲ್ಲಿ ಹಿಡಿದಿಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ: $1 .",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಿ (ಆಂತರಿಕ ಮಾತ್ರ)"
+   },
+   "file_bug_internal": {
+      "message": "ಬಗ್‌ ಫೈಲ್‌ ಮಾಡಿ (ಆಂತರಿಕ ಮಾತ್ರ)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> ಅನ್ನು \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">ಬದಲಾಯಿಸು\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ಅನ್ನು ಅನುಪಯುಕ್ತಕ್ಕೆ ಸರಿಸಲಾಗಿದೆ. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ಡ್ರೈವ್‌‌\u003C/a> ಗೆ ಹೋಗಿ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ಡ್ರೈವ್‌‌"
+   },
+   "help": {
+      "message": "ಸಹಾಯ"
+   },
+   "html_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ HTML"
+   },
+   "image_capture_failed": {
+      "message": "ಚಿತ್ರ ಸೆರೆಹಿಡಿಯುವಿಕೆ ವಿಫಲಗೊಂಡಿದೆ."
+   },
+   "image_capture_failed_reason": {
+      "message": "ಚಿತ್ರ ಸೆರೆಹಿಡಿಯುವಿಕೆ ವಿಫಲಗೊಂಡಿದೆ ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ ಚಿತ್ರ"
+   },
+   "invalid_url": {
+      "message": "ಅಮಾನ್ಯವಾದ URL: $1. ಡೌನ್‌ಲೋಡ್‌ ಮಾಡಿದ URL ಗಳು http://, https://, ಅಥವಾ file:// ದಿಂದ ಆರಂಭವಾಗಬೇಕು.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ ಪುಟ ಹಿಡಿದಿಡುವಿಕೆ.mht"
+   },
+   "misc": {
+      "message": "ಇತರೆ"
+   },
+   "my_drive": {
+      "message": "ನನ್ನ ಡ್ರೈವ್"
+   },
+   "options_header_text": {
+      "message": "Google ಡ್ರೈವ್‌ಗೆ ಉಳಿಸಿ ವಿಸ್ತರಣೆ ಆಯ್ಕೆಗಳು"
+   },
+   "options_title": {
+      "message": "Google ಡ್ರೈವ್‌ಗೆ ಉಳಿಸಿ ಆಯ್ಕೆಗಳು"
+   },
+   "page_size_not_supported": {
+      "message": "ಪುಟ ಗಾತ್ರವನ್ನು ಬೆಂಬಲಿಸಲಾಗುವುದಿಲ್ಲ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ PDF"
+   },
+   "percent": {
+      "message": "$1% ಮುಗಿದಿದೆ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "ಗೌಪ್ಯತೆ"
+   },
+   "rename": {
+      "message": "ಮರುಹೆಸರಿಸು"
+   },
+   "rename_prompt": {
+      "message": "ಮರುಹೆಸರಿಸು:"
+   },
+   "save_as_html": {
+      "message": "HTML ಮೂಲ (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google ಡಾಕ್ಯುಮೆಂಟ್‌"
+   },
+   "save_as_image_entire": {
+      "message": "ಸಂಪೂರ್ಣ ಪುಟದ ಚಿತ್ರ (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "ಗೋಚರಿಸುವ ಪುಟದ ಚಿತ್ರ (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "ವೆಬ್ ಆರ್ಕೈವ್ (.mht)"
+   },
+   "save_audio": {
+      "message": "Google ಡ್ರೈವ್‌‌ದಲ್ಲಿ ಆಡಿಯೋವನ್ನು ಉಳಿಸಿ"
+   },
+   "save_image": {
+      "message": "ಚಿತ್ರಗಳನ್ನು Google ಡ್ರೈವ್‌‌ದಲ್ಲಿ ಉಳಿಸಿ"
+   },
+   "save_link": {
+      "message": "Google ಡ್ರೈವ್‌‌ದಲ್ಲಿ ಲಿಂಕ್‌ ಅನ್ನು ಉಳಿಸಿ"
+   },
+   "save_page_as": {
+      "message": "ಪುಟವನ್ನು ಇದರಂತೆ ಉಳಿಸಿ:"
+   },
+   "save_to_folder_text": {
+      "message": "ಪೋಲ್ಡರ್‌ಗೆ ಉಳಿಸು"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google ಡ್ರೈವ್‌‌ ಗೆ ಉಳಿಸಿ"
+   },
+   "save_video": {
+      "message": "Google ಡ್ರೈವ್‌‌ದಲ್ಲಿ ವಿಡಿಯೋವನ್ನು ಉಳಿಸಿ"
+   },
+   "saving": {
+      "message": "Google ಡ್ರೈವ್‌‌ ಗೆ $1 ಅನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ಫೋಲ್ಡರ್‌ಗೆ ಉಳಿಸು ಆಯ್ಕೆ ಮಾಡಿ"
+   },
+   "send_feedback": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಿ"
+   },
+   "sign_out": {
+      "message": "ಸೈನ್ ಔಟ್"
+   },
+   "start_download_exception": {
+      "message": "ಡೌನ್‌ಲೋಡ್ ಪ್ರಾರಂಭಿಸುವಲ್ಲಿ ವಿಫಲವಾಗಿದೆ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ ಪಠ್ಯ"
+   },
+   "trash": {
+      "message": "ಅನುಪಯುಕ್ತ"
+   },
+   "unspecified_error": {
+      "message": "ಅಸ್ಪಷ್ಟ ದೋಷ"
+   },
+   "upload_canceled": {
+      "message": "ಅಪ್‌ಲೋಡ್ ಅನ್ನು  ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "upload_failure": {
+      "message": "ಅಪ್‌ಲೋಡ್‌ ವೈಫಲ್ಯ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Google ಡ್ರೈವ್‌‌ ಗೆ $1 ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">ಲಿಂಕ್ ತೆರೆಯಿರಿ\u003C/a>, ಮತ್ತು ವಿಳಾಸ ಪಟ್ಟಿಯ ಬಲಭಾಗದಲ್ಲಿನ Google ಡ್ರೈವ್‌‌ ಗೆ ಉಳಿಸಿ ಬಟನ್ ಬಳಸಿಕೊಂಡು ಪುಟವನ್ನು ಉಳಿಸಿ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "ವೆಬ್ ಪುಟಕ್ಕೆ ಇದೊಂದು ಲಿಂಕ್ ಆಗಿದೆ"
+   },
+   "video_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ ವಿಡಿಯೋ"
+   },
+   "xml_default_filename": {
+      "message": "ಶೀರ್ಷಿಕೆರಹಿತ XML"
+   }
+}

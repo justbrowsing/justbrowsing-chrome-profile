@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Saiba mais"
+   },
+   "app_nacl_crash_report": {
+      "message": "Informar um problema..."
+   },
+   "application_description": {
+      "message": "Edição de documentos"
+   },
+   "extension_description": {
+      "message": "Ver e editar arquivos do Microsoft Word, Excel e PowerPoint com o Documentos, Planilhas e Apresentações Google"
+   },
+   "extension_name": {
+      "message": "Editor do Office para Documentos, Planilhas e Apresentações"
+   },
+   "file_loading_spinner_label": {
+      "message": "Carregando"
+   },
+   "file_not_found_msg": {
+      "message": "O arquivo solicitado foi movido."
+   },
+   "file_not_found_title": {
+      "message": "Arquivo não encontrado."
+   }
+}

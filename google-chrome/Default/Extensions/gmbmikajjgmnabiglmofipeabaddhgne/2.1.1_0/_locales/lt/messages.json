@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Paskyra"
+   },
+   "apply": {
+      "message": "Taikyti"
+   },
+   "audio_default_filename": {
+      "message": "Garso įrašas be pavadinimo"
+   },
+   "authorization_needed": {
+      "message": "Turite suteikti prieigą „Išsaugoti „Google“ diske“."
+   },
+   "cancel": {
+      "message": "Atšaukti"
+   },
+   "cannot_capture_chrome": {
+      "message": "Neįmanoma užfiksuoti „Chrome“ puslapių. Išbandykite įprastą tinklalapį."
+   },
+   "change_dest_folder": {
+      "message": "Keisti paskirties aplanką..."
+   },
+   "chrome_extension_name": {
+      "message": "Išsaugoti „Google“ diske"
+   },
+   "close": {
+      "message": "Uždaryti"
+   },
+   "convert_to_google_format": {
+      "message": "Konvertuoti išsaugotą nuorodą į „Google“ redagavimo priemonė formatą"
+   },
+   "debug": {
+      "message": "Derinti"
+   },
+   "default_filename": {
+      "message": "Be pavadinimo"
+   },
+   "download_canceled": {
+      "message": "Atsisiuntimas atšauktas."
+   },
+   "download_failure": {
+      "message": "Atsisiuntimo klaida: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Atsisiuntimo klaida: duomenys negauti."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Atsisiuntimo klaida: per didelis šaltinio failas ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Atsisiunčiamas „$1“...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Atsisiunčiama..."
+   },
+   "empty_page_capture": {
+      "message": "Nepavyko užfiksuoti puslapio turinio kaip MHTML."
+   },
+   "enable_file_url": {
+      "message": "Failo URL turi būti įgalinti parinktimi „Suteikti prieigą prie failo URL“ plėtinių nustatymų puslapyje."
+   },
+   "ext_description": {
+      "message": "Įrašyti žiniatinklio turinį arba ekrano vaizdą tiesiai į „„Google“ diskas“."
+   },
+   "failure_page_capture": {
+      "message": "Nebuvo įmanoma užfiksuoti puslapio turinio kaip MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Siųsti atsiliepimą (tik viduje)"
+   },
+   "file_bug_internal": {
+      "message": "Registruoti triktį (tik viduje)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> buvo išsaugota į \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">pakeitimas\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> buvo perkeltas į šiukšliadėžę. Eikite į \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">„Google“ diskas\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "„Google“ diskas"
+   },
+   "help": {
+      "message": "Pagalba"
+   },
+   "html_default_filename": {
+      "message": "HTML be pavadinimo"
+   },
+   "image_capture_failed": {
+      "message": "Bandant užfiksuoti vaizdą įvyko klaida."
+   },
+   "image_capture_failed_reason": {
+      "message": "Bandant įvesti vaizdą įvyko klaida ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Vaizdas be pavadinimo"
+   },
+   "invalid_url": {
+      "message": "Netinkamas URL: $1. Atsisiųsti URL turi prasidėti http://, https:// arba file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Užfiksuotas puslapis be pavadinimo.mht"
+   },
+   "misc": {
+      "message": "Įvairūs"
+   },
+   "my_drive": {
+      "message": "Mano Diskas"
+   },
+   "options_header_text": {
+      "message": "Išsaugoti „Google“ diske plėtinio parinktys"
+   },
+   "options_title": {
+      "message": "Išsaugoti „Google“ diske parinktys"
+   },
+   "page_size_not_supported": {
+      "message": "Puslapio dydis nepalaikomas: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF be pavadinimo"
+   },
+   "percent": {
+      "message": "$1 % atlikta",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privatumas"
+   },
+   "rename": {
+      "message": "Pervardyti"
+   },
+   "rename_prompt": {
+      "message": "Pervardyti:"
+   },
+   "save_as_html": {
+      "message": "HTML šaltinis (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "„Google“ dokumentas"
+   },
+   "save_as_image_entire": {
+      "message": "Viso puslapio vaizdas (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Matomo puslapio vaizdas (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Žiniatinklio archyvas (.mht)"
+   },
+   "save_audio": {
+      "message": "Išsaugoti garso įrašą „Google“ diskas"
+   },
+   "save_image": {
+      "message": "Išsaugoti vaizdą „Google“ diskas"
+   },
+   "save_link": {
+      "message": "Išsaugoti nuorodą „Google“ diskas"
+   },
+   "save_page_as": {
+      "message": "Išsaugoti puslapį kaip:"
+   },
+   "save_to_folder_text": {
+      "message": "Išsaugoti į aplanką"
+   },
+   "save_to_google_drive_action": {
+      "message": "Išsaugoti „Google“ diskas"
+   },
+   "save_video": {
+      "message": "Išsaugoti vaizdo įrašą „Google“ diskas"
+   },
+   "saving": {
+      "message": "$1 įrašomas į „Google“ diskas...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Pasirinkite „Išsaugoti į aplanką“"
+   },
+   "send_feedback": {
+      "message": "Siųsti atsiliepimą"
+   },
+   "sign_out": {
+      "message": "Atsijungti"
+   },
+   "start_download_exception": {
+      "message": "Klaida pradedant atsisiuntimą: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Tekstas be pavadinimo"
+   },
+   "trash": {
+      "message": "Šiukšlės"
+   },
+   "unspecified_error": {
+      "message": "Nenurodyta klaida"
+   },
+   "upload_canceled": {
+      "message": "Įkėlimas atšauktas"
+   },
+   "upload_failure": {
+      "message": "Įkelti nepavyko: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 įkeliamas į „Google“ diskas...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Atidarykite nuorodą\u003C/a> ir išsaugokite puslapį, naudodami mygtuką Išsaugoti „Google“ diskas, esantį į dešinę nuo adreso juostos.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Tai yra nuoroda į tinklalapį"
+   },
+   "video_default_filename": {
+      "message": "Vaizdo įrašas be pavadinimo"
+   },
+   "xml_default_filename": {
+      "message": "XML be pavadinimo"
+   }
+}

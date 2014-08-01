@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "കൂടുതലറിയുക"
+   },
+   "app_nacl_crash_report": {
+      "message": "ഒരു പ്രശ്‌നം റിപ്പോർട്ടുചെയ്യുക..."
+   },
+   "application_description": {
+      "message": "പ്രമാണം എഡിറ്റുചെയ്യൽ"
+   },
+   "extension_description": {
+      "message": "Google ഡോക്‌സ്, ഷീറ്റ്, സ്ലൈഡ് എന്നിവ ഉപയോഗിച്ച് Microsoft Word, Excel, PowerPoint ഫയലുകൾ കാണുക, എഡിറ്റുചെയ്യുക"
+   },
+   "extension_name": {
+      "message": "ഡോക്‌സ്, ഷീറ്റ്, സ്ലൈഡ് എന്നിവയ്‌ക്കുള്ള ഓഫീസ് എഡിറ്റിംഗ്"
+   },
+   "file_loading_spinner_label": {
+      "message": "ലോഡുചെയ്യുന്നു"
+   },
+   "file_not_found_msg": {
+      "message": "നിങ്ങൾ അഭ്യർത്ഥിച്ച ഫയൽ നീക്കി."
+   },
+   "file_not_found_title": {
+      "message": "ഫയൽ കണ്ടെത്തിയില്ല."
+   }
+}

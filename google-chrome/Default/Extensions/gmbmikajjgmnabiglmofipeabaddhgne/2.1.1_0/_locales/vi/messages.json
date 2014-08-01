@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Tài khoản"
+   },
+   "apply": {
+      "message": "Áp dụng"
+   },
+   "audio_default_filename": {
+      "message": "Âm thanh chưa có tiêu đề"
+   },
+   "authorization_needed": {
+      "message": "Bạn phải ủy quyền Lưu vào Google Drive."
+   },
+   "cancel": {
+      "message": "Hủy"
+   },
+   "cannot_capture_chrome": {
+      "message": "Không thể chụp ảnh màn hình trang Chrome. Hãy thử một trang web chuẩn."
+   },
+   "change_dest_folder": {
+      "message": "Thay đổi thư mục đích..."
+   },
+   "chrome_extension_name": {
+      "message": "Lưu vào Google Drive"
+   },
+   "close": {
+      "message": "Đóng"
+   },
+   "convert_to_google_format": {
+      "message": "Chuyển đổi liên kết đã lưu sang định dạng của trình chỉnh sửa Google"
+   },
+   "debug": {
+      "message": "Gỡ lỗi"
+   },
+   "default_filename": {
+      "message": "Chưa có tiêu đề"
+   },
+   "download_canceled": {
+      "message": "Đã hủy tải xuống."
+   },
+   "download_failure": {
+      "message": "Tải xuống không thành công: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Tải xuống không thành công: Không nhận được dữ liệu nào."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Tải xuống không thành công: Nguồn quá lớn ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Đang tải xuống $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Đang tải xuống ..."
+   },
+   "empty_page_capture": {
+      "message": "Không thể chụp nội dung trang ở dạng MHTML."
+   },
+   "enable_file_url": {
+      "message": "URL của tệp phải được kích hoạt bằng tùy chọn \"Cho phép truy cập vào URL của tệp\" trên trang cài đặt Tiện ích mở rộng."
+   },
+   "ext_description": {
+      "message": "Lưu nội dung trang web hoặc ảnh chụp màn hình trực tiếp vào Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Không thể chụp nội dung trang dưới dạng MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Gửi phản hồi (chỉ dành cho nội bộ)"
+   },
+   "file_bug_internal": {
+      "message": "Gửi lỗi (chỉ dành cho nội bộ)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> đã được lưu vào \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">thay đổi\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> đã được chuyển vào thùng rác. Chuyển đến \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Trợ giúp"
+   },
+   "html_default_filename": {
+      "message": "HTML chưa có tiêu đề"
+   },
+   "image_capture_failed": {
+      "message": "Chụp ảnh không thành công."
+   },
+   "image_capture_failed_reason": {
+      "message": "Chụp ảnh không thành công ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Hình ảnh chưa có tiêu đề"
+   },
+   "invalid_url": {
+      "message": "URL không hợp lệ: $1. URL được tải xuống phải bắt đầu bằng http://, https:// hoặc file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Khác"
+   },
+   "my_drive": {
+      "message": "Ổ đĩa của tôi"
+   },
+   "options_header_text": {
+      "message": "Tùy chọn tiện ích mở rộng của Lưu vào Google Drive"
+   },
+   "options_title": {
+      "message": "Tùy chọn của Lưu vào Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Kích thước trang không được hỗ trợ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF chưa có tiêu đề"
+   },
+   "percent": {
+      "message": "Hoàn thành $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Bảo mật"
+   },
+   "rename": {
+      "message": "Đổi tên"
+   },
+   "rename_prompt": {
+      "message": "Đổi tên:"
+   },
+   "save_as_html": {
+      "message": "Nguồn HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Tài liệu của Google"
+   },
+   "save_as_image_entire": {
+      "message": "Hình ảnh của toàn bộ trang (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Hình ảnh của trang hiển thị (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Lưu trữ web (.mht)"
+   },
+   "save_audio": {
+      "message": "Lưu âm thanh vào Google Drive"
+   },
+   "save_image": {
+      "message": "Lưu hình ảnh vào Google Drive"
+   },
+   "save_link": {
+      "message": "Lưu liên kết vào Google Drive"
+   },
+   "save_page_as": {
+      "message": "Lưu trang dưới dạng:"
+   },
+   "save_to_folder_text": {
+      "message": "Thư mục dùng để lưu"
+   },
+   "save_to_google_drive_action": {
+      "message": "Lưu vào Google Drive"
+   },
+   "save_video": {
+      "message": "Lưu video vào Google Drive"
+   },
+   "saving": {
+      "message": "Đang lưu $1 vào Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Chọn một Thư mục dùng để lưu"
+   },
+   "send_feedback": {
+      "message": "Gửi phản hồi"
+   },
+   "sign_out": {
+      "message": "Đăng xuất"
+   },
+   "start_download_exception": {
+      "message": "Không thể bắt đầu tải lên: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Văn bản chưa có tiêu đề"
+   },
+   "trash": {
+      "message": "Thùng rác"
+   },
+   "unspecified_error": {
+      "message": "Lỗi không xác định"
+   },
+   "upload_canceled": {
+      "message": "Đã hủy tải lên"
+   },
+   "upload_failure": {
+      "message": "Lỗi tải lên: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Đang tải $1 lên Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Mở liên kết\u003C/a> và lưu lại trang bằng cách sử dụng Lưu vào Google Drive nút ở bên phải thanh địa chỉ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Đây là liên kết đến một trang web"
+   },
+   "video_default_filename": {
+      "message": "Video chưa có tiêu đề"
+   },
+   "xml_default_filename": {
+      "message": "XML chưa có tiêu đề"
+   }
+}

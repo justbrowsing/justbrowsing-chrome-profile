@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "帳戶"
+   },
+   "apply": {
+      "message": "套用"
+   },
+   "audio_default_filename": {
+      "message": "無標題音訊"
+   },
+   "authorization_needed": {
+      "message": "您必須授權「儲存至 Google 雲端硬碟」。"
+   },
+   "cancel": {
+      "message": "取消"
+   },
+   "cannot_capture_chrome": {
+      "message": "無法擷取 Chrome 網頁畫面，請嘗試標準網頁。"
+   },
+   "change_dest_folder": {
+      "message": "變更目標資料夾…"
+   },
+   "chrome_extension_name": {
+      "message": "儲存至 Google 雲端硬碟"
+   },
+   "close": {
+      "message": "關閉"
+   },
+   "convert_to_google_format": {
+      "message": "將儲存的連結轉換成 Google 編輯器格式"
+   },
+   "debug": {
+      "message": "偵錯"
+   },
+   "default_filename": {
+      "message": "無標題"
+   },
+   "download_canceled": {
+      "message": "下載已取消。"
+   },
+   "download_failure": {
+      "message": "下載失敗：$1。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "下載失敗：無法接收資料。"
+   },
+   "download_failure_too_big_mb": {
+      "message": "下載失敗：來源檔案過大 ($1 MB)。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "正在下載 $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "正在下載 ..."
+   },
+   "empty_page_capture": {
+      "message": "無法以 MHTML 擷取網頁內容。"
+   },
+   "enable_file_url": {
+      "message": "您必須在 [擴充功能] 設定頁面中，透過 [允許存取檔案網址] 選項啟用檔案網址功能。"
+   },
+   "ext_description": {
+      "message": "將網頁內容或螢幕擷取畫面直接儲存到 Google 雲端硬碟。"
+   },
+   "failure_page_capture": {
+      "message": "無法將頁面內容擷取為 MHTML：$1。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "提供意見 (僅供內部使用)"
+   },
+   "file_bug_internal": {
+      "message": "回報錯誤 (僅供內部使用)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> 已儲存至 \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">變更\u003C/a>)\u003C/span>。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span>已移至垃圾桶。前往\u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google 雲端硬碟\u003C/a>。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google 雲端硬碟"
+   },
+   "help": {
+      "message": "說明"
+   },
+   "html_default_filename": {
+      "message": "無標題 HTML"
+   },
+   "image_capture_failed": {
+      "message": "無法擷取圖片。"
+   },
+   "image_capture_failed_reason": {
+      "message": "無法擷取圖片 ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "無標題圖片"
+   },
+   "invalid_url": {
+      "message": "網址無效：$1。下載網址必須以 http://、https:// 或 file:// 開頭。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "未命名頁面 Capture.mht"
+   },
+   "misc": {
+      "message": "其他"
+   },
+   "my_drive": {
+      "message": "我的雲端硬碟"
+   },
+   "options_header_text": {
+      "message": "儲存至 Google 雲端硬碟 擴充功能選項"
+   },
+   "options_title": {
+      "message": "儲存至 Google 雲端硬碟 選項"
+   },
+   "page_size_not_supported": {
+      "message": "系統不支援目前的網頁大小：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "無標題 PDF"
+   },
+   "percent": {
+      "message": "已完成 $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "隱私權"
+   },
+   "rename": {
+      "message": "重新命名"
+   },
+   "rename_prompt": {
+      "message": "重新命名："
+   },
+   "save_as_html": {
+      "message": "HTML 來源 (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google 文件"
+   },
+   "save_as_image_entire": {
+      "message": "將整個網頁存成圖片 (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "將顯示的網頁內容另存圖片 (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "網頁封存 (.mht)"
+   },
+   "save_audio": {
+      "message": "將音訊儲存至 Google 雲端硬碟"
+   },
+   "save_image": {
+      "message": "將圖片儲存至 Google 雲端硬碟"
+   },
+   "save_link": {
+      "message": "將連結儲存至 Google 雲端硬碟"
+   },
+   "save_page_as": {
+      "message": "另存網頁為："
+   },
+   "save_to_folder_text": {
+      "message": "存入資料夾"
+   },
+   "save_to_google_drive_action": {
+      "message": "儲存至 Google 雲端硬碟"
+   },
+   "save_video": {
+      "message": "將影片儲存至 Google 雲端硬碟"
+   },
+   "saving": {
+      "message": "正在將 $1 儲存至 Google 雲端硬碟...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "選擇要存入的資料夾"
+   },
+   "send_feedback": {
+      "message": "意見回饋"
+   },
+   "sign_out": {
+      "message": "登出"
+   },
+   "start_download_exception": {
+      "message": "無法開始下載：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "無標題文字"
+   },
+   "trash": {
+      "message": "垃圾桶"
+   },
+   "unspecified_error": {
+      "message": "無法辨認的錯誤"
+   },
+   "upload_canceled": {
+      "message": "上傳已取消"
+   },
+   "upload_failure": {
+      "message": "上傳失敗：$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "正在將 $1 上傳至 Google 雲端硬碟…",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">開啟連結\u003C/a>，並使用網址列右側的儲存至 Google 雲端硬碟按鈕來儲存這個頁面。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "這個連結連向另一個網頁"
+   },
+   "video_default_filename": {
+      "message": "無標題影片"
+   },
+   "xml_default_filename": {
+      "message": "無標題 XML"
+   }
+}

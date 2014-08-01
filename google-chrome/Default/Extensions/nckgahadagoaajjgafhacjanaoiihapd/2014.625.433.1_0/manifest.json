@@ -1,0 +1,37 @@
+{
+   "background": {
+      "scripts": [ "scripts/extension.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images_3/presence/offline_19.png",
+         "38": "images_3/presence/offline_38.png"
+      },
+      "default_title": "__MSG_CHROME_EXT_SHORT_NAME__"
+   },
+   "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_CHROME_EXT_DESCRIPTION__",
+   "externally_connectable": {
+      "matches": [ "https://*.google.com/*" ]
+   },
+   "icons": {
+      "128": "images_3/icon-128x128.png",
+      "48": "images_3/icon-48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "26.0.0.0",
+   "name": "__MSG_CHROME_EXT_SHORT_NAME__",
+   "options_page": "settingsdialog.html",
+   "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
+   "system_indicator": {
+      "default_icon": {
+         "19": "images_3/presence/offline_19.png",
+         "38": "images_3/presence/offline_38.png"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2014.625.433.1",
+   "web_accessible_resources": [ "*" ]
+}

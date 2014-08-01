@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Jeśli lubisz to rozszerzenie, proszę oceń je by mi pomóc :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "Przejdź to strony oceniania"
+   },
+   "app_desc": {
+      "message": "Jest to świetnie rozszerzenie do Chrome'a dla każdego właściciela smartfona"
+   },
+   "app_title": {
+      "message": "Smart QrCode Generator"
+   },
+   "generate_qrcode": {
+      "message": "Wygeneruj kod QR"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Dodaj lub edytuj regułę"
+   },
+   "lblAddRule": {
+      "message": "Dodaj regułę"
+   },
+   "lblEdit_Close": {
+      "message": "Zamknij"
+   },
+   "lblEdit_Domain": {
+      "message": "Domena"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Jak korzystać ze Smart QrCode Generator"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Źródło obrazka"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Wyrażenie regularne:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Ciąg znaków do zastąpienia"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Zaznaczony tekst"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "URL strony"
+   },
+   "lblEdit_Source": {
+      "message": "Źródło:"
+   },
+   "lblEdit_Tag": {
+      "message": "Tag"
+   },
+   "lblEdit_Title": {
+      "message": "Tytuł:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Zapisz zmiany"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Ikona"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Wybierz ikonę"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Niekaktywne"
+   },
+   "lblEdit_version": {
+      "message": "wersja"
+   },
+   "lblRules": {
+      "message": "Reguły"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Obraz"
+   },
+   "popup_link": {
+      "message": "Link"
+   },
+   "popup_selectedText": {
+      "message": "Zaznaczony tekst"
+   }
+}

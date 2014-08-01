@@ -1,0 +1,20 @@
+body {
+    font-family: verdana;
+    font-size: 12pt;
+    margin: 2em;
+}
+
+h2 {
+    font-size: 110%;
+}
+
+#btn-reset-fbl,
+#btn-reset-cache {
+    background-color: #ff7979;
+}
+
+.hint {
+    font-size: 70%;
+    color: gray;
+    padding-left: 2em;
+}

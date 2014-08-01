@@ -1,0 +1,578 @@
+{
+   "activityscore_bronze": {
+      "description": "",
+      "message": "brons"
+   },
+   "activityscore_gold": {
+      "description": "",
+      "message": "guld"
+   },
+   "activityscore_next": {
+      "description": "",
+      "message": "Fortsätt betygsätta för att nå {NEXT_LEVEL} nivån!"
+   },
+   "activityscore_platinum": {
+      "description": "",
+      "message": "platina"
+   },
+   "activityscore_rookie": {
+      "description": "",
+      "message": "nybörjare"
+   },
+   "activityscore_silver": {
+      "description": "",
+      "message": "silver"
+   },
+   "activityscore_text": {
+      "description": "",
+      "message": "Din aktivitetspoäng är nu {SCORE}"
+   },
+   "auto_update_button_no": {
+      "description": "imported from firefox add-on",
+      "message": "Påminn mig senare"
+   },
+   "auto_update_button_yes": {
+      "description": "imported from firefox add-on",
+      "message": "Uppdatera nu"
+   },
+   "auto_update_check": {
+      "description": "imported from firefox add-on",
+      "message": "Aktivera automatiska uppdateringar (rekommenderas)"
+   },
+   "auto_update_message": {
+      "description": "imported from firefox add-on",
+      "message": "En ny version av WOT är tillgänglig. Vill du uppdatera tilläggsprogrammet?"
+   },
+   "auto_update_title": {
+      "description": "imported from firefox add-on",
+      "message": "WOT Update"
+   },
+   "bl_description": {
+      "description": "",
+      "message": "Den här webbsidan förekommer på en tredje parts svarta lista"
+   },
+   "bl_description_pl": {
+      "description": "",
+      "message": "Den här webbsidan förekommer på en tredje parts svarta lista"
+   },
+   "bl_information": {
+      "description": "",
+      "message": "WOT använder sig av tredje parters svarta listor för att varna användare för tekniska hot så som virus och skadliga program. \u003Ca>Läs mer\u003C/a>"
+   },
+   "bl_malware": {
+      "description": "",
+      "message": "Skadliga program"
+   },
+   "bl_other": {
+      "description": "",
+      "message": "Annan anledning"
+   },
+   "bl_phishing": {
+      "description": "",
+      "message": "Nätfiske"
+   },
+   "bl_scam": {
+      "description": "",
+      "message": "Bedrägeri"
+   },
+   "bl_spam": {
+      "description": "",
+      "message": "SPAM"
+   },
+   "bl_tracking": {
+      "description": "",
+      "message": "Spårning"
+   },
+   "buttons_cancel": {
+      "description": "",
+      "message": "Avbryt"
+   },
+   "buttons_delete": {
+      "description": "",
+      "message": "Ta bort betyg"
+   },
+   "buttons_delete_title": {
+      "description": "",
+      "message": "Ta bort mina betyg och kategorier för webbsidan"
+   },
+   "buttons_ok": {
+      "description": "",
+      "message": "Ok"
+   },
+   "buttons_save": {
+      "description": "",
+      "message": "Spara"
+   },
+   "components_0": {
+      "message": "Pålitlighet"
+   },
+   "components_4": {
+      "message": "Barnsäkerhet"
+   },
+   "components__short_0": {
+      "message": "Pålitlighet"
+   },
+   "components__short_4": {
+      "message": "Barnsäkerhet"
+   },
+   "contextmenu_open_scorecard": {
+      "message": "Öppna WOT Score-kort"
+   },
+   "description_restart": {
+      "description": "imported from firefox add-on",
+      "message": "Starta om webbläsaren om du vill aktivera WOT."
+   },
+   "description_uninstall": {
+      "description": "imported from firefox add-on",
+      "message": "WOT avinstalleras efter omstart."
+   },
+   "ext_description": {
+      "message": "WOT visar vilka webbsidor som är säkra baserat på miljontals användares erfarenhet från hela världen."
+   },
+   "fbl_dismiss": {
+      "description": "",
+      "message": "avvisa"
+   },
+   "fbl_final": {
+      "description": "",
+      "message": "Tack!"
+   },
+   "fbl_hideforever": {
+      "description": "",
+      "message": "Göm för alltid"
+   },
+   "fbl_optout_no": {
+      "description": "",
+      "message": "Nej"
+   },
+   "fbl_optout_text": {
+      "description": "",
+      "message": "Om du föredrar att inte svara på några frågor, klicka \"ja\""
+   },
+   "fbl_optout_yes": {
+      "description": "",
+      "message": "ja"
+   },
+   "fbl_submit": {
+      "description": "",
+      "message": "Skicka"
+   },
+   "fbl_this_website": {
+      "description": "",
+      "message": "den här webbsidan"
+   },
+   "fbl_whatisthis": {
+      "description": "",
+      "message": "Vad är det här?"
+   },
+   "fbl_whatisthis_text": {
+      "description": "",
+      "message": "\u003Ca href='http://www.mywot.com?utm_source=addon&utm_content=fbl-whatisthis' target='_blank'>Web of Trust (WOT)\u003C/a>arbetar för att främja säkerhet och kvalitet över hela webben för miljontals användare. Du kan hjälpa till genom att lämna dina synpunkter varje gång du ser det här meddelandet."
+   },
+   "lang": {
+      "message": "sv-SE"
+   },
+   "locale": {
+      "message": "sv"
+   },
+   "messages_disabled": {
+      "description": "imported from firefox add-on",
+      "message": "Du har inaktiverat tilläggsprogrammet"
+   },
+   "messages_error_register": {
+      "description": "imported from firefox add-on",
+      "message": "Misslyckades att aktivera tilläggsprogrammet."
+   },
+   "messages_failed": {
+      "message": "Misslyckades att läsa in klassificeringar."
+   },
+   "messages_initializing": {
+      "message": "Initierar WOT…"
+   },
+   "messages_loading": {
+      "message": "Läser in klassificeringar…"
+   },
+   "messages_notavailable": {
+      "message": "Inga tillgängliga klassificeringar."
+   },
+   "messages_notready": {
+      "message": "Aktiverar WOT…"
+   },
+   "messages_offline": {
+      "description": "imported from firefox add-on",
+      "message": "Inaktiverat när webbläsaren är offline."
+   },
+   "messages_ready": {
+      "description": "",
+      "message": "Anseende hos"
+   },
+   "popup_headertext": {
+      "description": "",
+      "message": "klicka för att visa detaljer"
+   },
+   "popup_nocattext": {
+      "description": "",
+      "message": "dela din åsikt om den här webbsidan"
+   },
+   "ratingwindow_addcomment": {
+      "description": "",
+      "message": "Skriv en kommentar"
+   },
+   "ratingwindow_backtoratings": {
+      "description": "",
+      "message": "Tillbaka till orsaker"
+   },
+   "ratingwindow_backtoratings_category": {
+      "description": "",
+      "message": "Välj en orsak"
+   },
+   "ratingwindow_categories": {
+      "description": "",
+      "message": "Ange minst en orsak"
+   },
+   "ratingwindow_check_1a": {
+      "message": "Other users may not understand why you selected 'good site' if you also had severe negative things to say."
+   },
+   "ratingwindow_check_1b": {
+      "message": "Other users may not think that a site designed for children should have such negative characteristics."
+   },
+   "ratingwindow_check_2a": {
+      "message": "Other users may not consider your review credible, because you selected several unrelated negative things."
+   },
+   "ratingwindow_check_3a": {
+      "message": "Other users may question if all negative statements on content and site functionality are true."
+   },
+   "ratingwindow_check_4a": {
+      "message": "Other users may not consider your review credible, because you selected several unrelated things."
+   },
+   "ratingwindow_check_5a": {
+      "message": "'Other' category should be used only if no other options applies, and then explained in written comments."
+   },
+   "ratingwindow_check_6a": {
+      "message": "Too many categories may result in people questioning the credibility of your review."
+   },
+   "ratingwindow_comment": {
+      "description": "",
+      "message": "Skriv en kommentar"
+   },
+   "ratingwindow_comment_captchalink": {
+      "description": "",
+      "message": "Öppna scorekortet nu"
+   },
+   "ratingwindow_comment_captchatext": {
+      "description": "",
+      "message": "Du måste skriva in captchan på scorekortet för att publicera din kommentar."
+   },
+   "ratingwindow_comment_placeholder": {
+      "description": "",
+      "message": "Beskriv din erfarenhet här..."
+   },
+   "ratingwindow_comment_register": {
+      "description": "",
+      "message": "Skapa ett konto nu"
+   },
+   "ratingwindow_comment_regtext": {
+      "description": "",
+      "message": "Du behöver ett konto för att publicera din kommentar."
+   },
+   "ratingwindow_commenthints": {
+      "description": "",
+      "message": "\u003Cp>Var exakt\u003C/p>\u003Cp>Ge bevis eller ett exempel\u003C/p>\u003Cp>Kommentera i enlighet med dina egna erfarenheter\u003C/p>\u003Cp>Spamma inte\u003C/p>"
+   },
+   "ratingwindow_editcomment": {
+      "description": "",
+      "message": "Redigera kommentar"
+   },
+   "ratingwindow_forum": {
+      "message": "Forum"
+   },
+   "ratingwindow_fulllist": {
+      "description": "",
+      "message": "visa hela listan"
+   },
+   "ratingwindow_guide": {
+      "description": "",
+      "message": "Rundtur"
+   },
+   "ratingwindow_invite_rw": {
+      "description": "",
+      "message": "Du kan betygsätta webbsidor genom att använda det här verktyget. Klicka på de färgade staplarna för att visa hur mycket du litar på en webbsida."
+   },
+   "ratingwindow_morecats": {
+      "description": "",
+      "message": "mer"
+   },
+   "ratingwindow_myrating": {
+      "message": "Min klassificering"
+   },
+   "ratingwindow_newversion": {
+      "message": "Ny version tillgänglig – klicka för att uppdatera"
+   },
+   "ratingwindow_novoted": {
+      "description": "",
+      "message": "Klicka här för att ange orsaker"
+   },
+   "ratingwindow_profile": {
+      "description": "",
+      "message": "Min profil"
+   },
+   "ratingwindow_question0": {
+      "description": "",
+      "message": "Hur mycket litar du på den här sidan?"
+   },
+   "ratingwindow_question4": {
+      "description": "",
+      "message": "Hur lämplig är den här webbsidan för barn?"
+   },
+   "ratingwindow_rerate_category": {
+      "description": "TODO: TRANSLATE",
+      "message": " "
+   },
+   "ratingwindow_rerate_change": {
+      "description": "",
+      "message": "ändra"
+   },
+   "ratingwindow_settings": {
+      "message": "Inställningar"
+   },
+   "ratingwindow_thankyou": {
+      "description": "",
+      "message": "Tack för att du delar med dig av din upplevelse!"
+   },
+   "ratingwindow_viewscorecard": {
+      "description": "",
+      "message": "Visa detaljer och kommentarer"
+   },
+   "ratingwindow_vote_no": {
+      "description": "",
+      "message": "Instämmer inte"
+   },
+   "ratingwindow_vote_yes": {
+      "description": "",
+      "message": "Ja"
+   },
+   "ratingwindow_wgcommenthints": {
+      "message": "\u003Cp>Be precise and truthful\u003C/p>\u003Cp>Use tags as shorthand\u003C/p>\u003Cp>Comment what you know\u003C/p>"
+   },
+   "ratingwindow_wotrating": {
+      "description": "",
+      "message": "WOT användarna säger"
+   },
+   "reputationlevels_r0": {
+      "description": "",
+      "message": "Okänd"
+   },
+   "reputationlevels_r1": {
+      "message": "Mycket dålig"
+   },
+   "reputationlevels_r2": {
+      "message": "Dålig"
+   },
+   "reputationlevels_r3": {
+      "message": "Otillräcklig"
+   },
+   "reputationlevels_r4": {
+      "message": "Bra"
+   },
+   "reputationlevels_r5": {
+      "message": "Utmärkt"
+   },
+   "testimony_0_levels_r0": {
+      "description": "",
+      "message": "klicka för att betygsätta"
+   },
+   "testimony_0_levels_r1": {
+      "description": "",
+      "message": "Jag litar inte på"
+   },
+   "testimony_0_levels_r2": {
+      "description": "",
+      "message": "Jag litar inte på"
+   },
+   "testimony_0_levels_r3": {
+      "description": "",
+      "message": "den är misstänksam"
+   },
+   "testimony_0_levels_r4": {
+      "description": "",
+      "message": "Jag litar på"
+   },
+   "testimony_0_levels_r5": {
+      "description": "",
+      "message": "Jag litar på"
+   },
+   "testimony_4_levels_r0": {
+      "description": "",
+      "message": "klicka för att betygsätta"
+   },
+   "testimony_4_levels_r1": {
+      "description": "",
+      "message": "inte lämplig"
+   },
+   "testimony_4_levels_r2": {
+      "description": "",
+      "message": "inte lämplig"
+   },
+   "testimony_4_levels_r3": {
+      "description": "",
+      "message": "var försiktig"
+   },
+   "testimony_4_levels_r4": {
+      "description": "",
+      "message": "lämplig"
+   },
+   "testimony_4_levels_r5": {
+      "description": "",
+      "message": "lämplig"
+   },
+   "testimony_delete": {
+      "description": "",
+      "message": "ta bort"
+   },
+   "testimony_unrated": {
+      "description": "",
+      "message": "ingen åsikt"
+   },
+   "warning": {
+      "description": "imported from firefox add-on",
+      "message": "WOT-varning: %S"
+   },
+   "warning_button": {
+      "description": "imported from firefox add-on",
+      "message": "Klassificeringsdetaljer"
+   },
+   "warnings_back": {
+      "message": "Gå tillbaka"
+   },
+   "warnings_blocked": {
+      "description": "imported from firefox add-on",
+      "message": "Blockerad"
+   },
+   "warnings_goto": {
+      "message": "Gå till webbsidan"
+   },
+   "warnings_information": {
+      "description": "",
+      "message": "Visa detaljer och kommentarer"
+   },
+   "warnings_leave": {
+      "description": "",
+      "message": "Avsluta"
+   },
+   "warnings_message_rating": {
+      "description": "imported from firefox add-on",
+      "message": "Du har gett webbplatsen klassificeringen Dålig."
+   },
+   "warnings_message_reputation": {
+      "description": "imported from firefox add-on",
+      "message": "Den här webbplatsen har dåligt rykte."
+   },
+   "warnings_noreasontitle": {
+      "description": "",
+      "message": "Användare har inte identifierat den här sidan än och har bara betygsatt den"
+   },
+   "warnings_othersreasontitle": {
+      "description": "",
+      "message": "Andra användares synpunkter"
+   },
+   "warnings_ratesite": {
+      "description": "",
+      "message": "Om du litar på den här sidan, vänligen \u003Ca>betygsätt den\u003C/a>"
+   },
+   "warnings_rating": {
+      "message": "Du har gett webbplatsen klassificeringen Dålig,\u003Cbr/>vilket gav upphov till en varning"
+   },
+   "warnings_reasontitle": {
+      "description": "",
+      "message": "Användare har identifierat följande problem"
+   },
+   "warnings_reputation": {
+      "message": "Den här webbplatsen har dåligt rykte"
+   },
+   "warnings_reratesite": {
+      "description": "",
+      "message": "\u003Ca>Klicka här\u003C/a> om du vill betygsätta sidan igen"
+   },
+   "warnings_unknown": {
+      "message": "Webbplatsen har en okänd klassificering"
+   },
+   "warnings_warning": {
+      "message": "Varning!"
+   },
+   "wg_about": {
+      "message": "what's this?"
+   },
+   "wg_about_content": {
+      "message": "WOT Groups Beta enables various communities to build together a perfect Web site online directory around their passion and interests. The filtering and site reputation tools make the Web use easy and trusted."
+   },
+   "wg_about_more": {
+      "message": "open Groups"
+   },
+   "wg_about_ok": {
+      "message": "OK, got it"
+   },
+   "wg_about_title": {
+      "message": "What is WOT Groups Beta?"
+   },
+   "wg_add": {
+      "message": "add a tag"
+   },
+   "wg_add_long": {
+      "message": "click to comment with tags"
+   },
+   "wg_edit": {
+      "message": "edit my tags"
+   },
+   "wg_expander": {
+      "message": "show more"
+   },
+   "wg_expander_less": {
+      "message": "show less"
+   },
+   "wg_title": {
+      "message": "WOT Groups\u003Cspan class='wg-beta'>beta\u003C/span>"
+   },
+   "wg_viewer_title_wikipedia": {
+      "message": "Wikipedia"
+   },
+   "wt_donut_btn": {
+      "description": "",
+      "message": "Ok, uppfattat"
+   },
+   "wt_donut_msg": {
+      "description": "",
+      "message": "\u003Cp>WOT visar dig webbsidors rykten baserat på andra användares erfarenheter genom att visa dig trafikljusliknande ikoner.\u003C/p>\u003Cp>För muspekaren över ikonen för att se ryktena och orsakerna bakom dem.\u003C/p>"
+   },
+   "wt_intro_0_btn": {
+      "description": "",
+      "message": "Ok, uppfattat"
+   },
+   "wt_intro_0_msg": {
+      "description": "",
+      "message": "\u003Cimg src='{ADDON_BASEURI}skin/b/welcometips/wt_intro_0.png' width='196px' height='40px'/>\u003Cp>Nya WOT har lagts till din webbläsare.\u003C/p>\u003Cp>Börja betygsätta webbsidor genom att klicka på denna ikon {ICO1}\u003C/p>\u003Cp>{WT_LEARNMORE}\u003C/p>"
+   },
+   "wt_learnmore_link": {
+      "description": "",
+      "message": "\u003Ca id='wt-learnmore-link'>Lär dig mer\u003C/a> om WOT."
+   },
+   "wt_rw_text": {
+      "description": "",
+      "message": "\u003Cp>WOT betygfönster visar dig webbsidans rykte baserat på andra användares erfarenheter.\u003C/p>\u003Cp>Nu kan du betygsätta och kommentera direkt från det uppdaterade fönstret. Börja betygsätta genom att klicka på de färgade skalorna.\u003C/p>\u003Cp class='wot-c'>\u003Ca id='wt-learnmore-link'>Lär dig mer\u003C/a>om WOT.\u003C/p>"
+   },
+   "wt_rw_text_hdr": {
+      "description": "",
+      "message": "Dela med dig av dina erfarenheter!"
+   },
+   "wt_warning_ok": {
+      "description": "",
+      "message": "Ok, uppfattat"
+   },
+   "wt_warning_text": {
+      "description": "",
+      "message": "\u003Cp>WOT varnar dig om du hamnar på en sida med dåligt rykte baserat på andra användares betyg eller tredje parters svartlistning. Varningen visar dig även orsakerna bakom det dåliga ryktet.\u003C/p>\u003Cp>{WT_LEARNMORE}\u003C/p>\u003Cp>Om du inte vill se varningarna kan du stänga av dem.\u003C/p>"
+   },
+   "wt_warning_turnoff": {
+      "description": "",
+      "message": "Stäng av varningar"
+   }
+}

@@ -1,2 +1,0 @@
-
-var ATX=ATX||{};ATX.messenger={initialize:function(){ATX.log("messenger.initialize");var that=this;chrome.extension.onRequest.addListener(function(request,sender,sendResponse){that.onRequest(request,sender,sendResponse);});},onRequest:function(request,sender,sendResponse){if(typeof request.event!=="undefined"){switch(request.event){case"contextmenu":ATX.contextMenu.onOpen(request,sender,sendResponse);}}},sendRequest:function(message,cb){chrome.tabs.getSelected(null,function(tab){chrome.tabs.sendRequest(tab.id,message,function(response){if(cb){cb(response);}});});}};

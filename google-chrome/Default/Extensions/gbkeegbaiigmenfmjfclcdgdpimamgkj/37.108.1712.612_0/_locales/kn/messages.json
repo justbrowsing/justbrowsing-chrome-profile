@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+   },
+   "app_nacl_crash_report": {
+      "message": "ಸಮಸ್ಯೆಯೊಂದನ್ನು ವರದಿ ಮಾಡಿರಿ..."
+   },
+   "application_description": {
+      "message": "ಡಾಕ್ಯುಮೆಂಟ್ ಸಂಪಾದಿಸುವಿಕೆ"
+   },
+   "extension_description": {
+      "message": "Google ಡಾಕ್ಸ್, ಶೀಟ್‌ಗಳು, ಮತ್ತು ಸ್ಲೈಡ್‌ಗಳ ಜೊತೆಗೆ, Microsoft Word, Excel, ಮತ್ತು PowerPoint ಫೈಲ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ ಮತ್ತು ಸಂಪಾದಿಸಿ"
+   },
+   "extension_name": {
+      "message": "ಡಾಕ್ಸ್‌, ಶೀಟ್‌ಗಳು & ಸ್ಲೈಡ್‌ಗಳಿಗೆ Office ಸಂಪಾದನೆ"
+   },
+   "file_loading_spinner_label": {
+      "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+   },
+   "file_not_found_msg": {
+      "message": "ನೀವು ವಿನಂತಿಸಲಾದ ಫೈಲ್ ಅನ್ನು ತಡೆಹಿಡಿಯಲಾಗಿದೆ ಮತ್ತು ಸರಿಸಲಾಗಿದೆ."
+   },
+   "file_not_found_title": {
+      "message": "ಫೈಲ್ ಕಂಡುಬಂದಿಲ್ಲ."
+   }
+}

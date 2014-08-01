@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "الحساب"
+   },
+   "apply": {
+      "message": "تطبيق"
+   },
+   "audio_default_filename": {
+      "message": "ملف صوتي بدون عنوان"
+   },
+   "authorization_needed": {
+      "message": "يجب عليك تفويض ‏حفظ إلى Google Drive."
+   },
+   "cancel": {
+      "message": "إلغاء"
+   },
+   "cannot_capture_chrome": {
+      "message": "‏يتعذّر الحصول على لقطة شاشة من صفحات Chrome. يُرجى محاولة إجراء ذلك في صفحة ويب قياسية."
+   },
+   "change_dest_folder": {
+      "message": "تغيير مجلد الوجهة..."
+   },
+   "chrome_extension_name": {
+      "message": "‏حفظ إلى Google Drive"
+   },
+   "close": {
+      "message": "إغلاق"
+   },
+   "convert_to_google_format": {
+      "message": "‏تحويل الرابط المحفوظ إلى تنسيق أدوات تحرير Google"
+   },
+   "debug": {
+      "message": "تصحيح الأخطاء"
+   },
+   "default_filename": {
+      "message": "بدون عنوان"
+   },
+   "download_canceled": {
+      "message": "تم إلغاء التنزيل."
+   },
+   "download_failure": {
+      "message": "أخفق التنزيل: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "إخفاق التنزيل: لم يتم استلام أية بيانات."
+   },
+   "download_failure_too_big_mb": {
+      "message": "أخفق التنزيل: حجم الملف المصدر كبير جدًا ($1 ميغابايت).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "جارٍ تنزيل $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "جارٍ التنزيل..."
+   },
+   "empty_page_capture": {
+      "message": "‏تعذر التقاط محتويات الصفحة بتنسيق MHTML."
+   },
+   "enable_file_url": {
+      "message": "‏يجب تمكين عناوين URL للملف باستخدام الخيار \"السماح بالدخول إلى عناوين URL للملفات\" في صفحة إعدادات الإضافة."
+   },
+   "ext_description": {
+      "message": "حفظ محتوى الويب أو ما تم التقاطه على الشاشة مباشرةً إلى Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "‏تعذر التقاط محتويات الصفحة بتنسيق MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "إرسال تعليقات (داخليًا فقط)"
+   },
+   "file_bug_internal": {
+      "message": "إرسال خطأ (داخليًا فقط)"
+   },
+   "file_was_saved": {
+      "message": "تم حفظ \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> في \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">تغيير\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "تم نقل \u003Cspan id=\"$1\">\u003C/span> إلى المهملات. انتقل إلى \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "مساعدة"
+   },
+   "html_default_filename": {
+      "message": "‏HTML بدون عنوان"
+   },
+   "image_capture_failed": {
+      "message": "أخفق التقاط الصورة."
+   },
+   "image_capture_failed_reason": {
+      "message": "أخفق التقاط الصورة ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "صورة بدون عنوان"
+   },
+   "invalid_url": {
+      "message": "‏عنوان URL غير صالح: $1. يجب أن تبدأ عناوين URL للتنزيل بـ http://، أو https://، أو file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "ميزات متنوعة"
+   },
+   "my_drive": {
+      "message": "My Drive"
+   },
+   "options_header_text": {
+      "message": "خيارات الإضافة ‏حفظ إلى Google Drive"
+   },
+   "options_title": {
+      "message": "خيارات ‏حفظ إلى Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "حجم الصفحة غير متوافق: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "‏PDF بدون عنوان"
+   },
+   "percent": {
+      "message": "تم $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "الخصوصية"
+   },
+   "rename": {
+      "message": "إعادة تسمية"
+   },
+   "rename_prompt": {
+      "message": "إعادة التسمية:"
+   },
+   "save_as_html": {
+      "message": "‏مصدر HTML‏ (‎.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "‏مستند Google"
+   },
+   "save_as_image_entire": {
+      "message": "‏صورة الصفحة بالكامل (png.)"
+   },
+   "save_as_image_visible": {
+      "message": "‏صورة الصفحة المرئية (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "‏أرشيف الويب (‎.mht)"
+   },
+   "save_audio": {
+      "message": "حفظ الصوت إلى Google Drive"
+   },
+   "save_image": {
+      "message": "حفظ الصورة إلى Google Drive"
+   },
+   "save_link": {
+      "message": "حفظ الرابط إلى Google Drive"
+   },
+   "save_page_as": {
+      "message": "حفظ الصفحة بتنسيق:"
+   },
+   "save_to_folder_text": {
+      "message": "حفظ في مجلد"
+   },
+   "save_to_google_drive_action": {
+      "message": "حفظ إلى Google Drive"
+   },
+   "save_video": {
+      "message": "حفظ الفيديو إلى Google Drive"
+   },
+   "saving": {
+      "message": "جارٍ حفظ $1 إلى Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "حدد \"حفظ في مجلد\""
+   },
+   "send_feedback": {
+      "message": "إرسال تعليقات"
+   },
+   "sign_out": {
+      "message": "الخروج"
+   },
+   "start_download_exception": {
+      "message": "أخفق بدء التنزيل: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "نص بدون عنوان"
+   },
+   "trash": {
+      "message": "المهملات"
+   },
+   "unspecified_error": {
+      "message": "خطأ غير محدد"
+   },
+   "upload_canceled": {
+      "message": "تم إلغاء التحميل"
+   },
+   "upload_failure": {
+      "message": "أخفق التحميل: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "جارٍ تحميل $1 إلى Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">افتح الرابط\u003C/a>، واحفظ الصفحة باستخدام زر حفظ إلى Google Drive يسار شريط العناوين.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "هذا رابط إلى صفحة ويب"
+   },
+   "video_default_filename": {
+      "message": "فيديو بدون عنوان"
+   },
+   "xml_default_filename": {
+      "message": "‏XML بدون عنوان"
+   }
+}

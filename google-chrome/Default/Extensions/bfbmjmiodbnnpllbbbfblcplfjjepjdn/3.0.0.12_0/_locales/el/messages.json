@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "Σχετικά με",
+      "message": "Σχετικά με"
+   },
+   "addbutton": {
+      "description": "Προσθέστε",
+      "message": "Προσθήκη"
+   },
+   "advancedoptions": {
+      "description": "Προηγμένες επιλογές",
+      "message": "Επιλογές για προχωρημένους"
+   },
+   "basicsettings": {
+      "description": "Βασικά",
+      "message": "Βασικά"
+   },
+   "bottom": {
+      "description": "κάτω μέρος",
+      "message": "κάτω μέρος"
+   },
+   "changelog": {
+      "description": "changelog σύνδεση",
+      "message": "Αρχείο αλλαγών"
+   },
+   "deletebutton": {
+      "description": "Διαγραφή",
+      "message": "Διαγραφή"
+   },
+   "des1checkmotion": {
+      "description": "Make sure your room is not dark and that it have enough light.",
+      "message": "Make sure your room is not dark and that it have enough light."
+   },
+   "des2checkmotion": {
+      "description": "Your camera must not receive direct sunlight.",
+      "message": "Your camera must not receive direct sunlight."
+   },
+   "des3checkmotion": {
+      "description": "You use a front facing camera.",
+      "message": "You use a front facing camera."
+   },
+   "desaddvideobutton": {
+      "description": "Δείτε το κουμπί \"Προσθήκη\" από αυτό το βίντεο YouTube.",
+      "message": "Δείτε το κουμπί \"Προσθήκη\" από αυτό το βίντεο YouTube."
+   },
+   "desalllightsoff": {
+      "description": "Κλικ στο κουμπί λαμπτήρας εναλλάσσει τα φώτα ενεργοποίηση/απενεργοποίηση όλων των ανοιχτών καρτελών όταν αυτή η επιλογή είναι ενεργοποιημένη.",
+      "message": "Κλικ στο κουμπί λαμπτήρας εναλλάσσει τα φώτα ενεργοποίηση/απενεργοποίηση όλων των ανοιχτών καρτελών όταν αυτή η επιλογή είναι ενεργοποιημένη."
+   },
+   "desambilight": {
+      "description": "Σας δείξει το εφέ φωτισμού ατμόσφαιρα του τρέχουσα παίζοντας βίντεο.",
+      "message": "Σας δείξει το εφέ φωτισμού ατμόσφαιρα του τρέχουσα παίζοντας βίντεο."
+   },
+   "desambilight4color": {
+      "description": "4 χρώματα επιλέξει γύρω από το βίντεο:",
+      "message": "4 επιλεγμένα χρώματα γύρω από το βίντεο:"
+   },
+   "desambilightfixcolor": {
+      "description": "Ένα στερεό χρώμα:",
+      "message": "Ένα στερεό χρώμα:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "Εάν το σύνολο σε χαμηλότερη τιμή σκιά θα είναι απότομη, όσο υψηλότερος ο αριθμός, η πιο θολή θα είναι.",
+      "message": "Εάν οριστεί σε χαμηλότερη τιμή σκιά θα είναι απότομη, όσο υψηλότερος ο αριθμός, η πιο θολή θα είναι."
+   },
+   "desambilightrangespreadradius": {
+      "description": "Θετικές τιμές αυξάνουν το μέγεθος της σκιάς, αρνητικές τιμές μειώνουν το μέγεθος.",
+      "message": "Θετικές τιμές αυξάνουν το μέγεθος της σκιάς, αρνητικές τιμές μειώνουν το μέγεθος."
+   },
+   "desambilightvarcolor": {
+      "description": "Πάρτε το χρώμα από το βίντεο.",
+      "message": "Πάρτε το χρώμα από το βίντεο."
+   },
+   "desapitext": {
+      "description": "Wiki API για τον Προγραμματιστή Ιστοσελίδας",
+      "message": "Wiki API για τον Προγραμματιστή Ιστοσελίδας"
+   },
+   "desatmosphereonly": {
+      "description": "Χρησιμοποιήστε τη δυνατότητα φωτισμού ατμόσφαιρα μόνο την ακόλουθη τοποθεσία της βίντεο:",
+      "message": "Χρησιμοποιήστε τη δυνατότητα φωτισμού ατμόσφαιρα μόνο την ακόλουθη τοποθεσία της βίντεο:"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "Αυτόματα να αμυδρό παρασκήνιο, όταν κάνετε κλικ στο κουμπί play και έναντι.",
+      "message": "Αυτόματα σκοτεινιάζει το παρασκήνιο όταν κάνετε κλικ στο κουμπί αναπαραγωγής και αντίθετα."
+   },
+   "desautoplaydelay": {
+      "description": "Brighten again the background when the video ended after",
+      "message": "Brighten again the background when the video ended after"
+   },
+   "desautoplaydelayend": {
+      "description": "δευτερόλεπτα",
+      "message": "δευτερόλεπτα"
+   },
+   "desautoplayonly": {
+      "description": "Αμυδρό μόνο το παρακάτω βίντεο περιοχή:",
+      "message": "Σβήσε τα φώτα μόνο στις ακόλουθες ιστοσελίδες βίντεο:"
+   },
+   "desbrowserextension": {
+      "description": "επέκταση περιηγητή",
+      "message": "επέκταση περιηγητή"
+   },
+   "desbrowsersupport": {
+      "description": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer.",
+      "message": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer."
+   },
+   "desbrowsertheme": {
+      "description": "θέμα περιηγητή",
+      "message": "θέμα περιηγητή"
+   },
+   "descammotiononly": {
+      "description": "Activate the Camera Motion only on the following site(s):",
+      "message": "Activate the Camera Motion only on the following site(s):"
+   },
+   "desconfirmpassword": {
+      "description": "Επιβεβαίωση κωδικού",
+      "message": "Επιβεβαίωση κωδικού"
+   },
+   "desconfirmtime": {
+      "description": "Επιβεβαιώνουν το χρόνο",
+      "message": "Επιβεβαιώνουν το χρόνο"
+   },
+   "desconfirmtimesaver": {
+      "description": "Επιβεβαιώσει χρόνος προφύλαξη οθόνης",
+      "message": "Επιβεβαιώσει χρόνος προφύλαξη οθόνης"
+   },
+   "descontextmenus": {
+      "description": "Εμφάνιση μενού περιβάλλοντος για να επικεντρωθεί ένα στοιχείο.",
+      "message": "Εμφάνιση του μενού περιβάλλοντος για να επικεντρωθείτε σε ένα στοιχείο."
+   },
+   "description": {
+      "description": "Ολόκληρη η σελίδα θα χάνεσαι σε σκοτεινό, έτσι μπορείτε να παρακολουθήσετε το βίντεο σαν ήσαστε στον κινηματογράφο.",
+      "message": "Ολόκληρη η σελίδα θα σκοτεινιάσει, ώστε να μπορείτε να παρακολουθήσετε το βίντεο σαν να είσαστε στο σινεμά."
+   },
+   "desdynamicblocks": {
+      "description": "Μπλοκ",
+      "message": "Κουτιά"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "Δεξαμενή ψαριών",
+      "message": "Δεξαμενή ψαριών"
+   },
+   "desdynamicraindrops": {
+      "description": "Σταγόνες βροχής",
+      "message": "Σταγόνες βροχής"
+   },
+   "desdynamicspace": {
+      "description": "Διάστημα σύμπαν",
+      "message": "Διάστημα σύμπαν"
+   },
+   "deseastereggs": {
+      "description": "Ένα μπόνους στην εν λόγω παράταση.",
+      "message": "Ένα μπόνους στην εν λόγω παράταση."
+   },
+   "desenterpassword": {
+      "description": "Εισάγετε τον κωδικό σας στο παρακάτω πλαίσιο:",
+      "message": "Εισάγετε τον κωδικό σας στο παρακάτω πλαίσιο:"
+   },
+   "deseyea": {
+      "description": "Αυτόματα αμυδρό παρασκήνιο κατά το άνοιγμα μιας σελίδας.",
+      "message": "Να γίνεται αυτόματα αμυδρό το παρασκήνιο όταν ανοίγει μια σελίδα."
+   },
+   "deseyealist": {
+      "description": "Αυτόματα αμυδρό παρασκήνιο όταν ανοίγετε τις ακόλουθες σελίδες:",
+      "message": "Αυτόματα αμυδρό παρασκήνιο όταν ανοίγετε τις ακόλουθες σελίδες:"
+   },
+   "deseyen": {
+      "description": "Κανονική χρήση (φώτα σβήνουν όταν κάνετε κλικ στο εικονίδιο λαμπτήρα).",
+      "message": "Κανονική χρήση (Τα φώτα σβήνουν όταν κάνετε κλικ στο εικονίδιο του λαμπτήρα)."
+   },
+   "deseyetimesaver": {
+      "description": "Όταν μια σελίδα είναι ανενεργά (δεν ποντίκι ή πληκτρολόγιο εισόδου) για τη στιγμή που αναφέρονται παρακάτω, η σελίδα θα αυτόματα πάει σκοτεινή.",
+      "message": "Όταν μια σελίδα είναι ανενεργά (δεν ποντίκι ή πληκτρολόγιο εισόδου) για τη στιγμή που αναφέρονται παρακάτω, η σελίδα θα αυτόματα πάει σκοτεινή."
+   },
+   "desfadein": {
+      "description": "Δείχνουν το fade σε ισχύ.",
+      "message": "Δείτε το αποτέλεσμα fade in."
+   },
+   "desfadeout": {
+      "description": "Δείχνουν την εξασθενίστε έξω επίδραση.",
+      "message": "Δείτε το αποτέλεσμα fade out."
+   },
+   "desflash": {
+      "description": "Εμφάνιση όλων των αντικειμένων Flash.",
+      "message": "Προβολή όλων των αντικειμένων Flash."
+   },
+   "deshardflash": {
+      "description": "Εμφάνιση όλων των αντικειμένων Flash, παρακάμπτοντας το φίλτρο URL. Αυτό θα καθορίσει τα προβλήματα με κάποια προγράμματα αναπαραγωγής βίντεο που κρύβεται, αλλά επίσης θα εμφανίζει διαφημίσεις.",
+      "message": "Εμφάνιση όλων των αντικειμένων Flash, παρακάμπτοντας το φίλτρο URL. Αυτό θα καθορίσει τα προβλήματα με κάποια προγράμματα αναπαραγωγής βίντεο που κρύβεται, αλλά επίσης θα εμφανίζει διαφημίσεις."
+   },
+   "deshead": {
+      "description": "Εμφάνιση γραμμή YouTube κανάλι ή το όνομα.",
+      "message": "Δείτε την μπάρα YouTube Channel ή το όνομα."
+   },
+   "desinfobar": {
+      "description": "Δείξει τις πληροφορίες περιγραφή σχετικά με το βίντεο.",
+      "message": "Δείτε τις πληροφορίες σχετικά με την περιγραφή του βίντεο."
+   },
+   "deslikebar": {
+      "description": "Εμφάνιση του αρέσει/αρέσει μπαρ κάτω από το βίντεο YouTube.",
+      "message": "Εμφάνιση του αρέσει/αρέσει μπαρ κάτω από το βίντεο YouTube."
+   },
+   "deslikebutton": {
+      "description": "Εμφάνιση παρόμοια & αντιπαθούν κουμπιά του YouTube για αυτό το βίντεο.",
+      "message": "Δείτε τα like και dislike κουμπιά του YouTube για αυτό το βίντεο."
+   },
+   "desmotion": {
+      "description": "Camera Motion",
+      "message": "Enable the Camera Motion so that the web page could darkens with a hand sweep down."
+   },
+   "desmotionChecklist": {
+      "description": "Checklist:",
+      "message": "Checklist:"
+   },
+   "desmousespotlighta": {
+      "description": "Εάν η λυχνία είναι σβηστή, δείχνουν ένα επίκεντρο γύρω από το δείκτη του ποντικιού.",
+      "message": "Εάν η λυχνία είναι σβηστή, δείχνουν ένα επίκεντρο γύρω από το δείκτη του ποντικιού."
+   },
+   "desmousespotlightc": {
+      "description": "Αν το φως είναι απενεργοποιημένη, μπορείτε να επιλέξετε μια περιοχή να εστιάσω ένα στοιχείο.",
+      "message": "Αν το φως είναι απενεργοποιημένη, μπορείτε να επιλέξετε μια περιοχή να εστιάσω ένα στοιχείο."
+   },
+   "desmousespotlighto": {
+      "description": "Κανονική χρήση (απενεργοποιεί τις παρακάτω ρυθμίσεις ποντικιού)",
+      "message": "Κανονική χρήση (απενεργοποιεί τις παρακάτω ρυθμίσεις ποντικιού)"
+   },
+   "desmousespotlightt": {
+      "description": "Επιτρέπει σε σας για να κάνετε κλικ μέσα από το σκοτεινό οθόνη όταν τα φώτα είναι ανοικτά.",
+      "message": "Επιτρέπει σε σας για να κάνετε κλικ μέσα από το σκοτεινό οθόνη όταν τα φώτα είναι ανοικτά."
+   },
+   "desnightenabletheme": {
+      "description": "Όταν ανοίγετε μια νέα σελίδα πάει αυτόματα να τη νυχτερινή λειτουργία.",
+      "message": "Όταν ανοίγετε μια νέα σελίδα πάει αυτόματα να τη νυχτερινή λειτουργία."
+   },
+   "desnightonly": {
+      "description": "Δείχνουν τη νυχτερινή λειτουργία μόνο ιστοδελίδες παρακάτω:",
+      "message": "Δείχνουν τη νυχτερινή λειτουργία μόνο ιστοδελίδες παρακάτω:"
+   },
+   "desnighttheme": {
+      "description": "Εμφάνιση κουμπιού διακόπτης νύχτα κάτω από την ιστοσελίδα για να κάνει την σελίδα σκοτάδι ή φως.",
+      "message": "Εμφάνιση κουμπιού διακόπτης νύχτα κάτω από την ιστοσελίδα για να κάνει την σελίδα σκοτάδι ή φως."
+   },
+   "desnoflash": {
+      "description": "Μην χρησιμοποιήσετε αυτήν τη δυνατότητα.",
+      "message": "Μην χρησιμοποιήσετε αυτήν τη δυνατότητα."
+   },
+   "despassword": {
+      "description": "Απαιτούν έναν κωδικό πρόσβασης που πρέπει να εγγραφούν πριν από την στροφή τα φώτα πίσω επάνω.",
+      "message": "Απαιτούν έναν κωδικό πρόσβασης που πρέπει να εγγραφούν πριν από την στροφή τα φώτα πίσω επάνω."
+   },
+   "desplaylist": {
+      "description": "Εμφάνιση της λίστας αναπαραγωγής του YouTube στην ιστοσελίδα του YouTube.",
+      "message": "Δείτε τη λίστα αναπαραγωγής του YouTube στην ιστοσελίδα YouTube."
+   },
+   "desproject": {
+      "description": "έργο",
+      "message": "έργο"
+   },
+   "desreadera": {
+      "description": "Πάντα να δείξει ο αμυδρότητα επίπεδο μπαρ, όταν τα φώτα σβήνουν.",
+      "message": "Να εμφανίζεται πάντα η μπάρα επιπέδου αμυδρότητας όταν τα φώτα σβήνουν."
+   },
+   "desreadern": {
+      "description": "Ποτέ δεν δείχνουν ο αμυδρότητα επίπεδο μπαρ.",
+      "message": "Να μην εμφανίζεται ποτέ η μπάρα επιπέδου αμυδρότητας."
+   },
+   "desrememberpage": {
+      "description": "Εάν αυτή η επιλογή είναι ενεργοποιημένη, θα σας δείξει σελίδα δεν θυμάμαι.",
+      "message": "Εάν αυτή η επιλογή είναι ενεργοποιημένη, θα σας δείξει σελίδα δεν θυμάμαι."
+   },
+   "dessaver": {
+      "description": "Προφύλαξη οθόνης:",
+      "message": "Προφύλαξη οθόνης:"
+   },
+   "dessharebutton": {
+      "description": "Δείχνουν τα κουμπιά μερίδιο του YouTube για αυτό το βίντεο.",
+      "message": "Δείτε τα κουμπιά share του YouTube για αυτό το βίντεο."
+   },
+   "desshortcutlight": {
+      "description": "Ενεργοποιήσετε τις παρακάτω συντομεύσεις πληκτρολογίου.",
+      "message": "Ενεργοποιήσετε τις παρακάτω συντομεύσεις πληκτρολογίου."
+   },
+   "desspeech": {
+      "description": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:",
+      "message": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "αναπαραγωγή βίντεο",
+      "message": "αναπαραγωγή βίντεο"
+   },
+   "desspeech4command": {
+      "description": "παύση βίντεο",
+      "message": "παύση βίντεο"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "Activate the Speech Recognition only the following site(s):",
+      "message": "Activate the Speech Recognition only the following site(s):"
+   },
+   "desspotlightradius": {
+      "description": "είναι η διάμετρος του φανού αναζήτηση.",
+      "message": "είναι η διάμετρος του φανού αναζήτηση."
+   },
+   "dessuggestions": {
+      "description": "Δείτε τις προτάσεις της ιστοσελίδας YouTube.",
+      "message": "Δείτε τις προτάσεις της ιστοσελίδας YouTube."
+   },
+   "destime": {
+      "description": "Φώτα μακριά μεταξύ τις ακόλουθες ώρες:",
+      "message": "Φώτα μακριά μεταξύ τις ακόλουθες ώρες:"
+   },
+   "destrymotion": {
+      "description": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc.",
+      "message": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc."
+   },
+   "desuntil": {
+      "description": "μέχρι",
+      "message": "μέχρι"
+   },
+   "desvideoheadline": {
+      "description": "Εμφάνιση και αναστρέψτε το χρώμα του βίντεο τίτλου.",
+      "message": "Δείτε και αναστρέψτε το χρώμα του τίτλου βίντεο."
+   },
+   "desviewcount": {
+      "description": "Εμφανίζεται ο αριθμός της προβολής για αυτό το βίντεο.",
+      "message": "Εμφανίζεται ο αριθμός της προβολής για αυτό το βίντεο."
+   },
+   "donatepromotext": {
+      "description": "Αν μπορείτε να κάνετε μια δωρεά οποιουδήποτε ποσού, εγώ θα το εκτιμούσα πάρα πολύ!",
+      "message": "Εάν μπορείτε να κάνετε μια δωρεά οποιουδήποτε ποσού, θα το εκτιμούσα πάρα πολύ!"
+   },
+   "eastereggsquestion": {
+      "description": "Σας αρέσει το πραγματικό σινεμά;",
+      "message": "Σας αρέσει το πραγματικό σινεμά;"
+   },
+   "enjoyshare": {
+      "description": "Απολαύστε αυτή η επέκταση και να το μοιραστείτε με άλλους που νομίζετε ότι θα το εκτιμούσα.",
+      "message": "Απολαύστε αυτή η επέκταση και να το μοιραστείτε με άλλους που νομίζετε ότι θα το εκτιμούσα."
+   },
+   "eyedivoff": {
+      "description": "ΜΑΚΡΙΆ",
+      "message": "ΜΑΚΡΙΆ"
+   },
+   "eyedivon": {
+      "description": "ON",
+      "message": "ON"
+   },
+   "friendlyremember": {
+      "description": "Θυμόμαστε φιλικό...",
+      "message": "Θυμόμαστε φιλικό..."
+   },
+   "guide": {
+      "description": "TOtL Καλώς ήρθατε Οδηγός",
+      "message": "TOtL Καλώς ήρθατε Οδηγός"
+   },
+   "help": {
+      "description": "Βοήθεια",
+      "message": "Βοήθεια"
+   },
+   "helpautoplay": {
+      "description": "Το μάτι προστασία ενεργοποιείται. Για να χρησιμοποιήσετε το παρακάτω χαρακτηριστικό, απενεργοποιήστε την επιλογή «Μάτι προστασία».",
+      "message": "Το μάτι προστασία ενεργοποιείται. Για να χρησιμοποιήσετε το παρακάτω χαρακτηριστικό, απενεργοποιήστε την επιλογή «Μάτι προστασία»."
+   },
+   "helpeyeprotection": {
+      "description": "Ενεργοποίηση «Προστασίας των ματιών» αυτόματα θα απενεργοποιήσει το χαρακτηριστικό 'Auto play'.",
+      "message": "Ενεργοποίηση «Προστασίας των ματιών» αυτόματα θα απενεργοποιήσει το χαρακτηριστικό 'Auto play'."
+   },
+   "hoveroptionapply": {
+      "description": "ισχύουν",
+      "message": "ισχύουν"
+   },
+   "hoveroptiondyn5": {
+      "description": "με πέταγμα",
+      "message": "με πέταγμα"
+   },
+   "howworkmotion": {
+      "description": "Πως λειτουργεί;",
+      "message": "Πως λειτουργεί;"
+   },
+   "installadblocker": {
+      "description": "Χρησιμοποιήστε με επέκταση: Adblocker.",
+      "message": "Χρησιμοποιήστε με επέκταση: Adblocker."
+   },
+   "lastchecked": {
+      "description": "Τελευταία έκδοση ελέγχονται σε",
+      "message": "Τελευταία έκδοση ελέγχονται σε"
+   },
+   "left": {
+      "description": "αριστερά",
+      "message": "αριστερά"
+   },
+   "lockentername": {
+      "description": "Παρακαλώ εισάγετε τον κωδικό σας",
+      "message": "Παρακαλώ εισάγετε τον κωδικό σας"
+   },
+   "lockwrongpassword": {
+      "description": "Λάθος κωδικό πρόσβασης, παρακαλώ προσπαθήστε ξανά.",
+      "message": "Λάθος κωδικό πρόσβασης, παρακαλώ προσπαθήστε ξανά."
+   },
+   "longdonatetext": {
+      "description": "Θα εκτιμούσα πραγματικά εάν μπορείτε να δωρίσετε μου για τη διαιώνιση αυτής επέκταση του προγράμματος περιήγησης για τους άλλους νέους χρήστες. Είτε πρόκειται για $$ 1 ή $$ 100, υποστήριξη σας είναι πάρα πολύ εκτίμησα!",
+      "message": "Θα εκτιμούσα πραγματικά εάν μπορείτε να δωρίσετε μου για τη διαιώνιση αυτής επέκταση του προγράμματος περιήγησης για τους άλλους νέους χρήστες. Είτε πρόκειται για $$ 1 ή $$ 100, υποστήριξη σας είναι πάρα πολύ εκτίμησα!"
+   },
+   "motionoptions": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "name": {
+      "description": "Σβήνετε τα φώτα",
+      "message": "Σβήνετε τα φώτα"
+   },
+   "nightoptions": {
+      "description": "Νυχτερινή λειτουργία",
+      "message": "Νυχτερινή λειτουργία"
+   },
+   "optionecosaversaved": {
+      "description": "Δευτερόλεπτα είναι αποθηκευμένο με επιτυχία!",
+      "message": "Δευτερόλεπτα είναι αποθηκευμένο με επιτυχία!"
+   },
+   "optionpagetitle": {
+      "description": "Επιλογή τίτλου σελίδας",
+      "message": "Turn Off the Lights - Επιλογές"
+   },
+   "optionpasswordsaved": {
+      "description": "Κωδικός πρόσβασης σώζεται με επιτυχία!",
+      "message": "Κωδικός πρόσβασης σώζεται με επιτυχία!"
+   },
+   "optiontimesaved": {
+      "description": "Ο χρόνος είναι αποθηκευμένο με επιτυχία!",
+      "message": "Ο χρόνος αποθηκεύτηκε επιτυχώς!"
+   },
+   "optionwrongimg": {
+      "description": "Μη έγκυρη εικόνα αρχείο!",
+      "message": "Μη έγκυρη εικόνα αρχείο!"
+   },
+   "pageatitle": {
+      "description": "Σβήνετε τα φώτα",
+      "message": "Σβήνετε τα φώτα"
+   },
+   "pagehelp": {
+      "description": "Βοήθεια",
+      "message": "Βοήθεια"
+   },
+   "pagestillloading": {
+      "description": "The σελίδα is φόρτωση ακόμα;",
+      "message": "The σελίδα is φόρτωση ακόμα;"
+   },
+   "pagetitle": {
+      "description": "Σκουρύνει αυτή τη σελίδα",
+      "message": "Πιο σκούρο σε αυτή τη σελίδα"
+   },
+   "productshare": {
+      "description": "Μερίδιο",
+      "message": "Μερίδιο"
+   },
+   "ratedes": {
+      "description": "And let everyone know about this great extension!",
+      "message": "And let everyone know about this great extension!"
+   },
+   "rateitema": {
+      "description": "Rate 5 stars",
+      "message": "Rate 5 stars"
+   },
+   "ratetitle": {
+      "description": "Please rate & review my extension",
+      "message": "Please rate & review my extension"
+   },
+   "recflash": {
+      "description": "Συνιστάται",
+      "message": "Συνιστάται"
+   },
+   "rememberrate": {
+      "description": "Ποσοστό",
+      "message": "Ποσοστό"
+   },
+   "reportbug": {
+      "description": "Αναφέρω ένα πρόβλημα",
+      "message": "Αναφορά προβλήματος"
+   },
+   "reportlist": {
+      "description": "Δείτε τη λίστα γεμάτος θέμα",
+      "message": "(βλέπε κατάλογο)"
+   },
+   "resetbrowserextension": {
+      "description": "Reset the Turn Off the Lights settings",
+      "message": "Reset the Turn Off the Lights settings"
+   },
+   "right": {
+      "description": "δικαίωμα",
+      "message": "δικαίωμα"
+   },
+   "settings": {
+      "description": "Ρυθμίσεις",
+      "message": "Ρυθμίσεις"
+   },
+   "shortcutalllights": {
+      "description": "για να εναλλάξετε τα φώτα on/off για όλες τις ανοιχτές καρτέλες.",
+      "message": "για να εναλλάξετε τα φώτα on/off για όλες τις ανοιχτές καρτέλες."
+   },
+   "shortcutbright": {
+      "description": "να φωτίζουν την οθόνη (μείωση αδιαφάνεια).",
+      "message": "να φωτίζουν την οθόνη (μείωση αδιαφάνεια)."
+   },
+   "shortcutdark": {
+      "description": "να σκουραίνει την οθόνη (αύξηση αδιαφάνεια).",
+      "message": "να σκουραίνει την οθόνη (αύξηση αδιαφάνεια)."
+   },
+   "shortcuteyeprotection": {
+      "description": "να ενεργοποιήσετε/απενεργοποιήσετε τη λειτουργία προστασίας ματιών.",
+      "message": "να ενεργοποιήσετε/απενεργοποιήσετε τη λειτουργία προστασίας ματιών."
+   },
+   "shortcutopacity": {
+      "description": "να επαναφέρετε το σύνολο σκοτάδι (αδιαφάνεια) ρύθμιση.",
+      "message": "να επαναφέρετε το σύνολο σκοτάδι (αδιαφάνεια) ρύθμιση."
+   },
+   "shortcutsavingopacity": {
+      "description": "για να αποθηκεύσετε αυτή τιμή αδιαφάνεια",
+      "message": "για να αποθηκεύσετε αυτή τιμή αδιαφάνεια"
+   },
+   "shortcuttotl": {
+      "description": "για να εναλλάξετε τα φώτα, on/off.",
+      "message": "για να εναλλάξετε τα φώτα, on/off."
+   },
+   "showremember": {
+      "description": "δεν εμφανίζει αυτή τη σελίδα θυμηθείτε και πάλι όταν ανοίγω την προαίρεση σελίδα.",
+      "message": "δεν εμφανίζει αυτή τη σελίδα θυμηθείτε και πάλι όταν ανοίγω την προαίρεση σελίδα."
+   },
+   "skipremember": {
+      "description": "Παραλείψετε αυτό, και να ανοίξετε τώρα τη σελίδα επιλογή",
+      "message": "Παραλείψτε αυτό και τώρα ανοίξτε τη σελίδα επιλογών"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Speech Recognition"
+   },
+   "step1description": {
+      "description": "Enable the Camera Motion feature",
+      "message": "Enable the Camera Motion feature"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Then the black layer slide automatically down.",
+      "message": "Then the black layer slide automatically down."
+   },
+   "textfoot": {
+      "description": "Αυτό το λογισμικό είναι με άδεια CC-GNU GPL. Για να δείτε ένα αντίγραφο αυτής της άδειας χρήσης, επισκεφθείτε",
+      "message": "Αυτό το λογισμικό υπό την άδεια CC-GNU GPL. Για να δείτε ένα αντίγραφο αυτής της άδειας, επισκεφτείτε"
+   },
+   "titeladdvideobutton": {
+      "description": "Κουμπί \"Προσθήκη\"",
+      "message": "Κουμπί \"Προσθήκη\""
+   },
+   "titelalllightsoff": {
+      "description": "Όλων των ανοικτών καρτελών",
+      "message": "Όλων των ανοικτών καρτελών"
+   },
+   "titelambilight": {
+      "description": "Ατμόσφαιρα φωτισμού",
+      "message": "Ατμόσφαιρα φωτισμού"
+   },
+   "titelapideveloper": {
+      "description": "Προγραμματιστής API",
+      "message": "Προγραμματιστής API"
+   },
+   "titelautoplay": {
+      "description": "Αυτόματο παιχνίδι",
+      "message": "Αυτόματη αναπαραγωγή"
+   },
+   "titelautoplayblacklist": {
+      "description": "Μαύρη Λίστα",
+      "message": "Μαύρη Λίστα"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Λευκή Λίστα",
+      "message": "Λευκή Λίστα"
+   },
+   "titelautowidthyoutube": {
+      "description": "Ορίζουν αυτόματα ο παίκτης YouTube για το μεγαλύτερο μέγεθος.",
+      "message": "Ορίζουν αυτόματα ο παίκτης YouTube για το μεγαλύτερο μέγεθος."
+   },
+   "titelblur": {
+      "description": "Θάμπωμα το υπόλοιπο",
+      "message": "Θάμπωμα το υπόλοιπο"
+   },
+   "titelblurradius": {
+      "description": "Η θαμπάδα ακτίνα",
+      "message": "Η θαμπάδα ακτίνα"
+   },
+   "titelcamera": {
+      "description": "Κάμερα",
+      "message": "Κάμερα"
+   },
+   "titelcinemaontop": {
+      "description": "Ταινία θέατρο λειτουργία: αυτό δείχνουν το «φώτα» στρώμα μόνο στην κορυφή του παραθύρου.",
+      "message": "Λειτουργία κινηματογράφου: δείχνει το στρώμα \"Απενεργοποιημένα φώτα\" μόνο στην κορυφή του παραθύρου."
+   },
+   "titelcolor": {
+      "description": "Χρώμα",
+      "message": "Χρώμα"
+   },
+   "titelcolora": {
+      "description": "Χρώμα Α",
+      "message": "Χρώμα Α"
+   },
+   "titelcolorb": {
+      "description": "Χρώμα B",
+      "message": "Χρώμα B"
+   },
+   "titelcontextmenus": {
+      "description": "Μενού περιβάλλοντος",
+      "message": "Μενού"
+   },
+   "titeldeveloper": {
+      "description": "Προγραμματιστής",
+      "message": "Προγραμματιστής"
+   },
+   "titeldownloadbutton": {
+      "description": "Λήψη αυτής της αναβάθμισης!",
+      "message": "Λήψη αυτής της αναβάθμισης!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser.",
+      "message": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser."
+   },
+   "titeldownloadupgrade": {
+      "description": "Την αναβάθμιση προσθέτει υποστήριξη για την εστίαση των επιλεγμένων εικόνων, και θα εμφανίσει μια στοά των εικόνων στο χώρο.",
+      "message": "Την αναβάθμιση προσθέτει υποστήριξη για την εστίαση των επιλεγμένων εικόνων, και θα εμφανίσει μια στοά των εικόνων στο χώρο."
+   },
+   "titeldynamic": {
+      "description": "Δυναμική φόντο",
+      "message": "Δυναμική φόντο"
+   },
+   "titeleastereggs": {
+      "description": "Πασχαλινά αυγά",
+      "message": "Πασχαλινά αυγά"
+   },
+   "titeleye": {
+      "description": "Προστασία ματιών",
+      "message": "Προστασία των ματιών"
+   },
+   "titelfadein": {
+      "description": "Fade In",
+      "message": "Fade In"
+   },
+   "titelfadeout": {
+      "description": "Fade Out",
+      "message": "Fade Out"
+   },
+   "titelflash": {
+      "description": "Flash ανίχνευση",
+      "message": "Ανίχνευση Flash"
+   },
+   "titelhead": {
+      "description": "Κανάλι",
+      "message": "Κανάλι"
+   },
+   "titelimage": {
+      "description": "Εικόνα φόντου",
+      "message": "Εικόνα φόντου"
+   },
+   "titelinfobar": {
+      "description": "Γραμμή πληροφοριών",
+      "message": "Μπάρα πληροφοριών"
+   },
+   "titellamp": {
+      "description": "Λάμπα",
+      "message": "Λάμπα"
+   },
+   "titellampregular": {
+      "description": "Show always the lamp icon in the omnibox",
+      "message": "Show always the lamp icon in the omnibox"
+   },
+   "titellampvideo": {
+      "description": "Show the lamp icon only if a video player is detected",
+      "message": "Show the lamp icon only if a video player is detected"
+   },
+   "titellessmore": {
+      "description": "Δείξε λιγότερα",
+      "message": "Δείξε λιγότερα"
+   },
+   "titellikebar": {
+      "description": "Όπως μπαρ",
+      "message": "Γραμμή Αρέσκειας"
+   },
+   "titellikebutton": {
+      "description": "Όπως & αντιπαθούν κουμπιά",
+      "message": "Κουμπιά Like & Dislike"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "Να τίθεται αυτόματα σε αυτό το ψήφισμα:",
+      "message": "Να τίθεται αυτόματα σε αυτό το ψήφισμα:"
+   },
+   "titelmouse": {
+      "description": "Ποντίκι",
+      "message": "Ποντίκι"
+   },
+   "titelnighttheme": {
+      "description": "Νυχτερινή λειτουργία",
+      "message": "Νυχτερινή λειτουργία"
+   },
+   "titeloff": {
+      "description": "Μακριά",
+      "message": "Μακριά"
+   },
+   "titelon": {
+      "description": "Για",
+      "message": "Για"
+   },
+   "titelopacity": {
+      "description": "Αδιαφάνεια",
+      "message": "Αδιαφάνεια"
+   },
+   "titelpageaction": {
+      "description": "Απόκρυψη εικονίδιο pageaction",
+      "message": "Απόκρυψη εικονιδίου λαμπτήρα"
+   },
+   "titelpassword": {
+      "description": "Προστασία με κωδικό πρόσβασης",
+      "message": "Προστασία με κωδικό πρόσβασης"
+   },
+   "titelplaylist": {
+      "description": "Λίστα αναπαραγωγής",
+      "message": "Λίστα αναπαραγωγής"
+   },
+   "titelqualityyoutube": {
+      "description": "Αυτόματα να ρυθμίσετε την ποιότητα του βίντεο YouTube.",
+      "message": "Αυτόματα να ρυθμίσετε την ποιότητα του βίντεο YouTube."
+   },
+   "titelreader": {
+      "description": "Μπαρ επίπεδο αμυδρότητα",
+      "message": "Μπάρα επιπέδου αμυδρότητας"
+   },
+   "titelrememberpage": {
+      "description": "Θυμηθείτε σελίδα",
+      "message": "Θυμηθείτε σελίδα"
+   },
+   "titelreset": {
+      "description": "Επαναφορά ρυθμίσεων",
+      "message": "Επαναφορά ρυθμίσεων"
+   },
+   "titelrightsreserved": {
+      "description": "Κατοχυρωμένα κάποια δικαιώματα.",
+      "message": "Κατοχυρωμένα κάποια δικαιώματα."
+   },
+   "titelscreen": {
+      "description": "Οθόνη",
+      "message": "Οθόνη"
+   },
+   "titelseeonline": {
+      "description": "See online for more examples",
+      "message": "See online for more examples"
+   },
+   "titelsharebutton": {
+      "description": "Κουμπιά μοιραστείτε",
+      "message": "Κουμπιά share"
+   },
+   "titelshortcutlight": {
+      "description": "Πλήκτρο συντόμευσης",
+      "message": "Πλήκτρο συντόμευσης"
+   },
+   "titelshowmore": {
+      "description": "Εμφάνισε περισσότερα",
+      "message": "Εμφάνισε περισσότερα"
+   },
+   "titelspeech": {
+      "description": "Ομιλία",
+      "message": "Ομιλία"
+   },
+   "titelspreadradius": {
+      "description": "Η ακτίνα εξάπλωση",
+      "message": "Η ακτίνα εξάπλωση"
+   },
+   "titelsuggestions": {
+      "description": "Προτάσεις",
+      "message": "Προτάσεις"
+   },
+   "titelsupportatmos": {
+      "description": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card.",
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card."
+   },
+   "titelsync": {
+      "description": "Συγχρονισμού",
+      "message": "Συγχρονισμού"
+   },
+   "titelsyncbrowser": {
+      "description": "Συγχρονίστε τις ρυθμίσεις επέκτασης με σας άλλο browser.",
+      "message": "Συγχρονίστε τις ρυθμίσεις επέκτασης με σας άλλο browser."
+   },
+   "titelupgrade": {
+      "description": "Αναβάθμιση",
+      "message": "Αναβάθμιση"
+   },
+   "titelvideoheadline": {
+      "description": "Βίντεο τίτλος",
+      "message": "Τίτλος Βίντεο"
+   },
+   "titelvideosample": {
+      "description": "Video Sample",
+      "message": "Video Sample"
+   },
+   "titelviewcount": {
+      "description": "Αριθμός απόψεων",
+      "message": "Αριθμός των Views"
+   },
+   "titelwebsite": {
+      "description": "Ιστοσελίδα",
+      "message": "Ιστοσελίδα"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "Δωρίσουν",
+      "message": "Δωρίσουν"
+   },
+   "top": {
+      "description": "κορυφή",
+      "message": "κορυφή"
+   },
+   "translateme": {
+      "description": "Βοηθήστε να μεταφραστεί",
+      "message": "Βοηθήστε να μεταφραστεί"
+   },
+   "trymotion": {
+      "description": "Try it yourself!",
+      "message": "Try it yourself!"
+   },
+   "upgradecontextitemma": {
+      "description": "light off with your hand",
+      "message": "light off with your hand"
+   },
+   "upgradecontextitemmb": {
+      "description": "Control the web page more accurately",
+      "message": "Control the web page more accurately"
+   },
+   "upgradecontextitemta": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "upgradecontextitemtb": {
+      "description": "Speech Recognition",
+      "message": "Speech Recognition"
+   },
+   "upgradecontextmessage": {
+      "description": "That make this extension even more amazing",
+      "message": "That make this extension even more amazing"
+   },
+   "upgradecontexttitle": {
+      "description": "We have added some new features for you",
+      "message": "We have added some new features for you"
+   },
+   "upgradefbshare": {
+      "description": "Facebook Share",
+      "message": "Facebook Share"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "Έκδοση κειμένων αριθμών",
+      "message": "Έκδοση"
+   },
+   "videotitle": {
+      "description": "Εστίαση αυτό το βίντεο",
+      "message": "Focus σε αυτό το βίντεο"
+   },
+   "visualeffects": {
+      "description": "Οπτικά εφέ",
+      "message": "Οπτικά Εφέ"
+   },
+   "warning": {
+      "description": "Προειδοποίηση!",
+      "message": "Προειδοποίηση!"
+   },
+   "warningtextambilight": {
+      "description": "Αν είναι σε θέση να λάβει βίντεο δεδομένα λόγω του κανόνα ασφαλείας μιας τοποθεσίας, κατόπιν θα παρουσιάσει το επιλεγμένες αμιγές χρώμα αντί.",
+      "message": "Αν είναι σε θέση να λάβει βίντεο δεδομένα λόγω του κανόνα ασφαλείας μιας τοποθεσίας, κατόπιν θα παρουσιάσει το επιλεγμένες αμιγές χρώμα αντί."
+   }
+}

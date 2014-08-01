@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "apply": {
+      "message": "Bruk"
+   },
+   "audio_default_filename": {
+      "message": "Lyd uten navn"
+   },
+   "authorization_needed": {
+      "message": "Du må autorisere Lagre på Google Disk."
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cannot_capture_chrome": {
+      "message": "Kan ikke ta skjermdump av Chrome-sider. Prøv med en vanlig nettside."
+   },
+   "change_dest_folder": {
+      "message": "Bytt målmappe"
+   },
+   "chrome_extension_name": {
+      "message": "Lagre på Google Disk"
+   },
+   "close": {
+      "message": "Lukk"
+   },
+   "convert_to_google_format": {
+      "message": "Konverter den lagrede linken til et Google-dokument"
+   },
+   "debug": {
+      "message": "Feilsøk"
+   },
+   "default_filename": {
+      "message": "Uten navn"
+   },
+   "download_canceled": {
+      "message": "Nedlasting avbrutt."
+   },
+   "download_failure": {
+      "message": "Feil ved nedlasting: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Nedlastingsfeil: Ingen data mottatt."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Nedlastingsfeil: Kildefilen er for stor ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Laster ned $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Laster ned ..."
+   },
+   "empty_page_capture": {
+      "message": "Kan ikke lagre innholdet på siden som MHTML."
+   },
+   "enable_file_url": {
+      "message": "Nettadresser til filer må må være aktivert med alternativet «Tillat tilgang til filnettadresser» på innstillingssiden for utvidelser."
+   },
+   "ext_description": {
+      "message": "Lagre nettinnhold eller skjermdumper direkte i Google Disk."
+   },
+   "failure_page_capture": {
+      "message": "Kan ikke lagre innholdet på siden som MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Send tilbakemelding (bare internt)"
+   },
+   "file_bug_internal": {
+      "message": "Send inn en feilmelding (bare internt)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> ble lagret i \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">endre\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> har blitt flyttet til papirkurven. Gå til \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Disk\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Disk"
+   },
+   "help": {
+      "message": "Hjelp"
+   },
+   "html_default_filename": {
+      "message": "HTML uten navn"
+   },
+   "image_capture_failed": {
+      "message": "Bildeopptak mislyktes"
+   },
+   "image_capture_failed_reason": {
+      "message": "Bildeopptak mislyktes ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Bilde uten navn"
+   },
+   "invalid_url": {
+      "message": "Ugyldig nettadresse: $1. Nedlastede nettadresser må starte med http://, https:// eller file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Sidelagring uten navn.mht"
+   },
+   "misc": {
+      "message": "Div."
+   },
+   "my_drive": {
+      "message": "Min disk"
+   },
+   "options_header_text": {
+      "message": "Utvidelsesalternativer for Lagre på Google Disk"
+   },
+   "options_title": {
+      "message": "Alternativer for Lagre på Google Disk"
+   },
+   "page_size_not_supported": {
+      "message": "Sidestørrelsen støttes ikke: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF uten navn"
+   },
+   "percent": {
+      "message": "$1 % utført",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Personvern"
+   },
+   "rename": {
+      "message": "Gi nytt navn"
+   },
+   "rename_prompt": {
+      "message": "Gi nytt navn:"
+   },
+   "save_as_html": {
+      "message": "HTML-kilde (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google-dokument"
+   },
+   "save_as_image_entire": {
+      "message": "Bilde av hele siden (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Bilde av synlig side (. Png)"
+   },
+   "save_as_mhtml": {
+      "message": "Nettarkiv (.mht)"
+   },
+   "save_audio": {
+      "message": "Lagre lyd i Google Disk"
+   },
+   "save_image": {
+      "message": "Lagre bilde i Google Disk"
+   },
+   "save_link": {
+      "message": "Lagre link i Google Disk"
+   },
+   "save_page_as": {
+      "message": "Lagre siden som:"
+   },
+   "save_to_folder_text": {
+      "message": "Lagringsmappe"
+   },
+   "save_to_google_drive_action": {
+      "message": "Lagre på Google Disk"
+   },
+   "save_video": {
+      "message": "Lagre video i Google Disk"
+   },
+   "saving": {
+      "message": "Lagrer $1 i Google Disk ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Velg en mappe å lagre i"
+   },
+   "send_feedback": {
+      "message": "Send tilbakemelding"
+   },
+   "sign_out": {
+      "message": "Logg av"
+   },
+   "start_download_exception": {
+      "message": "Start av nedlasting mislyktes: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Tekst uten navn"
+   },
+   "trash": {
+      "message": "Papirkurv"
+   },
+   "unspecified_error": {
+      "message": "Uspesifisert feil"
+   },
+   "upload_canceled": {
+      "message": "Opplasting avbrutt"
+   },
+   "upload_failure": {
+      "message": "Opplastingsfeil: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Laster opp $1 til Google Disk ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Åpne linken\u003C/a>, og lagre siden med Lagre på Google Disk-knappen til høyre for adresselinjen.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Dette er en link til en nettside"
+   },
+   "video_default_filename": {
+      "message": "Video uten navn"
+   },
+   "xml_default_filename": {
+      "message": "XML uten navn"
+   }
+}

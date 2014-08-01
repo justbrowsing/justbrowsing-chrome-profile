@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Účet"
+   },
+   "apply": {
+      "message": "Použít"
+   },
+   "audio_default_filename": {
+      "message": "Zvukový soubor bez názvu"
+   },
+   "authorization_needed": {
+      "message": "Musíte udělit oprávnění rozšíření Uložit na Disk Google."
+   },
+   "cancel": {
+      "message": "Zrušit"
+   },
+   "cannot_capture_chrome": {
+      "message": "Snímek interních stránek prohlížeče Chrome nelze pořídit. Zkuste použít standardní webovou stránku."
+   },
+   "change_dest_folder": {
+      "message": "Změnit cílovou složku…"
+   },
+   "chrome_extension_name": {
+      "message": "Uložit na Disk Google"
+   },
+   "close": {
+      "message": "Zavřít"
+   },
+   "convert_to_google_format": {
+      "message": "Převést uložený odkaz do formátu editoru Google"
+   },
+   "debug": {
+      "message": "Ladit"
+   },
+   "default_filename": {
+      "message": "Bez názvu"
+   },
+   "download_canceled": {
+      "message": "Stahování bylo zrušeno."
+   },
+   "download_failure": {
+      "message": "Stahování se nezdařilo: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Stažení se nezdařilo: Nebyla přijata žádná data."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Stažení se nezdařilo: Zdrojový soubor je příliš velký ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Probíhá stahování souboru $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Probíhá stahování..."
+   },
+   "empty_page_capture": {
+      "message": "Nelze zaznamenat obsah stránky ve formátu MHTML."
+   },
+   "enable_file_url": {
+      "message": "Adresy URL souborů musí být povoleny prostřednictvím volby Povolit přístup k adresám URL souborů, která se nachází na stránce Nastavení rozšíření."
+   },
+   "ext_description": {
+      "message": "Uložte webový obsah nebo snímek obrazovky přímo do aplikace Disk Google."
+   },
+   "failure_page_capture": {
+      "message": "Nelze zaznamenat obsah stránky ve formátu MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Odeslat zpětnou vazbu (pouze interní)"
+   },
+   "file_bug_internal": {
+      "message": "Oznámit chybu (pouze interní)"
+   },
+   "file_was_saved": {
+      "message": "Soubor \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> byl uložen do složky \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">změnit\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Soubor \u003Cspan id=\"$1\">\u003C/span> byl přesunut od koše. Přejít na aplikaci \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Disk Google\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Disk Google"
+   },
+   "help": {
+      "message": "Nápověda"
+   },
+   "html_default_filename": {
+      "message": "HTML bez názvu"
+   },
+   "image_capture_failed": {
+      "message": "Záznam obrázku se nezdařil"
+   },
+   "image_capture_failed_reason": {
+      "message": "Záznam obrázku se nezdařil ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Obrázek bez názvu"
+   },
+   "invalid_url": {
+      "message": "Neplatná adresa: $1. Stažené adresy musejí začínat na http://, https:// nebo file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Záznam stránky bez názvu.mht"
+   },
+   "misc": {
+      "message": "Různé"
+   },
+   "my_drive": {
+      "message": "Můj disk"
+   },
+   "options_header_text": {
+      "message": "Možnosti rozšíření Uložit na Disk Google"
+   },
+   "options_title": {
+      "message": "Možnosti pro Uložit na Disk Google"
+   },
+   "page_size_not_supported": {
+      "message": "Velikost stránky není podporována: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF bez názvu"
+   },
+   "percent": {
+      "message": "$1 % hotovo",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Ochrana soukromí"
+   },
+   "rename": {
+      "message": "Přejmenovat"
+   },
+   "rename_prompt": {
+      "message": "Přejmenovat:"
+   },
+   "save_as_html": {
+      "message": "Zdroj HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Dokument Google"
+   },
+   "save_as_image_entire": {
+      "message": "Snímek celé stránky (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Obrázek viditelné stránky (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Webový archiv (.mht)"
+   },
+   "save_audio": {
+      "message": "Uložit audio do služby Disk Google"
+   },
+   "save_image": {
+      "message": "Uložit obrázek do služby Disk Google"
+   },
+   "save_link": {
+      "message": "Uložit odkaz do služby Disk Google"
+   },
+   "save_page_as": {
+      "message": "Uložit stránku jako:"
+   },
+   "save_to_folder_text": {
+      "message": "Složka pro ukládání"
+   },
+   "save_to_google_drive_action": {
+      "message": "Uložit do služby Disk Google"
+   },
+   "save_video": {
+      "message": "Uložit video do služby Disk Google"
+   },
+   "saving": {
+      "message": "Ukládání souboru $1 do služby Disk Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Vyberte složku pro ukládání"
+   },
+   "send_feedback": {
+      "message": "Odeslat zpětnou vazbu"
+   },
+   "sign_out": {
+      "message": "Odhlásit se"
+   },
+   "start_download_exception": {
+      "message": "Při zahájení stahování došlo k chybě: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Text bez názvu"
+   },
+   "trash": {
+      "message": "Koš"
+   },
+   "unspecified_error": {
+      "message": "Nespecifikovaná chyba"
+   },
+   "upload_canceled": {
+      "message": "Nahrávání zrušeno"
+   },
+   "upload_failure": {
+      "message": "Chyba při nahrávání: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Nahrávání souboru $1 do služby Disk Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Otevřete odkaz\u003C/a> a uložte stránku pomocí tlačítka Uložit do služby Disk Google {1}IMAGE_TAG{/1} vpravo od adresního řádku.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Toto je odkaz na webovou stránku"
+   },
+   "video_default_filename": {
+      "message": "Video bez názvu"
+   },
+   "xml_default_filename": {
+      "message": "XML bez názvu"
+   }
+}

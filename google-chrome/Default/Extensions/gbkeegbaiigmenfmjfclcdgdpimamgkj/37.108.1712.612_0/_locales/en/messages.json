@@ -1,0 +1,34 @@
+{
+   "app_error_learn_more": {
+      "description": "The link people can use to be taken to the support pages in case an error occurred.",
+      "message": "Learn more"
+   },
+   "app_nacl_crash_report": {
+      "description": "Generic error message detail, shown with above previous whenever we detect the plugin has crashed.",
+      "message": "Report an issue..."
+   },
+   "application_description": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Document editing"
+   },
+   "extension_description": {
+      "description": "The description of the application, displayed in extensions manager.",
+      "message": "View and edit Microsoft Word, Excel, and PowerPoint files with Google Docs, Sheets, and Slides"
+   },
+   "extension_name": {
+      "description": "The name of the application, displayed in extensions manager.",
+      "message": "Office Editing for Docs, Sheets & Slides"
+   },
+   "file_loading_spinner_label": {
+      "description": "Loading string in lower left corner displayed when a document is loaded in the viewer.",
+      "message": "Loading"
+   },
+   "file_not_found_msg": {
+      "description": "Error shown when file downloads (blue links) fail to be downloaded.",
+      "message": "The file you've requested has up and moved."
+   },
+   "file_not_found_title": {
+      "description": "Error shown when file downloads (blue links) fail to be downloaded.",
+      "message": "File not found."
+   }
+}

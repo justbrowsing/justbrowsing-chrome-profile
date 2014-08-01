@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Další informace"
+   },
+   "app_nacl_crash_report": {
+      "message": "Nahlásit problém..."
+   },
+   "application_description": {
+      "message": "Úprava dokumentů"
+   },
+   "extension_description": {
+      "message": "Zobrazení a úpravy souborů aplikací Microsoft Word, Excel a PowerPoint pomocí Dokumentů, Tabulek a Prezentací Google"
+   },
+   "extension_name": {
+      "message": "Úpravy souborů systému Office v Dokumentech, Tabulkách a Prezentacích Google"
+   },
+   "file_loading_spinner_label": {
+      "message": "Načítání"
+   },
+   "file_not_found_msg": {
+      "message": "Požadovaný soubor se někam poděl."
+   },
+   "file_not_found_title": {
+      "message": "Soubor nebyl nalezen."
+   }
+}

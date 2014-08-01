@@ -20,10 +20,10 @@
       }
    },
    "errorgeneratingsnapshot": {
-      "message": "Une erreur s'est produite lors de la cr\u00E9ation de l'instantan\u00E9."
+      "message": "Une erreur s'est produite lors de la création de l'instantané."
    },
    "errorretrieving": {
-      "message": "Impossible de se connecter \u00E0 vos appareils mobiles. $1",
+      "message": "Impossible de se connecter à vos appareils mobiles. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -31,10 +31,10 @@
       }
    },
    "extensiondescription": {
-      "message": "Envoyez des pages Web de Google\u00A0Chrome sur votre ordinateur vers Google\u00A0Chrome sur votre t\u00E9l\u00E9phone ou votre tablette."
+      "message": "Envoyez des pages Web de Google Chrome sur votre ordinateur vers Google Chrome sur votre téléphone ou votre tablette."
    },
    "extensionname": {
-      "message": "Chrome\u00A0to\u00A0Mobile"
+      "message": "Chrome to Mobile"
    },
    "help": {
       "message": "Aide"
@@ -43,10 +43,10 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "includesnapshotmessage": {
-      "message": "Envoyer \u00E9galement une copie pour consultation hors connexion (en cours de cr\u00E9ation\u2026)"
+      "message": "Envoyer également une copie pour consultation hors connexion (en cours de création…)"
    },
    "includesnapshotmessagewithsize": {
-      "message": "Envoyer \u00E9galement une copie pour consultation hors connexion ($1)",
+      "message": "Envoyer également une copie pour consultation hors connexion ($1)",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -60,7 +60,7 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "nomobiledevicesfound": {
-      "message": "Aucun appareil trouv\u00E9. Veuillez connecter un appareil mobile. $1",
+      "message": "Aucun appareil trouvé. Veuillez connecter un appareil mobile. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -84,7 +84,7 @@
       }
    },
    "progress3": {
-      "message": "$1\u2026",
+      "message": "$1…",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -109,18 +109,18 @@
       }
    },
    "sendthispagetolist": {
-      "message": "Envoyer cette page vers\u00A0:"
+      "message": "Envoyer cette page vers :"
    },
    "sent": {
-      "message": "Envoi r\u00E9ussi."
+      "message": "Envoi réussi."
    },
    "snapshotdisabledmessage": {
-      "message": "Cette version de Google\u00A0Chrome n'est pas compatible avec les instantan\u00E9s. Ceux-ci constituent la copie consultable hors connexion d'une page. Assurez-vous d'utiliser la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Eversion en d\u00E9veloppement\u003C/a\u003E pour utiliser les instantan\u00E9s."
+      "message": "Cette version de Google Chrome n'est pas compatible avec les instantanés. Ceux-ci constituent la copie consultable hors connexion d'une page. Assurez-vous d'utiliser la \u003Ca href='javascript:void()' onclick='openDevChannelTab()'>version en développement\u003C/a> pour utiliser les instantanés."
    },
    "tryagain": {
-      "message": "R\u00E9essayer"
+      "message": "Réessayer"
    },
    "welcomemessage": {
-      "message": "Envoyez des pages Web vers votre t\u00E9l\u00E9phone ou votre tablette."
+      "message": "Envoyez des pages Web vers votre téléphone ou votre tablette."
    }
 }

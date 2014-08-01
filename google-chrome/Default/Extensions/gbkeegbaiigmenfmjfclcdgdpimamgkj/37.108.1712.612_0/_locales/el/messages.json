@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Μάθετε περισσότερα"
+   },
+   "app_nacl_crash_report": {
+      "message": "Αναφορά προβλήματος..."
+   },
+   "application_description": {
+      "message": "Επεξεργασία εγγράφου"
+   },
+   "extension_description": {
+      "message": "Προβολή και επεξεργασία αρχείων Microsoft Word, Excel και PowerPoint με τα Έγγραφα, τα Υπολογιστικά φύλλα και τις Παρουσιάσεις Google"
+   },
+   "extension_name": {
+      "message": "Επεξεργασία αρχείων Office στα Έγγραφα, Υπολογιστικά φύλλα και στις Παρουσιάσεις"
+   },
+   "file_loading_spinner_label": {
+      "message": "Φόρτωση"
+   },
+   "file_not_found_msg": {
+      "message": "Το αρχείο που ζητήσατε έχει μετακινηθεί."
+   },
+   "file_not_found_title": {
+      "message": "Δεν βρέθηκε το αρχείο."
+   }
+}

@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "계정"
+   },
+   "apply": {
+      "message": "적용"
+   },
+   "audio_default_filename": {
+      "message": "제목없는 오디오"
+   },
+   "authorization_needed": {
+      "message": "Google 드라이브에 저장을(를) 인증해야 합니다."
+   },
+   "cancel": {
+      "message": "취소"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome 페이지를 화면 캡처할 수 없습니다. 표준 웹 페이지로 시도해 보세요."
+   },
+   "change_dest_folder": {
+      "message": "대상 폴더 변경..."
+   },
+   "chrome_extension_name": {
+      "message": "Google 드라이브에 저장"
+   },
+   "close": {
+      "message": "닫기"
+   },
+   "convert_to_google_format": {
+      "message": "저장된 링크를 Google 편집기 형식으로 변환"
+   },
+   "debug": {
+      "message": "디버그"
+   },
+   "default_filename": {
+      "message": "제목없음"
+   },
+   "download_canceled": {
+      "message": "다운로드가 취소되었습니다."
+   },
+   "download_failure": {
+      "message": "다운로드 실패: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "다운로드 실패: 수신된 데이터가 없습니다."
+   },
+   "download_failure_too_big_mb": {
+      "message": "다운로드 실패: 소스가 너무 큽니다($1MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 다운로드 중...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "다운로드 중..."
+   },
+   "empty_page_capture": {
+      "message": "페이지의 콘텐츠를 MHTML로 캡처할 수 없습니다."
+   },
+   "enable_file_url": {
+      "message": "파일 URL은 확장자 설정 페이지에서 '파일 URL에 액세스 허용' 옵션을 활성화해야 합니다."
+   },
+   "ext_description": {
+      "message": "웹 콘텐츠 또는 화면 캡처를 Google 드라이브에 직접 저장합니다."
+   },
+   "failure_page_capture": {
+      "message": "페이지의 콘텐츠를 MHTML로 캡처할 수 없습니다. $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "의견 보내기(내부용)"
+   },
+   "file_bug_internal": {
+      "message": "버그 신고(내부용)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a>이(가) \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>에 저장되었습니다. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">변경\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span>을(를) 휴지통으로 이동했습니다. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google 드라이브\u003C/a>(으)로 이동하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google 드라이브"
+   },
+   "help": {
+      "message": "도움말"
+   },
+   "html_default_filename": {
+      "message": "제목없는 HTML"
+   },
+   "image_capture_failed": {
+      "message": "이미지를 캡처하지 못했습니다."
+   },
+   "image_capture_failed_reason": {
+      "message": "이미지를 캡처하지 못했습니다($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "제목없는 이미지"
+   },
+   "invalid_url": {
+      "message": "잘못된 URL: $1. 다운로드된 URL은 http://, https:// 또는 file://로 시작해야 합니다.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "제목 없는 페이지 캡처.mht"
+   },
+   "misc": {
+      "message": "기타"
+   },
+   "my_drive": {
+      "message": "내 문서함"
+   },
+   "options_header_text": {
+      "message": "Google 드라이브에 저장 확장 옵션"
+   },
+   "options_title": {
+      "message": "Google 드라이브에 저장 옵션"
+   },
+   "page_size_not_supported": {
+      "message": "페이지 크기가 지원되지 않습니다. $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "제목없는 PDF"
+   },
+   "percent": {
+      "message": "$1% 완료",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "개인정보 보호"
+   },
+   "rename": {
+      "message": "이름 바꾸기"
+   },
+   "rename_prompt": {
+      "message": "이름 변경:"
+   },
+   "save_as_html": {
+      "message": "HTML 소스(.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google 문서"
+   },
+   "save_as_image_entire": {
+      "message": "전체 페이지의 이미지(.png)"
+   },
+   "save_as_image_visible": {
+      "message": "표시된 페이지의 이미지(.png)"
+   },
+   "save_as_mhtml": {
+      "message": "웹 아카이브(.mht)"
+   },
+   "save_audio": {
+      "message": "오디오를 Google 드라이브에 저장"
+   },
+   "save_image": {
+      "message": "이미지를 Google 드라이브에 저장"
+   },
+   "save_link": {
+      "message": "링크를 Google 드라이브에 저장"
+   },
+   "save_page_as": {
+      "message": "페이지를 다른 이름으로 저장:"
+   },
+   "save_to_folder_text": {
+      "message": "폴더에 저장"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google 드라이브에 저장"
+   },
+   "save_video": {
+      "message": "동영상을 Google 드라이브에 저장"
+   },
+   "saving": {
+      "message": "$1을(를) Google 드라이브에 저장 중...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "폴더에 저장 선택"
+   },
+   "send_feedback": {
+      "message": "의견 보내기"
+   },
+   "sign_out": {
+      "message": "로그아웃"
+   },
+   "start_download_exception": {
+      "message": "다운로드 시작 실패: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "제목없는 텍스트"
+   },
+   "trash": {
+      "message": "휴지통"
+   },
+   "unspecified_error": {
+      "message": "지정되지 않은 오류"
+   },
+   "upload_canceled": {
+      "message": "업로드가 취소되었습니다."
+   },
+   "upload_failure": {
+      "message": "업로드 실패: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1을(를) Google 드라이브에 업로드 중...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">링크를 열고\u003C/a> 주소 표시줄 오른쪽의 Google 드라이브에 저장 버튼을 사용하여 페이지를 저장하세요.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "웹페이지에 대한 링크"
+   },
+   "video_default_filename": {
+      "message": "제목없는 동영상"
+   },
+   "xml_default_filename": {
+      "message": "제목없는 XML"
+   }
+}

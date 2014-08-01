@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Więcej informacji"
+   },
+   "app_nacl_crash_report": {
+      "message": "Zgłoś problem..."
+   },
+   "application_description": {
+      "message": "Edytowanie dokumentów"
+   },
+   "extension_description": {
+      "message": "Otwieraj i edytuj pliki Microsoft Word, Excel i PowerPoint w Dokumentach, Arkuszach i Prezentacjach Google"
+   },
+   "extension_name": {
+      "message": "Edytuj pliki Office w Dokumentach, Arkuszach i Prezentacjach"
+   },
+   "file_loading_spinner_label": {
+      "message": "Ładuję"
+   },
+   "file_not_found_msg": {
+      "message": "Żądany plik został przeniesiony."
+   },
+   "file_not_found_title": {
+      "message": "Nie znaleziono pliku."
+   }
+}

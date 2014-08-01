@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Få flere oplysninger"
+   },
+   "app_nacl_crash_report": {
+      "message": "Rapportér et problem..."
+   },
+   "application_description": {
+      "message": "Dokumentredigering"
+   },
+   "extension_description": {
+      "message": "Se, og redigér Microsoft Word-, Excel- og PowerPoint-filer med Google Docs, Sheets og Slides"
+   },
+   "extension_name": {
+      "message": "Office-redigering til Docs, Sheets og Slides"
+   },
+   "file_loading_spinner_label": {
+      "message": "Indlæser"
+   },
+   "file_not_found_msg": {
+      "message": "Den fil, du har anmodet om, har flyttet sig."
+   },
+   "file_not_found_title": {
+      "message": "Filen blev ikke fundet."
+   }
+}

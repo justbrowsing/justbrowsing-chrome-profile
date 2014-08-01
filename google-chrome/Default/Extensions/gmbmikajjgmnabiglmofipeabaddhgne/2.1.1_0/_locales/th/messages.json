@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "บัญชี"
+   },
+   "apply": {
+      "message": "ใช้"
+   },
+   "audio_default_filename": {
+      "message": "เสียงที่ไม่มีชื่อ"
+   },
+   "authorization_needed": {
+      "message": "คุณต้องให้สิทธิ์ บันทึกไปยัง Google ไดรฟ์"
+   },
+   "cancel": {
+      "message": "ยกเลิก"
+   },
+   "cannot_capture_chrome": {
+      "message": "ไม่สามารถถ่ายภาพหน้าจอของหน้า Chrome โปรดลองหน้าเว็บมาตรฐาน"
+   },
+   "change_dest_folder": {
+      "message": "เปลี่ยนโฟลเดอร์ปลายทาง..."
+   },
+   "chrome_extension_name": {
+      "message": "บันทึกไปยัง Google ไดรฟ์"
+   },
+   "close": {
+      "message": "ปิด"
+   },
+   "convert_to_google_format": {
+      "message": "แปลงลิงก์ที่บันทึกเป็นรูปแบบเครื่องมือแก้ไขของ Google"
+   },
+   "debug": {
+      "message": "แก้ไขข้อบกพร่อง"
+   },
+   "default_filename": {
+      "message": "ไม่มีชื่อ"
+   },
+   "download_canceled": {
+      "message": "ยกเลิกการดาวน์โหลดแล้ว"
+   },
+   "download_failure": {
+      "message": "ดาวน์โหลดล้มเหลว: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ดาวน์โหลดไม่สำเร็จ: ไม่ได้รับข้อมูล"
+   },
+   "download_failure_too_big_mb": {
+      "message": "การดาวน์โหลดล้มเหลว: ต้นฉบับมีขนาดใหญ่เกินไป ($1 MB)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "กำลังดาวน์โหลด $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "กำลังดาวน์โหลด..."
+   },
+   "empty_page_capture": {
+      "message": "ไม่สามารถบันทึกเนื้อหาของหน้าเว็บเป็น MHTML"
+   },
+   "enable_file_url": {
+      "message": "จำเป็นต้องเปิดใช้งาน URL ของไฟล์จากตัวเลือก \"อนุญาตให้เข้าถึง URL ของไฟล์\" ในหน้าการตั้งค่าส่วนขยาย"
+   },
+   "ext_description": {
+      "message": "บันทึกเนื้อหาเว็บหรือภาพหน้าจอลงใน Google ไดรฟ์ โดยตรง"
+   },
+   "failure_page_capture": {
+      "message": "ไม่สามารถเก็บข้อมูลเนื้อหาหน้าเว็บเป็น MHTML: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ส่งความคิดเห็น (เป็นการภายในเท่านั้น)"
+   },
+   "file_bug_internal": {
+      "message": "รายงานข้อบกพร่อง (ภายในเท่านั้น)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> ถูกบันทึกลงใน \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> แล้ว \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">เปลี่ยน\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ถูกย้ายไปที่ถังขยะแล้ว ไปที่ \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ไดรฟ์\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ไดรฟ์"
+   },
+   "help": {
+      "message": "ความช่วยเหลือ"
+   },
+   "html_default_filename": {
+      "message": "HTML ไม่มีชื่อ"
+   },
+   "image_capture_failed": {
+      "message": "การจับภาพล้มเหลว"
+   },
+   "image_capture_failed_reason": {
+      "message": "ไม่สามารถบันทึกภาพได้ ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "ภาพไม่มีชื่อ"
+   },
+   "invalid_url": {
+      "message": "URL ไม่ถูกต้อง: $1 URL ที่ดาวน์โหลดต้องเริ่มต้นด้วย http://, https:// หรือ file://",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "การเก็บข้อมูลหน้าเว็บที่ไม่มีชื่อ.mht"
+   },
+   "misc": {
+      "message": "เบ็ดเตล็ด"
+   },
+   "my_drive": {
+      "message": "ไดรฟ์ของฉัน"
+   },
+   "options_header_text": {
+      "message": "บันทึกไปยัง Google ไดรฟ์ ตัวเลือกส่วนขยาย"
+   },
+   "options_title": {
+      "message": "บันทึกไปยัง Google ไดรฟ์ ตัวเลือก"
+   },
+   "page_size_not_supported": {
+      "message": "ขนาดหน้าที่ไม่สนับสนุน: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF ไม่มีชื่อ"
+   },
+   "percent": {
+      "message": "เสร็จสิ้น $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "ความเป็นส่วนตัว"
+   },
+   "rename": {
+      "message": "เปลี่ยนชื่อ"
+   },
+   "rename_prompt": {
+      "message": "เปลี่ยนชื่อ:"
+   },
+   "save_as_html": {
+      "message": "ที่มา HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google เอกสาร"
+   },
+   "save_as_image_entire": {
+      "message": "รูปภาพของทั้งหน้าเว็บ (.PNG)"
+   },
+   "save_as_image_visible": {
+      "message": "รูปภาพของหน้าเว็บที่มองเห็น (.PNG)"
+   },
+   "save_as_mhtml": {
+      "message": "ชุดข้อมูลเว็บ (.mht)"
+   },
+   "save_audio": {
+      "message": "บันทึกเสียงไปที่ Google ไดรฟ์"
+   },
+   "save_image": {
+      "message": "บันทึกภาพไปที่ Google ไดรฟ์"
+   },
+   "save_link": {
+      "message": "บันทึกลิงก์ไปที่ Google ไดรฟ์"
+   },
+   "save_page_as": {
+      "message": "บันทึกหน้าเว็บเป็น:"
+   },
+   "save_to_folder_text": {
+      "message": "บันทึกไปยังโฟลเดอร์"
+   },
+   "save_to_google_drive_action": {
+      "message": "บันทึกไปยัง Google ไดรฟ์"
+   },
+   "save_video": {
+      "message": "บันทึกวิดีโอไปที่ Google ไดรฟ์"
+   },
+   "saving": {
+      "message": "กำลังบันทึก $1 ไปที่ Google ไดรฟ์...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "เลือกโฟลเดอร์ที่ต้องการบันทึกไฟล์"
+   },
+   "send_feedback": {
+      "message": "ส่งข้อเสนอแนะ"
+   },
+   "sign_out": {
+      "message": "ออกจากระบบ"
+   },
+   "start_download_exception": {
+      "message": "ไม่สามารถเริ่มต้นดาวน์โหลด: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "ข้อความไม่มีชื่อ"
+   },
+   "trash": {
+      "message": "ถังขยะ"
+   },
+   "unspecified_error": {
+      "message": "พบข้อผิดพลาดที่ไม่ได้ระบุ"
+   },
+   "upload_canceled": {
+      "message": "ยกเลิกการอัปโหลดแล้ว"
+   },
+   "upload_failure": {
+      "message": "อัปโหลดล้มเหลว: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "กำลังอัปโหลด $1 ไปที่ Google ไดรฟ์...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">เปิดลิงก์\u003C/a> และบันทึกหน้าเว็บโดยใช้ปุ่ม บันทึกไปยัง Google ไดรฟ์ ทางด้านขวาของแถบที่อยู่",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "นี่คือลิงก์ไปยังหน้าเว็บ"
+   },
+   "video_default_filename": {
+      "message": "วิดีโอไม่มีชื่อ"
+   },
+   "xml_default_filename": {
+      "message": "XML ที่ไม่มีชื่อ"
+   }
+}

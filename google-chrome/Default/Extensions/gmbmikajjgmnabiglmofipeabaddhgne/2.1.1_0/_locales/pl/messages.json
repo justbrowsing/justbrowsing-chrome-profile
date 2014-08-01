@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "apply": {
+      "message": "Zastosuj"
+   },
+   "audio_default_filename": {
+      "message": "Plik audio bez nazwy"
+   },
+   "authorization_needed": {
+      "message": "Musisz autoryzować rozszerzenie Zapisz na Dysku Google."
+   },
+   "cancel": {
+      "message": "Anuluj"
+   },
+   "cannot_capture_chrome": {
+      "message": "Nie można przechwycić stron Chrome. Spróbuj użyć standardowej strony internetowej."
+   },
+   "change_dest_folder": {
+      "message": "Zmień folder docelowy..."
+   },
+   "chrome_extension_name": {
+      "message": "Zapisz na Dysku Google"
+   },
+   "close": {
+      "message": "Zamknij"
+   },
+   "convert_to_google_format": {
+      "message": "Konwertuj zapisany link na format edytora Google"
+   },
+   "debug": {
+      "message": "Debugowanie"
+   },
+   "default_filename": {
+      "message": "Bez tytułu"
+   },
+   "download_canceled": {
+      "message": "Pobieranie zostało anulowane."
+   },
+   "download_failure": {
+      "message": "Błąd pobierania: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Błąd pobierania: nie odebrano danych."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Błąd pobierania: plik źródłowy jest za duży ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Pobieram plik $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Pobieram..."
+   },
+   "empty_page_capture": {
+      "message": "Nie udało się przechwycić zawartości strony jako pliku MHTML."
+   },
+   "enable_file_url": {
+      "message": "Musisz zezwolić na URL-e do plików, włączając w tym celu opcję „Zezwalaj na URL-e do plików” na stronie Ustawienia rozszerzeń."
+   },
+   "ext_description": {
+      "message": "Zapisz treść strony lub zrzut ekranu bezpośrednio w Dysk Google."
+   },
+   "failure_page_capture": {
+      "message": "Nie udało się przechwycić zawartości strony jako MHTML: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Wyślij opinię (tylko wewnętrznie)"
+   },
+   "file_bug_internal": {
+      "message": "Zgłoś błąd (tylko wewnętrznie)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> został zapisany w \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>.\n\u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">zmień\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> został przeniesiony do kosza. Przejdź do \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Dysk Google\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Dysk Google"
+   },
+   "help": {
+      "message": "Pomoc"
+   },
+   "html_default_filename": {
+      "message": "Plik HTML bez nazwy"
+   },
+   "image_capture_failed": {
+      "message": "Przechwytywanie obrazu nie powiodło się."
+   },
+   "image_capture_failed_reason": {
+      "message": "Przechwytywanie obrazu nie powiodło się ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Obraz bez tytułu"
+   },
+   "invalid_url": {
+      "message": "Nieprawidłowy adres URL: $1. Pobrane adresy URL muszą rozpoczynać się od http://, https:// lub file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Strona bez tytułu.mht"
+   },
+   "misc": {
+      "message": "Inne"
+   },
+   "my_drive": {
+      "message": "Mój dysk"
+   },
+   "options_header_text": {
+      "message": "Opcje rozszerzeń Zapisz na Dysku Google"
+   },
+   "options_title": {
+      "message": "Opcje Zapisz na Dysku Google"
+   },
+   "page_size_not_supported": {
+      "message": "Rozmiar strony nie jest obsługiwany: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Plik PDF bez nazwy"
+   },
+   "percent": {
+      "message": "$1% gotowe",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Prywatność"
+   },
+   "rename": {
+      "message": "Zmień nazwę"
+   },
+   "rename_prompt": {
+      "message": "Zmień nazwę:"
+   },
+   "save_as_html": {
+      "message": "Źródło HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Dokument Google"
+   },
+   "save_as_image_entire": {
+      "message": "Obraz całej strony (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Obraz widocznej strony (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Archiwum internetowe (.mht)"
+   },
+   "save_audio": {
+      "message": "Zapisz plik audio w: Dysk Google"
+   },
+   "save_image": {
+      "message": "Zapisz obraz w: Dysk Google"
+   },
+   "save_link": {
+      "message": "Zapisz link w: Dysk Google"
+   },
+   "save_page_as": {
+      "message": "Zapisz stronę jako:"
+   },
+   "save_to_folder_text": {
+      "message": "Zapisz w folderze"
+   },
+   "save_to_google_drive_action": {
+      "message": "Zapisz w Dysk Google"
+   },
+   "save_video": {
+      "message": "Zapisz plik wideo w: Dysk Google"
+   },
+   "saving": {
+      "message": "Zapisywanie pliku $1 w: Dysk Google...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Wybier folder, w którym chcesz zapisać"
+   },
+   "send_feedback": {
+      "message": "Prześlij opinię"
+   },
+   "sign_out": {
+      "message": "Wyloguj się"
+   },
+   "start_download_exception": {
+      "message": "Niepowodzenie podczas rozpoczynania pobierania: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Tekst bez tytułu"
+   },
+   "trash": {
+      "message": "Kosz"
+   },
+   "unspecified_error": {
+      "message": "Nieokreślony błąd"
+   },
+   "upload_canceled": {
+      "message": "Przysłanie anulowane"
+   },
+   "upload_failure": {
+      "message": "Błąd przesyłania: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Przesyłanie $1 do Dysk Google",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Otwórz link\u003C/a> i zapisz stronę za pomocą przycisku Zapisz w Dysk Google po prawej stronie paska adresu.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "To jest link do strony internetowej"
+   },
+   "video_default_filename": {
+      "message": "Plik wideo bez nazwy"
+   },
+   "xml_default_filename": {
+      "message": "Plik XML bez nazwy"
+   }
+}

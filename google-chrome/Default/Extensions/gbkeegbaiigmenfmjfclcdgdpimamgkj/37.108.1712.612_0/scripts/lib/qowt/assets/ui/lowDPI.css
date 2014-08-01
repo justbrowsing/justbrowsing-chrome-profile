@@ -1,0 +1,406 @@
+/*
+DuSk TODO: We really need to clean up this css file.
+We should genericse for example the toolbar adorments and
+have a single .dropdown class that dropdown button widgets add
+to themselves to get the little arrow on the button. This is better than
+enumerating every action-button against that rule. And adjust the hiDPI css
+to match.
+*/
+
+/*
+ * Editor ribbon.
+ * The app icon in the top left hand side uses an app-specific icon.
+ */
+.qowt-word-context .qowt-main-appIcon {
+  background-image: url('../img/ui/lowDPI/document.png');
+  background-color: #4285f4;
+}
+.qowt-sheet-context .qowt-main-appIcon {
+  background-image: url('../img/ui/lowDPI/spreadsheet.png');
+  background-color: #0f9d58;
+}
+.qowt-point-context .qowt-main-appIcon {
+  background-image: url('../img/ui/lowDPI/presentation.png');
+  background-color: #f4b400;
+}
+
+/* The Share Button in the editors toolbars */
+button[is='qowt-sharebutton'] span {
+  background-image: url('../img/ui/lowDPI/share_icon.png');
+}
+
+/* The Present Button in the Point editor toolbar */
+button[is='qowt-presentbutton'] span {
+  background-image: url('../img/ui/lowDPI/present_icon.png');
+}
+
+/*
+ * Image dialogs
+ */
+.conversion-left-word {
+  background-image: url('../img/ui/lowDPI/1x-interstitial_icon_word.png');
+}
+.conversion-right-word {
+  background-image: url('../img/ui/lowDPI/1x-interstitial_icon_docs.png');
+}
+.conversion-left-sheet {
+  background-image: url('../img/ui/lowDPI/1x-interstitial_icon_excel.png');
+}
+.conversion-right-sheet {
+  background-image: url('../img/ui/lowDPI/1x-interstitial_icon_sheets.png');
+}
+.conversion-left-point {
+  background-image: url('../img/ui/lowDPI/1x-interstitial_icon_point.png');
+}
+.conversion-right-point {
+  background-image: url('../img/ui/lowDPI/1x-interstitial_icon_slides.png');
+}
+
+/*
+ * Promo
+ */
+
+.ocm_promo_word {
+  background: url('../img/ui/lowDPI/ocm_promo_word.png') no-repeat center center;
+}
+
+.ocm_promo_sheet {
+  background: url('../img/ui/lowDPI/ocm_promo_sheet.png') no-repeat center center;
+}
+
+.ocm_promo_point {
+  background: url('../img/ui/lowDPI/ocm_promo_point.png') no-repeat center center;
+}
+
+.share_promo_word {
+  background: url('../img/ui/lowDPI/promo_sharing_word.png') no-repeat center center;
+}
+
+.share_promo_sheet {
+  background: url('../img/ui/lowDPI/promo_sharing_sheet.png') no-repeat center center;
+}
+
+.share_promo_point {
+  background: url('../img/ui/lowDPI/promo_sharing_point.png') no-repeat center center;
+}
+
+/*
+ * First Time Use (onboarding)
+ */
+ .onboarding {
+   background: url('../img/ui/lowDPI/1x_onboarding.png') no-repeat center center;
+ }
+
+/*
+ * Editor Button Bar.
+ */
+.qowt-main-buttonbar #cmd-save {
+  background-image: url("../img/ui/lowDPI/save.png");
+}
+
+.icon-officeCompatibilityMode {
+  background: url("../img/ui/lowDPI/ocm_icon_white.png") center center / 17px 17px no-repeat;
+}
+.qowt-word-context #menuitem-officeCompatibilityMode:hover .icon-officeCompatibilityMode {
+  background: url("../img/ui/lowDPI/ocm_icon_blue.png") center center / 17px 17px no-repeat;
+}
+.qowt-sheet-context #menuitem-officeCompatibilityMode:hover .icon-officeCompatibilityMode {
+  background: url("../img/ui/lowDPI/ocm_icon_green.png") center center / 17px 17px no-repeat;
+}
+.qowt-point-context #menuitem-officeCompatibilityMode:hover .icon-officeCompatibilityMode {
+  background: url("../img/ui/lowDPI/ocm_icon_orange.png") center center / 17px 17px no-repeat;
+}
+
+.icon-save {
+  background-image: url("../img/ui/lowDPI/save.png");
+}
+
+.icon-convertToDocs {
+  background: url("../img/ui/lowDPI/gdocs.png") no-repeat center center;
+}
+
+.icon-convertToSheets {
+  background: url("../img/ui/lowDPI/gsheets.png") no-repeat center center;
+}
+
+.icon-convertToSlides {
+  background: url("../img/ui/lowDPI/gslides.png") no-repeat center center;
+}
+
+.icon-print {
+  background-image: url("../img/ui/lowDPI/print.png");
+}
+
+.icon-undo {
+  background-image: url("../img/ui/lowDPI/undo.png");
+}
+
+.icon-redo {
+  background-image: url("../img/ui/lowDPI/redo.png");
+}
+
+.qowt-main-buttonbar #cmd-toggleZoom {
+  background-image: url("../img/ui/lowDPI/zoom_to_fit.png");
+}
+
+.icon-zoomin {
+  background: url("../img/ui/lowDPI/zoom_in.png");
+}
+
+.icon-zoomout {
+  background: url("../img/ui/lowDPI/zoom_out.png");
+}
+
+.icon-setAddShapeBehaviour {
+  background: url("../img/ui/lowDPI/pointMenuSprite.png") 0px -2289px !important;
+}
+
+.qowt-main-buttonbar #cmd-textColor {
+  background-image: url("../img/ui/lowDPI/text_color.png"),
+      url("../img/ui/lowDPI/5px_dropdown_arrow.png");
+}
+
+.qowt-main-buttonbar #cmd-highlightColor,
+.qowt-main-buttonbar #cmd-backgroundColor {
+  background-image: url("../img/ui/lowDPI/text_background_color.png"),
+      url("../img/ui/lowDPI/5px_dropdown_arrow.png");
+}
+
+.qowt-main-buttonbar #cmd-cellAlign {
+  background-image: url("../img/ui/lowDPI/text_align_left.png"),
+  url("../img/ui/lowDPI/5px_dropdown_arrow.png");
+}
+
+.qowt-main-buttonbar #cmd-fontFace, .qowt-main-buttonbar #cmd-fontSize,
+.qowt-main-buttonbar #cmd-style {
+  background-image: url("../img/ui/lowDPI/5px_dropdown_arrow.png");
+}
+
+.icon-bold {
+  background-image: url("../img/ui/lowDPI/bold.png");
+}
+
+.icon-italic {
+  background-image: url("../img/ui/lowDPI/italics.png");
+}
+
+.icon-underline {
+  background-image: url("../img/ui/lowDPI/underline.png");
+}
+
+.icon-toggleBulleted, .icon-pointToggleBullet {
+  background-image: url("../img/ui/lowDPI/list_bulleted.png");
+}
+
+.icon-toggleNumbered, .icon-pointToggleNumber {
+  background-image: url("../img/ui/lowDPI/list_numbered.png");
+}
+
+.icon-strikethrough {
+  background-image: url("../img/ui/lowDPI/strikethrough.png");
+}
+
+.icon-noColor {
+  background-image: url("../img/ui/lowDPI/no_color.png");
+}
+
+.icon-borderall {
+  background: url("../img/ui/lowDPI/border_all.png");
+}
+
+.icon-wraptext {
+  background: url("../img/ui/lowDPI/wrap_text.png");
+}
+
+.icon-autofilter {
+  background: url("../img/ui/lowDPI/autofilter.png");
+}
+
+.icon-chart {
+  background: url("../img/ui/lowDPI/insert_chart.png");
+}
+
+.icon-copy {
+  background: url("../img/ui/lowDPI/copy.png");
+}
+
+.icon-cut {
+  background: url("../img/ui/lowDPI/cut.png");
+}
+
+.icon-paste {
+  background: url("../img/ui/lowDPI/paste.png");
+}
+
+.qowt-main-buttonbar #cmd-textAlignLeft,
+.qowt-main-buttonbar #cmd-cellHAlignLeft {
+  background-image: url("../img/ui/lowDPI/text_align_left.png");
+}
+
+.qowt-main-buttonbar #cmd-textAlignCenter,
+.qowt-main-buttonbar #cmd-cellHAlignCenter {
+  background-image: url("../img/ui/lowDPI/text_align_center.png");
+}
+
+.qowt-main-buttonbar #cmd-textAlignRight,
+.qowt-main-buttonbar #cmd-cellHAlignRight {
+  background-image: url("../img/ui/lowDPI/text_align_right.png");
+}
+
+.qowt-main-buttonbar #cmd-textAlignJustify {
+  background-image: url("../img/ui/lowDPI/text_align_justified.png");
+}
+
+.qowt-main-buttonbar #cmd-cellVAlignBottom {
+  background-image: url("../img/ui/lowDPI/align_vertical_bottom.png");
+}
+
+.qowt-main-buttonbar #cmd-cellVAlignTop {
+  background-image: url("../img/ui/lowDPI/align_vertical_top.png");
+}
+
+.qowt-main-buttonbar #cmd-cellVAlignCenter {
+  background-image: url("../img/ui/lowDPI/align_vertical_center.png");
+}
+
+
+/*****************************************************************************/
+
+/**
+ * Viewer Toolbar styling
+ * JELTE TODO: need to make these class names more generic; eg qowt-floating-toolbar
+ */
+
+/* zoom in menu button */
+#qo_app .qo-viewer-toolbar #cmd-zoomin {
+  background-image: url("../img/ui/lowDPI/button_zoom_in.png"),
+      -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+
+#qo_app .qo-viewer-toolbar #cmd-zoomin[disabled] {
+  opacity:0.6;
+}
+
+#qo_app .qo-viewer-toolbar #cmd-zoomin:not(:disabled):not(.disabled):hover {
+  background-image: url("../img/ui/lowDPI/button_zoom_in.png"),
+      -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+
+#qo_app .qo-viewer-toolbar #cmd-zoomin:not(:disabled):not(.disabled).latched,
+#qo_app .qo-viewer-toolbar #cmd-zoomin:not(:disabled):not(.disabled):active {
+  background-image: url("../img/ui/lowDPI/button_zoom_in.png");
+  background-color: #4B679C;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+
+/* zoom out menu button */
+#qo_app .qo-viewer-toolbar #cmd-zoomout {
+  background-image: url("../img/ui/lowDPI/button_zoom_out.png"),
+      -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+
+#qo_app .qo-viewer-toolbar #cmd-zoomout[disabled] {
+  opacity:0.6;
+}
+
+#qo_app .qo-viewer-toolbar #cmd-zoomout:not(:disabled):not(.disabled):hover {
+  background-image: url("../img/ui/lowDPI/button_zoom_out.png"),
+      -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+
+#qo_app .qo-viewer-toolbar #cmd-zoomout:not(:disabled):not(.disabled).latched,
+#qo_app .qo-viewer-toolbar #cmd-zoomout:not(:disabled):not(.disabled):active {
+  background-image: url("../img/ui/lowDPI/button_zoom_out.png");
+  background-color: #4B679C;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+
+/* Save menu button */
+.qo-viewer-toolbar #cmd-copyFile {
+  background-image: url("../img/ui/lowDPI/button_save.png"),
+      -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+
+.qo-viewer-toolbar #cmd-copyFile:not(:disabled):not(.disabled):hover {
+  background-image: url("../img/ui/lowDPI/button_save.png"),
+      -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+
+.qo-viewer-toolbar #cmd-copyFile:not(:disabled):not(.disabled).latched,
+.qo-viewer-toolbar #cmd-copyFile:not(:disabled):not(.disabled):active {
+  background-image: url("../img/ui/lowDPI/button_save.png");
+  background-color: #4B679C;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+
+/* Printing menu button */
+.qo-viewer-toolbar #cmd-point-print,
+.qo-viewer-toolbar #cmd-print {
+  background-image: url("../img/ui/lowDPI/button_print.png"),
+      -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+
+.qo-viewer-toolbar #cmd-point-print:not(:disabled):not(.disabled):hover,
+.qo-viewer-toolbar #cmd-print:not(:disabled):not(.disabled):hover {
+  background-image: url("../img/ui/lowDPI/button_print.png"),
+      -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+
+.qo-viewer-toolbar #cmd-point-print:not(:disabled):not(.disabled).latched,
+.qo-viewer-toolbar #cmd-point-print:not(:disabled):not(.disabled):active,
+.qo-viewer-toolbar #cmd-print:not(:disabled):not(.disabled).latched,
+.qo-viewer-toolbar #cmd-print:not(:disabled):not(.disabled):active {
+  background-image: url("../img/ui/lowDPI/button_print.png");
+  background-color: #4B679C;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+
+/* zoom fit to page menu button */
+.qo-viewer-toolbar #cmd-fitToPage {
+  background-image: url("../img/ui/lowDPI/button_fit_page.png"),
+      -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+.qo-viewer-toolbar #cmd-fitToPage:not(:disabled):not(.disabled):hover {
+  background-image: url("../img/ui/lowDPI/button_fit_page.png"),
+      -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+.qo-viewer-toolbar #cmd-fitToPage:not(:disabled):not(.disabled).latched,
+.qo-viewer-toolbar #cmd-fitToPage:not(:disabled):not(.disabled):active {
+  background-image: url("../img/ui/lowDPI/button_fit_page.png");
+  background-color: #4B679C;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+
+/* zoom fit to page width menu button */
+.qo-viewer-toolbar #cmd-fitToWidth {
+    background-image: url("../img/ui/lowDPI/button_fit_width.png"),
+        -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+.qo-viewer-toolbar #cmd-fitToWidth:not(:disabled):not(.disabled):hover {
+    background-image: url("../img/ui/lowDPI/button_fit_width.png"),
+        -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+.qo-viewer-toolbar #cmd-fitToWidth:not(:disabled):not(.disabled).latched,
+.qo-viewer-toolbar #cmd-fitToWidth:not(:disabled):not(.disabled):active {
+    background-image: url("../img/ui/lowDPI/button_fit_width.png");
+    background-color: #4B679C;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}
+
+/* point startSlideshow menu button */
+.qo-viewer-toolbar #cmd-startSlideshow {
+  background-image: url("../img/ui/lowDPI/button_play.png"),
+      -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}
+
+.qo-viewer-toolbar #cmd-startSlideshow:not(:disabled):not(.disabled):hover {
+  background-image: url("../img/ui/lowDPI/button_play.png"),
+      -webkit-linear-gradient(rgb(73, 102, 155), rgb(32, 52, 95));
+}
+
+.qo-viewer-toolbar #cmd-startSlideshow:not(:disabled):not(.disabled).latched,
+.qo-viewer-toolbar #cmd-startSlideshow:not(:disabled):not(.disabled):active {
+  background-image: url("../img/ui/lowDPI/button_play.png");
+    background-color: #4B679C;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
+}

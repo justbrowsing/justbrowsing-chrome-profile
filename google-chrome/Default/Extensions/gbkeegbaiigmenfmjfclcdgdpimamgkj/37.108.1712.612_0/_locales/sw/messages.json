@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Pata maelezo zaidi"
+   },
+   "app_nacl_crash_report": {
+      "message": "Ripoti tatizo..."
+   },
+   "application_description": {
+      "message": "Kuhariri hati"
+   },
+   "extension_description": {
+      "message": "Angalia na ubadilishe faili za Microsoft Word, Excel, na PowerPoint kwa Hati, Majedwali, na Slaidi za Google."
+   },
+   "extension_name": {
+      "message": "Office Editing kwa Hati, Majedwali na Slaidi za Google"
+   },
+   "file_loading_spinner_label": {
+      "message": "Inapakia"
+   },
+   "file_not_found_msg": {
+      "message": "Faili uliyoiomba ina tatizo na imehamishwa."
+   },
+   "file_not_found_title": {
+      "message": "Faili haipatikani."
+   }
+}

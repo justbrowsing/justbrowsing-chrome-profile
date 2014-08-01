@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Más información"
+   },
+   "app_nacl_crash_report": {
+      "message": "Notificar un error..."
+   },
+   "application_description": {
+      "message": "Edición de documentos"
+   },
+   "extension_description": {
+      "message": "Ver y editar archivos de Microsoft Word, Excel y PowerPoint con Documentos, Hojas de cálculo y Presentaciones de Google"
+   },
+   "extension_name": {
+      "message": "Office Editing para Documentos, Hojas de Cálculo y Presentaciones de Google"
+   },
+   "file_loading_spinner_label": {
+      "message": "Cargando"
+   },
+   "file_not_found_msg": {
+      "message": "El archivo solicitado se ha trasladado a otra ubicación."
+   },
+   "file_not_found_title": {
+      "message": "No se ha encontrado el archivo."
+   }
+}

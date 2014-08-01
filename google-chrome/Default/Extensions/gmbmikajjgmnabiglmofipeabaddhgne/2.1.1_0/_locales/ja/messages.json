@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "アカウント"
+   },
+   "apply": {
+      "message": "適用"
+   },
+   "audio_default_filename": {
+      "message": "無題の音声"
+   },
+   "authorization_needed": {
+      "message": "Google ドライブに保存 を承認する必要があります。"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome ページの画像はキャプチャできません。標準的なウェブページでお試しください。"
+   },
+   "change_dest_folder": {
+      "message": "保存先フォルダを変更..."
+   },
+   "chrome_extension_name": {
+      "message": "Google ドライブに保存"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "convert_to_google_format": {
+      "message": "保存したリンクを Google エディタ形式に変換する"
+   },
+   "debug": {
+      "message": "デバッグ"
+   },
+   "default_filename": {
+      "message": "無題"
+   },
+   "download_canceled": {
+      "message": "ダウンロードをキャンセルしました。"
+   },
+   "download_failure": {
+      "message": "ダウンロード失敗: $1。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ダウンロード エラー: データを受信できません。"
+   },
+   "download_failure_too_big_mb": {
+      "message": "ダウンロード失敗: ソースが大きすぎます（$1 MB）。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 をダウンロードしています...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "ダウンロードしています..."
+   },
+   "empty_page_capture": {
+      "message": "ページのコンテンツを MHTML としてキャプチャできませんでした。"
+   },
+   "enable_file_url": {
+      "message": "機能拡張設定ページの「ファイルの URL へのアクセスを許可する」オプションでファイルの URL を有効にしてください。"
+   },
+   "ext_description": {
+      "message": "ウェブ コンテンツやスクリーン キャプチャを Google ドライブ に直接保存します。"
+   },
+   "failure_page_capture": {
+      "message": "ページのコンテンツを MHTML としてキャプチャできませんでした: $1。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "フィードバックを送信（内部のみ）"
+   },
+   "file_bug_internal": {
+      "message": "バグを報告（内部のみ）"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> を \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> に保存しました。\u003Cspan id=\"$5\">（\u003Ca href=\"$6\" target=\"_blank\">保存先を変更\u003C/a>）\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> をゴミ箱に移動しました。\u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ドライブ にアクセス\u003C/a>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ドライブ"
+   },
+   "help": {
+      "message": "ヘルプ"
+   },
+   "html_default_filename": {
+      "message": "無題の HTML"
+   },
+   "image_capture_failed": {
+      "message": "画像をキャプチャできませんでした。"
+   },
+   "image_capture_failed_reason": {
+      "message": "画像をキャプチャできませんでした（$1）",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "無題の画像"
+   },
+   "invalid_url": {
+      "message": "無効な URL: $1。ダウンロードした URL は http://、https://、file:// のいずれかで始まらなければなりません。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "無題のページ キャプチャ.mht"
+   },
+   "misc": {
+      "message": "その他"
+   },
+   "my_drive": {
+      "message": "マイ ドライブ"
+   },
+   "options_header_text": {
+      "message": "Google ドライブに保存 拡張オプション"
+   },
+   "options_title": {
+      "message": "Google ドライブに保存 オプション"
+   },
+   "page_size_not_supported": {
+      "message": "このページ サイズはサポートされていません: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "無題の PDF"
+   },
+   "percent": {
+      "message": "$1% 完了",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "プライバシー"
+   },
+   "rename": {
+      "message": "名前を変更"
+   },
+   "rename_prompt": {
+      "message": "名前を変更:"
+   },
+   "save_as_html": {
+      "message": "HTML ソース（.html）"
+   },
+   "save_as_htmldoc": {
+      "message": "Google ドキュメント"
+   },
+   "save_as_image_entire": {
+      "message": "ページ全体の画像（.png）"
+   },
+   "save_as_image_visible": {
+      "message": "表示ページの画像（.png）"
+   },
+   "save_as_mhtml": {
+      "message": "ウェブ アーカイブ（.mht）"
+   },
+   "save_audio": {
+      "message": "Google ドライブに音声を保存"
+   },
+   "save_image": {
+      "message": "Google ドライブに画像を保存"
+   },
+   "save_link": {
+      "message": "Google ドライブにリンクを保存"
+   },
+   "save_page_as": {
+      "message": "形式を選択してページを保存:"
+   },
+   "save_to_folder_text": {
+      "message": "フォルダに保存"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google ドライブ に保存"
+   },
+   "save_video": {
+      "message": "Google ドライブに動画を保存"
+   },
+   "saving": {
+      "message": "「$1」を Google ドライブに保存しています...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "フォルダに保存を選択"
+   },
+   "send_feedback": {
+      "message": "フィードバックを送信"
+   },
+   "sign_out": {
+      "message": "ログアウト"
+   },
+   "start_download_exception": {
+      "message": "ダウンロードを開始できませんでした: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "無題のテキスト"
+   },
+   "trash": {
+      "message": "ゴミ箱"
+   },
+   "unspecified_error": {
+      "message": "不明なエラー"
+   },
+   "upload_canceled": {
+      "message": "アップロードをキャンセルしました"
+   },
+   "upload_failure": {
+      "message": "アップロード エラー: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 を Google ドライブ にアップロードしています...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">リンクを開き\u003C/a>、アドレス バーの右側にある [Google ドライブ に保存] ボタンを使用してページを保存します。",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "これはウェブページへのリンクです"
+   },
+   "video_default_filename": {
+      "message": "無題の動画"
+   },
+   "xml_default_filename": {
+      "message": "無題の XML"
+   }
+}

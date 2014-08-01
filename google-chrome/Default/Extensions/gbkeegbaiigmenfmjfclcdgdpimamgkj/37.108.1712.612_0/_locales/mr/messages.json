@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "अधिक जाणून घ्या"
+   },
+   "app_nacl_crash_report": {
+      "message": "समस्या नोंदवा..."
+   },
+   "application_description": {
+      "message": "दस्‍तऐवज संपादित करणे"
+   },
+   "extension_description": {
+      "message": "Google दस्तऐवज, पत्रके आणि स्लाइड सह Microsoft Word, Excel, आणि PowerPoint फायली पहा आणि संपादित करा"
+   },
+   "extension_name": {
+      "message": "दस्तऐवज, पत्रके आणि स्लाइड करिता Office संपादन"
+   },
+   "file_loading_spinner_label": {
+      "message": "लोड करीत आहे"
+   },
+   "file_not_found_msg": {
+      "message": "आपण विनंती केलेली फाईल प्राप्त झाली आणि हलविली गेली आहे."
+   },
+   "file_not_found_title": {
+      "message": "फाईल आढळली नाही."
+   }
+}

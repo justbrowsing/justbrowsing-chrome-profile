@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "애플리케이션 정보",
+      "message": "애플리케이션 정보"
+   },
+   "addbutton": {
+      "description": "추가",
+      "message": "추가"
+   },
+   "advancedoptions": {
+      "description": "고급 옵션",
+      "message": "고급 옵션"
+   },
+   "basicsettings": {
+      "description": "기본 사항",
+      "message": "기초"
+   },
+   "bottom": {
+      "description": "하단",
+      "message": "하단"
+   },
+   "changelog": {
+      "description": "changelog 링크",
+      "message": "변경내역"
+   },
+   "deletebutton": {
+      "description": "삭제",
+      "message": "삭제"
+   },
+   "des1checkmotion": {
+      "description": "실내가 충분히 밝은지, 빛이 충분한지 확인하세요.",
+      "message": "실내가 충분히 밝은지, 빛이 충분한지 확인하세요."
+   },
+   "des2checkmotion": {
+      "description": "카메라가 직접적으로 햇빛을 받지 않도록 하세요.",
+      "message": "카메라가 직접적으로 햇빛을 받지 않도록 하세요."
+   },
+   "des3checkmotion": {
+      "description": "정면 카메라를 사용합니다.",
+      "message": "정면 카메라를 사용합니다."
+   },
+   "desaddvideobutton": {
+      "description": "이 YouTube 비디오에서 추가 단추를 표시 합니다.",
+      "message": "이 YouTube 비디오에서 추가 단추를 표시 합니다."
+   },
+   "desalllightsoff": {
+      "description": "램프 버튼을 클릭 하면이 옵션을 활성화 하면 열려 있는 모든 탭에 온/오프 조명 전환 됩니다.",
+      "message": "램프 버튼을 클릭 하면이 옵션을 활성화 하면 열려 있는 모든 탭에 온/오프 조명 전환 됩니다."
+   },
+   "desambilight": {
+      "description": "현재 재생 중인 비디오의 분위기 조명 효과를 보여 줍니다.",
+      "message": "현재 재생 중인 비디오의 분위기 조명 효과를 보여 줍니다."
+   },
+   "desambilight4color": {
+      "description": "비디오 주위에 표시할 4가지 색상:",
+      "message": "비디오 주위에 표시할 4가지 색상:"
+   },
+   "desambilightfixcolor": {
+      "description": "단색:",
+      "message": "단색:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "낮은 값은 그림자 설정을 날카로운 경우에, 숫자가 높을수록, 더 흐린 것 이다.",
+      "message": "낮은 값은 그림자 설정 날카로운 경우에, 더 높은 수, 더 흐린 것 이다."
+   },
+   "desambilightrangespreadradius": {
+      "description": "양수 값은 그림자의 크기를 증가, 음수 값은 크기를 줄입니다.",
+      "message": "양수 값은 그림자의 크기를 증가, 음수 값은 크기를 줄입니다."
+   },
+   "desambilightvarcolor": {
+      "description": "비디오에서 색상을 가져가 라.",
+      "message": "비디오에서 색상을 가져가 라."
+   },
+   "desapitext": {
+      "description": "웹 개발자를 위한 Wiki API",
+      "message": "웹 개발자를 위한 Wiki API"
+   },
+   "desatmosphereonly": {
+      "description": "분위기 조명 기능 다음 비디오 사이트를 사용 하 여:",
+      "message": "분위기 조명 기능 다음 비디오 사이트를 사용 하 여:"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "재생버튼을 눌렀을 때 자동으로 배경을 어둡게 하기/배경을 어둡게 했을 때 자동으로 비디오 재생하기",
+      "message": "영상이 재생될때 자동으로 화면을 어둡게, 멈출때는 자동으로 화면을 밝게 합니다."
+   },
+   "desautoplaydelay": {
+      "description": "비디오가 종료된 후 배경을 다시 밝게 하기",
+      "message": "비디오가 종료된 후 배경을 다시 밝게 하기"
+   },
+   "desautoplaydelayend": {
+      "description": "초",
+      "message": "초"
+   },
+   "desautoplayonly": {
+      "description": "희미하게 다음 비디오 사이트:",
+      "message": "다음 사이트에서만 어둡게 하기:"
+   },
+   "desbrowserextension": {
+      "description": "브라우저 확장",
+      "message": "브라우저 확장"
+   },
+   "desbrowsersupport": {
+      "description": "이 브라우저에서는 기능이 지원되지 않습니다. 브라우저가 최신 버전인지 확인해주십시오.",
+      "message": "이 브라우저에서는 기능이 지원되지 않습니다. 브라우저가 최신 버전인지 확인해주십시오."
+   },
+   "desbrowsertheme": {
+      "description": "브라우저 테마",
+      "message": "브라우저 테마"
+   },
+   "descammotiononly": {
+      "description": "다음 사이트들에서만 동작 인식 활성화",
+      "message": "다음 사이트들에서만 동작 인식 활성화"
+   },
+   "desconfirmpassword": {
+      "description": "비밀번호 확인",
+      "message": "비밀번호 확인"
+   },
+   "desconfirmtime": {
+      "description": "시간을 확인",
+      "message": "시간을 확인"
+   },
+   "desconfirmtimesaver": {
+      "description": "화면 보호기 시간 확인",
+      "message": "화면 보호기 시간 확인"
+   },
+   "descontextmenus": {
+      "description": "초점을 한 항목을 상황에 맞는 메뉴를 표시 합니다.",
+      "message": "컨텍스트 메뉴를 봅니다."
+   },
+   "description": {
+      "description": "영화관에서 마치 비디오를 볼 수 있도록 전체 페이지 어둠, 퇴색 될 것 이다.",
+      "message": "페이지의 배경을 어둡게 만들어 영화관에 있는 것 같은 느낌으로 영상을 감상할 수 있습니다."
+   },
+   "desdynamicblocks": {
+      "description": "블록",
+      "message": "블록"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "물고기 탱크",
+      "message": "물고기 탱크"
+   },
+   "desdynamicraindrops": {
+      "description": "빗방울",
+      "message": "빗방울"
+   },
+   "desdynamicspace": {
+      "description": "우주 우주",
+      "message": "우주 우주"
+   },
+   "deseastereggs": {
+      "description": "이 확장에 보너스입니다.",
+      "message": "이 확장에 보너스입니다."
+   },
+   "desenterpassword": {
+      "description": "아래 상자에 암호를 입력 합니다.",
+      "message": "아래 상자에 암호를 입력 합니다."
+   },
+   "deseyea": {
+      "description": "페이지를 열 때 자동으로 배경을 흐리게.",
+      "message": "자동으로 열려있는 페이지의 배경을 희미하게 합니다."
+   },
+   "deseyealist": {
+      "description": "다음 페이지를 열 때 자동으로 배경을 흐리게:",
+      "message": "다음 페이지를 열 때 자동으로 배경을 흐리게:"
+   },
+   "deseyen": {
+      "description": "정상적인 사용 (빛이 클릭할 때 램프 아이콘).",
+      "message": "일반적인 경우(램프 버튼을 눌렀을때 화면을 어둡게 합니다.)."
+   },
+   "deseyetimesaver": {
+      "description": "페이지 활성화 되지 않은 (마우스 또는 키보드 입력) 아래에 지정 된 시간에 대 한 페이지 자동으로 이동 합니다 어두운.",
+      "message": "페이지 활성화 되지 않은 (마우스 또는 키보드 입력) 아래에 지정 된 시간에 대 한 페이지 자동으로 이동 합니다 어두운."
+   },
+   "desfadein": {
+      "description": "페이드 효과 표시.",
+      "message": "Fade in 효과를 사용합니다."
+   },
+   "desfadeout": {
+      "description": "페이드 효과 표시 합니다.",
+      "message": "Fade out 효과를 사용합니다."
+   },
+   "desflash": {
+      "description": "모든 플래시 개체를 표시 합니다.",
+      "message": "모든 Flash 객체를 봅니다."
+   },
+   "deshardflash": {
+      "description": "URL 필터를 건너뛰는 모든 플래시 개체를 표시 합니다. 이 숨겨진 되 고 일부 비디오 플레이어와 함께 문제를 해결할 것 이다 그러나 또한 광고를 표시 합니다.",
+      "message": "URL 필터를 건너뛰는 모든 플래시 개체를 표시 합니다. 이 숨겨진 되 고 일부 비디오 플레이어와 함께 문제를 해결할 것 이다 그러나 또한 광고를 표시 합니다."
+   },
+   "deshead": {
+      "description": "YouTube 채널 바 또는 이름을 표시 합니다.",
+      "message": "YouTube 채널바나 이름을 봅니다."
+   },
+   "desinfobar": {
+      "description": "비디오에 대 한 설명 정보를 표시 합니다.",
+      "message": "영상 하단의 정보창을 봅니다."
+   },
+   "deslikebar": {
+      "description": "표시는 같은/싫어하는 YouTube 동영상에서 바.",
+      "message": "표시는 같은/싫어하는 YouTube 동영상에서 바."
+   },
+   "deslikebutton": {
+      "description": "같은 표시 &이 비디오에 대 한 YouTube의 버튼을 싫어한다.",
+      "message": "좋아요 버튼을 봅니다."
+   },
+   "desmotion": {
+      "description": "모션 인식",
+      "message": "동작 인식을 활성화하면 손을 쓸어내려 웹 페이지를 어둡게 할 수 있습니다."
+   },
+   "desmotionChecklist": {
+      "description": "체크리스트",
+      "message": "체크리스트"
+   },
+   "desmousespotlighta": {
+      "description": "불을 껐을 때 마우스 커서에 스포트라이트 효과를 적용합니다.",
+      "message": "불을 꼈을 때 마우스 커서에 스포트라이트 효과 적용"
+   },
+   "desmousespotlightc": {
+      "description": "빛이 꺼져 있으면 항목을 초점 영역을 선택할 수 있습니다.",
+      "message": "빛이 꺼져 있으면 항목을 초점 영역을 선택할 수 있습니다."
+   },
+   "desmousespotlighto": {
+      "description": "기본값 사용(아래의 마우스 설정을 비활성화합니다.)",
+      "message": "기본값 사용(아래의 마우스 설정을 비활성화합니다.)"
+   },
+   "desmousespotlightt": {
+      "description": "불을 껐을 때 배경 클릭 허용",
+      "message": "불을 껐을 때 배경 클릭 허용"
+   },
+   "desnightenabletheme": {
+      "description": "새 페이지를 열 때 자동으로 야간 모드로 전환합니다.",
+      "message": "새 페이지를 열 때 그것은 자동 야간 모드로 이동 합니다."
+   },
+   "desnightonly": {
+      "description": "다음 사이트들에서만 야간 모드를 보이게 합니다.",
+      "message": "다음 사이트 밤 모드를 보여 줍니다."
+   },
+   "desnighttheme": {
+      "description": "어둡거나 밝은 페이지를 만들기 위해 웹 페이지 아래 밤 스위치 단추를 표시 합니다.",
+      "message": "어둡거나 밝은 페이지를 만들기 위해 웹 페이지 아래 밤 스위치 단추를 표시 합니다."
+   },
+   "desnoflash": {
+      "description": "이 기능을 사용하지 않습니다.",
+      "message": "이 기능을 사용하지 않습니다."
+   },
+   "despassword": {
+      "description": "불을 다시 켜기 전에 비밀번호 요구",
+      "message": "불을 다시 켜기 전에 비밀번호 요구"
+   },
+   "desplaylist": {
+      "description": "YouTube 웹사이트에 YouTube 재생 목록을 표시 합니다.",
+      "message": "YouTube 사이트에서 재생목록이 보이도록 합니다."
+   },
+   "desproject": {
+      "description": "프로젝트",
+      "message": "프로젝트"
+   },
+   "desreadera": {
+      "description": "빛이 나갈 때 항상 모호 레벨 막대를 표시 합니다.",
+      "message": "어두움 정도 조절바를 항상 보이도록 합니다."
+   },
+   "desreadern": {
+      "description": "결코 모호 레벨 막대를 표시 합니다.",
+      "message": "어두움 정도 조절바를 보이지 않도록 합니다."
+   },
+   "desrememberpage": {
+      "description": "이 옵션을 사용 하는 경우 그것은 하지 기억 페이지를 표시 됩니다.",
+      "message": "이 옵션을 사용 하는 경우 그것은 하지 기억 페이지를 표시 됩니다."
+   },
+   "dessaver": {
+      "description": "화면 보호기:",
+      "message": "화면 보호기:"
+   },
+   "dessharebutton": {
+      "description": "이 동영상이 YouTube의 공유 버튼을 표시 합니다.",
+      "message": "영상 공유 버튼을 봅니다."
+   },
+   "desshortcutlight": {
+      "description": "아래 키보드 단축키를 활성화 합니다.",
+      "message": "아래 키보드 단축키를 활성화 합니다."
+   },
+   "desspeech": {
+      "description": "이 옵션을 활성화하면 브라우저의 램프에 음성으로 다음 명령을 할 수 있습니다.",
+      "message": "이 옵션을 활성화하면 브라우저의 램프에 음성으로 다음 명령을 할 수 있습니다."
+   },
+   "desspeech1command": {
+      "description": "불을 끄기",
+      "message": "불을 끄기"
+   },
+   "desspeech2command": {
+      "description": "불을 켜기",
+      "message": "불을 켜기"
+   },
+   "desspeech3command": {
+      "description": "비디오 재생",
+      "message": "비디오 재생"
+   },
+   "desspeech4command": {
+      "description": "비디오 일시 중지",
+      "message": "비디오 일시 중지"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "다음 웹사이트들에서만 음성 인식 활성화하기",
+      "message": "다음 웹사이트들에서만 음성 인식 활성화하기"
+   },
+   "desspotlightradius": {
+      "description": "검색 램프의 직경은 이다.",
+      "message": "검색 램프의 직경은 이다."
+   },
+   "dessuggestions": {
+      "description": "YouTube 웹사이트의 제안을 표시 합니다.",
+      "message": "YouTube가 추천하는 영상을 봅니다."
+   },
+   "destime": {
+      "description": "다음 시간 사이 빛:",
+      "message": "Lights off between the follow time:"
+   },
+   "destrymotion": {
+      "description": "제일 좋은 점은 어디에서나 작동한다는 것입니다. Youtube이나, 뉴스 웹사이트 등에서도 모두 작동합니다.",
+      "message": "제일 좋은 점은 어디에서나 작동한다는 것입니다. Youtube이나, 뉴스 웹사이트 등에서도 모두 작동합니다."
+   },
+   "desuntil": {
+      "description": "까지",
+      "message": "까지"
+   },
+   "desvideoheadline": {
+      "description": "표시 및 비디오 타이틀의 색상을 반전.",
+      "message": "영상 제목을 반전된 색으로 봅니다."
+   },
+   "desviewcount": {
+      "description": "이 비디오에 대 한 보기의 수를 표시 합니다.",
+      "message": "이 비디오 보기의 번호를 표시 합니다."
+   },
+   "donatepromotext": {
+      "description": "모든 금액의 기부를 만들 수 있습니다, 만약 내가 대단히 감사 하겠습니다!",
+      "message": "이 확장이 유용하시다면 개발자에게 기부해보시는건 어떨까요?"
+   },
+   "eastereggsquestion": {
+      "description": "실제 극장을 좋아 합니까?",
+      "message": "실제 극장을 좋아 합니까?"
+   },
+   "enjoyshare": {
+      "description": "이 확장을 즐길 수과 당신이 그것을 감사 것 이라고 생각 하는 사람들과 그것을 공유.",
+      "message": "이 확장을 즐길 수과 당신이 그것을 감사 것 이라고 생각 하는 사람들과 그것을 공유."
+   },
+   "eyedivoff": {
+      "description": "오프",
+      "message": "오프"
+   },
+   "eyedivon": {
+      "description": "ON",
+      "message": "ON"
+   },
+   "friendlyremember": {
+      "description": "친절 한 기억...",
+      "message": "친절 한 기억..."
+   },
+   "guide": {
+      "description": "TOtL 환영 가이드",
+      "message": "TOtL 환영 가이드"
+   },
+   "help": {
+      "description": "도움말",
+      "message": "도움말"
+   },
+   "helpautoplay": {
+      "description": "'눈 보호'가 활성화되었습니다. 아래의 기능을 사용하려면 눈 보호를 비활성화해주세요.",
+      "message": "'눈 보호'가 활성화되었습니다. 아래의 기능을 사용하려면 눈 보호를 비활성화해주세요."
+   },
+   "helpeyeprotection": {
+      "description": "시력 보호 기능 사용시 자동 재생 기능은 자동으로 비활성화 됩니다.",
+      "message": "시력 보호 기능 사용시 자동 재생 기능은 자동으로 비활성화 됩니다."
+   },
+   "hoveroptionapply": {
+      "description": "적용",
+      "message": "적용"
+   },
+   "hoveroptiondyn5": {
+      "description": "비행으로",
+      "message": "비행으로"
+   },
+   "howworkmotion": {
+      "description": "어떻게 작동합니까?",
+      "message": "어떻게 작동합니까?"
+   },
+   "installadblocker": {
+      "description": "Adblocker 확장자를 사용 합니다.",
+      "message": "Adblocker 확장자를 사용 합니다."
+   },
+   "lastchecked": {
+      "description": "최신 버전 확인 날짜",
+      "message": "최신 버전 확인 날짜"
+   },
+   "left": {
+      "description": "왼쪽",
+      "message": "왼쪽"
+   },
+   "lockentername": {
+      "description": "비밀번호를 입력해주세요",
+      "message": "비밀번호를 입력해주세요"
+   },
+   "lockwrongpassword": {
+      "description": "잘못 된 암호, 다시 시도 하십시오.",
+      "message": "잘못 된 암호, 다시 시도 하십시오."
+   },
+   "longdonatetext": {
+      "description": "이 브라우저 확장 다른 새로운 사용자를 위해 살아 있는 유지를 기부할 수 있는 난 정말 감사 하겠습니다. 그것은 $$ 1 또는 $$ 100, 당신의 지원은 대단히 감사!",
+      "message": "이 브라우저 확장 다른 새로운 사용자를 위해 살아 있는 유지를 기부할 수 있는 난 정말 감사 하겠습니다. 그것은 $$ 1 또는 $$ 100, 당신의 지원은 대단히 감사!"
+   },
+   "motionoptions": {
+      "description": "모션 인식",
+      "message": "모션 인식"
+   },
+   "name": {
+      "description": "Turn Off the Lights",
+      "message": "Turn Off the Lights"
+   },
+   "nightoptions": {
+      "description": "야간 모드",
+      "message": "야간 모드"
+   },
+   "optionecosaversaved": {
+      "description": "초는 성공적으로 저장!",
+      "message": "초는 성공적으로 저장!"
+   },
+   "optionpagetitle": {
+      "description": "옵션 페이지 제목",
+      "message": "Turn Off the Lights - 설정"
+   },
+   "optionpasswordsaved": {
+      "description": "비밀번호 저장 성공",
+      "message": "비밀번호 저장 성공"
+   },
+   "optiontimesaved": {
+      "description": "시간을 성공적으로 저장!",
+      "message": "시간을 성공적으로 저장!"
+   },
+   "optionwrongimg": {
+      "description": "잘못 된 이미지 파일!",
+      "message": "잘못 된 이미지 파일!"
+   },
+   "pageatitle": {
+      "description": "불을 모두 끄고",
+      "message": "Turn Off the Lights"
+   },
+   "pagehelp": {
+      "description": "도움말",
+      "message": "도움말"
+   },
+   "pagestillloading": {
+      "description": "페이지 로드는?",
+      "message": "페이지 로드는?"
+   },
+   "pagetitle": {
+      "description": "이 페이지를 어둡게",
+      "message": "화면 어둡게 하기"
+   },
+   "productshare": {
+      "description": "공유",
+      "message": "공유"
+   },
+   "ratedes": {
+      "description": "모두에게 이 훌륭한 확장 기능을 알려주세요!",
+      "message": "모두에게 이 훌륭한 확장 기능을 알려주세요!"
+   },
+   "rateitema": {
+      "description": "별 5개 주기",
+      "message": "별 5개 주기"
+   },
+   "ratetitle": {
+      "description": "평점과 리뷰를 남겨주세요!",
+      "message": "평점과 리뷰를 남겨주세요!"
+   },
+   "recflash": {
+      "description": "권장",
+      "message": "권장"
+   },
+   "rememberrate": {
+      "description": "평가하기",
+      "message": "평가하기"
+   },
+   "reportbug": {
+      "description": "문제 보고",
+      "message": "문제 보고 하기"
+   },
+   "reportlist": {
+      "description": "전체 문제 목록 참조",
+      "message": "(이슈 목록)"
+   },
+   "resetbrowserextension": {
+      "description": "Turn off the Lights 설정 초기화",
+      "message": "Turn off the Lights 설정 초기화"
+   },
+   "right": {
+      "description": "오른쪽",
+      "message": "오른쪽"
+   },
+   "settings": {
+      "description": "설정",
+      "message": "설정"
+   },
+   "shortcutalllights": {
+      "description": "현재 열려 있는 모든 탭에서 불 켜기/끄기",
+      "message": "현재 열려 있는 모든 탭에서 불 켜기/끄기"
+   },
+   "shortcutbright": {
+      "description": "(불투명도 감소) 화면을 밝게.",
+      "message": "(불투명도 감소) 화면을 밝게."
+   },
+   "shortcutdark": {
+      "description": "(증가 불투명도) 화면을 어둡게.",
+      "message": "(증가 불투명도) 화면을 어둡게."
+   },
+   "shortcuteyeprotection": {
+      "description": "눈 보호 기능을 활성화/비활성화 합니다.",
+      "message": "눈 보호 기능을 활성화/비활성화 합니다."
+   },
+   "shortcutopacity": {
+      "description": "설정 설정된 어둠 (불투명도)를 복원 합니다.",
+      "message": "설정 설정된 어둠 (불투명도)를 복원 합니다."
+   },
+   "shortcutsavingopacity": {
+      "description": "이 투명도 값을 저장 하려면",
+      "message": "이 투명도 값을 저장 하려면"
+   },
+   "shortcuttotl": {
+      "description": "불 켜기/끄기.",
+      "message": "불 켜기/끄기."
+   },
+   "showremember": {
+      "description": "때 표시 되지 않습니다이 기억 페이지 다시 옵션 페이지를 엽니다.",
+      "message": "때 표시 되지 않습니다이 기억 페이지 다시 옵션 페이지를 엽니다."
+   },
+   "skipremember": {
+      "description": "이 생략 하 고 지금 옵션 페이지를 열려면",
+      "message": "이 생략 하 고 지금 옵션 페이지를 열려면"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "음성 인식"
+   },
+   "step1description": {
+      "description": "동작 인식 기능 활성화하기",
+      "message": "동작 인식 기능 활성화하기"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "그러면 검은 레이어가 자동으로 내려옵니다.",
+      "message": "그러면 검은 레이어가 자동으로 내려옵니다."
+   },
+   "textfoot": {
+      "description": "이 소프트웨어는 CC GNU gpl 라이센스입니다. 이 면허의 사본, 방문",
+      "message": "이 소프트웨어에는 CC-GNU GPL 라이센스가 적용됩니다. 자세한 내용을 보시려면 다음 링크를 방문하세요 : "
+   },
+   "titeladdvideobutton": {
+      "description": "단추 추가",
+      "message": "단추 추가"
+   },
+   "titelalllightsoff": {
+      "description": "모든 탭",
+      "message": "모든 열려 있는 탭"
+   },
+   "titelambilight": {
+      "description": "분위기 조명",
+      "message": "분위기 조명"
+   },
+   "titelapideveloper": {
+      "description": "API 개발자",
+      "message": "API 개발자"
+   },
+   "titelautoplay": {
+      "description": "자동 실행",
+      "message": "자동재생"
+   },
+   "titelautoplayblacklist": {
+      "description": "금지된 사이트 목록",
+      "message": "금지된 사이트 목록"
+   },
+   "titelautoplaywhitelist": {
+      "description": "허용 된 사이트 목록",
+      "message": "허용 된 사이트 목록"
+   },
+   "titelautowidthyoutube": {
+      "description": "더 큰 크기에 YouTube 플레이어를 자동으로 설정.",
+      "message": "더 큰 크기에 YouTube 플레이어를 자동으로 설정."
+   },
+   "titelblur": {
+      "description": "나머지를 흐리게",
+      "message": "나머지를 흐리게"
+   },
+   "titelblurradius": {
+      "description": "흐림 반경",
+      "message": "흐림 반경"
+   },
+   "titelcamera": {
+      "description": "카메라",
+      "message": "카메라"
+   },
+   "titelcinemaontop": {
+      "description": "영화 극장 모드: 그것은 창 상단에 있는 '불 끄기' 레이어를 표시 합니다.",
+      "message": "영화 극장 모드: 그것은 창 상단에 있는 '불 끄기' 레이어를 표시 합니다."
+   },
+   "titelcolor": {
+      "description": "색",
+      "message": "색상"
+   },
+   "titelcolora": {
+      "description": "색깔 A",
+      "message": "색깔 A"
+   },
+   "titelcolorb": {
+      "description": "색깔 B",
+      "message": "색깔 B"
+   },
+   "titelcontextmenus": {
+      "description": "우클릭 메뉴",
+      "message": "컨텍스트 메뉴"
+   },
+   "titeldeveloper": {
+      "description": "개발자",
+      "message": "개발자"
+   },
+   "titeldownloadbutton": {
+      "description": "이 업그레이 드를 다운로드!",
+      "message": "이 업그레이 드를 다운로드!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "브라우저에 어두운 테마를 추가해서 꾸미세요. 테마는 브라우저의 테두리 주위에 나타납니다.",
+      "message": "브라우저에 어두운 테마를 추가해서 꾸미세요. 테마는 브라우저의 테두리 주위에 나타납니다."
+   },
+   "titeldownloadupgrade": {
+      "description": "업그레이드 초점 선택한 이미지에 대 한 지원을 추가 하 고 사이트에 이미지 갤러리를 표시 합니다.",
+      "message": "업그레이드 초점 선택한 이미지에 대 한 지원을 추가 하 고 사이트에 이미지 갤러리를 표시 합니다."
+   },
+   "titeldynamic": {
+      "description": "동적 배경",
+      "message": "애니메이션"
+   },
+   "titeleastereggs": {
+      "description": "부활절 달걀",
+      "message": "부활절 달걀"
+   },
+   "titeleye": {
+      "description": "눈 보호",
+      "message": "눈 보호"
+   },
+   "titelfadein": {
+      "description": "페이드 인",
+      "message": "페이드 인"
+   },
+   "titelfadeout": {
+      "description": "페이드 아웃",
+      "message": "페이드 아웃"
+   },
+   "titelflash": {
+      "description": "플래시 검색",
+      "message": "플래시 검출"
+   },
+   "titelhead": {
+      "description": "채널",
+      "message": "채널"
+   },
+   "titelimage": {
+      "description": "배경 이미지",
+      "message": "배경 이미지"
+   },
+   "titelinfobar": {
+      "description": "정보 표시줄",
+      "message": "정보창"
+   },
+   "titellamp": {
+      "description": "전구",
+      "message": "전구"
+   },
+   "titellampregular": {
+      "description": "주소창에 항상 램프 아이콘 보이기",
+      "message": "주소창에 항상 램프 아이콘 보이기"
+   },
+   "titellampvideo": {
+      "description": "비디오 플레이어가 감지되었을 때만 램프 아이콘 표시",
+      "message": "비디오 플레이어가 감지되었을 때만 램프 아이콘 표시"
+   },
+   "titellessmore": {
+      "description": "적게 표시",
+      "message": "축소"
+   },
+   "titellikebar": {
+      "description": "Youtube Like 바",
+      "message": "Youtube Like 바"
+   },
+   "titellikebutton": {
+      "description": "같은 & 단추를 싫어합니다",
+      "message": "좋아요 버튼"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "이 해상도로 자동 설정:",
+      "message": "이 해상도로 자동 설정:"
+   },
+   "titelmouse": {
+      "description": "마우스",
+      "message": "마우스"
+   },
+   "titelnighttheme": {
+      "description": "야간 모드",
+      "message": "야간 모드"
+   },
+   "titeloff": {
+      "description": "오프",
+      "message": "오프"
+   },
+   "titelon": {
+      "description": "에",
+      "message": "에"
+   },
+   "titelopacity": {
+      "description": "불투명도",
+      "message": "투명도"
+   },
+   "titelpageaction": {
+      "description": "pageaction 아이콘을 숨기려면",
+      "message": "램프 아이콘 숨기기"
+   },
+   "titelpassword": {
+      "description": "암호 보호",
+      "message": "암호 보호"
+   },
+   "titelplaylist": {
+      "description": "재생목록",
+      "message": "재생목록"
+   },
+   "titelqualityyoutube": {
+      "description": "자동으로 유튜브 동영상의 품질을 설정 합니다.",
+      "message": "자동으로 유튜브 동영상의 품질을 설정 합니다."
+   },
+   "titelreader": {
+      "description": "모호 레벨 바",
+      "message": "어둠움 정도 조절바 "
+   },
+   "titelrememberpage": {
+      "description": "페이지를 기억",
+      "message": "페이지 기억"
+   },
+   "titelreset": {
+      "description": "설정 초기화",
+      "message": "설정 초기화"
+   },
+   "titelrightsreserved": {
+      "description": "Some rights reserved.",
+      "message": "Some rights reserved."
+   },
+   "titelscreen": {
+      "description": "화면",
+      "message": "화면"
+   },
+   "titelseeonline": {
+      "description": "온라인에서 더 많은 예시를 볼 수 있습니다.",
+      "message": "온라인에서 더 많은 예시를 볼 수 있습니다."
+   },
+   "titelsharebutton": {
+      "description": "공유 버튼",
+      "message": "공유버튼"
+   },
+   "titelshortcutlight": {
+      "description": "단축키",
+      "message": "단축키"
+   },
+   "titelshowmore": {
+      "description": "더 보기",
+      "message": "더보기"
+   },
+   "titelspeech": {
+      "description": "언어",
+      "message": "언어"
+   },
+   "titelspreadradius": {
+      "description": "확산 반경",
+      "message": "확산 반경"
+   },
+   "titelsuggestions": {
+      "description": "제안",
+      "message": "추천 영상"
+   },
+   "titelsupportatmos": {
+      "description": "HTML 5의 \u003Cvideo>  태그와 유투브의 HTML5 플레이어만 지원합니다, 또한, GPU를 사용합니다.",
+      "message": "HTML 5의 \u003Cvideo>  태그와 유투브의 HTML5 플레이어만 지원합니다, 또한, GPU를 사용합니다."
+   },
+   "titelsync": {
+      "description": "동기화",
+      "message": "동기화"
+   },
+   "titelsyncbrowser": {
+      "description": "다른 브라우저를 사용 하 여 확장 설정을 동기화 합니다.",
+      "message": "다른 브라우저를 사용 하 여 확장 설정을 동기화 합니다."
+   },
+   "titelupgrade": {
+      "description": "업그레이드",
+      "message": "업그레이드"
+   },
+   "titelvideoheadline": {
+      "description": "비디오 제목",
+      "message": "영상제목"
+   },
+   "titelvideosample": {
+      "description": "비디오 샘플",
+      "message": "비디오 샘플"
+   },
+   "titelviewcount": {
+      "description": "조회 수",
+      "message": "번호 조회"
+   },
+   "titelwebsite": {
+      "description": "웹사이트",
+      "message": "웹사이트"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "기부",
+      "message": "기부"
+   },
+   "top": {
+      "description": "맨 위로",
+      "message": "맨 위로"
+   },
+   "translateme": {
+      "description": "번역 돕기",
+      "message": "번역 하는 데 도움이"
+   },
+   "trymotion": {
+      "description": "직접 시도해보세요!",
+      "message": "직접 시도해보세요!"
+   },
+   "upgradecontextitemma": {
+      "description": "손으로 불 끄기",
+      "message": "손으로 불 끄기"
+   },
+   "upgradecontextitemmb": {
+      "description": "더 정확하게 웹 페이지를 제어하십시오.",
+      "message": "더 정확하게 웹 페이지를 제어하십시오."
+   },
+   "upgradecontextitemta": {
+      "description": "모션 인식",
+      "message": "모션 인식"
+   },
+   "upgradecontextitemtb": {
+      "description": "음성 인식",
+      "message": "음성 인식"
+   },
+   "upgradecontextmessage": {
+      "description": "Turn off the lights가 더 놀라워졌습니다.",
+      "message": "Turn off the lights가 더 놀라워졌습니다."
+   },
+   "upgradecontexttitle": {
+      "description": "몇 가지 새로운 기능을 추가했습니다.",
+      "message": "몇 가지 새로운 기능을 추가했습니다."
+   },
+   "upgradefbshare": {
+      "description": "페이스북에서 공유",
+      "message": "페이스북에서 공유"
+   },
+   "upgradetwshare": {
+      "description": "트윗",
+      "message": "트윗"
+   },
+   "version": {
+      "description": "버전 번호 텍스트",
+      "message": "버전"
+   },
+   "videotitle": {
+      "description": "이 비디오를 집중",
+      "message": "비디오에 집중하기"
+   },
+   "visualeffects": {
+      "description": "시각 효과",
+      "message": "시각 효과"
+   },
+   "warning": {
+      "description": "경고!",
+      "message": "경고!"
+   },
+   "warningtextambilight": {
+      "description": "사이트의 보안 규칙 때문에 비디오 데이터를 받을 수 없는 경우 다음 표시 됩니다 선택한 단색 대신.",
+      "message": "사이트의 보안 규칙 때문에 비디오 데이터를 받을 수 없는 경우 다음 표시 됩니다 선택한 단색 대신."
+   }
+}

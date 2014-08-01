@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Viac informácií"
+   },
+   "app_nacl_crash_report": {
+      "message": "Nahlásiť problém..."
+   },
+   "application_description": {
+      "message": "Úprava dokumentov"
+   },
+   "extension_description": {
+      "message": "Zobrazte si a upravte súbory Microsoft Word, Excel a PowerPoint pomocou Dokumentov Google, Tabuliek Google a Prezentácií Google"
+   },
+   "extension_name": {
+      "message": "Office Editing for Docs, Sheets & Slides"
+   },
+   "file_loading_spinner_label": {
+      "message": "Prebieha načítavanie"
+   },
+   "file_not_found_msg": {
+      "message": "Požadovaný súbor sa niekam presunul."
+   },
+   "file_not_found_title": {
+      "message": "Súbor sa nenašiel."
+   }
+}

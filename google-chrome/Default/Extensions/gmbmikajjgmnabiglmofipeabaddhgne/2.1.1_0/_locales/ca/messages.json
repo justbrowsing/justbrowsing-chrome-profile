@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Compte"
+   },
+   "apply": {
+      "message": "Aplica"
+   },
+   "audio_default_filename": {
+      "message": "Àudio sense títol"
+   },
+   "authorization_needed": {
+      "message": "Heu de donar permís a Desa a Google Drive."
+   },
+   "cancel": {
+      "message": "Cancel·la"
+   },
+   "cannot_capture_chrome": {
+      "message": "No es pot fer una captura de pantalla de les pàgines de Chrome. Proveu una pàgina web estàndard."
+   },
+   "change_dest_folder": {
+      "message": "Canvia la carpeta de destinació..."
+   },
+   "chrome_extension_name": {
+      "message": "Desa a Google Drive"
+   },
+   "close": {
+      "message": "Tanca"
+   },
+   "convert_to_google_format": {
+      "message": "Converteix l'enllaç desat al format de l'editor de Google"
+   },
+   "debug": {
+      "message": "Depuració"
+   },
+   "default_filename": {
+      "message": "Sense títol"
+   },
+   "download_canceled": {
+      "message": "S'ha cancel·lat la baixada."
+   },
+   "download_failure": {
+      "message": "Error de baixada: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Error de baixada: no s'han rebut dades."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Error de baixada: el fitxer d'origen és massa gran ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "S'està baixant $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "S'està baixant..."
+   },
+   "empty_page_capture": {
+      "message": "No s'ha pogut capturar el contingut de la pàgina com a MHTML."
+   },
+   "enable_file_url": {
+      "message": "Cal activar els URL de fitxer amb l'opció \"Permet l'accés als URL de fitxer\" a la pàgina de configuració d'extensions."
+   },
+   "ext_description": {
+      "message": "Desa el contingut web i les captures de pantalla directament a Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "No s'ha pogut capturar el contingut de la pàgina com a MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Envia comentaris (només per a ús intern)"
+   },
+   "file_bug_internal": {
+      "message": "Informa d'un error (només per a ús intern)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> s'ha desat a \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">Canvia\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> s'ha mogut a la paperera. Aneu a \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Ajuda"
+   },
+   "html_default_filename": {
+      "message": "HTML sense títol"
+   },
+   "image_capture_failed": {
+      "message": "No s'ha pogut capturar la imatge."
+   },
+   "image_capture_failed_reason": {
+      "message": "No s'ha pogut capturar la imatge ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Imatge sense títol"
+   },
+   "invalid_url": {
+      "message": "L'URL no és vàlid: $1. Els URL baixats han de començar per http://, https:// o file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Altres"
+   },
+   "my_drive": {
+      "message": "La meva unitat"
+   },
+   "options_header_text": {
+      "message": "Opcions de l'extensió Desa a Google Drive"
+   },
+   "options_title": {
+      "message": "Opcions de Desa a Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "La mida de la pàgina no és compatible: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF sense títol"
+   },
+   "percent": {
+      "message": "$1% fet",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privadesa"
+   },
+   "rename": {
+      "message": "Canvia el nom"
+   },
+   "rename_prompt": {
+      "message": "Canvia el nom:"
+   },
+   "save_as_html": {
+      "message": "Font HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Document de Google"
+   },
+   "save_as_image_entire": {
+      "message": "Imatge de la pàgina completa (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Imatge de la pàgina visible (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Arxiu web (.mht)"
+   },
+   "save_audio": {
+      "message": "Desa l'àudio a Google Drive"
+   },
+   "save_image": {
+      "message": "Desa la imatge a Google Drive"
+   },
+   "save_link": {
+      "message": "Desa l'enllaç a Google Drive"
+   },
+   "save_page_as": {
+      "message": "Anomena i desa la pàgina:"
+   },
+   "save_to_folder_text": {
+      "message": "Desa a la carpeta"
+   },
+   "save_to_google_drive_action": {
+      "message": "Desa a Google Drive"
+   },
+   "save_video": {
+      "message": "Desa el vídeo a Google Drive"
+   },
+   "saving": {
+      "message": "S'està desant $1 a Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Seleccioneu una carpeta de destinació"
+   },
+   "send_feedback": {
+      "message": "Envia comentaris"
+   },
+   "sign_out": {
+      "message": "Tanca la sessió"
+   },
+   "start_download_exception": {
+      "message": "S'ha produït un error en iniciar la baixada: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Text sense títol"
+   },
+   "trash": {
+      "message": "Paperera"
+   },
+   "unspecified_error": {
+      "message": "Error no especificat"
+   },
+   "upload_canceled": {
+      "message": "S'ha cancel·lat la càrrega"
+   },
+   "upload_failure": {
+      "message": "S'ha produït un error de càrrega: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "S'està carregant $1 a Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Obriu l'enllaç\u003C/a> i deseu la pàgina amb el botó Desa a Google Drive situat a la dreta de la barra d'adreces.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Això és un enllaç a una pàgina web"
+   },
+   "video_default_filename": {
+      "message": "Vídeo sense títol"
+   },
+   "xml_default_filename": {
+      "message": "XML sense títol"
+   }
+}

@@ -1,0 +1,26 @@
+{
+  "app_error_learn_more": {
+    "message": "Finn ut mer"
+  }, 
+  "app_nacl_crash_report": {
+    "message": "Rapport\u00e9r et problem"
+  }, 
+  "application_description": {
+    "message": "Dokumentredigering"
+  }, 
+  "extension_description": {
+    "message": "Se og rediger Microsoft Word-, Excel- og PowerPoint-filer med Google Dokumenter, Regneark og Presentasjoner"
+  }, 
+  "extension_name": {
+    "message": "Office-redigering for Dokumenter, Regneark og Presentasjoner"
+  }, 
+  "file_loading_spinner_label": {
+    "message": "Laster inn ..."
+  }, 
+  "file_not_found_msg": {
+    "message": "Filen du ba om er flyttet."
+  }, 
+  "file_not_found_title": {
+    "message": "Fant ikke filen"
+  }
+}

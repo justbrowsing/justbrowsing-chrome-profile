@@ -1,0 +1,1318 @@
+{
+   "adalreadyblocked": {
+      "description": "on the ad report page, telling a user there is nothing to do",
+      "message": "Reklam zaten engellendiği için bir şey yapmanıza gerek yok"
+   },
+   "adblock_auto_removes_ads_thats_all": {
+      "description": "Install page: explaining how to use adblock.",
+      "message": "AdBlock otomatik olarak tüm reklamları engeller. Hepsi bu."
+   },
+   "adblock_click_for_details": {
+      "description": "Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button.  Do not translate the beginning 'AdBlock - ' part.",
+      "message": "AdBlock - ayrıntılar için tıklayın"
+   },
+   "adblock_is_paused": {
+      "description": "resourceblocking page string",
+      "message": "AdBlock duraklatıldı. Hiç bir kaynak olmadığı için, bu sayfa kullanılamaz. AdBlock'u tekrar başlatıp yeniden deneyin."
+   },
+   "adblock_outdated_chrome": {
+      "description": "Ad report page instructions to update AdBlock in Chrome. The link will point to 'chrome://chrome/extensions/'",
+      "message": "AdBlock'un eski bir sürümünü kullanıyorsunuz. Lütfen \u003Ca href='#'>uzantılar sayfası\u003C/a>, 'Geliştirici modu' ve 'Uzantıları şimdi güncelle' seçeneklerini kullanarak güncelleme yapın."
+   },
+   "adblock_wont_run_on_pages_matching": {
+      "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
+      "message": "AdBlock şu durumlarla eşleşen sayfalarda çalışmayacak:"
+   },
+   "adblockcontributors": {
+      "description": "Text for link to contributors page",
+      "message": "AdBlock'un geliştirilmesine kimlerin katkı sağladığını öğrenmek ister misiniz? \u003Ca>Katkıda Bulunanlar\u003C/a> sayfamıza göz atın!"
+   },
+   "adblockinglist": {
+      "description": "List for subscribed ad blocking fiters",
+      "message": "Reklam Engelleme Filtre Listeleri"
+   },
+   "adblockreportinganad": {
+      "description": "title of ad report page",
+      "message": "AdBlock - Reklam bildirme"
+   },
+   "adblocksupport": {
+      "description": "A tab on the options page",
+      "message": "AdBlock Destek"
+   },
+   "addthisfilter": {
+      "description": "resourceblocking page string",
+      "message": "Bu filtreyi ekleyin"
+   },
+   "adreport2": {
+      "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
+      "message": "Demek bu sayfada bir reklam buldunuz.. Bunu doğru yere bildirmenize yardımcı olacağım\u003Cbr/> Unutmayın: reklam bildirmek isteğe bağlıdır. Eğer bildirmek istemiyorsanız, bu pencereyi kapatabilir ve Ayarlar bölümünden Özelleştir seçeneğini kullanarak filtreyi sadece kendiniz için ekleyebilirsiniz."
+   },
+   "adstillappear": {
+      "description": "question on ad reporting page",
+      "message": "Reklam hala görünüyor mu?"
+   },
+   "advanced_options2": {
+      "description": "Options page checkbox",
+      "message": "Tecrübeli bir kullanıcıyım, bana gelişmiş seçenekleri göster"
+   },
+   "allow_whitelisting_youtube_channels": {
+      "description": "Option on first tab",
+      "message": "Belirli Youtube kanallarını beyaz listeye eklemeye izin ver"
+   },
+   "anysite": {
+      "description": "resourceblocking page string",
+      "message": "Herhangi bir web sitesi"
+   },
+   "appliedwhenbrowsing": {
+      "description": "resourceblocking page string",
+      "message": "Bu filtre şu sayfaları gezerken kullanılacak:"
+   },
+   "betalabel": {
+      "description": "Option on first tab page",
+      "message": "Beta"
+   },
+   "blacklistclickmessage": {
+      "description": "Message at the top of the blacklist options tab",
+      "message": "Reklamı engellemek için sağ tıklayın -- ya da buradan manuel olarak engelleyin."
+   },
+   "blacklisterattrwillbe": {
+      "description": "Checkbox label",
+      "message": "$attribute$ olacak $value$",
+      "placeholders": {
+         "attribute": {
+            "content": "$1",
+            "example": "class"
+         },
+         "value": {
+            "content": "$2",
+            "example": "AdBanner"
+         }
+      }
+   },
+   "blacklisterblockedelement": {
+      "description": "Tells the user what the blocked element is on the slider page",
+      "message": "Engellenen öğe:"
+   },
+   "blacklisterblocksalloftype": {
+      "description": "Warns the user that all elements of type X will be blocked",
+      "message": "Dikkat: bu filtre sayfadaki tüm $elementtype$ öğelerini engelleyecek!",
+      "placeholders": {
+         "elementtype": {
+            "content": "$1",
+            "example": "DIV"
+         }
+      }
+   },
+   "blacklistereditfilter": {
+      "description": "Text if the user wants to manually edit a filter.  'OK' is the standard javascript popup button text.",
+      "message": "Lütfen eklemek istediğiniz filtreyi yazın ve OK tuşuna basın."
+   },
+   "blacklistereditinvalid1": {
+      "description": "Messagebox if the manually edited filter is invalid. Error messages are not translated.",
+      "message": "Filtre geçersiz: $exception$",
+      "placeholders": {
+         "exception": {
+            "content": "$1",
+            "example": "This filter is not supported"
+         }
+      }
+   },
+   "blacklistermatches": {
+      "description": "Tells the user multiple matches were found",
+      "message": "Bu sayfada $matchcount$ benzer öğe bulundu.",
+      "placeholders": {
+         "matchcount": {
+            "content": "$1",
+            "example": "5"
+         }
+      }
+   },
+   "blacklisternofilter": {
+      "description": "Warning if the user hasn't specified a filter",
+      "message": "Filtre tanımlanmamış."
+   },
+   "blacklisternotsure": {
+      "description": "Blacklister attribute choosing page message.  'Block it!' must be the same as the text of the 'buttonblockit' message.",
+      "message": "\u003Cb>Emin değil misiniz?\u003C/b> Sadece \"Engelle!\" tuşuna basın."
+   },
+   "blacklisteroptions1": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "Bu sayfayı her ziyaret ettiğinizde hangisinin geçerli olacağını düşünüyorsunuz?"
+   },
+   "blacklisteroptionstitle": {
+      "description": "Blacklister options page title",
+      "message": "Son adım: Bu öğeyi reklam yapan nedir?"
+   },
+   "blacklistersinglematch": {
+      "description": "Tells the user only one match was found",
+      "message": "Bu sayfada \u003Cb>1\u003C/b> benzer öğe bulundu."
+   },
+   "blacklisterthefilter": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "Ayarlar bölümünden değiştirilebilecek filtre:"
+   },
+   "blacklistertype": {
+      "description": "node name is called 'Type'",
+      "message": "Tip"
+   },
+   "blacklisterwarningnofilter": {
+      "description": "Warns the user that no filter was specified",
+      "message": "Dikkat: hiç filtre tanımlanmamış!"
+   },
+   "block_an_ad_on_this_page": {
+      "description": "Toolbar button menu entry and context menu entry",
+      "message": "Bu sayfadaki bir reklamı engelleyin"
+   },
+   "block_by_url_instead": {
+      "description": "Link on blacklister slider page",
+      "message": "Gelişmiş: Sayfa URL'sini kullanarak engelleyin"
+   },
+   "block_this_ad": {
+      "description": "Context and popup menu entry",
+      "message": "Bu reklamı engelle"
+   },
+   "blockanadtitle": {
+      "description": "Title of the first two dialogs of the blacklister",
+      "message": "Bir reklam engelle"
+   },
+   "blockdomain": {
+      "description": "Message of the url and css -blocking area",
+      "message": "Sayfanın bulunduğu alan adında uygulanacak"
+   },
+   "blocked_ads": {
+      "description": "Title for popup menu section showing number of ads blocked.",
+      "message": "Engellenmiş Reklamlar:"
+   },
+   "blocked_n_in_total": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked since AdBlock was installed. $count$ will be a number between 1 and 999,999,999.",
+      "message": "Toplam: $count$",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123,456\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blocked_n_on_this_page": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked on this page. $count$ will be a number between 1 and 999.",
+      "message": "Bu sayfada: $count$",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blockeverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "Şu içerik bulunan tüm kaynakları engelle:"
+   },
+   "blockmoreads": {
+      "description": "Section header on third tab",
+      "message": "Daha fazla reklam engelle:"
+   },
+   "blockurlwithtext": {
+      "description": "Message of the url-blocking area",
+      "message": "Şu metni içeren URL'leri engelle"
+   },
+   "buttonback": {
+      "description": "Back to previous wizard page button",
+      "message": "Geri"
+   },
+   "buttonblockit": {
+      "description": "Block button",
+      "message": "Engelle!"
+   },
+   "buttoncancel": {
+      "description": "Cancel button",
+      "message": "İptal"
+   },
+   "buttonedit": {
+      "description": "Edit filter manually button",
+      "message": "Düzenle"
+   },
+   "buttonexclude": {
+      "description": "Button for excluding a domain in the whitelister dialog",
+      "message": "İstisna"
+   },
+   "buttonlooksgood": {
+      "description": "Looks good button",
+      "message": "İyi görünüyor"
+   },
+   "buttonok": {
+      "description": "OK button",
+      "message": "Tamam!"
+   },
+   "cantblockflash": {
+      "description": "Result of the final ad report question",
+      "message": "Flash ve diğer eklentiler içinde bulunan reklamları henüz engelleyemiyoruz. Tarayıcı ve Webkit'in bu konuda desteğini bekliyoruz."
+   },
+   "cantblockflashwarning": {
+      "description": "Text of the final ad report question",
+      "message": "Reklam bir video başlamadan önce, video oynatılırken ya da Flash oyunu gibi bir eklentide mi görünüyor?"
+   },
+   "casesensitive": {
+      "description": "resourceblocking page string",
+      "message": "Bu filtre BÜYÜK/küçük harf duyarlıdır:"
+   },
+   "changelabel": {
+      "description": "link to change resources on the resourceblock page",
+      "message": "değiştir"
+   },
+   "checkforupdates": {
+      "description": "Displayed when AdBlock is checking the newest available version",
+      "message": "Güncelleştirmeler denetleniyor(sadece birkaç saniye sürer)..."
+   },
+   "checkinfirefox_1": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Eğer zaten yüklü değilse, Firefox $chrome$ yükleyin.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome2'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_2": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad. Don't translate the name 'AdBlock Plus'.",
+      "message": "Eğer zaten yüklü değilse, Firefox için AdBlock Plus $chrome$ yükleyin.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='adblockforchrome'>\u003C/span>",
+            "example": "'or AdBlock for Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_3": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Yüklediğiniz tarayıcıda burada kullandığınız filtre listelerine abone olun (Firefox'taki AdBlock özel filtreleri hariç)"
+   },
+   "checkinfirefox_4": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Yüklediğiniz tarayıcıda, reklam olan bir sayfayı açın."
+   },
+   "checkinfirefox_5": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Reklam o tarayıcıda da görünüyor mu?"
+   },
+   "checkinfirefoxtitle": {
+      "description": "tell a user to see if a reported ad also appears in Firefox/Chrome",
+      "message": "Firefox $chrome$ için reklamın görünüp görünmediğini kontrol edin.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome1'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinternetconnection": {
+      "description": "Displayed when AdBlock is checking the newest available version and an error occurs while reporting an ad on adreport page",
+      "message": "Bir reklam bildirmek için internete bağlı olmanız gerekir."
+   },
+   "chromebutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "message": "Düğmeyi gizlemek için, sağ tıklayıp 'Düğmeyi gizle'yi seçin. Tekrar görünmesi için adres çubuğundan; chrome://chrome/extensions."
+   },
+   "cleanuplist2": {
+      "description": "Option at the bottom of the third options tab",
+      "message": "Bu listeyi temizle"
+   },
+   "clickthead": {
+      "description": "When you have to click the ad to continue",
+      "message": "Reklamı tıklatın, ve engelleme seçeneklerini görün."
+   },
+   "clickupdatefilters": {
+      "description": "instruction on ad report page",
+      "message": "Buraya tıklayın: \u003Ca>Filtrelerimi güncelleştir!\u003C/a>"
+   },
+   "close": {
+      "description": "resourceblocking page string",
+      "message": "Kapat"
+   },
+   "close_tab_begin_browsing": {
+      "description": "Install page string",
+      "message": "Bu sekmeyi kapatıp web sitelerini reklamsız gezmeye başlayabilirsiniz. İyi eğlenceler!"
+   },
+   "confirm_undo_custom_filters": {
+      "description": "Confirmation message when user wants to undo their custom blocks for a domain. $count$ will be a number between 1 and 999,999,999, $host$ will be the domain where the custom blocks will be reset",
+      "message": "$host$ alan adında yaptığınız $count$ engellemeyi kaldırmak istediğinize emin misiniz?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "The number of custom blocks for a domain."
+         },
+         "host": {
+            "content": "$2",
+            "example": "code.google.ph, ph.msn.com, stackoverflow.com"
+         }
+      }
+   },
+   "correctfilters": {
+      "description": "on the ad report page, label describing having the right set of filters",
+      "message": "Filtreleri düzelt"
+   },
+   "csstomatch": {
+      "description": "Message of the css-hiding area",
+      "message": "Eşleşen CSS öğeleri"
+   },
+   "customfilters": {
+      "description": "List for custom filters the user subscribed to",
+      "message": "Özelleştirilmiş Filtre Listeleri"
+   },
+   "custompattern": {
+      "description": "Label in front of the 'custom block pattern' textbox in resourceblock, after clicking a resource",
+      "message": "Özel:"
+   },
+   "debuginlogoption": {
+      "description": "Option on first tab page",
+      "message": "Konsol Günlüğünde hata ayıklama bilgilerini göster (AdBlock'u yavaşlatır)"
+   },
+   "description2": {
+      "description": "Extension description in manifest",
+      "message": "15 milyondan fazla kullanıcısıyla en popüler Chrome eklentisi! Webdeki tüm reklamları engeller."
+   },
+   "disableallextensions": {
+      "description": "instruction on ad report page",
+      "message": "AdBlock hariç, tüm eklentileri devre dışı bırakın."
+   },
+   "disabled_by_filter_lists": {
+      "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
+      "message": "Üzgünüm, Filtre listelerinizden biri AdBlock'u bu sayfada kapatmak için ayarlanmış."
+   },
+   "disabled_on_this_page": {
+      "description": "Message shown in toolbar button on web pages that have been whitelisted.",
+      "message": "AdBlock bu sayfada kapatılmıştır."
+   },
+   "disabledwhenbrowsing": {
+      "description": "On the resourceblocking page, choose on which sites the filter should be disabled",
+      "message": "Bu filtre gezinmeniz sırasında devre dışı bırakılacak:"
+   },
+   "disableforchromeandsafaristeptwo": {
+      "description": "Step 2 for disabling chrome and safari extensions",
+      "message": "AdBlock \u003Cb>hariç\u003C/b>, tüm eklentilerin yanında bulunan \"Etkinleştirildi\" işaretini kaldırın. \u003Cb>AdBlock'u açık bırakın\u003C/b>."
+   },
+   "disableforchromestepone": {
+      "description": "Step 1 for disabling chrome extensions",
+      "message": "\u003Ca href='#'>Uzantılar sayfasını\u003C/a> açın."
+   },
+   "disableforopera": {
+      "description": "Opera instructions",
+      "message": "Opera için"
+   },
+   "disableforoperainstructions": {
+      "description": "shows user how to disable all their extensions in Opera.",
+      "message": "Sol üst taraftaki menü butonuna basın. Daha sonra Eklentiler->Eklentileri Yönet menüsüne girin. Tüm eklentileri \"Devre dışı bırak\" butonlarını kullanarak kapatın. Unutmayın, AdBlock'u devre dışı BIRAKMAYIN!"
+   },
+   "disableforsafaristepone": {
+      "description": "Step 1 for disabling safari extensions",
+      "message": "Safari menüsünü kullanarak; Tercihler &rarr; Uzantılar'a gidin."
+   },
+   "doesntmatchoriginal": {
+      "description": "resourceblocking page string",
+      "message": "Verdiğiniz tanım engellemeye çalıştığınız kaynakla uyuşmuyor! Yine de devam etmek ister misiniz?"
+   },
+   "dont_run_on_pages_on_domain": {
+      "description": "Menu entry to open the whitelist wizard.",
+      "message": "Bu alan adındaki sayfalarda çalışma"
+   },
+   "dont_run_on_this_page": {
+      "description": "Menu entry to whitelist a page",
+      "message": "Bu sayfada AdBlock'u durdur"
+   },
+   "enable_adblock": {
+      "description": "Link text to un-whitelist a page, displayed immediately after 'disabled_on_this_page'.",
+      "message": "Bu sayfada AdBlock'u etkinleştir"
+   },
+   "excludedomainorurl": {
+      "description": "Message of the exclude area",
+      "message": "AdBlock'un çalışmasını istemediğiniz sayfa ve alan adları"
+   },
+   "excludefilterremoved": {
+      "description": "Warning when a page exclusion rule was removed in resourceblock.html",
+      "message": "Filtre silindi. Listeyi geri yüklemek için orijinal sayfayı yenileyin."
+   },
+   "failedtofetchfilter": {
+      "description": "Error messagebox",
+      "message": "Bu filtre kaynaktan yüklenemedi!"
+   },
+   "fetchinglabel": {
+      "description": "Status label",
+      "message": "Yükleniyor... lütfen bekleyin."
+   },
+   "filteradblock_custom": {
+      "description": "A filter list. Don't translate 'AdBlock'",
+      "message": "AdBlock özel filtreleri (tavsiye edilir)"
+   },
+   "filterannoyances": {
+      "description": "Name of the filter list",
+      "message": "Fanboy's Annoyances (web'deki can sıkıcı şeyleri kaldırır)"
+   },
+   "filterantisocial": {
+      "description": "Name of the filter list",
+      "message": "Antisosyal filtre listesi (sosyal medya düğmelerini kaldırır)"
+   },
+   "filterchinese": {
+      "description": "language",
+      "message": "Çince"
+   },
+   "filterczech": {
+      "description": "Language names for a filter list",
+      "message": "Çekçe ve Slovakça"
+   },
+   "filterdanish": {
+      "description": "language",
+      "message": "Danimarkaca"
+   },
+   "filterdutch": {
+      "description": "language",
+      "message": "Flemenkçe"
+   },
+   "filtereasylist": {
+      "description": "A filter list. Don't translate 'EasyList'",
+      "message": "EasyList (tavsiye edilir)"
+   },
+   "filtereasylist_plun_korean": {
+      "description": "language",
+      "message": "Korece"
+   },
+   "filtereasylist_plus_bulgarian": {
+      "description": "language",
+      "message": "Bulgarca"
+   },
+   "filtereasylist_plus_finnish": {
+      "description": "language",
+      "message": "Fince"
+   },
+   "filtereasylist_plus_french": {
+      "description": "language",
+      "message": "Fransızca"
+   },
+   "filtereasylist_plus_german": {
+      "description": "language",
+      "message": "Almanca"
+   },
+   "filtereasylist_plus_greek": {
+      "description": "language",
+      "message": "Yunanca"
+   },
+   "filtereasylist_plus_indonesian": {
+      "description": "A filter list.",
+      "message": "Endonezce"
+   },
+   "filtereasylist_plus_polish": {
+      "description": "language",
+      "message": "Lehçe"
+   },
+   "filtereasylist_plus_romanian": {
+      "description": "language",
+      "message": "Rumence"
+   },
+   "filtereasylist_plus_spanish": {
+      "description": "language",
+      "message": "İspanyolca"
+   },
+   "filtereasyprivacy": {
+      "description": "A filter list. Don't translate the name 'EasyPrivacy'.",
+      "message": "EasyPrivacy (gizlilik koruması)"
+   },
+   "filterhasbeenadded": {
+      "description": "resourceblocking page string (the 'slash n' is a line break)",
+      "message": "Filtre başarıyla eklendi!\nSonucu görmek için sayfayı yenileyin!"
+   },
+   "filterhungarian": {
+      "description": "language",
+      "message": "Macarca"
+   },
+   "filterisraeli": {
+      "description": "language",
+      "message": "İbranice"
+   },
+   "filteritalian": {
+      "description": "language",
+      "message": "İtalyanca"
+   },
+   "filterjapanese": {
+      "description": "language",
+      "message": "Japonca"
+   },
+   "filterlatvian": {
+      "description": "A filter list.",
+      "message": "Letonca"
+   },
+   "filterlistlink": {
+      "description": "Explanation of the filter lists",
+      "message": "İhtiyacınız olmayan filtrelere abone olmayın -- her biri AdBlock'u biraz daha yavaşlatır. \"Emeği geçenler\" listeleri ve daha fazlası \u003Ca>buradan\u003C/a> görülebilir."
+   },
+   "filterlistsrock": {
+      "description": "Header text on the Customize tab.  'Filter lists' should be the same text as the tabfilterlists message.",
+      "message": "Filtre listeleri web sitelerindeki çoğu reklamı engeller. Ayrıca şunları da yapabilirsiniz:"
+   },
+   "filtermalware": {
+      "description": "A filter list.",
+      "message": "Zararlı yazılımlara karşı koruma"
+   },
+   "filternorwegian": {
+      "description": "A filter list.",
+      "message": "Norveççe"
+   },
+   "filterorigin": {
+      "description": "Tooltip of matching filter in resources list, telling which filter list contains the filter",
+      "message": "Filtre kaynağı:\n$list$",
+      "placeholders": {
+         "list": {
+            "content": "$1",
+            "example": "A filter list name OR AdBlock OR the translation of 'tabcustomize'"
+         }
+      }
+   },
+   "filterrussian": {
+      "description": "Language names for a filter list",
+      "message": "Rusça ve Ukraynaca"
+   },
+   "filtersavewarning": {
+      "description": "Warning when blacklisting manually",
+      "message": "Dikkat: eğer burada bir hata yaparsanız, abone olduğunuz filtreler de dahil, çoğu liste tamamen bozulabilir!\u003Cbr/> Gelişmiş \"izin verilenler\" ve \"engellenenler\" listesi oluşturmak için lütfen \u003Ca>filtre sözdizimi kuralları\u003C/a> bölümünü okuyun."
+   },
+   "filterstabtitle": {
+      "description": "Title of the filter list tab",
+      "message": "Filtrelere abone olun"
+   },
+   "filterswedish": {
+      "description": "A filter list.",
+      "message": "İsveççe"
+   },
+   "filterturkish": {
+      "description": "A filter list.",
+      "message": "Türkçe"
+   },
+   "findingads": {
+      "description": "When you press ctrl-shift-K the blacklister searches for ads",
+      "message": "Reklamlar bulunuyor..\u003Cbr/>\u003Cbr/>\u003Ci>Bu sadece bir kaç saniye sürecek.\u003C/i>"
+   },
+   "firefox_explanation": {
+      "description": "Explanation of the Check-in-Firefox step in the ad reporter",
+      "message": "Bu sorunun amacı bildiriminizi kimin alacağını belirlemek içindir. Eğer bu soruyu yanlış yanıtlarsanız, bildiriminiz yanlış insanlara ulaşıp, dikkate alınmayabilir."
+   },
+   "fixityourself": {
+      "description": "telling a user who won't report an ad to us how to handle it for herself",
+      "message": "Tamam, bu reklamı yine de Ayarlar menüsünü kullanarak kendiniz için engelleyebilirsiniz. Teşekkürler!"
+   },
+   "flashads": {
+      "description": "Title of the final ad report question if the ad didn't appear in FF",
+      "message": "Video ve Flash"
+   },
+   "format_site1_site2_site3": {
+      "description": "Example showing users how to input a list of sites on the Customize tab. You can translate the 'news' and 'siteN' but leave the '|'s and '~'s in place.",
+      "message": "Biçim: ~site1.com|~site2.com|~haberler.site3.org"
+   },
+   "generaloptions": {
+      "description": "Title of first tab page",
+      "message": "Genel Ayarlar"
+   },
+   "googletextads2": {
+      "description": "Option on first tab page",
+      "message": "Google arama sonuçlarında çıkan reklamları seviyorum; onları engelleme"
+   },
+   "headerfilter": {
+      "description": "resourceblocking page string",
+      "message": "Eşleşen filtre"
+   },
+   "headerresource": {
+      "description": "resourceblocking page string",
+      "message": "Kaynak"
+   },
+   "headertype": {
+      "description": "resourceblocking page string",
+      "message": "Tip"
+   },
+   "here": {
+      "description": "This message is injected in other strings as a link/button",
+      "message": "buradan"
+   },
+   "hide_this_button": {
+      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "message": "Bu düğmeyi gizle"
+   },
+   "how_to_use_adblock": {
+      "description": "Install page section title",
+      "message": "AdBlock nasıl kullanılır:"
+   },
+   "invalidListUrl": {
+      "description": "Message when you subscribe to a non-list URL",
+      "message": "Geçersiz filtre listesi linki. Bu link silinecek."
+   },
+   "lang_czech": {
+      "description": "language",
+      "message": "Çekce"
+   },
+   "lang_english": {
+      "description": "language",
+      "message": "İngilizce"
+   },
+   "lang_russian": {
+      "description": "language",
+      "message": "Rusça"
+   },
+   "lang_slovak": {
+      "description": "language",
+      "message": "Slovakça"
+   },
+   "lang_ukranian": {
+      "description": "language",
+      "message": "Ukraynaca"
+   },
+   "languagedropdowndescription": {
+      "description": "Dropdown list for language specific filters",
+      "message": "Başka diller için filtre ekle: "
+   },
+   "latest_version": {
+      "description": "On the Options > Help page, shows when there are no updates available for AdBlock",
+      "message": "AdBlock güncel!"
+   },
+   "linkblockadbyurl": {
+      "description": "Link on the third tab",
+      "message": "Reklamı URL'sine göre engelle"
+   },
+   "linkhidesection": {
+      "description": "Link on the third tab",
+      "message": "Web sayfasının bir bölümünü sakla"
+   },
+   "linkunblock": {
+      "description": "Link on the third tab",
+      "message": "Bir web sayfasındaki ya da alan adındaki reklamları göster"
+   },
+   "loading": {
+      "description": "resourceblocking page string",
+      "message": "YÜKLENİYOR..."
+   },
+   "manualfilteredit": {
+      "description": "Subtitle on the third tab",
+      "message": "Filtrelerinizi elle düzenleyin:"
+   },
+   "modifydomain": {
+      "description": "Caption for the whitelist wizard slider that modifies the domain part of a URL",
+      "message": "Site:"
+   },
+   "modifypath": {
+      "description": "Caption for the whitelist wizard slider that modifies the path part of a URL",
+      "message": "Sayfa:"
+   },
+   "multipledomainshint": {
+      "description": "resourceblocking page string",
+      "message": "Farklı alan adlarını virgülle ya da boşlukla ayırın"
+   },
+   "nextstep": {
+      "description": "resourceblocking page string",
+      "message": "Sonraki adım"
+   },
+   "no": {
+      "description": "A negative response to a question",
+      "message": "Hayır"
+   },
+   "nodefaultfilter1": {
+      "description": "instructions on ad report page pointing users to EasyList subscriptions list. 'Customize' should be the same message as 'tabcustomize'.",
+      "message": "Bu dil için varsayılan bir filtre listemiz yok.\u003Cbr/> Lütfen bu dili destekleyen uygun bir liste bulmaya çalışın ya da $link$ \"Özelleştir\" seçeneğini kullanarak bu reklamı kendiniz için engelleyin.",
+      "placeholders": {
+         "link": {
+            "content": "\u003Ca id='link'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "noresourcessend2": {
+      "description": "resourceblocking page string",
+      "message": "Bir şeyler ters gitti. Hiç bir kaynak gönderilmedi. Bu sayfa şimdi kapanacak. Web sitesini tekrar yüklemeyi deneyin."
+   },
+   "nosearchresults": {
+      "description": "Text in resourceblock shown if no results are found after searching",
+      "message": "Hiç bir kaynak bulunamadı"
+   },
+   "novalidurlpattern": {
+      "description": "resourceblocking page string",
+      "message": "Lütfen eşleşme için geçerli bir URL kalıbı seçin!"
+   },
+   "only_block_ads_on_these_sites": {
+      "description": "Label for textbox where user enters a list of sites on Customize tab",
+      "message": "Sadece bu sitelerdeki reklamları engelle:"
+   },
+   "onlyondomains": {
+      "description": "resourceblocking page string",
+      "message": "Sadece bu alan adlarındaki sayfalar:"
+   },
+   "onlypagesonthisdomain": {
+      "description": "On the resourceblocking page, option to disable a filter only on a specific domain",
+      "message": "YALNIZCA bu alan adındaki sayfaları:"
+   },
+   "onlyresourcetypes": {
+      "description": "resourceblocking page string",
+      "message": "Bu filtre şu tipteki kaynaklara uygulanır:"
+   },
+   "opera_120_install": {
+      "description": "Opera \u003C 12.10 warning during installation",
+      "message": "Opera 12.10'dan önceki sürümlerde, AdBlock'un tüm kuralları doğru çalıştırılamadığından, tüm reklamlar engellenemeyebilir. Bu sorun , Opera, 12.10 güncellemesini yayınladığında düzelecektir. 12.10 sürümünden itibaren tüm reklamlar doğru şekilde engellenecektir."
+   },
+   "opera_120_options": {
+      "description": "Opera \u003C 12.10 warning above options page",
+      "message": "Opera 12.10'dan önceki sürümlerde, bazı seçenekler desteklenemediğinden, kullanılamaz durumda görünüyor."
+   },
+   "opera_allow_secure": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "Eğer AdBlock'u güvenli sayfalarda (araç çubuğunda yeşil renkli kilit işareti olan sayfalar) kullanmak istiyorsanız, öncelikle güvenli sayfalara erişim seçeneğini aktif hale getirmelisiniz."
+   },
+   "opera_can_also_change_setting": {
+      "description": "Message when the storage quota is reached, for advanced users in Opera",
+      "message": "Ayrıca siz de şu seçenek için değeri artırabilirsiniz; $setting$",
+      "placeholders": {
+         "setting": {
+            "content": "$1",
+            "example": "opera:config#PersistentStorage|DomainQuotaForWidgetPreferences"
+         }
+      }
+   },
+   "opera_donations_button": {
+      "description": "Opera donate request in the button",
+      "message": "Bu eklentiyi seviyor musunuz? Eğer öyleyse, lütfen seçenekler sayfasından bağış yapmayı düşünün!"
+   },
+   "opera_donations_install": {
+      "description": "Opera donate request in the install page",
+      "message": "Eğer bu eklentiyi gerçekten seviyorsanız, seçenekler sayfasından bağış yapmayı düşününün."
+   },
+   "opera_enabledin": {
+      "description": "Hover text of items disabled in an older browser version",
+      "message": "Aktifleştirildiği sürüm; $browserversion$",
+      "placeholders": {
+         "browserversion": {
+            "content": "$1",
+            "example": "Opera 12.10"
+         }
+      }
+   },
+   "opera_excludedomainorurl": {
+      "description": "Opera version of the 'excludedomainorurl' string",
+      "message": "AdBlock'un hiç bir şeyi engellemesini istemediğiniz alan adı"
+   },
+   "opera_for_more_options": {
+      "description": "Install page string telling where to find the preferences in Opera. &rArr; makes a right arrow (->)",
+      "message": "Daha fazla seçenek için, araç çubuğu butonuna tıklayabilir ya da Opera menüsü aracılığıyla, Eklentiler &rArr; Eklentileri Yönet &rArr; ayar simgesi &rArr; Tercihler menüsünü kullanabilirsiniz."
+   },
+   "opera_linkunblock": {
+      "description": "Opera version of the 'linkunblock' string",
+      "message": "Bir alan adındaki reklamları göster"
+   },
+   "opera_reenable_button": {
+      "description": "Opera browser button message when you click 'hide this button'",
+      "message": "Uzantının Tercihler menüsünü kullanarak bu butonu tekrar aktifleştirebilirsiniz."
+   },
+   "opera_secure_pages": {
+      "description": "Title of an area in the ad report page in Opera. Only visible if the opener tab was a secure url (https)",
+      "message": "Güvenli sayfalar"
+   },
+   "opera_secure_pages_enabled": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "Opera menüsü &rArr; Eklentiler &rArr; Eklentileri Yönet &rArr; AdBlock simgesinin yanındaki anahtar ikonu &rArr; ve Gizlilik seçeneğine tıklayın.\u003Cbr/> \"Güvenli sayfalarla etkileşime izin ver\" seçeneği işaretli mi?"
+   },
+   "opera_show_toolbar_button": {
+      "description": "Opera option to show/hide the button",
+      "message": "Araç çubuğu butonunu göster"
+   },
+   "operabutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Opera displays on the Extensions page.",
+      "message": "Düğmeyi gizlemek için, opera://eklentiler'e gidip 'Araç çubuğundan kaldır' seçeneğini işaretleyin. Yine bu seçeneğin işaretini kaldırarak görünmesini sağlayabilirsiniz."
+   },
+   "options": {
+      "description": "The text of the link on chrome://chrome/extensions that gets you to the Options page for an extension",
+      "message": "Seçenekler"
+   },
+   "optionstitle": {
+      "description": "Title for the options page",
+      "message": "AdBlock Ayarları"
+   },
+   "optionsversion": {
+      "description": "Version number",
+      "message": "Sürüm $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.9"
+         }
+      }
+   },
+   "oradblockforchrome": {
+      "description": "used for placeholder in checkinfirefox_2 string",
+      "message": "ya da Chrome için AdBlock"
+   },
+   "orchrome": {
+      "description": "used for placeholder in checkinfirefoxtitle and checkinfirefox_1 string",
+      "message": "ya da Chrome"
+   },
+   "ordisablefilter": {
+      "description": "On the resourceblocking page, choice to disable a filter instead of allowing or blocking a specific resource",
+      "message": "veya filtreyi devre dışı bırak:"
+   },
+   "orenteraurl": {
+      "description": "link for custom subscription",
+      "message": "Ya da bir URL girin:"
+   },
+   "other": {
+      "description": "multiple choice option",
+      "message": "Diğer"
+   },
+   "otherfilters": {
+      "description": "List for other filters the user subscribed to",
+      "message": "Diğer Filtre Listeleri"
+   },
+   "pagelanguagecheck": {
+      "description": "question on ad report page",
+      "message": "Bu sayfa hangi dilde yazılmış?"
+   },
+   "pause_adblock": {
+      "description": "Menu entry to pause AdBlock.",
+      "message": "AdBlock'u duraklat"
+   },
+   "performscan": {
+      "description": "instruction on ad report page",
+      "message": "Antivirüs/zararlı yazılım engelleme programlarınızı kullanarak tam bir tarama yapın. Bazı zararlı yazılımlar AdBlock'u etkisiz hale getirerek, gezindiğiniz sayfalara reklam yerleştirebilir."
+   },
+   "project_home": {
+      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "message": "Proje sayfası"
+   },
+   "pwyw": {
+      "description": "Text of a payment request link",
+      "message": "İstediğiniz kadar ödeyin!"
+   },
+   "reenableadsonebyone": {
+      "description": "tells the user to reenable the extensions one by one.",
+      "message": "Reklamlar kaybolduğuna göre, hangi eklentinin sorun çıkardığını bulmanız gerekir. Şimdi her seferinde bir eklentiyi aktif hale getirin. Reklamları geri getiren eklenti, silmeniz gereken eklentidir."
+   },
+   "refusetocheck": {
+      "description": "user is telling us they don't wish to investigate something for us",
+      "message": "Bunu kontrol etmek istemiyorum"
+   },
+   "reloadadpage": {
+      "description": "instruction on ad report page",
+      "message": "Reklam içeren bir sayfayı yenileyin"
+   },
+   "removefromlist": {
+      "description": "Label to remove a custom filter",
+      "message": "Listeden sil"
+   },
+   "removelabel": {
+      "description": "link to remove a filter",
+      "message": "Sil"
+   },
+   "report_ad_on_page": {
+      "description": "Link in the button",
+      "message": "Bu sayfada bir reklam bildir"
+   },
+   "reportfilterlistproblem": {
+      "description": "telling the user to report an ad to a filter list maintainer",
+      "message": "Bu bir filtre listesi problemi. $link$ adresine bildirin",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "EXAMPLE 1: \u003Ca href='mailto:someguy@list.com'>John Doe\u003C/a>  EXAMPLE 2: \u003Ca href='http://easylist.org'>EasyList forums\u003C/a>"
+         }
+      }
+   },
+   "reportpubliclyavailable": {
+      "description": "Ad report page string, when you're about to submit a report",
+      "message": "Not: Bildiriminiz halka açık bir şekilde görünebilir. Gizlilik içerebilecek bir bilgi dahil etmeden önce bunu göz önünde bulundurun."
+   },
+   "reporttous2": {
+      "description": "NOTE: non-English translations should replace the first sentence and instead say 'If you can speak English, you can report the ad to us \u003Ca>in the issue tracker\u003C/a>.'",
+      "message": "Eğer İngilizce biliyorsanız bir reklamı bize \u003Ca>sorun denetleyici\u003C/a> kısmından bildirebilirsiniz."
+   },
+   "resourceblocklegend1": {
+      "description": "resourceblocking page string",
+      "message": "Lejant"
+   },
+   "resourceblocklegend2": {
+      "description": "resourceblocking page string",
+      "message": "engellenmiş kaynaklar"
+   },
+   "resourceblocklegend3": {
+      "description": "resourceblocking page string",
+      "message": "izin verilen kaynaklar"
+   },
+   "resourceblocklegend4": {
+      "description": "resourceblocking page string",
+      "message": "engellenebilir kaynaklar"
+   },
+   "resourceblocklegend5": {
+      "description": "resourceblocking page string",
+      "message": "uygulanmış gizleme kuralları"
+   },
+   "resourceblocktitle": {
+      "description": "resourceblocking page string",
+      "message": "Bir kaynağı engelle"
+   },
+   "resourcedomain": {
+      "description": "Text shown when hovering over an item in the third-party column",
+      "message": "Şu alan adındaki sayfa yüklendi:\n$domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "resourceiswhitelisted": {
+      "description": "resourceblocking page string",
+      "message": "Seçilen kaynak izin verilenler bölümüne eklenmiş. Bu yüzden engelleyemezsiniz."
+   },
+   "retryaftersubscribe": {
+      "description": "instructions on ad report page telling users to subscribe to a filter list and then check again to see whether the ad exists",
+      "message": "Bu filtreye abone olup, tekrar deneyin: $list_title$",
+      "placeholders": {
+         "list_title": {
+            "content": "$1",
+            "example": "French filters"
+         }
+      }
+   },
+   "safari50_updatenotice": {
+      "description": "A message shown to Safari 5.0 users urging them to upgrade",
+      "message": "Safari'nin eski bir sürümünü kullanıyorsunuz. AdBlock araç çubuğu butonunu kullanabilmek, bir web sitesine izin verebilmek ya da reklam bildirebilmek istiyorsanız, son sürüme geçin."
+   },
+   "sameAdsOnDifferentPages": {
+      "description": "A question on the ad report page, asking if the user sees similar ads on different websites.",
+      "message": "Birçok farklı sayfada, -örneğin ana sayfanız, işyerinizin Web sitesi, vb.- aynı veya benzer reklamlar mı görüyorsunuz?"
+   },
+   "savebutton": {
+      "description": "Save button",
+      "message": "Kaydet"
+   },
+   "savereminder": {
+      "description": "Reminder to press save",
+      "message": "Kaydetmeyi unutmayın!"
+   },
+   "scancomputer": {
+      "description": "instruction on ad report page",
+      "message": "Bilgisayarınızı zararlı yazılımlara karşı tarayın"
+   },
+   "searchexplanation": {
+      "description": "Text in resourceblock when you hover your mouse over the search textbox",
+      "message": "Kelimeyi olduğu gibi ve başka harfler ekli şekilleriyle birlikte bulmak için * kullanın.   Örneğin, \"banner*.gif resim\" araması, \"banner.gif\", \"banner123.gif\" ve \"bannerxyz.gif\" gibi sonuçlarla eşleşir."
+   },
+   "searchplaceholder": {
+      "description": "Text in resourceblock shown in the search textbox before you type something",
+      "message": "Kaynaklar içinde ara..."
+   },
+   "seethecode": {
+      "description": "Link to code behind AdBlock",
+      "message": "AdBlock'un kaynak kodunu görmek ister misiniz? \u003Ca>Buradan\u003C/a> kontrol edin."
+   },
+   "selectlanguage": {
+      "description": "Text for the first option in Langage Dropdown for Filter Lists tab in options.  Include the ' -- ' on either side of your translation.",
+      "message": "-- Dilinizi Seçin --"
+   },
+   "selectresources": {
+      "description": "resourceblocking page string",
+      "message": "Engellemek ya da engellemesini kaldırmak istediğiniz kaynağı seçin"
+   },
+   "show_ads_except_for": {
+      "description": "Section title for blacklisting section of Customize tab",
+      "message": "Şu alan adlarındakiler hariç \u003Ci>her yerdeki\u003C/i> reklamları göster"
+   },
+   "show_on_adblock_button": {
+      "description": "Label for checkbox letting user choose whether the toolbar button should show a badge with the number of ads blocked",
+      "message": "AdBlock düğmesi üzerinde göster"
+   },
+   "show_resourcelist": {
+      "description": "Link in the button",
+      "message": "Kaynak listesini göster"
+   },
+   "showcontextmenus2": {
+      "description": "Option on first tab page",
+      "message": "Sağ tıklama menüsüne AdBlock seçeneklerini ekle"
+   },
+   "showlinkstolists2": {
+      "description": "Option on second tab page",
+      "message": "Filtre listeleri için linkleri göster"
+   },
+   "similarAds": {
+      "description": "On the ad report page, see 'Do you see the same or similar...' / 'sameAdsOnDifferentPages'",
+      "message": "Her sayfada aynı/benzer reklamlar"
+   },
+   "sliderexplanation": {
+      "description": "Blacklister slider page message",
+      "message": "Reklam düzgün bir şekilde engelleninceye ve engellenen öğe sayfa yapısını bozmayacak şekilde görüntüleninceye kadar kaydırıcıyı ilerletin."
+   },
+   "slidertitle": {
+      "description": "Blacklister slider page title",
+      "message": "İlk Adım: Nelerin engelleneceğini belirle"
+   },
+   "somethingwentwrong": {
+      "description": "Displayed when AdBlock is checking the newest available version and an error occurs",
+      "message": "Güncelleştirmeleri denetlerken bir şeyler ters gitti."
+   },
+   "spread_the_word": {
+      "description": "Text of a share link",
+      "message": "Lütfen AdBlock'u daha fazla kişiye ulaştırmama yardım edin!"
+   },
+   "status_disabled": {
+      "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
+      "message": "AdBlock bu alan adında çalışamaz."
+   },
+   "status_paused": {
+      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "message": "AdBlock duraklatıldı."
+   },
+   "stop_blocking_ads": {
+      "description": "Section header on third tab",
+      "message": "Şu reklamları engellemeyi durdur:"
+   },
+   "storage_quota_exceeded": {
+      "description": "Message shown when the user uses more storage than allowed by the browser",
+      "message": "AdBlock'un kullanabileceği depolama alanını aştınız. Lütfen bazı filtreleri listeden silin!"
+   },
+   "subscribebutton": {
+      "description": "subscribe to a list button",
+      "message": "Abone ol"
+   },
+   "subscribingfailed": {
+      "description": "abp: link subscriber result",
+      "message": "Başarısız!"
+   },
+   "subscribingfinished": {
+      "description": "abp: link subscriber result",
+      "message": "Tamamlandı!"
+   },
+   "subscribingtitle": {
+      "description": "abp: link subscriber title",
+      "message": "Filtre listelerine abone olunuyor..."
+   },
+   "support": {
+      "description": "Instructions for help. Add '(in English only)' to your translation as we only offer support in English at this time.",
+      "message": "Bir hata mı buldunuz? Bir sorunuz mu var? Ya da AdBlock için yeni bir fikriniz? \u003Ca>Destek sitemizi\u003C/a> ziyaret edin!"
+   },
+   "tabcustomize": {
+      "description": "A tab on the options page",
+      "message": "Özelleştir"
+   },
+   "tabcustomizetitle": {
+      "description": "Title of the third tab",
+      "message": "AdBlock'u özelleştir"
+   },
+   "tabfilterlists": {
+      "description": "A tab on the options page",
+      "message": "Filtre listeleri"
+   },
+   "tabgeneral": {
+      "description": "A tab on the options page",
+      "message": "Genel"
+   },
+   "tabsupport": {
+      "description": "Link to forum in options page",
+      "message": "Destek"
+   },
+   "thats_it": {
+      "description": "Install page string",
+      "message": "Hepsi bu kadar!"
+   },
+   "thirdparty": {
+      "description": "Resource list column title telling if the resource originates from a different domain",
+      "message": "Üçüncü şahıs"
+   },
+   "thirdpartycheckbox": {
+      "description": "resourceblocking page string",
+      "message": "Bu alan adlarındaki web siteleri hariç $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "thisfilterwillbedisabled": {
+      "description": "On the resourceblocking page, followed by the filter the user chose to disable",
+      "message": "Bu filtre devre dışı bırakılacak:"
+   },
+   "translator_credit": {
+      "description": "Will be followed by a list of translator names (separate string)",
+      "message": "Çeviri:"
+   },
+   "translator_names": {
+      "example": "The translator's names go here. Example: Michael G, Drew R",
+      "message": "Necip Ateş"
+   },
+   "typehiding": {
+      "description": "A resource type",
+      "message": "gizlenen"
+   },
+   "typeimage": {
+      "description": "A resource type",
+      "message": "resim"
+   },
+   "typemedia": {
+      "description": "A resource type",
+      "message": "ses/video"
+   },
+   "typeobject": {
+      "description": "A resource type",
+      "message": "etkileşimli öğe"
+   },
+   "typeobject_subrequest": {
+      "description": "A resource type",
+      "message": "öğe_altistemi"
+   },
+   "typeother": {
+      "description": "A resource type",
+      "message": "diğer"
+   },
+   "typepage": {
+      "description": "A resource type",
+      "message": "sayfa"
+   },
+   "typepopup": {
+      "description": "A resource type",
+      "message": "açılan pencere"
+   },
+   "typescript": {
+      "description": "A resource type",
+      "message": "komut"
+   },
+   "typestylesheet": {
+      "description": "A resource type",
+      "message": "stil tanımı"
+   },
+   "typesubdocument": {
+      "description": "A resource type",
+      "message": "çerçeve"
+   },
+   "typeunknown": {
+      "description": "A resource type",
+      "message": "bilinmeyen"
+   },
+   "typexmlhttprequest": {
+      "description": "A resource type",
+      "message": "xmlhttprequest"
+   },
+   "undo_last_block": {
+      "description": "Menu entry to let the user cancel the result of running the blacklist wizard.",
+      "message": "Bu alan adında yaptığım engellemeleri geri al"
+   },
+   "unpause_adblock": {
+      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "message": "Tekrar başlat"
+   },
+   "unsubscribedlabel": {
+      "description": "Status label",
+      "message": "Abonelik kaldırıldı."
+   },
+   "update_available": {
+      "description": "On the Options > Support page, shows when there are updates available for AdBlock.",
+      "message": "AdBlock için bir güncelleme var! $here$ güncelleyebilirsiniz.\u003Cbr> Not: Eğer güncellemeleri otomatik olarak almak isterseniz, Safari > Preferences > Extensions > Updates\u003Cbr> yolunu takip ederek 'install updates automatically' seçeneğini işaretleyin.",
+      "placeholders": {
+         "here": {
+            "content": "\u003Ca id='here'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "updateddayago": {
+      "description": "Label for subscription",
+      "message": "1 gün önce güncelleştirildi"
+   },
+   "updateddaysago": {
+      "description": "Label for subscription",
+      "message": "$days$ gün önce güncelleştirildi",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedhourago": {
+      "description": "Label for subscription",
+      "message": "1 saat önce güncelleştirildi"
+   },
+   "updatedhoursago": {
+      "description": "Label for subscription",
+      "message": "$hours$ saat önce güncelleştirildi.",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedminuteago": {
+      "description": "Label for subscription",
+      "message": "1 dakika önce güncelleştirildi"
+   },
+   "updatedminutesago": {
+      "description": "Label for subscription",
+      "message": "$minutes$ dakika önce güncelleştirildi",
+      "placeholders": {
+         "minutes": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedrightnow": {
+      "description": "Label for subscription",
+      "message": "şimdi güncellendi"
+   },
+   "updatedsecondsago": {
+      "description": "Label for subscription",
+      "message": "$seconds$ saniye önce güncelleştirildi",
+      "placeholders": {
+         "seconds": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatenowmessage2": {
+      "description": "update filters text + button",
+      "message": "Güncellemeler otomatik olarak yüklenecek; siz de \u003Ca>şimdi güncelle\u003C/a> butonunu kullanarak güncelleyebilirsiniz"
+   },
+   "updateyourlists": {
+      "description": "instruction on ad report page",
+      "message": "Filtre listelerinin güncel olduğundan emin olun"
+   },
+   "warning_overrules_filters": {
+      "description": "Message on the third tab of the options page, explaining the danger of adding a blacklisting filter",
+      "message": "Dikkat: bu sitelerin dışında tüm sitelerde reklamları görebileceksiniz!\u003Cbr> Kullandığınız filtreler bu siteler dışında geçersiz olacak."
+   },
+   "whats_this": {
+      "description": "Text of a link pointing to the explanation of a new feature",
+      "message": "Bu nedir?"
+   },
+   "whitelist_youtube_channel": {
+      "description": "Text which is displayed on YouTube in popup menu",
+      "message": "Bu Youtube kanalını beyaz listeye ekle"
+   },
+   "whitelistertitle2": {
+      "description": "The title of the whitelister dialog",
+      "message": "AdBlock'u şu sitelerde kullanma..."
+   },
+   "whitelisteverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "Şu öğeleri içeren tüm kaynaklara izin ver:"
+   },
+   "wildcardhint": {
+      "description": "resourceblocking page string",
+      "message": "Not: * işaretini burada joker olarak kullanabilirsiniz"
+   },
+   "work_around_hulu_problems": {
+      "description": "Advanced Options page checkbox, which users only need to use if Hulu.com videos break.  It directs the user to restart their browser in order for changes to the checkbox to take effect",
+      "message": "Hulu.com videolarının oynatılmaması sorununu çöz (tarayıcınızı tekrar başlatmayı gerektirir)"
+   },
+   "yes": {
+      "description": "A positive response to a question",
+      "message": "Evet"
+   },
+   "you_can_slide_to_change": {
+      "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
+      "message": "Aşağı kaydırarak AdBlock'un tam olarak hangi sayfalarda çalışıp çalışmayacağını değiştirebilirsiniz"
+   },
+   "you_know_thats_a_bad_idea_right": {
+      "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
+      "message": "Ne kadar çok filtre listesi kullanırsanız, AdBlock o kadar yavaşlar. Çok fazla liste kullanmak bazı sitelerde tarayıcınızın çökmesine bile sebep olabilir. Bu listeyi yine de eklemek istiyorsanız Tamam'a basın."
+   }
+}

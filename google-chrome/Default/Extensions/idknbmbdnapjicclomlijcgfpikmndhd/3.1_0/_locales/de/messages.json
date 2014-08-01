@@ -3,7 +3,7 @@
       "message": "Abbrechen"
    },
    "connectbutton": {
-      "message": "Mein Mobilger\u00E4t verbinden"
+      "message": "Mein Mobilgerät verbinden"
    },
    "disconnect": {
       "message": "Verbindung trennen"
@@ -23,7 +23,7 @@
       "message": "Fehler beim Generieren des Snapshots"
    },
    "errorretrieving": {
-      "message": "Wir konnten keine Verbindung zu Ihren Mobilger\u00E4ten herstellen. $1",
+      "message": "Wir konnten keine Verbindung zu Ihren Mobilgeräten herstellen. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -34,7 +34,7 @@
       "message": "Senden Sie Webseiten von Chrome auf Ihrem Computer an Chrome auf Ihrem Handy oder Tablet."
    },
    "extensionname": {
-      "message": "Chrome an Mobilger\u00E4t"
+      "message": "Chrome an Mobilgerät"
    },
    "help": {
       "message": "Hilfe"
@@ -43,7 +43,7 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "includesnapshotmessage": {
-      "message": "Kopie auch zur Offline-Ansicht senden (w\u00E4hrend des Erstellens...)"
+      "message": "Kopie auch zur Offline-Ansicht senden (während des Erstellens...)"
    },
    "includesnapshotmessagewithsize": {
       "message": "Kopie auch zur Offline-Ansicht senden ($1)",
@@ -60,7 +60,7 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "nomobiledevicesfound": {
-      "message": "Es wurden keine Ger\u00E4te gefunden. Schlie\u00DFen Sie ein Mobilger\u00E4t an. $1",
+      "message": "Es wurden keine Geräte gefunden. Schließen Sie ein Mobilgerät an. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -92,7 +92,7 @@
       }
    },
    "searchingfordevices": {
-      "message": "Mobilger\u00E4te werden gesucht."
+      "message": "Mobilgeräte werden gesucht."
    },
    "sendbutton": {
       "message": "Senden"
@@ -115,7 +115,7 @@
       "message": "Gesendet"
    },
    "snapshotdisabledmessage": {
-      "message": "Diese Version von Chrome unterst\u00FCtzt keine Snapshots. Ein Snapshot ist die durchsuchbare Offline-Version einer Seite. Verwenden Sie die \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003EEntwicklerversion\u003C/ a\u003E zum Aktivieren von Snapshots."
+      "message": "Diese Version von Chrome unterstützt keine Snapshots. Ein Snapshot ist die durchsuchbare Offline-Version einer Seite. Verwenden Sie die \u003Ca href='javascript:void()' onclick='openDevChannelTab()'>Entwicklerversion\u003C/ a> zum Aktivieren von Snapshots."
    },
    "tryagain": {
       "message": "Versuchen Sie es erneut."

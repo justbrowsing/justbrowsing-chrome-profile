@@ -1,0 +1,19 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "https://duckduckgo.com/"
+      },
+      "urls": [ "https://duckduckgo.com/" ]
+   },
+   "description": "Quick link to DuckDuckGo search engine.",
+   "icons": {
+      "128": "img/duckduckgo_128.png",
+      "16": "img/duckduckgo_16.png",
+      "48": "img/duckduckgo_48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUghfy7nCcmFeaj0FyTO4GXxJfUd+2Lx0VnZ6KMgl9sNQSkPRGNdfU+qnA+KjAMXALhZaUAAn0VDu7v4RMjLwtiuQ0uk2H4LZZzANSMvUd6SD3JH0Kxr4ocBYye2JZ28xG4F13JEmU6JoQLT+Pe2tg9gmI34zo1rXstkUz3PwaNQIDAQAB",
+   "manifest_version": 2,
+   "name": "DuckDuckGo Home Page",
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.0.8"
+}

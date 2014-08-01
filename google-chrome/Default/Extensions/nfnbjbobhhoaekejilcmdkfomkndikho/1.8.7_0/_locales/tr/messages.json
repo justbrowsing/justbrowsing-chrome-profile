@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Eğer bu eklentiyi begendiyseniz, Yorum atmayı unutmayın."
+   },
+   "PleaseReviewGoto": {
+      "message": "Yorum Sayfasına git"
+   },
+   "app_desc": {
+      "message": "Bu uygulama akıllı telefon kullanan kullanıcılar için kullanışlı bir eklentidir."
+   },
+   "app_title": {
+      "message": "QR Kod Oluşturucu"
+   },
+   "generate_qrcode": {
+      "message": "QR Kod Oluştur"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Kural ekle veya düzenle"
+   },
+   "lblAddRule": {
+      "message": "Kural Ekle"
+   },
+   "lblEdit_Close": {
+      "message": "Kapat"
+   },
+   "lblEdit_Domain": {
+      "message": "Alan"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Akıllı QR Kod oluşturucu nasıl kullanılır"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Resim Kaynağı"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Ifade`:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Dizini değiştir"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Seçilen yazı"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "Site URL"
+   },
+   "lblEdit_Source": {
+      "message": "Kaynak:"
+   },
+   "lblEdit_Tag": {
+      "message": "Etiketler"
+   },
+   "lblEdit_Title": {
+      "message": "Başlık:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Değişikleri Kaydet"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "İkon"
+   },
+   "lblEdit_iconThumb": {
+      "message": "İkon Seç"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Devre Dışı"
+   },
+   "lblEdit_version": {
+      "message": "Versiyon"
+   },
+   "lblRules": {
+      "message": "Kurallar"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Görüntü"
+   },
+   "popup_link": {
+      "message": "Link"
+   },
+   "popup_selectedText": {
+      "message": "Seçilen Yazı"
+   }
+}

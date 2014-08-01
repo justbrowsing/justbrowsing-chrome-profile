@@ -1,0 +1,34 @@
+{
+   "ex_ads": {
+      "description": "Label for ads",
+      "message": "SearchPreview Ad"
+   },
+   "ex_description": {
+      "description": "Description of the extension",
+      "message": "Adds preview images (thumbnails) to your Google™ search results."
+   },
+   "ex_insert_ads": {
+      "description": "Label for ads checkbox",
+      "message": "Insert ads (labeled as 'SearchPreview Ad') to help keep SearchPreview free"
+   },
+   "ex_name": {
+      "description": "Name of the extension",
+      "message": "SearchPreview"
+   },
+   "ex_options": {
+      "description": "Options label",
+      "message": "Options"
+   },
+   "ex_requestupdate": {
+      "description": "Context menu label for requesting an update of a preview image",
+      "message": "Request Update of Preview Image"
+   },
+   "ex_save": {
+      "description": "Label for save",
+      "message": "Save"
+   },
+   "ex_saved": {
+      "description": "Label for saved",
+      "message": "Saved!"
+   }
+}

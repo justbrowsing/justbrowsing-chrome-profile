@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<!-- Chrome-only popup.  Safari popup is created programmatically in safari_bg.js -->
+<html>
+  <head>
+    <link rel="stylesheet" href="popup.css"/>
+    <link rel="stylesheet" href="search/search.css">
+    <script src="../jquery/jquery.min.js"></script>
+    <script src="../functions.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="menu-items">
+        <div id="titletext">
+          <img src="../img/logo.png" class="logo" />
+          </div>
+
+        <!-- ************ Status messages and block counter *********** -->
+          <div id="search_control">
+            <input type="checkbox" id="enable_show_secure_search" />
+            Activate private search
+          </div>
+        <!-- **************** BEGIN: Search UI ************** -->
+        <div id="search_page">
+          <div id="inactive_search"></div>
+          <div id="toolbar">
+            <input type="text" id="txt_search" value="" name="q" autocomplete="off" placeholder="">
+            <input type="submit" value="" id="btn_search">
+          </div>
+
+          <div id="search_settings">
+            <span class="setting_title">Search privately from:</span>
+            <ul>
+              <li>
+                <input id="omnibox-box" class="mode_settings" type="checkbox" value="1" name="mode_1">
+                <label for="omnibox-box">The omnibox</label>
+                <span class="question_mark" id="mode1_info">?</span>
+              </li>
+              <li>
+                <input id="everywhere-box" class="mode_settings" type="checkbox" value="2" name="mode_2">
+                <label for="everywhere-box">Search engine websites</label>
+                <span class="question_mark" id="mode2_info">?</span>
+              </li>
+            </ul>
+          </div>
+          <div class="incognito">
+            <div class="header">
+              <input type="checkbox" name="incognito" id="incognito">
+              <label for="incognito">Private search results in incognito window</label>
+            </div>
+          </div>
+
+          <!-- Help Popups -->
+          <div id="omnibox" actived="false" class="hide">
+            <img src="../img/search/search-omnibox-card_no-shadow.png" class="center_image"></img>
+          </div>
+          <div id="everywhere" actived="false" class="hide">
+            <img src="../img/search/search-engine-card_no-shadow.png" class="center_image"></img>
+          </div>
+        </div>
+        <!-- **************** END: Search UI ************** -->
+
+        <!-- ************ Status messages *********** -->
+
+        <div id="block_counts" class="box">
+          <a id="block_counts_help" style="float:right;" i18n="whats_this"
+            href="https://getadblock.com/gplus/v2.6-released/"></a>
+          <div i18n="blocked_ads" class="header"></div>
+          <div style="padding:2px 0px 0px 2px;">
+            <div i18n="blocked_n_on_this_page" i18n_replacement_el="page_blocked_count"></div>
+            <span class="block_count_number" id="page_blocked_count"></span>
+            <div i18n="blocked_n_in_total" i18n_replacement_el="total_blocked_count"></div>
+            <span class="block_count_number" id="total_blocked_count"></span>
+          </div>
+
+          <div id="block_counts_controls">
+            <input type="checkbox" id="toggle_badge_checkbox" checked="checked">
+            <label for="toggle_badge_checkbox" i18n="show_on_adblock_button"></label>
+          </div>
+        </div>
+
+        <div id="div_status_whitelisted" class="menu-status">
+          <span style="font-style:italic;" i18n="disabled_on_this_page"></span>
+        </div>
+
+
+        <div i18n="status_disabled" id="div_status_disabled" class="menu-status" style="font-style:italic;">
+        </div>
+
+        <div id="div_status_paused" class="menu-status">
+          <span i18n="status_paused" style="font-style:italic;"></span>
+        </div>
+
+        <!-- ************ Standard menu entries *********** -->
+
+        <div i18n="undo_last_block" id="div_undo" class="menu-entry">
+        </div>
+
+        <div i18n="whitelist_youtube_channel" id="div_whitelist_channel" class="menu-entry">
+        </div>
+
+        <div id="separator0" class="separator"></div>
+
+        <div i18n="enable_adblock" id="div_enable_adblock_on_this_page" class="menu-entry">
+        </div>
+
+        <div i18n="pause_adblock" id="div_pause_adblock" class="menu-entry">
+        </div>
+
+        <div i18n="unpause_adblock" id="div_paused_adblock" class="menu-entry">
+        </div>
+
+
+        <div i18n="block_an_ad_on_this_page" id="div_blacklist" class="menu-entry">
+        </div>
+
+        <div i18n="dont_run_on_this_page" id="div_whitelist_page" class="menu-entry">
+        </div>
+
+        <div id="div_whitelist" class="menu-entry" i18n="dont_run_on_pages_on_domain">
+        </div>
+
+        <div id="separator3" class="separator"></div>
+
+        <div id="div_show_resourcelist" class="menu-entry" i18n="show_resourcelist">
+        </div>
+
+        <div id="div_report_an_ad" class="menu-entry" i18n="report_ad_on_page">
+        </div>
+
+        <div id="separator1" class="separator"></div>
+
+        <!-- **************** Extras ************** -->
+
+        <div i18n="options" id="div_options" class="menu-entry">
+        </div>
+
+        <div id="div_help_hide">
+          <div id="div_help_hide_start" i18n="hide_this_button" class="menu-entry"></div>
+          <div id="help_hide_explanation" class="info" i18n="chromebutton_how_to_hide2" style="display:none;">
+          </div>
+        </div>
+
+        <div class="separator" id="separator2"></div>
+
+      </div> <!-- menu-items-->
+
+      <div id="div_slideout" data-width=675 data-height=480>
+        <div style="margin:5px 0px">
+          <div id="link_close" style="float:right; display:none;"><a style="cursor:pointer;">x</a></div>
+          <a id="link_open" style="cursor:pointer;" i18n="spread_the_word"></a>
+        </div>
+        <div id="slideout_wrapper" style="display:none; clear:left;">
+        </div>
+      </div>
+    </div> <!-- wrapper -->
+
+    <script src="popup.js"></script>
+    <script src="search/search.js"></script>
+  </body>
+</html>

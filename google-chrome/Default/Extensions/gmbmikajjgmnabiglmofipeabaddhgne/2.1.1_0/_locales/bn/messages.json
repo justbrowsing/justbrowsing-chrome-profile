@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "অ্যাকাউন্ট"
+   },
+   "apply": {
+      "message": "প্রয়োগ করুন"
+   },
+   "audio_default_filename": {
+      "message": "শিরোনামবিহীন অডিও"
+   },
+   "authorization_needed": {
+      "message": "আপনাকে অবশ্যই Google ড্রাইভে সংরক্ষণ করুনকে অনুমোদিত করতে হবে৷"
+   },
+   "cancel": {
+      "message": "বাতিল করুন"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome পৃষ্ঠাগুলির স্ক্রীন ক্যাপচার করা যাবে না৷ একটি মানক ওয়েব পৃষ্ঠা ব্যবহার করে দেখুন৷"
+   },
+   "change_dest_folder": {
+      "message": "গন্তব্য ফোল্ডারটি পরিবর্তন করুন..."
+   },
+   "chrome_extension_name": {
+      "message": "Google ড্রাইভে সংরক্ষণ করুন"
+   },
+   "close": {
+      "message": "বন্ধ"
+   },
+   "convert_to_google_format": {
+      "message": "Google সম্পাদক ফর্ম্যাটে সংরক্ষিত লিঙ্ক রূপান্তরিত করুন"
+   },
+   "debug": {
+      "message": "ডিবাগ"
+   },
+   "default_filename": {
+      "message": "শিরোনামহীন"
+   },
+   "download_canceled": {
+      "message": "ডাউনলোড বাতিল হয়েছে৷"
+   },
+   "download_failure": {
+      "message": "ডাউনলোড ব্যর্থ: $1৷",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ডাউনলোড ব্যর্থ: কোনো ডেটা গৃহীত হয়নি৷"
+   },
+   "download_failure_too_big_mb": {
+      "message": "ডাউনলোড ব্যর্থ হয়েছে: উৎস অত্যন্ত বড় ($1 MB)৷",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "ডাউনলোড হচ্ছে $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "ডাউনলোড হচ্ছে…"
+   },
+   "empty_page_capture": {
+      "message": "MHTML হিসাবে পৃষ্ঠার বিষয়বস্তু ক্যাপচার করা যায়নি।"
+   },
+   "enable_file_url": {
+      "message": "ফাইল URLগুলি এক্সটেনশান সেটিংস পৃষ্ঠায় \"ফাইল URL এ অ্যাক্সেস মঞ্জুর করুন\" বিকল্প সহ সক্ষম থাকা আবশ্যক৷"
+   },
+   "ext_description": {
+      "message": "Google ড্রাইভ এ সরাসরি ওয়েব সামগ্রী বা স্ক্রীন ক্যাপচার সংরক্ষণ করে৷"
+   },
+   "failure_page_capture": {
+      "message": "MHTML হিসাবে পৃষ্ঠার বিষয়বস্তু না ক্যাপচার করা যায়নি: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "প্রতিক্রিয়া পাঠান ( কেবল অভ্যন্তরীণ)"
+   },
+   "file_bug_internal": {
+      "message": "একটি বাগ ফাইল করুন (কেবল অভ্যন্তরীণ)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>-এ \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> সংরক্ষণ করা হয়েছে৷ \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">পরিবর্তন করুন\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ট্র্যাসে সরানো হয়েছে৷ \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ড্রাইভ\u003C/a> এ যান৷",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ড্রাইভ"
+   },
+   "help": {
+      "message": "সহায়তা"
+   },
+   "html_default_filename": {
+      "message": "শিরোনামবিহীন HTML"
+   },
+   "image_capture_failed": {
+      "message": "চিত্র ক্যাপচার ব্যর্থ হয়েছে৷"
+   },
+   "image_capture_failed_reason": {
+      "message": "চিত্র ক্যাপচার করা ব্যর্থ হয়েছে ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "শিরোনামবিহীন চিত্র"
+   },
+   "invalid_url": {
+      "message": "অবৈধ URL: $1৷ ডাউনলোড করা URLগুলিকে অবশ্যই http://, https://, বা file:// দিয়ে শুরু হতে হবে৷",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "বিবিধ"
+   },
+   "my_drive": {
+      "message": "আমার ড্রাইভ"
+   },
+   "options_header_text": {
+      "message": "Google ড্রাইভে সংরক্ষণ করুন এক্সটেনশন বিকল্পগুলি"
+   },
+   "options_title": {
+      "message": "Google ড্রাইভে সংরক্ষণ করুন এর বিকল্পগুলি"
+   },
+   "page_size_not_supported": {
+      "message": "পৃষ্ঠার আকারটি সমর্থিত নয়: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "শিরোনামবিহীন PDF"
+   },
+   "percent": {
+      "message": "$1% সম্পন্ন",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "গোপনীয়তা"
+   },
+   "rename": {
+      "message": "পুনঃনামকরণ"
+   },
+   "rename_prompt": {
+      "message": "পুনঃনামকরণ:"
+   },
+   "save_as_html": {
+      "message": "HTML উৎস (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google দস্তাবেজ"
+   },
+   "save_as_image_entire": {
+      "message": "সমগ্র পৃষ্ঠার চিত্র (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "দৃশ্যমান পৃষ্ঠার চিত্র (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "ওয়েব আর্কাইভ (.mht)"
+   },
+   "save_audio": {
+      "message": "অডিওটি Google ড্রাইভতে সংরক্ষণ করুন"
+   },
+   "save_image": {
+      "message": "চিত্রটি Google ড্রাইভএ সংরক্ষণ করুন"
+   },
+   "save_link": {
+      "message": "লিঙ্কটিGoogle ড্রাইভতে সংরক্ষণ করুন"
+   },
+   "save_page_as": {
+      "message": "এইভাবে পৃষ্ঠা সংরক্ষণ করুন:"
+   },
+   "save_to_folder_text": {
+      "message": "ফোল্ডারে সংরক্ষণ করুন"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google ড্রাইভ এ সংরক্ষণ করুন"
+   },
+   "save_video": {
+      "message": "Google ড্রাইভতে ভিডিও সংরক্ষণ করুন"
+   },
+   "saving": {
+      "message": "$1তে Google ড্রাইভসংরক্ষণ করা হচ্ছে...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "একটি ফোল্ডারে সংরক্ষণ করুন নির্বাচন করুন"
+   },
+   "send_feedback": {
+      "message": "প্রতিক্রিয়া প্রেরণ করুন"
+   },
+   "sign_out": {
+      "message": "সাইন আউট"
+   },
+   "start_download_exception": {
+      "message": "ডাউনলোড শুরু হতে ব্যর্থতা:$1 ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "শিরোনাম বিহীন পাঠ্য"
+   },
+   "trash": {
+      "message": "ট্র্যাশ"
+   },
+   "unspecified_error": {
+      "message": "অনির্দিষ্ট ত্রুটি"
+   },
+   "upload_canceled": {
+      "message": "আপলোড বাতিল হয়েছে"
+   },
+   "upload_failure": {
+      "message": "আপলোড ব্যর্থ হয়েছে: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Google ড্রাইভ এ $1 আপলোড হচ্ছে...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">লিঙ্কটি খুলুন\u003C/a>, এবং ঠিকানা বারের ডান দিকের Google ড্রাইভ এ সংরক্ষণ করুন বোতামটি ব্যবহার করে পৃষ্ঠাটি সংরক্ষণ করুন৷",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "এটি একটি ওয়েব পৃষ্ঠার লিঙ্ক"
+   },
+   "video_default_filename": {
+      "message": "শিরোনামবিহীন ভিডিও"
+   },
+   "xml_default_filename": {
+      "message": "শিরোনামবিহীন XML"
+   }
+}

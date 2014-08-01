@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Если Вам это понравилось,немного помогите мне:)"
+   },
+   "PleaseReviewGoto": {
+      "message": "На предыдущую страницу"
+   },
+   "app_desc": {
+      "message": "Отличное расширение для каждого пользователя смартфонов"
+   },
+   "app_title": {
+      "message": "QrCode генератор"
+   },
+   "generate_qrcode": {
+      "message": "Сгенерировать QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Добавить или редактировать правило"
+   },
+   "lblAddRule": {
+      "message": "Добавить правило"
+   },
+   "lblEdit_Close": {
+      "message": "Закрыть"
+   },
+   "lblEdit_Domain": {
+      "message": "Домен"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Как использовать Smart QrCode Generator"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Изображение"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Обычные выражения:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Замена переменных"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Выбранный текст"
+   },
+   "lblEdit_SiteUrl": {
+      "message": " Адрес сайта"
+   },
+   "lblEdit_Source": {
+      "message": "Содержание заголовка:"
+   },
+   "lblEdit_Tag": {
+      "message": "Тэги для поисковых пауков"
+   },
+   "lblEdit_Title": {
+      "message": "Заголовок:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Сохраненное изменение"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Иконка"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Выберите иконку"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Выключено"
+   },
+   "lblEdit_version": {
+      "message": "Версия"
+   },
+   "lblRules": {
+      "message": "Правила"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Изображение"
+   },
+   "popup_link": {
+      "message": "Ссылка"
+   },
+   "popup_selectedText": {
+      "message": "Выбранный текст"
+   }
+}

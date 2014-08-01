@@ -1,0 +1,155 @@
+/* Add Shape Button drop-down for all apps */
+.qowt-button-addShape-dropdown menu {
+    top: 26px !important;
+}
+
+.qowt-button-addShape-dropdown {
+    position: relative;
+    background-position: center center;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    -webkit-border-radius: 2px;
+    width: 33px;
+    height: 24px;
+    outline: none;
+    margin: 5px 0 0 -1px;
+    color: #333;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: default;
+    border: solid 1px transparent;
+    display: inline-block;
+}
+
+.qowt-main-buttonbar #cmd-addShapeaddShapeDropdown {
+
+}
+.qowt-button-addShape-dropdown:hover {
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+    color: #222;
+    border-color: #c6c6c6;
+}
+
+.qowt-button-shape-label{
+    display: inline-block;
+    height: 24px;
+    background-image: url("../img/ui/lowDPI/pointMenuSprite.png");
+    background-size: 42px 2757px;
+    width: 21px;
+    background-position: 0px -535px;
+}
+
+.qowt-button-down-label{
+    display: inline-block;
+    height: 24px;
+    background-image: url("../img/ui/lowDPI/pointMenuSprite.png");
+    background-size: 42px 2757px;
+    width: 10px;
+    background-position: -4px -1376px;
+}
+
+.qowt-menu-addShape-active{
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+  background-color: #EEE;
+  border-color: #CCC;
+}
+
+.shapemenuitem-setAddShapeBehaviour .icon-shapes{
+    display: inline-block;
+    height: 24px;
+    background-image: url("../img/ui/lowDPI/shapesSprite.png");
+    background-size: 21px 3586px;
+    width: 21px;
+    background-position: 0px -133px;
+}
+
+.shapemenuitem-setAddShapeBehaviour .icon-arrows{
+    display: inline-block;
+    height: 24px;
+    background-image: url("../img/ui/lowDPI/shapesSprite.png");
+    background-size: 21px 3586px;
+    width: 21px;
+    background-position: 0px -1584px;
+}
+
+.shapemenuitem-setAddShapeBehaviour .icon-callouts{
+    display: inline-block;
+    height: 24px;
+    background-image: url("../img/ui/lowDPI/shapesSprite.png");
+    background-size: 21px 3586px;
+    width: 21px;
+    background-position: 0px -924px;
+}
+
+.shapemenuitem-setAddShapeBehaviour .icon-equations{
+    display: inline-block;
+    height: 24px;
+    background-image: url("../img/ui/lowDPI/shapesSprite.png");
+    background-size: 21px 3586px;
+    width: 21px;
+    background-position: 0px -1276px;
+}
+
+.qowt-submenu-arrow {
+    font-size: 70%;
+    left: auto;
+    right: 10px;
+    padding-top: 3px;
+    padding-right: 0;
+    position: absolute;
+    text-align: right;
+    opacity: 0.5;
+}
+
+.qowt-button-addShape-dropdown .qowt-menuitem.shapemenuitem-setAddShapeBehaviour {
+    padding: 5px 2em 5px 30px;
+    opacity: 0.7;
+}
+.qowt-button-addShape-dropdown .qowt-menuitem.shapemenuitem-setAddShapeBehaviour:hover {
+    padding: 5px 2em 5px 30px;
+    opacity: 1;
+}
+
+.qowt-button-addShape-dropdown .qowt-menuPane .shapemenuitem-setAddShapeBehaviour:hover{
+    border-width: 0px 0 !important;
+}
+
+div.qowt-shape-pane {
+    width: 264px;
+    padding: 5px;
+    white-space: normal;
+    margin-top: -5px;
+}
+
+.qowt-shape-item {
+    background-image: url("../img/ui/lowDPI/shapesSprite.png");
+    background-size: 22px 3586px;
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+}
+.qowt-shape-item:hover {
+    color: #222;
+    background-color: rgba(0, 0, 0, .1);
+}
+
+.qowt-shape-pane .qowt-spacer {
+    display:block !important;
+    width: 100% !important;
+    border-top: 1px solid #ebebeb !important;
+    margin-top: 6px !important;
+    margin-bottom: 6px !important;
+    margin-left: 0px !important;
+    border-left: 0px solid #CCC !important;
+    height: auto !important;
+    line-height: normal !important;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+
+
+

@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Konto"
+   },
+   "apply": {
+      "message": "Använd"
+   },
+   "audio_default_filename": {
+      "message": "Namnlöst ljud"
+   },
+   "authorization_needed": {
+      "message": "Du måste auktorisera Spara på Google Drive."
+   },
+   "cancel": {
+      "message": "Avbryt"
+   },
+   "cannot_capture_chrome": {
+      "message": "Det går inte att göra en skärmdump av Chrome-sidor. Testa en standardwebbsida."
+   },
+   "change_dest_folder": {
+      "message": "Ändra målmapp ..."
+   },
+   "chrome_extension_name": {
+      "message": "Spara på Google Drive"
+   },
+   "close": {
+      "message": "Stäng"
+   },
+   "convert_to_google_format": {
+      "message": "Konvertera den sparade länken till Googles redigeringsformat"
+   },
+   "debug": {
+      "message": "Felsökning"
+   },
+   "default_filename": {
+      "message": "Namnlös"
+   },
+   "download_canceled": {
+      "message": "Hämtningen avbröts."
+   },
+   "download_failure": {
+      "message": "Det gick inte att hämta: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Det gick inte att hämta: Inga data har tagits emot."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Det gick inte att hämta: Källan är för stor ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Hämtar $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Hämtar ..."
+   },
+   "empty_page_capture": {
+      "message": "Det gick inte att lägga till sidinnehållet som MHTML."
+   },
+   "enable_file_url": {
+      "message": "Du måste aktivera webbadresser för filer genom alternativet \"Tillåt åtkomst till filernas webbadresser\" på sidan Tilläggsinställningar."
+   },
+   "ext_description": {
+      "message": "Spara webbinnehåll eller skärmdump direkt i Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Det gick inte att lägga till sidinnehållet som MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Skicka feedback (endast internt)"
+   },
+   "file_bug_internal": {
+      "message": "Anmäl ett fel (endast internt)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> sparades i \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">ändring\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> har flyttats till papperskorgen. Fortsätt till \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Hjälp"
+   },
+   "html_default_filename": {
+      "message": "HTML utan namn"
+   },
+   "image_capture_failed": {
+      "message": "Bildtagning misslyckades"
+   },
+   "image_capture_failed_reason": {
+      "message": "Det gick inte att ta en bild ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Namnlös bild"
+   },
+   "invalid_url": {
+      "message": "Ogiltig webbadress: $1. Hämtade webbadresser måste börja med http://, https:// eller file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Sida utan namn Capture.mht"
+   },
+   "misc": {
+      "message": "Övrigt"
+   },
+   "my_drive": {
+      "message": "Min enhet"
+   },
+   "options_header_text": {
+      "message": "Tilläggsalternativ för Spara på Google Drive"
+   },
+   "options_title": {
+      "message": "Alternativ för Spara på Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Sidstorleken stöds inte: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Namnlös PDF"
+   },
+   "percent": {
+      "message": "$1 % klart",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Sekretess"
+   },
+   "rename": {
+      "message": "Byt namn"
+   },
+   "rename_prompt": {
+      "message": "Byt namn:"
+   },
+   "save_as_html": {
+      "message": "HTML-källa (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Dokument i Google Drive"
+   },
+   "save_as_image_entire": {
+      "message": "Bild av hela sidan (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Bild på synlig sida (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Webbarkiv (.mht)"
+   },
+   "save_audio": {
+      "message": "Spara ljud i Google Drive"
+   },
+   "save_image": {
+      "message": "Spara bild i Google Drive"
+   },
+   "save_link": {
+      "message": "Spara länk i Google Drive"
+   },
+   "save_page_as": {
+      "message": "Spara sida som:"
+   },
+   "save_to_folder_text": {
+      "message": "Spara till mapp"
+   },
+   "save_to_google_drive_action": {
+      "message": "Spara i Google Drive"
+   },
+   "save_video": {
+      "message": "Spara video i Google Drive"
+   },
+   "saving": {
+      "message": "Spara $1 i Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Välj Spara till mapp"
+   },
+   "send_feedback": {
+      "message": "Skicka feedback"
+   },
+   "sign_out": {
+      "message": "Logga ut"
+   },
+   "start_download_exception": {
+      "message": "Det gick inte att hämta: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Namnlös text"
+   },
+   "trash": {
+      "message": "Papperskorgen"
+   },
+   "unspecified_error": {
+      "message": "Ospecificerat fel"
+   },
+   "upload_canceled": {
+      "message": "Överföringen har avbrutits"
+   },
+   "upload_failure": {
+      "message": "Överföringsfel: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Överför $1 till Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Öppna länken\u003C/a> och spara sidan med knappen Spara i Google Drive till höger om adressfältet.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Detta är en länk till en webbsida"
+   },
+   "video_default_filename": {
+      "message": "Namnlös video"
+   },
+   "xml_default_filename": {
+      "message": "Namnlös XML"
+   }
+}

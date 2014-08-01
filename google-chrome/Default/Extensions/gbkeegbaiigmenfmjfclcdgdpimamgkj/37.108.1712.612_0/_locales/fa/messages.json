@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "بیشتر بیاموزید"
+   },
+   "app_nacl_crash_report": {
+      "message": "گزارش یک مشکل..."
+   },
+   "application_description": {
+      "message": "ویرایش سند"
+   },
+   "extension_description": {
+      "message": "‏مشاهده و ویرایش فایل‌های Microsoft Word،‏ Excel و PowerPoint با سندنگار، کاربرگ‌نگار و اسلایدنگار Google."
+   },
+   "extension_name": {
+      "message": "‏ویرایش Office برای سندنگار، کاربرگ‌نگار و اسلایدنگار."
+   },
+   "file_loading_spinner_label": {
+      "message": "در حال بارگیری"
+   },
+   "file_not_found_msg": {
+      "message": "فایلی که درخواست کرده‌اید منتقل شده است."
+   },
+   "file_not_found_title": {
+      "message": "فایل یافت نشد."
+   }
+}

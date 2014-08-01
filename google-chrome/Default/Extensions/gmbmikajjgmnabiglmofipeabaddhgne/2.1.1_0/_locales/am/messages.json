@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "መለያ"
+   },
+   "apply": {
+      "message": "ተግብር"
+   },
+   "audio_default_filename": {
+      "message": "ርዕስ አልባ ድምጽ"
+   },
+   "authorization_needed": {
+      "message": "ለበGoogle Drive ያስቀምጡ ፈቀዳ መስጠት አለብዎት።"
+   },
+   "cancel": {
+      "message": "ይቅር"
+   },
+   "cannot_capture_chrome": {
+      "message": "የChrome ገጾች ቅጽበተ-ፎቶዎችን ማንሳት አልተቻለም። መደበኛ ድረ-ገጽ ይሞክሩ።"
+   },
+   "change_dest_folder": {
+      "message": "የመድረሻ አቃፊ ለውጥ..."
+   },
+   "chrome_extension_name": {
+      "message": "በGoogle Drive ያስቀምጡ"
+   },
+   "close": {
+      "message": "ዝጋ"
+   },
+   "convert_to_google_format": {
+      "message": "ልውጥ አገናኝ ወደ Google አርታዒ ቅርጸት ተቀምጧል"
+   },
+   "debug": {
+      "message": "አርም"
+   },
+   "default_filename": {
+      "message": "ርዕስ አልባ"
+   },
+   "download_canceled": {
+      "message": "ማውረድ ተሰርዟል።"
+   },
+   "download_failure": {
+      "message": "ማውረድ አልተሳካም፦ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ማውረድ አልተሳካም፦ ምንም ውሂብ አልተቀበለም።"
+   },
+   "download_failure_too_big_mb": {
+      "message": "ማውረድ አልተሳካም፦ ምንጩ በጣም ግዙፍ ነው ($1 ሜባ)።",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "በማውረድ ላይ $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "በማውረድ ላይ…"
+   },
+   "empty_page_capture": {
+      "message": "የገጹን ይዘቶች እንደ MHTML ለመያዝ አልተቻለም።"
+   },
+   "enable_file_url": {
+      "message": "ፋይል ዩአርኤሎች በቅጥያዎች  ቅንብሮች  ገጽ ላይ በ«ወደ ፋይል ዩአርኤሎች መዳረሻ ፍቀድ» አማራጭ ጋር መንቃት አለበት።"
+   },
+   "ext_description": {
+      "message": "የድር ይዘት አስቀምጥ ወይም በቀጥታ ወደ Google Drive ማያ ገጽ ቅረጽ።"
+   },
+   "failure_page_capture": {
+      "message": "የገጹን ይዘቶች እንደ MHTML ለመያዝ አልተቻለም፦ $1።",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ግብረመልስ ላክ (ውስጣዊ)"
+   },
+   "file_bug_internal": {
+      "message": "ስህተት ፋይል አድርግ (ውስጣዊ ብቻ)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> ወደ ተቀምጧል \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">ለውጥ\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ወደ መጣያ ተወስዷል። ወደ \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "እገዛ"
+   },
+   "html_default_filename": {
+      "message": "ርዕስ አልባ HTML"
+   },
+   "image_capture_failed": {
+      "message": "የምስል መያዝ አልተሳካም"
+   },
+   "image_capture_failed_reason": {
+      "message": "የምስል መያዝ አልተሳካም ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "ርዕስ አልባ ምስል"
+   },
+   "invalid_url": {
+      "message": "ልክ ያልሆነ ዩአርኤል፦ $1። የሚወርዱ ዩ አር ኤሎች በhttp://፣ https:// ወይም file:// መጀመር አለባቸው።",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "ርዕስ አልባ ገጽ Capture.mht"
+   },
+   "misc": {
+      "message": "በየዓይነቱ"
+   },
+   "my_drive": {
+      "message": "የእኔ Drive"
+   },
+   "options_header_text": {
+      "message": "በGoogle Drive ያስቀምጡ የቅጥያ አማራጮች"
+   },
+   "options_title": {
+      "message": "በGoogle Drive ያስቀምጡ አማራጮች"
+   },
+   "page_size_not_supported": {
+      "message": "የገጽ መጠን አይደገፍም፦ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "ርዕስ አልባ PDF"
+   },
+   "percent": {
+      "message": "$1% ተከናውኗል",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "ግላዊነት"
+   },
+   "rename": {
+      "message": "ዳግም ሰይም"
+   },
+   "rename_prompt": {
+      "message": "ዳግም ሰይም፦"
+   },
+   "save_as_html": {
+      "message": "HTML ምንጭ (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google ሰነድ"
+   },
+   "save_as_image_entire": {
+      "message": "የጠቅላላው ገጽ ምስል (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "የሚታይ ገጽ ምስል (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "የድር  ማህደር (.mht)"
+   },
+   "save_audio": {
+      "message": "ድምጽ በGoogle Drive ላይ አስቀምጥ"
+   },
+   "save_image": {
+      "message": "ምስሉን በGoogle Drive ላይ አስቀምጥ"
+   },
+   "save_link": {
+      "message": "አገናኙን በGoogle Drive ላይ አስቀምጥ"
+   },
+   "save_page_as": {
+      "message": "ገጽ አስቀምጥ እንደ፦"
+   },
+   "save_to_folder_text": {
+      "message": "አቃፊ ውስጥ አስቀምጥ"
+   },
+   "save_to_google_drive_action": {
+      "message": "ወደ Google Drive አስቀምጥ"
+   },
+   "save_video": {
+      "message": "ቪዲዮውን በGoogle Drive ላይ አስቀምጥ"
+   },
+   "saving": {
+      "message": "$1ን በGoogle Drive ላይ በማስቀመጥ ላይ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ወደ አቃፊ አስቀምጥ የሚለውን ይምረጡ"
+   },
+   "send_feedback": {
+      "message": "ግብረ መልስ ላክ"
+   },
+   "sign_out": {
+      "message": "ውጣ"
+   },
+   "start_download_exception": {
+      "message": "መጫን አልተሳካም፦ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "ርዕስ አልባ ጽሁፍ"
+   },
+   "trash": {
+      "message": "አስወግድ"
+   },
+   "unspecified_error": {
+      "message": "ያልታወቀ ስሕተት"
+   },
+   "upload_canceled": {
+      "message": "የሚሰቀል ተሰርዟል።"
+   },
+   "upload_failure": {
+      "message": "የመስቀል አለመሳካት፦ $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1ን ወደ Google Drive በመስቀል ላይ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">አገናኝ\u003C/a>ን ይክፈቱ፣ እና የአድራሻው አሞሌ በቀኝ በኩል ወደ Google Drive አስቀምጥ አዝራርን በመጠቀም ገጹን ያስቀምጡ።",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "ይሄ የድር ገጽ ላይ አገናኝ ነው"
+   },
+   "video_default_filename": {
+      "message": "ርዕስ አልባ ቪድዮ"
+   },
+   "xml_default_filename": {
+      "message": "ርስስ አልባ XML"
+   }
+}

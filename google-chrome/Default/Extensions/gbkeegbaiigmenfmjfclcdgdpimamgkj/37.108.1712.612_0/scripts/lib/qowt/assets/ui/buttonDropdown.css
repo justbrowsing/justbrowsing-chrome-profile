@@ -1,0 +1,49 @@
+/* Button dropdown for all apps */
+.qowt-button-dropdown {
+  font: 13px Arial, sans-serif;
+  white-space: nowrap;
+  display: inline-block;
+  position: relative;
+}
+
+.qowt-button-dropdown menu {
+  top: 29px !important;
+}
+
+div.qowt-button-dropdown > button {
+  background-position: left center, right center;
+  width: 40px;
+}
+
+div.qowt-button-dropdown .qowt-button-label {
+  background-position: right center;
+  width: auto;
+  padding-right: 22px;
+  text-align: left;
+}
+
+.qowt-button-dropdown .qowt-button-label span {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.qowt-button-dropdown #cmd-fontFace span {
+  width: 74px;
+}
+
+.qowt-button-dropdown #cmd-fontFace + .qowt-menuPane {
+  min-width: 102px;
+}
+
+.qowt-button-dropdown #cmd-fontSize span {
+  width: 17px;
+}
+
+.qowt-button-dropdown #cmd-style span {
+  width: 74px;
+}
+
+div.qowt-button-dropdown .qowt-menuitem {
+  padding: 6px 44px 6px 16px;
+}

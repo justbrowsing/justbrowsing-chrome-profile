@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "એકાઉન્ટ"
+   },
+   "apply": {
+      "message": "લાગુ કરો"
+   },
+   "audio_default_filename": {
+      "message": "શીર્ષક વિનાનું ઑડિઓ"
+   },
+   "authorization_needed": {
+      "message": "તમે અધિકૃત હોવા જોઇએ Google ડ્રાઇવ પર સાચવો."
+   },
+   "cancel": {
+      "message": "રદ કરો"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome પૃષ્ઠો સ્ક્રીન કેપ્ચર કરી શકાતા નથી. કોઈ માનક વેબ પૃષ્ઠનો પ્રયાસ કરો."
+   },
+   "change_dest_folder": {
+      "message": "ગંતવ્ય ફોલ્ડર બદલો..."
+   },
+   "chrome_extension_name": {
+      "message": "Google ડ્રાઇવ પર સાચવો"
+   },
+   "close": {
+      "message": "બંધ કરો"
+   },
+   "convert_to_google_format": {
+      "message": "સાચવેલી લિંકને Google સંપાદક ફોર્મેટમાં રૂપાંતરિત કરો"
+   },
+   "debug": {
+      "message": "ડીબગ કરો"
+   },
+   "default_filename": {
+      "message": "શીર્ષક વિનાનું"
+   },
+   "download_canceled": {
+      "message": "ડાઉનલોડ રદ કર્યું."
+   },
+   "download_failure": {
+      "message": "ડાઉનલોડ નિષ્ફળ ગયું: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "ડાઉનલોડ નિષ્ફળ ગયું: કોઈ ડેટા પ્રાપ્ત થયો નથી."
+   },
+   "download_failure_too_big_mb": {
+      "message": "ડાઉનલોડ નિષ્ફળતા: સ્રોત ખૂબ મોટો ($1 MB) છે.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 ને ડાઉનલોડ કરી રહ્યું છે ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "ડાઉનલોડ કરી રહ્યું છે..."
+   },
+   "empty_page_capture": {
+      "message": "MHTML તરીકે પૃષ્ઠની સામગ્રીને મેળવી શક્યા નથી"
+   },
+   "enable_file_url": {
+      "message": "એક્સ્ટેંશંસ સેટિંગ્સ પૃષ્ઠ પર ફાઇલ URL \"ફાઇલ URL ને ઍક્સેસ કરવાની મંજૂરી આપો\" સાથે સક્ષમ કરેલા હોવા આવશ્યક છે."
+   },
+   "ext_description": {
+      "message": "વેબ સામગ્રી અથવા સ્ક્રીન કેપ્ચરને સીધા Google ડ્રાઇવ પર સાચવો."
+   },
+   "failure_page_capture": {
+      "message": "MHTML તરીકે પૃષ્ઠની સામગ્રીને મેળવે શક્યા નથી: $1 .",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "પ્રતિસાદ મોકલો (ફક્ત આંતરિક)"
+   },
+   "file_bug_internal": {
+      "message": "બગ ફાઇલ કરો (ફક્ત આંતરિક)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> ને \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\"> પર સાચવ્યું હતું\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">બદલો\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ને ટ્રેશમાં ખસેડવામાં આવી છે. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ડ્રાઇવ\u003C/a> પર જાઓ.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ડ્રાઇવ"
+   },
+   "help": {
+      "message": "સહાય"
+   },
+   "html_default_filename": {
+      "message": "શીર્ષક વિનાનું HTML"
+   },
+   "image_capture_failed": {
+      "message": "છબી કેપ્ચર કરવું નિષ્ફળ થયું."
+   },
+   "image_capture_failed_reason": {
+      "message": "છબી કેપ્ચર કરવું નિષ્ફળ થયું ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "અનામાંકિત છબી"
+   },
+   "invalid_url": {
+      "message": "અમાન્ય URL: $1. ડાઉનલોડ કરેલા URL http://, https:// અથવા file:// સાથે પ્રારંભ થવા આવશ્યક છે.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "અનામાંકિત  પૃષ્ઠ Capture.mht"
+   },
+   "misc": {
+      "message": "પરચૂરણ"
+   },
+   "my_drive": {
+      "message": "મારી ડ્રાઇવ"
+   },
+   "options_header_text": {
+      "message": "Google ડ્રાઇવ પર સાચવો એક્સટેન્શન વિકલ્પો"
+   },
+   "options_title": {
+      "message": "Google ડ્રાઇવ પર સાચવો વિકલ્પો"
+   },
+   "page_size_not_supported": {
+      "message": "પૃષ્ઠના કદને સમર્થન નથી: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "શીર્ષક વિનાની PDF"
+   },
+   "percent": {
+      "message": "$1% પૂર્ણ",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "ગોપનીયતા"
+   },
+   "rename": {
+      "message": "નામ બદલો"
+   },
+   "rename_prompt": {
+      "message": "નામ બદલો:"
+   },
+   "save_as_html": {
+      "message": "HTML સ્રોત (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google દસ્તાવેજ"
+   },
+   "save_as_image_entire": {
+      "message": "સંપૂર્ણ પૃષ્ઠની છબી (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "દૃશ્યક્ષમ પૃષ્ઠની છબી (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "વેબ આર્કાઇવ (.mht)"
+   },
+   "save_audio": {
+      "message": "Google ડ્રાઇવ પર ઑડિઓ સાચવો"
+   },
+   "save_image": {
+      "message": "Google ડ્રાઇવ પર છબી સાચવો"
+   },
+   "save_link": {
+      "message": "Google ડ્રાઇવ પર લિંક સાચવો"
+   },
+   "save_page_as": {
+      "message": "પૃષ્ઠ આ રીતે સાચવો:"
+   },
+   "save_to_folder_text": {
+      "message": "ફોલ્ડર પર સાચવો"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google ડ્રાઇવ માં સાચવો"
+   },
+   "save_video": {
+      "message": "Google ડ્રાઇવ પર વિડિઓ સાચવો"
+   },
+   "saving": {
+      "message": "$1 ને Google ડ્રાઇવ પર સાચવી રહ્યું છે ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ફોલ્ડર પર સાચવો પસંદ કરો"
+   },
+   "send_feedback": {
+      "message": "પ્રતિસાદ મોકલો"
+   },
+   "sign_out": {
+      "message": "સાઇન આઉટ"
+   },
+   "start_download_exception": {
+      "message": "ડાઉનલોડ પ્રારંભ કરવામાં નિષ્ફળ: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "શીર્ષક વિનાનો ટેક્સ્ટ"
+   },
+   "trash": {
+      "message": "ટ્રૅશ"
+   },
+   "unspecified_error": {
+      "message": "વણઉલ્લેખિત ભૂલ"
+   },
+   "upload_canceled": {
+      "message": "અપલોડ રદ કર્યું"
+   },
+   "upload_failure": {
+      "message": "અપલોડ નિષ્ફળતા: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 ને Google ડ્રાઇવ પર અપલોડ કરી રહ્યું છે...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">લિંક ખોલો\u003C/a>, અને સરનામાં બારની જમણી બાજુના Google ડ્રાઇવ માં સાચવો બટનનો ઉપયોગ કરીને પૃષ્ઠ સાચવો.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "આ એક વેબ પૃષ્ઠની લિંક છે"
+   },
+   "video_default_filename": {
+      "message": "શીર્ષક વિનાનો વિડિઓ"
+   },
+   "xml_default_filename": {
+      "message": "શીર્ષક વિનાની XML"
+   }
+}

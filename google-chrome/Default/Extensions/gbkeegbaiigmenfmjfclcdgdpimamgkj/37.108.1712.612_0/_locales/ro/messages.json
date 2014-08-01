@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Aflați mai multe"
+   },
+   "app_nacl_crash_report": {
+      "message": "Raportați o problemă..."
+   },
+   "application_description": {
+      "message": "Editare de documente"
+   },
+   "extension_description": {
+      "message": "Vedeți și modificați fișiere Microsoft Word, Excel și PowerPoint cu Documente Google, Foi de calcul Google și Prezentări Google"
+   },
+   "extension_name": {
+      "message": "Office Editing pentru Documente, Foi de calcul și Prezentări"
+   },
+   "file_loading_spinner_label": {
+      "message": "Se încarcă"
+   },
+   "file_not_found_msg": {
+      "message": "Fișierul solicitat a fost mutat."
+   },
+   "file_not_found_title": {
+      "message": "Fișierul nu a fost găsit."
+   }
+}

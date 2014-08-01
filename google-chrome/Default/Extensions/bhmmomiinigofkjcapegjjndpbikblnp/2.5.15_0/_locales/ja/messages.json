@@ -1,0 +1,579 @@
+{
+   "activityscore_bronze": {
+      "description": "",
+      "message": "ブロンズ"
+   },
+   "activityscore_gold": {
+      "description": "",
+      "message": "ゴールド"
+   },
+   "activityscore_next": {
+      "description": "",
+      "message": "{NEXT_LEVEL}レベル目指してもっと評価しよう！"
+   },
+   "activityscore_platinum": {
+      "description": "",
+      "message": "プラチナ"
+   },
+   "activityscore_rookie": {
+      "description": "",
+      "message": "ルーキー"
+   },
+   "activityscore_silver": {
+      "description": "",
+      "message": "シルバー"
+   },
+   "activityscore_text": {
+      "description": "",
+      "message": "現在のアクティビティ・スコア {SCORE}"
+   },
+   "auto_update_button_no": {
+      "description": "imported from firefox add-on",
+      "message": "後で確認する"
+   },
+   "auto_update_button_yes": {
+      "description": "imported from firefox add-on",
+      "message": "今すぐ更新する"
+   },
+   "auto_update_check": {
+      "description": "imported from firefox add-on",
+      "message": "自動更新を有効にする(推奨)"
+   },
+   "auto_update_message": {
+      "description": "imported from firefox add-on",
+      "message": "WOTの新バージョンをご利用いただけます。 お使いのアドオンを更新しますか？"
+   },
+   "auto_update_title": {
+      "description": "imported from firefox add-on",
+      "message": "WOTの更新"
+   },
+   "bl_description": {
+      "description": "",
+      "message": "このサイトは他社のブラックリストにあります"
+   },
+   "bl_description_pl": {
+      "description": "",
+      "message": "このサイトは他社のブラックリストにあります"
+   },
+   "bl_information": {
+      "description": "",
+      "message": "WOTは、ウィルスやマルウェアなどの脅威をユーザーに警告するため他社のブラックリストを利用しています。\u003Ca>詳細\u003C/a>"
+   },
+   "bl_malware": {
+      "description": "",
+      "message": "マルウェア"
+   },
+   "bl_other": {
+      "description": "",
+      "message": "その他の理由"
+   },
+   "bl_phishing": {
+      "description": "",
+      "message": "フィッシング"
+   },
+   "bl_scam": {
+      "description": "",
+      "message": "詐欺"
+   },
+   "bl_spam": {
+      "description": "",
+      "message": "スパム"
+   },
+   "bl_tracking": {
+      "description": "",
+      "message": "トラッキング"
+   },
+   "buttons_cancel": {
+      "description": "",
+      "message": "キャンセル"
+   },
+   "buttons_delete": {
+      "description": "",
+      "message": "評価を削除"
+   },
+   "buttons_delete_title": {
+      "description": "",
+      "message": "サイトの評価とカテゴリーを削除"
+   },
+   "buttons_ok": {
+      "description": "",
+      "message": "OK"
+   },
+   "buttons_save": {
+      "description": "",
+      "message": "保存"
+   },
+   "components_0": {
+      "message": "信頼性"
+   },
+   "components_4": {
+      "message": "子供の安全"
+   },
+   "components__short_0": {
+      "message": "信頼性"
+   },
+   "components__short_4": {
+      "message": "子供の安全"
+   },
+   "contextmenu_open_scorecard": {
+      "description": "",
+      "message": "WOTスコアカードを開く"
+   },
+   "description_restart": {
+      "description": "imported from firefox add-on",
+      "message": "WOTを有効化するには、ブラウザーを再起動してください。"
+   },
+   "description_uninstall": {
+      "description": "imported from firefox add-on",
+      "message": "再起動後にWOTがアンインストールされます。"
+   },
+   "ext_description": {
+      "message": "WOTは、世界中の数百万人ものユーザーの体験に基づいて信頼できるWebサイトを示します。WOTは、高速で使いやすく、完全に無料です。"
+   },
+   "fbl_dismiss": {
+      "description": "",
+      "message": "取り下げる"
+   },
+   "fbl_final": {
+      "description": "",
+      "message": "ありがとうございます！"
+   },
+   "fbl_hideforever": {
+      "description": "",
+      "message": "二度と表示しない"
+   },
+   "fbl_optout_no": {
+      "description": "",
+      "message": "いいえ"
+   },
+   "fbl_optout_text": {
+      "description": "",
+      "message": "質問がいらない場合「はい」をクリックして下さい。"
+   },
+   "fbl_optout_yes": {
+      "description": "",
+      "message": "はい"
+   },
+   "fbl_submit": {
+      "description": "",
+      "message": "送信"
+   },
+   "fbl_this_website": {
+      "description": "",
+      "message": "このウェブサイト"
+   },
+   "fbl_whatisthis": {
+      "description": "",
+      "message": "これは何？"
+   },
+   "fbl_whatisthis_text": {
+      "description": "",
+      "message": "\u003Ca href='http://www.mywot.com?utm_source=addon&utm_content=fbl-whatisthis' target='_blank'>Web of Trust (WOT)\u003C/a>は、数百万のユーザーのためネットの安全と品質を推進しています。この表示が出たらあなたもコメントを送って貢献することができます。"
+   },
+   "lang": {
+      "message": "ja-JP"
+   },
+   "locale": {
+      "message": "ja"
+   },
+   "messages_disabled": {
+      "description": "imported from firefox add-on",
+      "message": "アドオンが無効化されました"
+   },
+   "messages_error_register": {
+      "description": "imported from firefox add-on",
+      "message": "アドオンを有効化できませんでした。後ほど再試行してください。"
+   },
+   "messages_failed": {
+      "message": "格付けを読み込めませんでした。後ほど再試行してください。"
+   },
+   "messages_initializing": {
+      "message": "WOTを初期化しています…"
+   },
+   "messages_loading": {
+      "message": "格付けを読み込んでいます…"
+   },
+   "messages_notavailable": {
+      "message": "格付けをご利用いただけません。"
+   },
+   "messages_notready": {
+      "message": "WOTを有効化しています…"
+   },
+   "messages_offline": {
+      "description": "imported from firefox add-on",
+      "message": "ブラウザーのオフライン中に無効化されました。"
+   },
+   "messages_ready": {
+      "description": "",
+      "message": "の評価"
+   },
+   "popup_headertext": {
+      "description": "",
+      "message": "クリックして詳細を見る"
+   },
+   "popup_nocattext": {
+      "description": "",
+      "message": "このサイトについて意見を公開する"
+   },
+   "ratingwindow_addcomment": {
+      "description": "",
+      "message": "コメントする"
+   },
+   "ratingwindow_backtoratings": {
+      "description": "",
+      "message": "理由に戻ります"
+   },
+   "ratingwindow_backtoratings_category": {
+      "description": "",
+      "message": "理由を選んでください"
+   },
+   "ratingwindow_categories": {
+      "description": "",
+      "message": "少なくとも一つの理由を提供してください"
+   },
+   "ratingwindow_check_1a": {
+      "message": "Other users may not understand why you selected 'good site' if you also had severe negative things to say."
+   },
+   "ratingwindow_check_1b": {
+      "message": "Other users may not think that a site designed for children should have such negative characteristics."
+   },
+   "ratingwindow_check_2a": {
+      "message": "Other users may not consider your review credible, because you selected several unrelated negative things."
+   },
+   "ratingwindow_check_3a": {
+      "message": "Other users may question if all negative statements on content and site functionality are true."
+   },
+   "ratingwindow_check_4a": {
+      "message": "Other users may not consider your review credible, because you selected several unrelated things."
+   },
+   "ratingwindow_check_5a": {
+      "message": "'Other' category should be used only if no other options applies, and then explained in written comments."
+   },
+   "ratingwindow_check_6a": {
+      "message": "Too many categories may result in people questioning the credibility of your review."
+   },
+   "ratingwindow_comment": {
+      "description": "",
+      "message": "コメントを残します"
+   },
+   "ratingwindow_comment_captchalink": {
+      "description": "",
+      "message": "スコアカードを開く"
+   },
+   "ratingwindow_comment_captchatext": {
+      "description": "",
+      "message": "コメントを公開するにはスコアカードにキャプチャを入力して下さい。"
+   },
+   "ratingwindow_comment_placeholder": {
+      "description": "",
+      "message": "体験談をここに明記してください…"
+   },
+   "ratingwindow_comment_register": {
+      "description": "",
+      "message": "アカウントを開く"
+   },
+   "ratingwindow_comment_regtext": {
+      "description": "",
+      "message": "コメント公開にはアカウントが必要です。"
+   },
+   "ratingwindow_commenthints": {
+      "description": "",
+      "message": "\u003Cp>正確にお願いします\u003C/p>\u003Cp>証拠かサンプルを出して下さい\u003C/p>\u003Cp>あなたの実際の感想に基づいてコメントして下さい\u003C/p>スパム禁止"
+   },
+   "ratingwindow_editcomment": {
+      "description": "",
+      "message": "コメントを編集"
+   },
+   "ratingwindow_forum": {
+      "message": "フォーラム"
+   },
+   "ratingwindow_fulllist": {
+      "description": "",
+      "message": "全リスト"
+   },
+   "ratingwindow_guide": {
+      "description": "",
+      "message": "ツアー"
+   },
+   "ratingwindow_invite_rw": {
+      "description": "",
+      "message": "このツールでサイトを評価できます。カラーバーをクリックしてサイトの信用度を評価して下さい。"
+   },
+   "ratingwindow_morecats": {
+      "description": "",
+      "message": "次へ"
+   },
+   "ratingwindow_myrating": {
+      "message": "自分の評価"
+   },
+   "ratingwindow_newversion": {
+      "message": "新バージョンを利用できます-クリックして更新"
+   },
+   "ratingwindow_novoted": {
+      "description": "",
+      "message": "理由を提供するにはここをクリックしてください"
+   },
+   "ratingwindow_profile": {
+      "description": "",
+      "message": "プロフィール"
+   },
+   "ratingwindow_question0": {
+      "description": "",
+      "message": "このサイトの評価は？"
+   },
+   "ratingwindow_question4": {
+      "description": "",
+      "message": "このサイトは子ども向けですか？"
+   },
+   "ratingwindow_rerate_category": {
+      "description": "TODO: TRANSLATE",
+      "message": " "
+   },
+   "ratingwindow_rerate_change": {
+      "description": "",
+      "message": "変更"
+   },
+   "ratingwindow_settings": {
+      "message": "設定"
+   },
+   "ratingwindow_thankyou": {
+      "description": "",
+      "message": "感想をお送りいただき感謝します！"
+   },
+   "ratingwindow_viewscorecard": {
+      "description": "",
+      "message": "詳細とコメントを見る"
+   },
+   "ratingwindow_vote_no": {
+      "description": "",
+      "message": "同意しません"
+   },
+   "ratingwindow_vote_yes": {
+      "description": "",
+      "message": "はい"
+   },
+   "ratingwindow_wgcommenthints": {
+      "message": "\u003Cp>Be precise and truthful\u003C/p>\u003Cp>Use tags as shorthand\u003C/p>\u003Cp>Comment what you know\u003C/p>"
+   },
+   "ratingwindow_wotrating": {
+      "description": "",
+      "message": "WOT（Web of Trust）ユーザーは言います"
+   },
+   "reputationlevels_r0": {
+      "description": "",
+      "message": "確認できません"
+   },
+   "reputationlevels_r1": {
+      "message": "非常に悪い"
+   },
+   "reputationlevels_r2": {
+      "message": "悪い"
+   },
+   "reputationlevels_r3": {
+      "message": "満足できない"
+   },
+   "reputationlevels_r4": {
+      "message": "良い"
+   },
+   "reputationlevels_r5": {
+      "message": "非常に優れている"
+   },
+   "testimony_0_levels_r0": {
+      "description": "",
+      "message": "バーをクリックして評価する"
+   },
+   "testimony_0_levels_r1": {
+      "description": "",
+      "message": "信頼しない"
+   },
+   "testimony_0_levels_r2": {
+      "description": "",
+      "message": "信頼しない"
+   },
+   "testimony_0_levels_r3": {
+      "description": "",
+      "message": "疑わしい"
+   },
+   "testimony_0_levels_r4": {
+      "description": "",
+      "message": "信頼する"
+   },
+   "testimony_0_levels_r5": {
+      "description": "",
+      "message": "信頼する"
+   },
+   "testimony_4_levels_r0": {
+      "description": "",
+      "message": "バーをクリックして評価する"
+   },
+   "testimony_4_levels_r1": {
+      "description": "",
+      "message": "ふさわしくない"
+   },
+   "testimony_4_levels_r2": {
+      "description": "",
+      "message": "ふさわしくない"
+   },
+   "testimony_4_levels_r3": {
+      "description": "",
+      "message": "要注意"
+   },
+   "testimony_4_levels_r4": {
+      "description": "",
+      "message": "ふさわしい"
+   },
+   "testimony_4_levels_r5": {
+      "description": "",
+      "message": "ふさわしい"
+   },
+   "testimony_delete": {
+      "description": "",
+      "message": "削除"
+   },
+   "testimony_unrated": {
+      "description": "",
+      "message": "意見はない"
+   },
+   "warning": {
+      "description": "imported from firefox add-on",
+      "message": "WOTからの警告： %S"
+   },
+   "warning_button": {
+      "description": "imported from firefox add-on",
+      "message": "詳しい評価"
+   },
+   "warnings_back": {
+      "message": "戻る"
+   },
+   "warnings_blocked": {
+      "description": "imported from firefox add-on",
+      "message": "ブロックされました"
+   },
+   "warnings_goto": {
+      "message": "このサイトを開く"
+   },
+   "warnings_information": {
+      "description": "",
+      "message": "詳細とコメントを見る"
+   },
+   "warnings_leave": {
+      "description": "",
+      "message": "終了"
+   },
+   "warnings_message_rating": {
+      "description": "imported from firefox add-on",
+      "message": "あなたはこのサイトを低く評価しています。"
+   },
+   "warnings_message_reputation": {
+      "description": "imported from firefox add-on",
+      "message": "評価の低いサイトです。"
+   },
+   "warnings_noreasontitle": {
+      "description": "",
+      "message": "このサイトはユーザーには未確認ですが評価のみがあります"
+   },
+   "warnings_othersreasontitle": {
+      "description": "",
+      "message": "他のユーザーの意見"
+   },
+   "warnings_ratesite": {
+      "description": "",
+      "message": "このサイトが信用できる場合、\u003Ca>評価する\u003C/a>"
+   },
+   "warnings_rating": {
+      "message": "このサイトに対するあなたの評価が低いために、\u003Cbr/>警告が表示されました"
+   },
+   "warnings_reasontitle": {
+      "description": "",
+      "message": "ユーザーがあげた問題"
+   },
+   "warnings_reputation": {
+      "message": "評価の低いサイトです"
+   },
+   "warnings_reratesite": {
+      "description": "",
+      "message": "サイトを再評価するには\u003Ca>ここをクリック\u003C/a>"
+   },
+   "warnings_unknown": {
+      "message": "評価が不明なサイトです"
+   },
+   "warnings_warning": {
+      "message": "警告!"
+   },
+   "wg_about": {
+      "message": "what's this?"
+   },
+   "wg_about_content": {
+      "message": "WOT Groups Beta enables various communities to build together a perfect Web site online directory around their passion and interests. The filtering and site reputation tools make the Web use easy and trusted."
+   },
+   "wg_about_more": {
+      "message": "open Groups"
+   },
+   "wg_about_ok": {
+      "message": "OK, got it"
+   },
+   "wg_about_title": {
+      "message": "What is WOT Groups Beta?"
+   },
+   "wg_add": {
+      "message": "add a tag"
+   },
+   "wg_add_long": {
+      "message": "click to comment with tags"
+   },
+   "wg_edit": {
+      "message": "edit my tags"
+   },
+   "wg_expander": {
+      "message": "show more"
+   },
+   "wg_expander_less": {
+      "message": "show less"
+   },
+   "wg_title": {
+      "message": "WOT Groups\u003Cspan class='wg-beta'>beta\u003C/span>"
+   },
+   "wg_viewer_title_wikipedia": {
+      "message": "Wikipedia"
+   },
+   "wt_donut_btn": {
+      "description": "",
+      "message": "OK、了解です"
+   },
+   "wt_donut_msg": {
+      "description": "",
+      "message": "\u003Cp>WOTは、信号のようなアイコンを示すことで他のユーザの経験に基づくウェブサイトの評価を示します。\u003C/p>\u003Cp>評判とその理由を見るためにアイコンの上にマウスをさまよわせる。\u003C/p>"
+   },
+   "wt_intro_0_btn": {
+      "description": "",
+      "message": "OK、了解です"
+   },
+   "wt_intro_0_msg": {
+      "description": "",
+      "message": "\u003Cimg src='{ADDON_BASEURI}skin/b/welcometips/wt_intro_0.png' width='196px' height='40px'/>\u003Cp>新しいWOTがあなたのブラウザに追加されました。\u003C/p>\u003Cp>このアイコンをクリックしてウェブサイトの評価を始める {ICO1}\u003C/p>\u003Cp>{WT_LEARNMORE}\u003C/p>"
+   },
+   "wt_learnmore_link": {
+      "description": "",
+      "message": "WOTについて\u003Ca id='wt-learnmore-link'>詳しく見る\u003C/a>"
+   },
+   "wt_rw_text": {
+      "description": "",
+      "message": "\u003Cp>WOT評価のウインドウは、他のユーザの経験に基づくウェブサイトの評判を示しています。アップデートされたウインドウから直接、評価やコメントをすることができます。 色の付いたバーをクリックして評価を始めてください。\u003C/p>\u003Cp class='wot-c'>WOTについて\u003Ca id='wt-learnmore-link'>詳細を見る\u003C/a>\u003C/p>"
+   },
+   "wt_rw_text_hdr": {
+      "description": "",
+      "message": "情報を共有しましょう！"
+   },
+   "wt_warning_ok": {
+      "description": "",
+      "message": "OK、了解です"
+   },
+   "wt_warning_text": {
+      "description": "",
+      "message": "\u003Cp>WOTは他のユーザ評価に基づく悪い評判もしくは第三者からブラックリスト扱いにされたページがあると警告を発します。その警告は、悪い評判の理由についてもお示しします。\u003C/p>\u003Cp>{WT_LEARNMORE}\u003C/p>\u003Cp>警告を表示したくない時はオフにできます。\u003C/p>"
+   },
+   "wt_warning_turnoff": {
+      "description": "",
+      "message": "警告をオフにする"
+   }
+}

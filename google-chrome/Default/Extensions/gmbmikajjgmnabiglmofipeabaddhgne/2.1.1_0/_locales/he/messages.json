@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "חשבון"
+   },
+   "apply": {
+      "message": "החל"
+   },
+   "audio_default_filename": {
+      "message": "קובץ אודיו ללא כותרת"
+   },
+   "authorization_needed": {
+      "message": "עליך לאשר את ‏שמור ב-Google Drive."
+   },
+   "cancel": {
+      "message": "ביטול"
+   },
+   "cannot_capture_chrome": {
+      "message": "‏לא ניתן לצלם תמונת מסך בדפי Chrome. נסה בדף אינטרנט רגיל."
+   },
+   "change_dest_folder": {
+      "message": "שנה את תיקיית היעד..."
+   },
+   "chrome_extension_name": {
+      "message": "‏שמור ב-Google Drive"
+   },
+   "close": {
+      "message": "סגור"
+   },
+   "convert_to_google_format": {
+      "message": "‏המרת קישור שנשמר לפורמט עורך Google"
+   },
+   "debug": {
+      "message": "ניקוי באגים"
+   },
+   "default_filename": {
+      "message": "ללא כותרת"
+   },
+   "download_canceled": {
+      "message": "ההורדה בוטלה."
+   },
+   "download_failure": {
+      "message": "כשל בהורדה: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "כשל בהורדה: לא התקבלו נתונים."
+   },
+   "download_failure_too_big_mb": {
+      "message": "‏כישלון בהורדה: המקור גדול מדי ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "מוריד את $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "מוריד..."
+   },
+   "empty_page_capture": {
+      "message": "‏לא ניתן לצלם את תוכן הדף כ-MHTML."
+   },
+   "enable_file_url": {
+      "message": "כתובות אתרים של קבצים חייבות להיות מופעלות עם האפשרות \"הרשה גישה לכתובות אתרים של קבצים\", בדף ההגדרות של תוספים."
+   },
+   "ext_description": {
+      "message": "שמור תוכן מהאינטרנט או צילום מסך ישירות ב-Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "‏לא ניתן היה לצלם את התוכן של הדף כ-MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "שלח משוב (הפנימי בלבד)"
+   },
+   "file_bug_internal": {
+      "message": "דווח על באג (פנימי בלבד)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> נשמר בתיקיה \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">שנה\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> הועבר לאשפה. עבור אל \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "עזרה"
+   },
+   "html_default_filename": {
+      "message": "‏HTML ללא כותרת"
+   },
+   "image_capture_failed": {
+      "message": "צילום התמונה נכשל."
+   },
+   "image_capture_failed_reason": {
+      "message": "צילום התמונה נכשל $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "תמונה ללא כותרת"
+   },
+   "invalid_url": {
+      "message": "‏כתובת אתר לא חוקית: $1. כתובות אתרים שהורדו חייבות להתחיל ב-http://, https:// או file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "‏דף ללא כותרת Capture.mht"
+   },
+   "misc": {
+      "message": "שונות"
+   },
+   "my_drive": {
+      "message": "האחסון שלי"
+   },
+   "options_header_text": {
+      "message": "אופציות לתוספים עבור ‏שמור ב-Google Drive"
+   },
+   "options_title": {
+      "message": "אפשרויות ‏שמור ב-Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "גודל הדף אינו נתמך: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "‏PDF ללא כותרת"
+   },
+   "percent": {
+      "message": "$1% בוצע",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "פרטיות"
+   },
+   "rename": {
+      "message": "שנה שם"
+   },
+   "rename_prompt": {
+      "message": "שנה שם:"
+   },
+   "save_as_html": {
+      "message": "‏מקור HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "‏מסמך Google"
+   },
+   "save_as_image_entire": {
+      "message": "‏תמונה של כל הדף (png.)"
+   },
+   "save_as_image_visible": {
+      "message": "‏תמונה של הדף המוצג (png.)"
+   },
+   "save_as_mhtml": {
+      "message": "‏ארכיון אינטרנט (.mht)"
+   },
+   "save_audio": {
+      "message": "שמור מוסיקה ל-Google Drive"
+   },
+   "save_image": {
+      "message": "שמור לתמונה ל-Google Drive"
+   },
+   "save_link": {
+      "message": "שמור קישור ל-Google Drive"
+   },
+   "save_page_as": {
+      "message": "שמור דף כ:"
+   },
+   "save_to_folder_text": {
+      "message": "שמור בתיקיה"
+   },
+   "save_to_google_drive_action": {
+      "message": "שמור ב-Google Drive"
+   },
+   "save_video": {
+      "message": "שמור וידאו ל-Google Drive"
+   },
+   "saving": {
+      "message": "שומר את $1 ל-Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "בחר תיקיית יעד לשמירה"
+   },
+   "send_feedback": {
+      "message": "שלח משוב"
+   },
+   "sign_out": {
+      "message": "יציאה"
+   },
+   "start_download_exception": {
+      "message": "כשל בהתחלת ההורדה: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "טקסט ללא כותרת"
+   },
+   "trash": {
+      "message": "פח אשפה"
+   },
+   "unspecified_error": {
+      "message": "שגיאה ללא ציון סוג"
+   },
+   "upload_canceled": {
+      "message": "ההעלאה בוטלה"
+   },
+   "upload_failure": {
+      "message": "ההעלאה נכשלה: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "מעלה את $1 אל Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">פתח את הקישור\u003C/a>, ושמור את הדף באמצעות הלחצן שמור ב-Google Drive שמשמאל לשורת הכתובת.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "זהו קישור לדף אינטרנט"
+   },
+   "video_default_filename": {
+      "message": "וידאו ללא כותרת"
+   },
+   "xml_default_filename": {
+      "message": "‏XML ללא כותרת"
+   }
+}

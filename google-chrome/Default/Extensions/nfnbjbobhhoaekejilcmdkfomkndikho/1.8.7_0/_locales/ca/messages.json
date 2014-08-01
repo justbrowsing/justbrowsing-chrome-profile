@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Si t'agrada, sisplau comenta l'extensió a la Chrome Web Store per ajudar-me :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "Ves a la pàgina de comentaris"
+   },
+   "app_desc": {
+      "message": "És una fantástica extensió de Chrome per qualsevol usuari de telèfons intel·ligents."
+   },
+   "app_title": {
+      "message": "Generador Smart QrCode"
+   },
+   "generate_qrcode": {
+      "message": "Generar un Smart QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Afegeix o edita una regla"
+   },
+   "lblAddRule": {
+      "message": "Afegeix una regla"
+   },
+   "lblEdit_Close": {
+      "message": "Tancar"
+   },
+   "lblEdit_Domain": {
+      "message": "Domini"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Como utilitzar el generador Smart QrCode"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Imatge - src"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Expressió regular:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "Reemplaça cadena de caràcters"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Text seleccionat"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "Enllaç del lloc"
+   },
+   "lblEdit_Source": {
+      "message": "Font:"
+   },
+   "lblEdit_Tag": {
+      "message": "Etiqueta"
+   },
+   "lblEdit_Title": {
+      "message": "Títol:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Canvis desats"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Icona"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Elegeix icona"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Inhabilitat"
+   },
+   "lblEdit_version": {
+      "message": "versió"
+   },
+   "lblRules": {
+      "message": "Regles"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Imatge"
+   },
+   "popup_link": {
+      "message": "Enllaç"
+   },
+   "popup_selectedText": {
+      "message": "Text seleccionat"
+   }
+}

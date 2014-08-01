@@ -1,0 +1,874 @@
+{
+   "adalreadyblocked": {
+      "description": "on the ad report page, telling a user there is nothing to do",
+      "message": "広告を既にブロックしているため、何もする必要はありません。"
+   },
+   "adblock_auto_removes_ads_thats_all": {
+      "description": "Install page: explaining how to use adblock.",
+      "message": " AdBlockは自動的に広告を排除してくれます。"
+   },
+   "adblock_is_paused": {
+      "description": "resourceblocking page string",
+      "message": "AdBlockは一時停止しています。このページ内の要素を捕まえることができませんでした。一時停止を解除し、もう一度お試しください。"
+   },
+   "adblock_wont_run_on_pages_matching": {
+      "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
+      "message": "AdBlock won't run on any page matching:"
+   },
+   "adblockreportinganad": {
+      "description": "title of ad report page",
+      "message": "AdBlock - 広告を報告"
+   },
+   "addthisfilter": {
+      "description": "resourceblocking page string",
+      "message": "フィルターを追加"
+   },
+   "adreport2": {
+      "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
+      "message": "ウェブページ内で広告を見つけましたか？広告の報告方法を教えします。\u003Cbr/>広告の報告はボランティアです。ボランティアに興味がない場合はこのウィンドウをこのまま閉じ、ご自分で設定ページにある「カスタマイズ」でフィルターに追加ができます！"
+   },
+   "adstillappear": {
+      "description": "question on ad reporting page",
+      "message": "広告はまだ表示されますか？"
+   },
+   "anysite": {
+      "description": "resourceblocking page string",
+      "message": "全サイト"
+   },
+   "appliedwhenbrowsing": {
+      "description": "resourceblocking page string",
+      "message": "このフィルターはあなたがブラウジング中に適用されます："
+   },
+   "betalabel": {
+      "description": "Option on first tab page",
+      "message": "ベータ"
+   },
+   "blacklistclickmessage": {
+      "description": "Message at the top of the blacklist options tab",
+      "message": "ページ内にある広告を右クリックし、ブロックをしてください。または、こちらでマニュアルでブロック。"
+   },
+   "blacklisterattrwillbe": {
+      "description": "Checkbox label",
+      "message": "$attribute$ will be $value$",
+      "placeholders": {
+         "attribute": {
+            "content": "$1",
+            "example": "class"
+         },
+         "value": {
+            "content": "$2",
+            "example": "AdBanner"
+         }
+      }
+   },
+   "blacklisterblockedelement": {
+      "description": "Tells the user what the blocked element is on the slider page",
+      "message": "ブロックされている要素："
+   },
+   "blacklisterblocksalloftype": {
+      "description": "Warns the user that all elements of type X will be blocked",
+      "message": "警告： 指定されたフィルターはページの$elementtype$要素をすべてブロックします！",
+      "placeholders": {
+         "elementtype": {
+            "content": "$1",
+            "example": "DIV"
+         }
+      }
+   },
+   "blacklistereditfilter": {
+      "description": "Text if the user wants to manually edit a filter.  'OK' is the standard javascript popup button text.",
+      "message": "手動でフィルターを入力して、OKを押してください。"
+   },
+   "blacklistereditinvalid1": {
+      "description": "Messagebox if the manually edited filter is invalid. Error messages are not translated.",
+      "message": "フィルターが無効： $exception$",
+      "placeholders": {
+         "exception": {
+            "content": "$1",
+            "example": "This filter is not supported"
+         }
+      }
+   },
+   "blacklistermatches": {
+      "description": "Tells the user multiple matches were found",
+      "message": "$matchcount$個のアイテムを発見しました。",
+      "placeholders": {
+         "matchcount": {
+            "content": "$1",
+            "example": "5"
+         }
+      }
+   },
+   "blacklisternofilter": {
+      "description": "Warning if the user hasn't specified a filter",
+      "message": "フィルターが指定されていません！"
+   },
+   "blacklisternotsure": {
+      "description": "Blacklister attribute choosing page message.  'Block it!' must be the same as the text of the 'buttonblockit' message.",
+      "message": "\u003Cb>よく分かりませんか？\u003C/b>とりあえず、「ブロック！」を押してください。"
+   },
+   "blacklisteroptions1": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "このページにアクセスする度に表示される要素について、どれが該当すると思いますか？"
+   },
+   "blacklisteroptionstitle": {
+      "description": "Blacklister options page title",
+      "message": "最終ステップ： 何故これは広告になるのでしょうか？"
+   },
+   "blacklistersinglematch": {
+      "description": "Tells the user only one match was found",
+      "message": "\u003Cb>1\u003C/b>個のアイテムを発見しました。"
+   },
+   "blacklisterthefilter": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "フィルターは設定ページで変更可能："
+   },
+   "blacklistertype": {
+      "description": "node name is called 'Type'",
+      "message": "Type"
+   },
+   "blacklisterwarningnofilter": {
+      "description": "Warns the user that no filter was specified",
+      "message": "注意： フィルターが指定されていません！"
+   },
+   "block_an_ad_on_this_page": {
+      "description": "Toolbar button menu entry and context menu entry",
+      "message": "このページにある広告をブロック"
+   },
+   "block_by_url_instead": {
+      "description": "Link on blacklister slider page",
+      "message": "詳細設定： URLでブロック"
+   },
+   "block_this_ad": {
+      "description": "Context and popup menu entry",
+      "message": "この広告をブロック"
+   },
+   "blockanadtitle": {
+      "description": "Title of the first two dialogs of the blacklister",
+      "message": "広告をブロック"
+   },
+   "blockdomain": {
+      "description": "Message of the url and css -blocking area",
+      "message": "適用するドメインを入力"
+   },
+   "blockeverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "以下を含む要素を全てブロック："
+   },
+   "blockmoreads": {
+      "description": "Section header on third tab",
+      "message": "もっと広告をブロック："
+   },
+   "blockurlwithtext": {
+      "description": "Message of the url-blocking area",
+      "message": "入力されたテキストを含むURLをブロック"
+   },
+   "buttonback": {
+      "description": "Back to previous wizard page button",
+      "message": "戻る"
+   },
+   "buttonblockit": {
+      "description": "Block button",
+      "message": "ブロック！"
+   },
+   "buttoncancel": {
+      "description": "Cancel button",
+      "message": "キャンセル"
+   },
+   "buttonedit": {
+      "description": "Edit filter manually button",
+      "message": "編集"
+   },
+   "buttonexclude": {
+      "description": "Button for excluding a domain in the whitelister dialog",
+      "message": "除外"
+   },
+   "buttonlooksgood": {
+      "description": "Looks good button",
+      "message": "決定"
+   },
+   "buttonok": {
+      "description": "OK button",
+      "message": "OK！"
+   },
+   "cantblockflash": {
+      "description": "Result of the final ad report question",
+      "message": "まだ、フラッシュ内とプラグインにより出てくる広告はブロックができません。これらの広告の対処ついてはブラウザのサポートとWebKitの対応待ちです。"
+   },
+   "cantblockflashwarning": {
+      "description": "Text of the final ad report question",
+      "message": "Does the ad appear in or before a film or any other plugin like a Flash game?"
+   },
+   "casesensitive": {
+      "description": "resourceblocking page string",
+      "message": "このフィルターは大文字と小文字に敏感です："
+   },
+   "changelabel": {
+      "description": "link to change resources on the resourceblock page",
+      "message": "変更"
+   },
+   "checkinfirefox_1": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Firefoxをお持ちではない場合は $chrome$ インストールしてください。",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome2'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_2": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad. Don't translate the name 'AdBlock Plus'.",
+      "message": "Firefox用 Adblock Plusをお持ちでない場合は $chrome$ インストールしてください。",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='adblockforchrome'>\u003C/span>",
+            "example": "'or AdBlock for Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_3": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "FirefoxにChromeのAdBlockと同じフィルターリストを登録してください。( AdBlockカスタムフィルターは除きます)"
+   },
+   "checkinfirefox_4": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Ｆｉｒｅｆｏｘdで広告のあるページを読み込みください。"
+   },
+   "checkinfirefox_5": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Firefoxでも広告は表示されますか？"
+   },
+   "checkinfirefoxtitle": {
+      "description": "tell a user to see if a reported ad also appears in Firefox/Chrome",
+      "message": "Firefoxでも表示されるかどうかをチェックしてください $chrome$",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome1'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "clickthead": {
+      "description": "When you have to click the ad to continue",
+      "message": "ブロックする広告をクリックして下さい。ウィザードでご案内します。"
+   },
+   "clickupdatefilters": {
+      "description": "instruction on ad report page",
+      "message": "こちらをクリック： \u003Ca>フィルターをアップデート！\u003C/a>"
+   },
+   "close": {
+      "description": "resourceblocking page string",
+      "message": "閉じる"
+   },
+   "correctfilters": {
+      "description": "on the ad report page, label describing having the right set of filters",
+      "message": "正しいフィルター"
+   },
+   "csstomatch": {
+      "description": "Message of the css-hiding area",
+      "message": "CSS指定"
+   },
+   "debuginlogoption": {
+      "description": "Option on first tab page",
+      "message": "デバック情報を更新履歴に表示(AdBlockの動作が重くなります)"
+   },
+   "disabled_by_filter_lists": {
+      "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
+      "message": "申し訳ありませんが、あなたが設定したフィルターリストによってAdBlockがこのページで無効となっています。"
+   },
+   "disabled_on_this_page": {
+      "description": "Message shown in toolbar button on web pages that have been whitelisted.",
+      "message": "AdBlockはこのページでは無効になっています。"
+   },
+   "dont_run_on_pages_on_domain": {
+      "description": "Menu entry to open the whitelist wizard.",
+      "message": "このドメイン上のページで稼動させない"
+   },
+   "dont_run_on_this_page": {
+      "description": "Menu entry to whitelist a page",
+      "message": "このページでは実行しない"
+   },
+   "excludedomainorurl": {
+      "description": "Message of the exclude area",
+      "message": "ブロックしないドメインやURLを指定"
+   },
+   "excludefilterremoved": {
+      "description": "Warning when a page exclusion rule was removed in resourceblock.html",
+      "message": "フィルターは削除されました。要素がある状態で生成するためには元のページをリロードしてください。"
+   },
+   "failedtofetchfilter": {
+      "description": "Error messagebox",
+      "message": "フィルターの取得に失敗しました！"
+   },
+   "fetchinglabel": {
+      "description": "Status label",
+      "message": "取得中・・・しばらくお待ちください。"
+   },
+   "filteradblock_custom": {
+      "description": "A filter list. Don't translate 'AdBlock'",
+      "message": "AdBlockカスタムフィルター (推奨)"
+   },
+   "filterchinese": {
+      "description": "language",
+      "message": "中国語"
+   },
+   "filterdanish": {
+      "description": "language",
+      "message": "デンマーク語"
+   },
+   "filterdutch": {
+      "description": "language",
+      "message": "オランダ語"
+   },
+   "filtereasylist": {
+      "description": "A filter list. Don't translate 'EasyList'",
+      "message": "EasyList (推奨)"
+   },
+   "filtereasylist_plun_korean": {
+      "description": "language",
+      "message": "韓国語"
+   },
+   "filtereasylist_plus_bulgarian": {
+      "description": "language",
+      "message": "ブルガリア語"
+   },
+   "filtereasylist_plus_finnish": {
+      "description": "language",
+      "message": "フィンランド語"
+   },
+   "filtereasylist_plus_french": {
+      "description": "language",
+      "message": "フランス語"
+   },
+   "filtereasylist_plus_german": {
+      "description": "language",
+      "message": "ドイツ語"
+   },
+   "filtereasylist_plus_greek": {
+      "description": "language",
+      "message": "ギリシャ語"
+   },
+   "filtereasylist_plus_polish": {
+      "description": "language",
+      "message": "ポーランド語"
+   },
+   "filtereasylist_plus_romanian": {
+      "description": "language",
+      "message": "ルーマニア語"
+   },
+   "filtereasylist_plus_spanish": {
+      "description": "language",
+      "message": "スペイン語"
+   },
+   "filtereasyprivacy": {
+      "description": "A filter list. Don't translate the name 'EasyPrivacy'.",
+      "message": "EasyPrivacy (プライバシー保護)"
+   },
+   "filterhasbeenadded": {
+      "description": "resourceblocking page string (the 'slash n' is a line break)",
+      "message": "フィルターが無事に追加されました！\n結果を見る場合は更新してください！"
+   },
+   "filterhungarian": {
+      "description": "language",
+      "message": "ハンガリー語"
+   },
+   "filteritalian": {
+      "description": "language",
+      "message": "イタリア語"
+   },
+   "filterjapanese": {
+      "description": "language",
+      "message": "日本語"
+   },
+   "filterlistlink": {
+      "description": "Explanation of the filter lists",
+      "message": "必要以上に登録をしないでください。追加する度に重くなりますので！リストの作成者、その他のリストは\u003Ca>こちら\u003C/a>。"
+   },
+   "filterlistsrock": {
+      "description": "Header text on the Customize tab.  'Filter lists' should be the same text as the tabfilterlists message.",
+      "message": "ほとんどの広告はフィルターリストでブロックされます。オプションとして更に："
+   },
+   "filtersavewarning": {
+      "description": "Warning when blacklisting manually",
+      "message": "警告： ここで作成したフィルターに問題がある場合、公式フィルターを含む他のフィルターが破損する場合があります。\u003Cbr/>ブラックリスト、ホワイトリストの詳細な記法は\u003Ca>こちら（英語）\u003C/a>です。"
+   },
+   "filterstabtitle": {
+      "description": "Title of the filter list tab",
+      "message": "フィルターリストの登録"
+   },
+   "findingads": {
+      "description": "When you press ctrl-shift-K the blacklister searches for ads",
+      "message": "広告を検索中・・・\u003Cbr/>\u003Cbr/>\u003Ci>少々お待ちください。\u003C/i>"
+   },
+   "fixityourself": {
+      "description": "telling a user who won't report an ad to us how to handle it for herself",
+      "message": "設定ページを使って自分で広告をブロックします！"
+   },
+   "flashads": {
+      "description": "Title of the final ad report question if the ad didn't appear in FF",
+      "message": "動画とフラッシュ"
+   },
+   "format_site1_site2_site3": {
+      "description": "Example showing users how to input a list of sites on the Customize tab. You can translate the 'news' and 'siteN' but leave the '|'s and '~'s in place.",
+      "message": "例： ~site1.com|~site2.com|~news.site3.org"
+   },
+   "generaloptions": {
+      "description": "Title of first tab page",
+      "message": "一般設定"
+   },
+   "headerfilter": {
+      "description": "resourceblocking page string",
+      "message": "Matched filter"
+   },
+   "headerresource": {
+      "description": "resourceblocking page string",
+      "message": "要素"
+   },
+   "headertype": {
+      "description": "resourceblocking page string",
+      "message": "タイプ"
+   },
+   "hide_this_button": {
+      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "message": "ボタンを隠す"
+   },
+   "how_to_use_adblock": {
+      "description": "Install page section title",
+      "message": "AdBlockの使い方："
+   },
+   "invalidListUrl": {
+      "description": "Message when you subscribe to a non-list URL",
+      "message": "URLのリストが無効です。自動的に削除されます。"
+   },
+   "lang_czech": {
+      "description": "language",
+      "message": "チェコ語"
+   },
+   "lang_english": {
+      "description": "language",
+      "message": "英語"
+   },
+   "lang_russian": {
+      "description": "language",
+      "message": "ロシア語"
+   },
+   "lang_ukranian": {
+      "description": "language",
+      "message": "ウクライナ語"
+   },
+   "linkblockadbyurl": {
+      "description": "Link on the third tab",
+      "message": "URLで広告をブロック"
+   },
+   "linkhidesection": {
+      "description": "Link on the third tab",
+      "message": "ウェブページの一部を隠す"
+   },
+   "linkunblock": {
+      "description": "Link on the third tab",
+      "message": "ウェブページとドメインにある広告を表示"
+   },
+   "loading": {
+      "description": "resourceblocking page string",
+      "message": "読み込み中・・・"
+   },
+   "manualfilteredit": {
+      "description": "Subtitle on the third tab",
+      "message": "手動でフィルターを編集："
+   },
+   "modifydomain": {
+      "description": "Caption for the whitelist wizard slider that modifies the domain part of a URL",
+      "message": "サイト："
+   },
+   "modifypath": {
+      "description": "Caption for the whitelist wizard slider that modifies the path part of a URL",
+      "message": "ページ："
+   },
+   "multipledomainshint": {
+      "description": "resourceblocking page string",
+      "message": "複数のドメインをカンマやスペースで区切ってください"
+   },
+   "nextstep": {
+      "description": "resourceblocking page string",
+      "message": "次のステップ"
+   },
+   "no": {
+      "description": "A negative response to a question",
+      "message": "いいえ"
+   },
+   "nodefaultfilter1": {
+      "description": "instructions on ad report page pointing users to EasyList subscriptions list. 'Customize' should be the same message as 'tabcustomize'.",
+      "message": "指定された言語のフィルターリストがありません。\u003Cbr/>この言語をサポートする適切なリストを。$link$ もしくはこの要素をブロックするようにブラックリストを編集してください。",
+      "placeholders": {
+         "link": {
+            "content": "\u003Ca id='link'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "novalidurlpattern": {
+      "description": "resourceblocking page string",
+      "message": "正しいURLを入力してください！"
+   },
+   "only_block_ads_on_these_sites": {
+      "description": "Label for textbox where user enters a list of sites on Customize tab",
+      "message": "これらのサイトの広告をブロックする："
+   },
+   "onlyondomains": {
+      "description": "resourceblocking page string",
+      "message": "ONLY pages on these domains: "
+   },
+   "onlyresourcetypes": {
+      "description": "resourceblocking page string",
+      "message": "このフィルターは以下のタイプの要素に適用されます："
+   },
+   "options": {
+      "description": "The text of the link on chrome://chrome/extensions that gets you to the Options page for an extension",
+      "message": "設定"
+   },
+   "optionstitle": {
+      "description": "Title for the options page",
+      "message": "AdBlock設定"
+   },
+   "optionsversion": {
+      "description": "Version number",
+      "message": "バージョン $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.9"
+         }
+      }
+   },
+   "orenteraurl": {
+      "description": "link for custom subscription",
+      "message": "URL直接指定："
+   },
+   "other": {
+      "description": "multiple choice option",
+      "message": "その他"
+   },
+   "pagelanguagecheck": {
+      "description": "question on ad report page",
+      "message": "どの言語でページは書かれていますか？"
+   },
+   "pause_adblock": {
+      "description": "Menu entry to pause AdBlock.",
+      "message": "AdBlockを一時停止"
+   },
+   "project_home": {
+      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "message": "プロジェクトホーム"
+   },
+   "reloadadpage": {
+      "description": "instruction on ad report page",
+      "message": "広告のあるページを更新してください。"
+   },
+   "removefromlist": {
+      "description": "Label to remove a custom filter",
+      "message": "リストから削除"
+   },
+   "removelabel": {
+      "description": "link to remove a filter",
+      "message": "削除"
+   },
+   "report_ad_on_page": {
+      "description": "Link in the button",
+      "message": "このページにある広告をレポート"
+   },
+   "reportfilterlistproblem": {
+      "description": "telling the user to report an ad to a filter list maintainer",
+      "message": "フィルターリストの問題です。報告はこちら： $link$",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "EXAMPLE 1: \u003Ca href='mailto:someguy@list.com'>John Doe\u003C/a>  EXAMPLE 2: \u003Ca href='http://easylist.org'>EasyList forums\u003C/a>"
+         }
+      }
+   },
+   "reporttous2": {
+      "description": "NOTE: non-English translations should replace the first sentence and instead say 'If you can speak English, you can report the ad to us \u003Ca>in the issue tracker\u003C/a>.'",
+      "message": "英語を話せる場合は\u003Ca>issue tracker\u003C/a>内で問題を報告してください。"
+   },
+   "resourceblocklegend1": {
+      "description": "resourceblocking page string",
+      "message": "凡例："
+   },
+   "resourceblocklegend2": {
+      "description": "resourceblocking page string",
+      "message": "ブロック済み要素"
+   },
+   "resourceblocklegend3": {
+      "description": "resourceblocking page string",
+      "message": "ホワイトリスト済み要素"
+   },
+   "resourceblocklegend4": {
+      "description": "resourceblocking page string",
+      "message": "ブロック可能要素"
+   },
+   "resourceblocklegend5": {
+      "description": "resourceblocking page string",
+      "message": "非表示ルールの適用"
+   },
+   "resourceblocktitle": {
+      "description": "resourceblocking page string",
+      "message": "要素をブロック"
+   },
+   "resourceiswhitelisted": {
+      "description": "resourceblocking page string",
+      "message": "選択された要素はホワイトリスト化しました。そのため、ブロックは出来ません。"
+   },
+   "retryaftersubscribe": {
+      "description": "instructions on ad report page telling users to subscribe to a filter list and then check again to see whether the ad exists",
+      "message": "このフィルターリストを適用し、ページを更新して要素が消去できたか確認してください。 $list_title$",
+      "placeholders": {
+         "list_title": {
+            "content": "$1",
+            "example": "French filters"
+         }
+      }
+   },
+   "safari50_updatenotice": {
+      "description": "A message shown to Safari 5.0 users urging them to upgrade",
+      "message": "あなたは古いバージョンのSafariを使用しています。AdBlockの全機能を利用していただくには最新バージョンが必要です。\u003Ca>今すぐアップデート\u003C/a>."
+   },
+   "savebutton": {
+      "description": "Save button",
+      "message": "保存"
+   },
+   "savereminder": {
+      "description": "Reminder to press save",
+      "message": "保存を忘れずに！"
+   },
+   "selectresources": {
+      "description": "resourceblocking page string",
+      "message": "ブロックまたは非ブロックしたい要素を選んでください。"
+   },
+   "show_ads_except_for": {
+      "description": "Section title for blacklisting section of Customize tab",
+      "message": "Show ads \u003Ci>everywhere\u003C/i> except for these domains..."
+   },
+   "show_resourcelist": {
+      "description": "Link in the button",
+      "message": "要素リストを表示"
+   },
+   "sliderexplanation": {
+      "description": "Blacklister slider page message",
+      "message": "スライダーを広告が見えなくなるまでスライドをしてください。"
+   },
+   "slidertitle": {
+      "description": "Blacklister slider page title",
+      "message": "ステップ1： ブロック対象の指定"
+   },
+   "status_disabled": {
+      "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
+      "message": "AdBlockはこのドメイン上では稼動できません。"
+   },
+   "status_paused": {
+      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "message": "AdBlockは一時停止しています。"
+   },
+   "stop_blocking_ads": {
+      "description": "Section header on third tab",
+      "message": "広告ブロックをやめる："
+   },
+   "storage_quota_exceeded": {
+      "description": "Message shown when the user uses more storage than allowed by the browser",
+      "message": "AdBlockで使用できる容量を超えました。フィルターリストにあるフィルターを幾つか除外してください！"
+   },
+   "subscribebutton": {
+      "description": "subscribe to a list button",
+      "message": "登録"
+   },
+   "subscribingfailed": {
+      "description": "abp: link subscriber result",
+      "message": "失敗！"
+   },
+   "subscribingfinished": {
+      "description": "abp: link subscriber result",
+      "message": "完了！"
+   },
+   "subscribingtitle": {
+      "description": "abp: link subscriber title",
+      "message": "フィルターリストに登録・・・"
+   },
+   "tabcustomize": {
+      "description": "A tab on the options page",
+      "message": "カスタマイズ"
+   },
+   "tabcustomizetitle": {
+      "description": "Title of the third tab",
+      "message": "AdBlockをカスタマイズ"
+   },
+   "tabfilterlists": {
+      "description": "A tab on the options page",
+      "message": "フィルターリスト"
+   },
+   "tabgeneral": {
+      "description": "A tab on the options page",
+      "message": "一般"
+   },
+   "thirdpartycheckbox": {
+      "description": "resourceblocking page string",
+      "message": "Any website EXCEPT websites on domain $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "translator_credit": {
+      "description": "Will be followed by a list of translator names (separate string)",
+      "message": "翻訳者："
+   },
+   "translator_names": {
+      "example": "The translator's names go here. Example: Michael G, Drew R",
+      "message": "Yujin Takayanagi, minami1983"
+   },
+   "typehiding": {
+      "description": "A resource type",
+      "message": "hiding"
+   },
+   "typeimage": {
+      "description": "A resource type",
+      "message": "image"
+   },
+   "typemedia": {
+      "description": "A resource type",
+      "message": "audio/video"
+   },
+   "typeobject": {
+      "description": "A resource type",
+      "message": "interactive object"
+   },
+   "typeobject_subrequest": {
+      "description": "A resource type",
+      "message": "object_subrequest"
+   },
+   "typeother": {
+      "description": "A resource type",
+      "message": "others"
+   },
+   "typepage": {
+      "description": "A resource type",
+      "message": "page"
+   },
+   "typepopup": {
+      "description": "A resource type",
+      "message": "popup"
+   },
+   "typescript": {
+      "description": "A resource type",
+      "message": "script"
+   },
+   "typestylesheet": {
+      "description": "A resource type",
+      "message": "style definition"
+   },
+   "typesubdocument": {
+      "description": "A resource type",
+      "message": "frame"
+   },
+   "typeunknown": {
+      "description": "A resource type",
+      "message": "unknown"
+   },
+   "typexmlhttprequest": {
+      "description": "A resource type",
+      "message": "xmlhttprequest"
+   },
+   "unsubscribedlabel": {
+      "description": "Status label",
+      "message": "無効にしました。"
+   },
+   "updateddayago": {
+      "description": "Label for subscription",
+      "message": "1日前アップデートしました"
+   },
+   "updateddaysago": {
+      "description": "Label for subscription",
+      "message": "$days$日前にアップデートしました",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedhourago": {
+      "description": "Label for subscription",
+      "message": "1時間前アップデートしました"
+   },
+   "updatedhoursago": {
+      "description": "Label for subscription",
+      "message": "$hours$時間前にアップデートしました",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedminuteago": {
+      "description": "Label for subscription",
+      "message": "1分前アップデートしました"
+   },
+   "updatedminutesago": {
+      "description": "Label for subscription",
+      "message": "$minutes$分前にアップデートしました",
+      "placeholders": {
+         "minutes": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedrightnow": {
+      "description": "Label for subscription",
+      "message": "アップデートされました"
+   },
+   "updatedsecondsago": {
+      "description": "Label for subscription",
+      "message": "$seconds$秒前にアップデートしました",
+      "placeholders": {
+         "seconds": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updateyourlists": {
+      "description": "instruction on ad report page",
+      "message": "フィルターのリストが最新かどうかをご確認ください"
+   },
+   "warning_overrules_filters": {
+      "description": "Message on the third tab of the options page, explaining the danger of adding a blacklisting filter",
+      "message": "注意： on all other sites you will see ads!\u003Cbr>This overrules all other filters for those sites."
+   },
+   "whitelistertitle2": {
+      "description": "The title of the whitelister dialog",
+      "message": "Don't run AdBlock on..."
+   },
+   "whitelisteverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "以下を含む要素を全てホワイトリスト化："
+   },
+   "wildcardhint": {
+      "description": "resourceblocking page string",
+      "message": "追記： *をここでワイルドカードとして使えます"
+   },
+   "yes": {
+      "description": "A positive response to a question",
+      "message": "はい"
+   },
+   "you_can_slide_to_change": {
+      "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
+      "message": "You can slide below to change exactly what pages AdBlock won't run on."
+   },
+   "you_know_thats_a_bad_idea_right": {
+      "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
+      "message": "フィルターリストの使用頻度が高くなるにつれ、AdBlockの動作が重くなります。たくさんのフィルターリストはブラウザがクラッシュする原因となりえます。それでも追加する場合はOKを押してください。"
+   }
+}

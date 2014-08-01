@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "了解详情"
+   },
+   "app_nacl_crash_report": {
+      "message": "报告问题..."
+   },
+   "application_description": {
+      "message": "文档编辑"
+   },
+   "extension_description": {
+      "message": "使用Google文档、表格和幻灯片查看和编辑Microsoft Word、Excel和PowerPoint文件"
+   },
+   "extension_name": {
+      "message": "Google文档、表格和幻灯片的Office编辑扩展程序"
+   },
+   "file_loading_spinner_label": {
+      "message": "正在加载"
+   },
+   "file_not_found_msg": {
+      "message": "您所请求的文件不存在或已移到其他位置。"
+   },
+   "file_not_found_title": {
+      "message": "找不到文件。"
+   }
+}

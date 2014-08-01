@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Konts"
+   },
+   "apply": {
+      "message": "Lietot"
+   },
+   "audio_default_filename": {
+      "message": "Nenosaukts audio"
+   },
+   "authorization_needed": {
+      "message": "Jums ir jāpilnvaro Saglabāt Google diskā."
+   },
+   "cancel": {
+      "message": "Atcelt"
+   },
+   "cannot_capture_chrome": {
+      "message": "Nevar izveidot Chrome lapu ekrānuzņēmumus. Mēģiniet standarta tīmekļa lapu."
+   },
+   "change_dest_folder": {
+      "message": "Mainīt mērķa mapi..."
+   },
+   "chrome_extension_name": {
+      "message": "Saglabāt Google diskā"
+   },
+   "close": {
+      "message": "Aizvērt"
+   },
+   "convert_to_google_format": {
+      "message": "Pārvērst saglabāto saiti Google redaktora formātā"
+   },
+   "debug": {
+      "message": "Atkļūdot"
+   },
+   "default_filename": {
+      "message": "Bez nosaukuma"
+   },
+   "download_canceled": {
+      "message": "Lejupielāde tika atcelta."
+   },
+   "download_failure": {
+      "message": "Lejupielāde neizdevās: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Lejupielāde neizdevās. Dati nav saņemti."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Lejupielādes kļūme: avota fails ir pārāk liels ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Notiek faila $1 lejupielāde...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Notiek lejupielāde..."
+   },
+   "empty_page_capture": {
+      "message": "Nevarēja tvert lapas saturu kā MHTML."
+   },
+   "enable_file_url": {
+      "message": "Iestatījumu lapā Paplašinājumi ir jāiespējo piekļuve failu vietrāžiem URL, izmantojot opciju “Atļaut piekļuvi faila vietrāžiem URL”."
+   },
+   "ext_description": {
+      "message": "Saglabājiet tīmekļa saturu vai ekrānuzņēmumu tieši lietotnē Google disks."
+   },
+   "failure_page_capture": {
+      "message": "Nevarēja tvert lapas saturu kā MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Sūtīt atsauksmes (tikai iekšēji)"
+   },
+   "file_bug_internal": {
+      "message": "Ziņot par kļūdu (tikai iekšēji)"
+   },
+   "file_was_saved": {
+      "message": "Fails \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> tika saglabāts mapē \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">Mainīt\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Fails \u003Cspan id=\"$1\">\u003C/span> ir pārvietots uz atkritni. Pārejiet uz: \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google disks\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google disks"
+   },
+   "help": {
+      "message": "Palīdzība"
+   },
+   "html_default_filename": {
+      "message": "Nenosaukts HTML"
+   },
+   "image_capture_failed": {
+      "message": "Neizdevās tvert attēlu."
+   },
+   "image_capture_failed_reason": {
+      "message": "Neizdevās tvert attēlu ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Nenosaukts attēls"
+   },
+   "invalid_url": {
+      "message": "Nederīgs URL: $1. Lejupielādētajiem vietrāžiem URL ir jāsākas ar http://, https:// vai file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Lapa bez nosaukuma Capture.mht"
+   },
+   "misc": {
+      "message": "Dažādi"
+   },
+   "my_drive": {
+      "message": "Mans Disks"
+   },
+   "options_header_text": {
+      "message": "Paplašinājuma Saglabāt Google diskā opcijas"
+   },
+   "options_title": {
+      "message": "Paplašinājuma Saglabāt Google diskā opcijas"
+   },
+   "page_size_not_supported": {
+      "message": "Šādi lapas izmēri netiek atbalstīti: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Nenosaukts PDF"
+   },
+   "percent": {
+      "message": "Paveikts: $1%",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Konfidencialitāte"
+   },
+   "rename": {
+      "message": "Pārdēvēt"
+   },
+   "rename_prompt": {
+      "message": "Pārdēvēt:"
+   },
+   "save_as_html": {
+      "message": "HTML avots (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google dokuments"
+   },
+   "save_as_image_entire": {
+      "message": "Visas lapas attēls (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Redzamās lapas attēls (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Tīmekļa arhīvs (.mht)"
+   },
+   "save_audio": {
+      "message": "Saglabāt audio lietojumprogrammā Google disks"
+   },
+   "save_image": {
+      "message": "Saglabāt attēlu lietojumprogrammā Google disks"
+   },
+   "save_link": {
+      "message": "Saglabāt saiti lietojumprogrammā Google disks"
+   },
+   "save_page_as": {
+      "message": "Saglabāt lapu kā:"
+   },
+   "save_to_folder_text": {
+      "message": "Saglabāt mapē"
+   },
+   "save_to_google_drive_action": {
+      "message": "Saglabāt lietojumprogrammā Google disks"
+   },
+   "save_video": {
+      "message": "Saglabāt video lietojumprogrammā Google disks"
+   },
+   "saving": {
+      "message": "Notiek faila $1 saglabāšana lietojumprogrammā Google disks...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Atlasiet mapi, kurā saglabāt vienumu"
+   },
+   "send_feedback": {
+      "message": "Sūtīt atsauksmes"
+   },
+   "sign_out": {
+      "message": "Izrakstīties"
+   },
+   "start_download_exception": {
+      "message": "Lejupielādes sākšanas kļūme: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Nenosaukts teksts"
+   },
+   "trash": {
+      "message": "Atkritne"
+   },
+   "unspecified_error": {
+      "message": "Nezināma kļūda"
+   },
+   "upload_canceled": {
+      "message": "Augšupielāde atcelta"
+   },
+   "upload_failure": {
+      "message": "Augšupielādes kļūme: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Notiek faila $1 augšupielāde lietojumprogrammā Google disks...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Atveriet saiti\u003C/a> un saglabājiet lapu, izmantojot pogu Saglabāt lietojumprogrammā Google disks, kas atrodas adreses joslas labajā malā.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Šī ir saite uz tīmekļa lapu"
+   },
+   "video_default_filename": {
+      "message": "Nenosaukts video"
+   },
+   "xml_default_filename": {
+      "message": "Nenosaukts XML"
+   }
+}

@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "app_nacl_crash_report": {
+      "message": "Sorun bildir..."
+   },
+   "application_description": {
+      "message": "Doküman düzenleme"
+   },
+   "extension_description": {
+      "message": "Microsoft Word, Excel ve PowerPoint dosyalarını Google Dokümanlar, E-Tablolar ve Slaytlar ile görüntüleyin ve düzenleyin"
+   },
+   "extension_name": {
+      "message": "Dokümanlar, E-Tablolar ve Slaytlar için Office Editing"
+   },
+   "file_loading_spinner_label": {
+      "message": "Yükleniyor"
+   },
+   "file_not_found_msg": {
+      "message": "İstediğiniz dosya taşındı."
+   },
+   "file_not_found_title": {
+      "message": "Dosya bulunamadı."
+   }
+}

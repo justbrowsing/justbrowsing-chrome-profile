@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "ఖాతా"
+   },
+   "apply": {
+      "message": "వర్తించు"
+   },
+   "audio_default_filename": {
+      "message": "శీర్షికలేని ఆడియో"
+   },
+   "authorization_needed": {
+      "message": "మీరు తప్పనిసరిగా Google డిస్క్‌‌కు సేవ్ చేయండిని ప్రామాణీకరించాలి."
+   },
+   "cancel": {
+      "message": "రద్దు చేయి"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome పేజీలను స్క్రీన్ క్యాప్చర్ చేయలేరు. ప్రామాణిక వెబ్ పేజీని ప్రయత్నించండి."
+   },
+   "change_dest_folder": {
+      "message": "గమ్యస్థాన ఫోల్డర్‌ను మార్చు..."
+   },
+   "chrome_extension_name": {
+      "message": "Google డిస్క్‌‌కు సేవ్ చేయండి"
+   },
+   "close": {
+      "message": "మూసివేయి"
+   },
+   "convert_to_google_format": {
+      "message": "సేవ్ చేసిన లింక్‌ను Google ఎడిటర్ ఆకృతికి మార్చు"
+   },
+   "debug": {
+      "message": "డీబగ్"
+   },
+   "default_filename": {
+      "message": "శీర్షికలేనిది"
+   },
+   "download_canceled": {
+      "message": "డౌన్‌లోడ్ రద్దు చేయబడింది."
+   },
+   "download_failure": {
+      "message": "డౌన్‌లోడ్ వైఫల్యం: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "డౌన్‌లోడ్ విఫలమైంది: డేటా ఏదీ అందలేదు."
+   },
+   "download_failure_too_big_mb": {
+      "message": "డౌన్‌లోడ్ వైఫల్యం: మూలం చాలా పెద్దది ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 డౌన్‌లోడ్ అవుతోంది...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "డౌన్‌లోడ్ అవుతోంది..."
+   },
+   "empty_page_capture": {
+      "message": "పేజీ కంటెంట్‌లను MHTMLగా సంగ్రహించడం సాధ్యం కాదు."
+   },
+   "enable_file_url": {
+      "message": "పొడిగింపుల సెట్టింగ్‌ల పేజీలోని \"ఫైల్ URLలకు ప్రాప్యతను అనుమతించు\" ఎంపికతో ఫైల్ URLలు తప్పనిసరిగా ప్రారంభించబడాలి."
+   },
+   "ext_description": {
+      "message": "వెబ్ కంటెంట్ లేదా స్క్రీన్ క్యాప్చర్‌ను నేరుగా Google డిస్క్కు సేవ్ చేయండి."
+   },
+   "failure_page_capture": {
+      "message": "MHTML వలె విషయాలను సంగ్రహించలేరు: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "అభిప్రాయాన్ని పంపు (అంతర్గతం మాత్రమే)"
+   },
+   "file_bug_internal": {
+      "message": "బగ్‌ను ఫైల్ చేయి (అంతర్గతం మాత్రమే)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>లో సేవ్ చేయబడింది. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">మార్చండి\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> ట్రాష్‌కు తరలించబడింది. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google డిస్క్\u003C/a>కు వెళ్లండి.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google డిస్క్"
+   },
+   "help": {
+      "message": "సహాయం"
+   },
+   "html_default_filename": {
+      "message": "శీర్షికలేని HTML"
+   },
+   "image_capture_failed": {
+      "message": "చిత్రాన్ని సంగ్రహించడం విఫలమైంది."
+   },
+   "image_capture_failed_reason": {
+      "message": "చిత్రాన్ని సంగ్రహించడం విఫలమైంది ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "శీర్షికలేని చిత్రం"
+   },
+   "invalid_url": {
+      "message": "చెల్లని URL: $1. డౌన్‌లోడ్ చేయబడిన URLలు తప్పనిసరిగా http://, https://, లేదా file://తో ప్రారంభమవ్వాలి.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "శీర్షికలేని పేజీ Capture.mht"
+   },
+   "misc": {
+      "message": "వివిధ"
+   },
+   "my_drive": {
+      "message": "నా డ్రైవ్"
+   },
+   "options_header_text": {
+      "message": "Google డిస్క్‌‌కు సేవ్ చేయండి పొడిగింపు ఎంపికలు"
+   },
+   "options_title": {
+      "message": "Google డిస్క్‌‌కు సేవ్ చేయండి ఎంపికలు"
+   },
+   "page_size_not_supported": {
+      "message": "పేజీ పరిమాణం మద్దతు లేదు: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "శీర్షికలేని PDF"
+   },
+   "percent": {
+      "message": "$1% పూర్తయింది",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "గోప్యత"
+   },
+   "rename": {
+      "message": "పేరుమార్చు"
+   },
+   "rename_prompt": {
+      "message": "పేరుమార్చు:"
+   },
+   "save_as_html": {
+      "message": "HTML సోర్స్ (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google పత్రం"
+   },
+   "save_as_image_entire": {
+      "message": "మొత్తం పేజీ యొక్క చిత్రం (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "కనిపించే పేజీ యొక్క చిత్రం (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "వెబ్ ఆర్కైవ్ (.mht)"
+   },
+   "save_audio": {
+      "message": "ఆడియోని  Google డిస్క్కి సేవ్ చేయి"
+   },
+   "save_image": {
+      "message": "Google డిస్క్కి చిత్రాన్ని సేవ్ చేయి"
+   },
+   "save_link": {
+      "message": "Google డిస్క్కు లింక్‌ని సేవ్ చేయి"
+   },
+   "save_page_as": {
+      "message": "పేజీని దీని వలె సేవ్ చేయి:"
+   },
+   "save_to_folder_text": {
+      "message": "ఫోల్డర్‌కు సేవ్ చేయి"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google డిస్క్కి సేవ్ చేయండి"
+   },
+   "save_video": {
+      "message": "వీడియోను  Google డిస్క్కు సేవ్ చేయి"
+   },
+   "saving": {
+      "message": "Google డిస్క్కు $1ను సేవ్ చేస్తోంది...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "ఫోల్డర్‌కు సేవ్ చేయి ఎంచుకోండి"
+   },
+   "send_feedback": {
+      "message": "ఫీడ్‌బ్యాక్‌ని పంపండి"
+   },
+   "sign_out": {
+      "message": "సైన్ అవుట్ చేయి"
+   },
+   "start_download_exception": {
+      "message": "డౌన్‌లోడ్‌ను ప్రారంభించడం విఫలమైంది: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "శీర్షికలేని వచనం"
+   },
+   "trash": {
+      "message": "ట్రాష్ చేయబడింది"
+   },
+   "unspecified_error": {
+      "message": "పేర్కొనని లోపం"
+   },
+   "upload_canceled": {
+      "message": "అప్‌లోడ్ రద్దు చేయబడింది"
+   },
+   "upload_failure": {
+      "message": "అప్‌లోడ్ వైఫల్యం: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1ను Google డిస్క్కు అప్‌లోడ్ చేస్తోంది...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">లింక్‌ను తెరవండి\u003C/a> మరియు చిరునామా బార్‌కు కుడివైపు ఉన్న Google డిస్క్కి సేవ్ చేయండి బటన్‌ను ఉపయోగించి పేజీని సేవ్ చేయండి.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "ఇది వెబ్ పేజీకి లింక్"
+   },
+   "video_default_filename": {
+      "message": "శీర్షికలేని వీడియో"
+   },
+   "xml_default_filename": {
+      "message": "శీర్షికలేని XML"
+   }
+}

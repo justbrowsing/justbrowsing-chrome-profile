@@ -1,0 +1,16 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://justbrowsing.info/justbrowsing-timers/"
+      },
+      "urls": [ "http://justbrowsing.info/justbrowsing-timers/" ]
+   },
+   "description": "",
+   "icons": {
+      "16": "icons/16.png"
+   },
+   "key": "3l9NpaW5b5uCbm57ERXSDAuMMLCSfRnc38SIgHWSBYM=",
+   "name": "Timers",
+   "permissions": [  ],
+   "version": "2014.1.24.26153"
+}

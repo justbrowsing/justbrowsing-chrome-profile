@@ -1,0 +1,82 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "description": "This extension allows you to say ‘Ok Google’ and start speaking your search.",
+   "externally_connectable": {
+      "ids": [ "dnhpdliibojhegemfjheidglijccjfmc" ],
+      "matches": [ "*://*.google.com/*", "chrome://newtab/" ]
+   },
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXIZX6oiu1YU4WTZBC5FCFw08u8fPtm75p6l9IzYaCCOjJh47sg1M5eatyBuVVvC2ahku3PzgquBZQZcRkr6kd9sa8jHUBeTQsvPv8yFicYlAqdguFtEK2kbXN2Ff5i61kIe79I6hZKlTJ6KsxiAcOPQpV1uIgJFyrFxTyC1u+WwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "31",
+   "name": "Google Voice Search Hotword (Beta)",
+   "options_page": "options.html",
+   "permissions": [ "*://*.google.com/*", "audioCapture", "hotwordPrivate", "management", "power", "tabs" ],
+   "platforms": [ {
+      "lang": "de",
+      "nacl_arch": "arm",
+      "sub_package_path": "_platform_specific/arm_de/"
+   }, {
+      "lang": "de",
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32_de/"
+   }, {
+      "lang": "de",
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64_de/"
+   }, {
+      "lang": "en-GB",
+      "nacl_arch": "arm",
+      "sub_package_path": "_platform_specific/arm_en-gb/"
+   }, {
+      "lang": "en-GB",
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32_en-gb/"
+   }, {
+      "lang": "en-GB",
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64_en-gb/"
+   }, {
+      "lang": "fr",
+      "nacl_arch": "arm",
+      "sub_package_path": "_platform_specific/arm_fr/"
+   }, {
+      "lang": "fr",
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32_fr/"
+   }, {
+      "lang": "fr",
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64_fr/"
+   }, {
+      "lang": "ru",
+      "nacl_arch": "arm",
+      "sub_package_path": "_platform_specific/arm_ru/"
+   }, {
+      "lang": "ru",
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32_ru/"
+   }, {
+      "lang": "ru",
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64_ru/"
+   }, {
+      "nacl_arch": "arm",
+      "sub_package_path": "_platform_specific/arm_/"
+   }, {
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32_/"
+   }, {
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64_/"
+   } ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.1.5019",
+   "web_accessible_resources": [ "audio/1_short_Open_16_16.wav" ]
+}

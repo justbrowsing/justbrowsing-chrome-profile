@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Compte"
+   },
+   "apply": {
+      "message": "Appliquer"
+   },
+   "audio_default_filename": {
+      "message": "Fichier audio sans titre"
+   },
+   "authorization_needed": {
+      "message": "Vous devez autoriser l'extension Enregistrer dans Google Drive."
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cannot_capture_chrome": {
+      "message": "Impossible de faire une capture d'écran des pages Chrome. Essayez avec une page Web standard."
+   },
+   "change_dest_folder": {
+      "message": "Changer de dossier de destination…"
+   },
+   "chrome_extension_name": {
+      "message": "Enregistrer dans Google Drive"
+   },
+   "close": {
+      "message": "Fermer"
+   },
+   "convert_to_google_format": {
+      "message": "Convertir le lien enregistré au format d'édition Google"
+   },
+   "debug": {
+      "message": "Débogage"
+   },
+   "default_filename": {
+      "message": "Sans titre"
+   },
+   "download_canceled": {
+      "message": "Téléchargement annulé."
+   },
+   "download_failure": {
+      "message": "Échec du téléchargement : $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Échec du téléchargement : aucune donnée reçue."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Échec du téléchargement : source trop volumineuse ($1 Mo).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Téléchargement de $1 en cours...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Téléchargement en cours..."
+   },
+   "empty_page_capture": {
+      "message": "Impossible de capturer le contenu de la page au format MHTML."
+   },
+   "enable_file_url": {
+      "message": "Vous devez activer les URL de fichier à l'aide de l'option \"Autoriser l'accès aux URL de fichier\" sur la page des paramètres des extensions."
+   },
+   "ext_description": {
+      "message": "Enregistrez du contenu Web ou des captures d'écran directement sur Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Impossible de capturer le contenu de la page au format MHTML : $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Envoyer des commentaires (interne uniquement)"
+   },
+   "file_bug_internal": {
+      "message": "Signaler un bug (interne uniquement)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> a été enregistré dans \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">modifier\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> a été placé dans la corbeille. Accédez à \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Aide"
+   },
+   "html_default_filename": {
+      "message": "Fichier HTML sans titre"
+   },
+   "image_capture_failed": {
+      "message": "Échec de la capture d'image."
+   },
+   "image_capture_failed_reason": {
+      "message": "Échec de la capture d'image ($1).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Fichier image sans titre"
+   },
+   "invalid_url": {
+      "message": "URL non valide : $1. Les URL téléchargées doivent commencer par http://, https://, ou file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Divers"
+   },
+   "my_drive": {
+      "message": "Mon disque"
+   },
+   "options_header_text": {
+      "message": "Options de l'extension Enregistrer dans Google Drive"
+   },
+   "options_title": {
+      "message": "Options Enregistrer dans Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "La taille de la page n'est pas prise en charge : $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Fichier PDF sans titre"
+   },
+   "percent": {
+      "message": "$1 % terminé(s)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Confidentialité"
+   },
+   "rename": {
+      "message": "Renommer"
+   },
+   "rename_prompt": {
+      "message": "Renommer :"
+   },
+   "save_as_html": {
+      "message": "Source HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Document Google"
+   },
+   "save_as_image_entire": {
+      "message": "Image de la page entière (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Image de la page visible (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Archive Web (.mht)"
+   },
+   "save_audio": {
+      "message": "Enregistrer le fichier audio dans Google Drive"
+   },
+   "save_image": {
+      "message": "Enregistrer le fichier image dans Google Drive"
+   },
+   "save_link": {
+      "message": "Enregistrer le lien dans Google Drive"
+   },
+   "save_page_as": {
+      "message": "Enregistrer la page en tant que :"
+   },
+   "save_to_folder_text": {
+      "message": "Enregistrer dans le dossier"
+   },
+   "save_to_google_drive_action": {
+      "message": "Enregistrer dans Google Drive"
+   },
+   "save_video": {
+      "message": "Enregistrer le fichier vidéo dans Google Drive"
+   },
+   "saving": {
+      "message": "Enregistrement de $1 dans Google Drive en cours...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Sélectionner un dossier d'enregistrement"
+   },
+   "send_feedback": {
+      "message": "Envoyer des commentaires"
+   },
+   "sign_out": {
+      "message": "Déconnexion"
+   },
+   "start_download_exception": {
+      "message": "Le démarrage du téléchargement a échoué : $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Fichier texte sans titre"
+   },
+   "trash": {
+      "message": "Corbeille"
+   },
+   "unspecified_error": {
+      "message": "Erreur non spécifiée."
+   },
+   "upload_canceled": {
+      "message": "importation annulée"
+   },
+   "upload_failure": {
+      "message": "Échec de l'importation : $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Importation de $1 dans Google Drive en cours...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Ouvrez le lien\u003C/a>, puis enregistrez la page à l'aide du bouton Enregistrer dans Google Drive situé à droite de la barre d'adresse.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Il s'agit d'un lien vers une page Web"
+   },
+   "video_default_filename": {
+      "message": "Fichier vidéo sans titre"
+   },
+   "xml_default_filename": {
+      "message": "Fichier XML sans titre"
+   }
+}

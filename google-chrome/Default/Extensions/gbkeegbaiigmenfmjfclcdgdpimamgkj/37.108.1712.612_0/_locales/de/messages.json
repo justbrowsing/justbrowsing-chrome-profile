@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Weitere Informationen"
+   },
+   "app_nacl_crash_report": {
+      "message": "Problem melden..."
+   },
+   "application_description": {
+      "message": "Dokumentbearbeitung"
+   },
+   "extension_description": {
+      "message": "Microsoft Word-, Excel- und PowerPoint-Dateien in Google Docs, Tabellen und Präsentationen ansehen und bearbeiten"
+   },
+   "extension_name": {
+      "message": "Office-Dateien in Google Docs, Tabellen und Präsentationen bearbeiten"
+   },
+   "file_loading_spinner_label": {
+      "message": "Wird geladen"
+   },
+   "file_not_found_msg": {
+      "message": "Die angeforderte Datei konnte nicht heruntergeladen werden."
+   },
+   "file_not_found_title": {
+      "message": "Datei nicht gefunden"
+   }
+}

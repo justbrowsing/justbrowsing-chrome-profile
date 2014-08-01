@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "के बारे में",
+      "message": "के बारे में"
+   },
+   "addbutton": {
+      "description": "जोड़ें",
+      "message": "जोड़ना"
+   },
+   "advancedoptions": {
+      "description": "उन्नत विकल्प",
+      "message": "उन्नत विकल्प"
+   },
+   "basicsettings": {
+      "description": "मूल बातें",
+      "message": "मूल बातें"
+   },
+   "bottom": {
+      "description": "तल",
+      "message": "तल"
+   },
+   "changelog": {
+      "description": "changelog लिंक",
+      "message": "परिवर्तन लॉग इन"
+   },
+   "deletebutton": {
+      "description": "हटाएँ",
+      "message": "हटाएँ"
+   },
+   "des1checkmotion": {
+      "description": "Make sure your room is not dark and that it have enough light.",
+      "message": "Make sure your room is not dark and that it have enough light."
+   },
+   "des2checkmotion": {
+      "description": "Your camera must not receive direct sunlight.",
+      "message": "Your camera must not receive direct sunlight."
+   },
+   "des3checkmotion": {
+      "description": "You use a front facing camera.",
+      "message": "You use a front facing camera."
+   },
+   "desaddvideobutton": {
+      "description": "इस यूट्यूब वीडियो से जोड़ें बटन दिखाएँ।",
+      "message": "इस यूट्यूब वीडियो से जोड़ें बटन दिखाएँ।"
+   },
+   "desalllightsoff": {
+      "description": "जब यह विकल्प सक्षम किया गया है दीपक ' बटन पर क्लिक करके सभी खुले टैब पर/बंद रोशनी टॉगल जाएगा।",
+      "message": "जब यह विकल्प सक्षम किया गया है दीपक ' बटन पर क्लिक करके सभी खुले टैब पर/बंद रोशनी टॉगल जाएगा।"
+   },
+   "desambilight": {
+      "description": "आप वर्तमान वीडियो चलाने का माहौल प्रकाश प्रभाव दिखा।",
+      "message": "आप वर्तमान वीडियो चलाने का माहौल प्रकाश प्रभाव दिखा।"
+   },
+   "desambilight4color": {
+      "description": "4 वीडियो के आसपास चुना रंग:",
+      "message": "4 वीडियो के आसपास चुना रंग:"
+   },
+   "desambilightfixcolor": {
+      "description": "कोई ठोस रंग:",
+      "message": "कोई ठोस रंग:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "यदि स्थापित निम्न मान छाया तेज हो जाएगा, अधिक संख्या, अधिक धुंधला यह हो जाएगा।",
+      "message": "यदि सेट करने के लिए निम्न मान छाया तेज हो जाएगा, अधिक संख्या, अधिक धुंधला यह हो जाएगा।"
+   },
+   "desambilightrangespreadradius": {
+      "description": "धनात्मक मानों छाया का आकार बढ़ाएँ, ऋणात्मक मानों का आकार घटाएँ।",
+      "message": "धनात्मक मानों छाया का आकार बढ़ाएँ, ऋणात्मक मानों का आकार घटाएँ।"
+   },
+   "desambilightvarcolor": {
+      "description": "वीडियो से रंग ले लो।",
+      "message": "वीडियो से रंग ले लो।"
+   },
+   "desapitext": {
+      "description": "Wiki API for Website Developer",
+      "message": "Wiki API for Website Developer"
+   },
+   "desatmosphereonly": {
+      "description": "वातावरण प्रकाश सुविधा केवल निम्नलिखित वीडियो साइट का उपयोग करें:",
+      "message": "वातावरण प्रकाश सुविधा केवल निम्नलिखित वीडियो साइट का उपयोग करें:"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "स्वतः पृष्ठभूमि जब आप चलाएँ बटन क्लिक करें और बनाम मंद।",
+      "message": "स्वचालित रूप से मंद पृष्ठभूमि जब आप खेलते हैं और बटन क्लिक बनाम."
+   },
+   "desautoplaydelay": {
+      "description": "Brighten again the background when the video ended after",
+      "message": "Brighten again the background when the video ended after"
+   },
+   "desautoplaydelayend": {
+      "description": "seconds",
+      "message": "seconds"
+   },
+   "desautoplayonly": {
+      "description": "मंद साइट (ओं केवल निम्नलिखित वीडियो):",
+      "message": "मंद साइट (ओं केवल निम्नलिखित वीडियो):"
+   },
+   "desbrowserextension": {
+      "description": "browser extension",
+      "message": "browser extension"
+   },
+   "desbrowsersupport": {
+      "description": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer.",
+      "message": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer."
+   },
+   "desbrowsertheme": {
+      "description": "browser theme",
+      "message": "browser theme"
+   },
+   "descammotiononly": {
+      "description": "Activate the Camera Motion only on the following site(s):",
+      "message": "Activate the Camera Motion only on the following site(s):"
+   },
+   "desconfirmpassword": {
+      "description": "पासवर्ड की पुष्टि करें",
+      "message": "पासवर्ड की पुष्टि करें"
+   },
+   "desconfirmtime": {
+      "description": "समय की पुष्टि करें",
+      "message": "समय की पुष्टि करें"
+   },
+   "desconfirmtimesaver": {
+      "description": "स्क्रीन सेवर समय की पुष्टि करें",
+      "message": "स्क्रीन सेवर समय की पुष्टि करें"
+   },
+   "descontextmenus": {
+      "description": "संदर्भ मेनू के किसी आइटम ध्यान केंद्रित करने के लिए दिखा।",
+      "message": "संदर्भ के लिए एक आइटम ध्यान मेनू दिखाएँ."
+   },
+   "description": {
+      "description": "तो आप वीडियो देख सकते हैं के रूप में यदि आप सिनेमा में थे पूरे पृष्ठ के लिए अंधेरा, fading हो जाएगा।",
+      "message": "संपूर्ण पृष्ठ अंधेरे में लुप्त होती है, इसलिए आप अगर आप सिनेमा में हैं के रूप में वीडियो देख सकते हैं."
+   },
+   "desdynamicblocks": {
+      "description": "ब्लॉक",
+      "message": "ब्लॉक"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "मछली टैंक",
+      "message": "मछली टैंक"
+   },
+   "desdynamicraindrops": {
+      "description": "रेनड्रॉप्स",
+      "message": "रेनड्रॉप्स"
+   },
+   "desdynamicspace": {
+      "description": "अंतरिक्ष जगत",
+      "message": "अंतरिक्ष जगत"
+   },
+   "deseastereggs": {
+      "description": "इस विस्तार में एक बोनस।",
+      "message": "इस विस्तार में एक बोनस।"
+   },
+   "desenterpassword": {
+      "description": "नीचे बॉक्स में अपना पासवर्ड दर्ज करें:",
+      "message": "नीचे बॉक्स में अपना पासवर्ड दर्ज करें:"
+   },
+   "deseyea": {
+      "description": "स्वतः पृष्ठभूमि जब एक पृष्ठ खोलने मंद।",
+      "message": "स्वतः पृष्ठभूमि जब खुले एक पृष्ठ मंद."
+   },
+   "deseyealist": {
+      "description": "स्वतः पृष्ठभूमि धुंधला जब खोलने के निम्न पृष्ठ (s):",
+      "message": "स्वतः पृष्ठभूमि धुंधला जब खोलने के निम्न पृष्ठ (s):"
+   },
+   "deseyen": {
+      "description": "सामान्य उपयोग (रोशनी बाहर जाना जब आप क्लिक करें पर दीपक चिह्न)।",
+      "message": "सामान्य उपयोग (रोशनी बाहर जाने के लिए जब तुम दीपक आइकन पर क्लिक करें)."
+   },
+   "deseyetimesaver": {
+      "description": "जब एक पृष्ठ है निष्क्रिय (कोई कुंजीपटल या माउस इनपुट) नीचे निर्दिष्ट समय के लिए, पृष्ठ स्वचालित रूप से अंधेरे जाना होगा।",
+      "message": "जब एक पृष्ठ है निष्क्रिय (कोई कुंजीपटल या माउस इनपुट) नीचे निर्दिष्ट समय के लिए, पृष्ठ स्वचालित रूप से अंधेरे जाना होगा।"
+   },
+   "desfadein": {
+      "description": "फ़ेड प्रभाव में दिखाएँ।",
+      "message": "दिखाने के प्रभाव में फीका."
+   },
+   "desfadeout": {
+      "description": "फ़ेड आउट प्रभाव दिखा।",
+      "message": "बाहर फीका प्रभाव दिखाना."
+   },
+   "desflash": {
+      "description": "सभी फ़्लैश ऑब्जेक्ट दिखाएँ।",
+      "message": "सभी फ्लैश वस्तुओं दिखाओ."
+   },
+   "deshardflash": {
+      "description": "सभी फ़्लैश वस्तुओं में URL फ़िल्टर लंघन, दिखाएँ। इस छुपे हुए किया जा रहा कुछ वीडियो खिलाड़ियों के साथ समस्याओं को ठीक कर देंगे, लेकिन भी विज्ञापनों को प्रदर्शित करेगा।",
+      "message": "सभी फ़्लैश वस्तुओं में URL फ़िल्टर लंघन, दिखाएँ। इस छुपे हुए किया जा रहा कुछ वीडियो खिलाड़ियों के साथ समस्याओं को ठीक कर देंगे, लेकिन भी विज्ञापनों को प्रदर्शित करेगा।"
+   },
+   "deshead": {
+      "description": "YouTube चैनल पट्टी या नाम दिखाएँ।",
+      "message": "यूट्यूब चैनल पट्टी या नाम दिखाओ."
+   },
+   "desinfobar": {
+      "description": "वीडियो के बारे में विवरण जानकारी दिखाएँ।",
+      "message": "वीडियो के बारे में विवरण जानकारी दिखाएँ."
+   },
+   "deslikebar": {
+      "description": "शो पसंद/नापसंद यूट्यूब वीडियो के अंतर्गत पट्टी।",
+      "message": "शो पसंद/नापसंद यूट्यूब वीडियो के अंतर्गत पट्टी।"
+   },
+   "deslikebutton": {
+      "description": "ऐसे शो & इस वीडियो के लिए YouTube के बटन नापसंद करते हैं।",
+      "message": "इस वीडियो के लिए यूट्यूब के जैसे और नापसंद बटन दिखाएँ."
+   },
+   "desmotion": {
+      "description": "Camera Motion",
+      "message": "Enable the Camera Motion so that the web page could darkens with a hand sweep down."
+   },
+   "desmotionChecklist": {
+      "description": "Checklist:",
+      "message": "Checklist:"
+   },
+   "desmousespotlighta": {
+      "description": "यदि प्रकाश बंद है, तो माउस कर्सर के चारों ओर एक स्पॉटलाइट दिखाएँ।",
+      "message": "यदि प्रकाश बंद है, तो माउस कर्सर के चारों ओर एक स्पॉटलाइट दिखाएँ।"
+   },
+   "desmousespotlightc": {
+      "description": "यदि प्रकाश बंद है, आप एक आइटम ध्यान केंद्रित करने के लिए एक क्षेत्र का चयन कर सकते हैं।",
+      "message": "यदि प्रकाश बंद है, आप एक आइटम ध्यान केंद्रित करने के लिए एक क्षेत्र का चयन कर सकते हैं।"
+   },
+   "desmousespotlighto": {
+      "description": "सामान्य उपयोग के (नीचे माउस सेटिंग्स अक्षम करता है)",
+      "message": "सामान्य उपयोग के (नीचे माउस सेटिंग्स अक्षम करता है)"
+   },
+   "desmousespotlightt": {
+      "description": "जब रोशनी बंद कर रहे हैं के माध्यम से काली स्क्रीन क्लिक करें करने के लिए आपको अनुमति देता है।",
+      "message": "जब रोशनी बंद कर रहे हैं के माध्यम से काली स्क्रीन क्लिक करें करने के लिए आपको अनुमति देता है।"
+   },
+   "desnightenabletheme": {
+      "description": "जब आप एक नया पृष्ठ खोल यह जाना स्वत: करने के लिए रात मोड।",
+      "message": "जब आप एक नया पृष्ठ खोल यह जाना स्वत: करने के लिए रात मोड।"
+   },
+   "desnightonly": {
+      "description": "रात मोड साइट (ओं केवल निम्न) दिखाएँ:",
+      "message": "रात मोड साइट (ओं केवल निम्न) दिखाएँ:"
+   },
+   "desnighttheme": {
+      "description": "अंधेरा या प्रकाश पृष्ठ बनाने के लिए वेब पेज के नीचे रात स्विच बटन दिखाएँ।",
+      "message": "अंधेरा या प्रकाश पृष्ठ बनाने के लिए वेब पेज के नीचे रात स्विच बटन दिखाएँ।"
+   },
+   "desnoflash": {
+      "description": "इस सुविधा का उपयोग न करें।",
+      "message": "इस सुविधा का उपयोग न करें।"
+   },
+   "despassword": {
+      "description": "रोशनी पर वापस मोड़ से पहले प्रवेश किया जा करने के लिए किसी पासवर्ड की आवश्यकता होती है।",
+      "message": "रोशनी पर वापस मोड़ से पहले प्रवेश किया जा करने के लिए किसी पासवर्ड की आवश्यकता होती है।"
+   },
+   "desplaylist": {
+      "description": "यूट्यूब playlist यूट्यूब वेबसाइट पर दिखाएँ।",
+      "message": "यूट्यूब वेबसाइट पर यूट्यूब दिखाओ."
+   },
+   "desproject": {
+      "description": "project",
+      "message": "project"
+   },
+   "desreadera": {
+      "description": "जब रोशनी बाहर जाना हमेशा धुंधलापन तर पट्टी दिखाएँ।",
+      "message": "हमेशा मंदता स्तर पट्टी दिखाने के लिए जब रोशनी बाहर जाओ."
+   },
+   "desreadern": {
+      "description": "कभी धुंधलापन तर पट्टी दिखाएँ।",
+      "message": "कभी मंदता स्तर बार दिखाते हैं."
+   },
+   "desrememberpage": {
+      "description": "यदि यह विकल्प सक्षम किया गया है, यह तुम नहीं याद रहे पृष्ठ दिखाएगा।",
+      "message": "यदि यह विकल्प सक्षम किया गया है, यह तुम नहीं याद रहे पृष्ठ दिखाएगा।"
+   },
+   "dessaver": {
+      "description": "स्क्रीन सेवर:",
+      "message": "स्क्रीन सेवर:"
+   },
+   "dessharebutton": {
+      "description": "इस वीडियो के लिए YouTube के शेयर बटन दिखाएँ।",
+      "message": "इस वीडियो के लिए YouTube का हिस्सा बटन दिखाएँ."
+   },
+   "desshortcutlight": {
+      "description": "नीचे दिए गए कुंजीपटल शॉर्टकट सक्षम करें।",
+      "message": "नीचे दिए गए कुंजीपटल शॉर्टकट सक्षम करें।"
+   },
+   "desspeech": {
+      "description": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:",
+      "message": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "play video",
+      "message": "play video"
+   },
+   "desspeech4command": {
+      "description": "pause video",
+      "message": "pause video"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "Activate the Speech Recognition only the following site(s):",
+      "message": "Activate the Speech Recognition only the following site(s):"
+   },
+   "desspotlightradius": {
+      "description": "खोज लैंप का व्यास है।",
+      "message": "खोज लैंप का व्यास है।"
+   },
+   "dessuggestions": {
+      "description": "यूट्यूब वेबसाइट के सुझावों के दिखाओ।",
+      "message": "यूट्यूब वेबसाइट का सुझाव दिखाओ."
+   },
+   "destime": {
+      "description": "निम्नलिखित समय के बीच रोशनी बंद:",
+      "message": "निम्नलिखित समय के बीच रोशनी बंद:"
+   },
+   "destrymotion": {
+      "description": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc.",
+      "message": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc."
+   },
+   "desuntil": {
+      "description": "जब तक",
+      "message": "जब तक"
+   },
+   "desvideoheadline": {
+      "description": "दिखाने के और वीडियो शीर्षक के रंग पलटना।",
+      "message": "दिखाएँ और वीडियो शीर्षक के रंग पलटना."
+   },
+   "desviewcount": {
+      "description": "इस वीडियो के लिए दृश्य की संख्या दिखाएँ।",
+      "message": "इस वीडियो के लिए देखने की संख्या दिखाएँ."
+   },
+   "donatepromotext": {
+      "description": "यदि आप किसी भी राशि का दान कर सकते हैं, मुझे बेहद खुशी होगी!",
+      "message": "अगर आप किसी भी राशि का दान कर सकते हैं, मैं यह बेहद खुशी होगी!"
+   },
+   "eastereggsquestion": {
+      "description": "तुम एक असली फिल्म थियेटर पसंद है?",
+      "message": "तुम एक असली फिल्म थियेटर पसंद है?"
+   },
+   "enjoyshare": {
+      "description": "इस विस्तार का आनंद और यह जो आपको लगता है कि इसकी सराहना करता होगा दूसरों के साथ साझा करें।",
+      "message": "इस विस्तार का आनंद और यह जो आपको लगता है कि इसकी सराहना करता होगा दूसरों के साथ साझा करें।"
+   },
+   "eyedivoff": {
+      "description": "बंद",
+      "message": "बंद"
+   },
+   "eyedivon": {
+      "description": "पर",
+      "message": "पर"
+   },
+   "friendlyremember": {
+      "description": "मित्रतापूर्ण याद है...",
+      "message": "मित्रतापूर्ण याद है..."
+   },
+   "guide": {
+      "description": "TOtL में आपका स्वागत है गाइड",
+      "message": "TOtL में आपका स्वागत है गाइड"
+   },
+   "help": {
+      "description": "मदद",
+      "message": "मदद"
+   },
+   "helpautoplay": {
+      "description": "'नेत्र संरक्षण' सक्षम किया गया है। का उपयोग करने के लिए नीचे सुविधा, 'नेत्र संरक्षण' विकल्प को अक्षम करें।",
+      "message": "'नेत्र संरक्षण' सक्षम किया गया है। का उपयोग करने के लिए नीचे सुविधा, 'नेत्र संरक्षण' विकल्प को अक्षम करें।"
+   },
+   "helpeyeprotection": {
+      "description": "'आँख ' सुरक्षा सक्षम करने स्वचालित रूप से 'ऑटो प्ले' सुविधा को अक्षम करेगा।",
+      "message": "'आँख ' सुरक्षा सक्षम करने स्वचालित रूप से 'ऑटो प्ले' सुविधा को अक्षम करेगा।"
+   },
+   "hoveroptionapply": {
+      "description": "लागू करें",
+      "message": "लागू करें"
+   },
+   "hoveroptiondyn5": {
+      "description": "साथ फ्लाइंग",
+      "message": "साथ फ्लाइंग"
+   },
+   "howworkmotion": {
+      "description": "How does it work?",
+      "message": "How does it work?"
+   },
+   "installadblocker": {
+      "description": "एक Adblocker एक्सटेंशन के साथ उपयोग करें।",
+      "message": "एक Adblocker एक्सटेंशन के साथ उपयोग करें।"
+   },
+   "lastchecked": {
+      "description": "पर नवीनतम संस्करण की जाँच",
+      "message": "पर नवीनतम संस्करण की जाँच"
+   },
+   "left": {
+      "description": "बाईं ओर",
+      "message": "बाईं ओर"
+   },
+   "lockentername": {
+      "description": "कृपया अपना पासवर्ड दर्ज करें",
+      "message": "कृपया अपना पासवर्ड दर्ज करें"
+   },
+   "lockwrongpassword": {
+      "description": "गलत पासवर्ड, कृपया पुनः प्रयास करें।",
+      "message": "गलत पासवर्ड, कृपया पुनः प्रयास करें।"
+   },
+   "longdonatetext": {
+      "description": "मैं वास्तव में खुशी होगी अगर आप मुझे इस ब्राउज़र एक्सटेंशन अन्य नए उपयोगकर्ताओं के लिए ज़िंदा रखने के लिए दान कर सकते हैं। चाहे वह $$ 1 या $100 डॉलर है, अपने समर्थन बेहद सराहना की है!",
+      "message": "मैं वास्तव में खुशी होगी अगर आप मुझे इस ब्राउज़र एक्सटेंशन अन्य नए उपयोगकर्ताओं के लिए ज़िंदा रखने के लिए दान कर सकते हैं। चाहे वह $$ 1 या $100 डॉलर है, अपने समर्थन बेहद सराहना की है!"
+   },
+   "motionoptions": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "name": {
+      "description": "लाइट्स बंद करें",
+      "message": "लाइट्स बंद करें"
+   },
+   "nightoptions": {
+      "description": "रात मोड",
+      "message": "रात मोड"
+   },
+   "optionecosaversaved": {
+      "description": "सेकंड सफलतापूर्वक सहेजा गया है!",
+      "message": "सेकंड सफलतापूर्वक सहेजा गया है!"
+   },
+   "optionpagetitle": {
+      "description": "विकल्प पृष्ठ शीर्षक",
+      "message": "Turn Off the Lights - विकल्प"
+   },
+   "optionpasswordsaved": {
+      "description": "पासवर्ड सफलतापूर्वक सहेजा गया है!",
+      "message": "पासवर्ड सफलतापूर्वक सहेजा गया है!"
+   },
+   "optiontimesaved": {
+      "description": "समय सफलतापूर्वक सहेजा गया है!",
+      "message": "समय सफलतापूर्वक सहेजा गया है!"
+   },
+   "optionwrongimg": {
+      "description": "अमान्य छवि फ़ाइल!",
+      "message": "अमान्य छवि फ़ाइल!"
+   },
+   "pageatitle": {
+      "description": "लाइट्स बंद करें",
+      "message": "लाइट्स बंद करें"
+   },
+   "pagehelp": {
+      "description": "मदद",
+      "message": "मदद"
+   },
+   "pagestillloading": {
+      "description": "पृष्ठ अभी भी लोड हो रहा है?",
+      "message": "पृष्ठ अभी भी लोड हो रहा है?"
+   },
+   "pagetitle": {
+      "description": "यह पृष्ठ काला कर",
+      "message": "गहरे रंग इस पृष्ठ"
+   },
+   "productshare": {
+      "description": "साझा करें",
+      "message": "साझा करें"
+   },
+   "ratedes": {
+      "description": "And let everyone know about this great extension!",
+      "message": "And let everyone know about this great extension!"
+   },
+   "rateitema": {
+      "description": "Rate 5 stars",
+      "message": "Rate 5 stars"
+   },
+   "ratetitle": {
+      "description": "Please rate & review my extension",
+      "message": "Please rate & review my extension"
+   },
+   "recflash": {
+      "description": "की सिफारिश की",
+      "message": "की सिफारिश की"
+   },
+   "rememberrate": {
+      "description": "दर",
+      "message": "दर"
+   },
+   "reportbug": {
+      "description": "एक समस्या की रिपोर्ट करें",
+      "message": "रिपोर्ट में समस्या"
+   },
+   "reportlist": {
+      "description": "पूरे मुद्दे की सूची देखें",
+      "message": "(सूची देखने के लिए)"
+   },
+   "resetbrowserextension": {
+      "description": "Reset the Turn Off the Lights settings",
+      "message": "Reset the Turn Off the Lights settings"
+   },
+   "right": {
+      "description": "दाईं ओर",
+      "message": "दाईं ओर"
+   },
+   "settings": {
+      "description": "सेटिंग्स",
+      "message": "सेटिंग्स"
+   },
+   "shortcutalllights": {
+      "description": "रोशनी के लिए सभी खुले टैब पर/बंद टॉगल करने के लिए।",
+      "message": "रोशनी के लिए सभी खुले टैब पर/बंद टॉगल करने के लिए।"
+   },
+   "shortcutbright": {
+      "description": "स्क्रीन (घटाएँ अपारदर्शिता) को रोशन करने के लिए।",
+      "message": "स्क्रीन (घटाएँ अपारदर्शिता) को रोशन करने के लिए।"
+   },
+   "shortcutdark": {
+      "description": "स्क्रीन (वृद्धि अस्पष्टता) अंधा करने के लिए।",
+      "message": "स्क्रीन (वृद्धि अस्पष्टता) अंधा करने के लिए।"
+   },
+   "shortcuteyeprotection": {
+      "description": "सक्षम करें/निष्क्रिय नेत्र संरक्षण फीचर को।",
+      "message": "सक्षम करें/निष्क्रिय नेत्र संरक्षण फीचर को।"
+   },
+   "shortcutopacity": {
+      "description": "सेटिंग सेट को अंधकार (अपारदर्शिता) को पुनर्स्थापित करने के लिए।",
+      "message": "सेटिंग सेट को अंधकार (अपारदर्शिता) को पुनर्स्थापित करने के लिए।"
+   },
+   "shortcutsavingopacity": {
+      "description": "इस अस्पष्टता मान को सहेजने के लिए",
+      "message": "इस अस्पष्टता मान को सहेजने के लिए"
+   },
+   "shortcuttotl": {
+      "description": "रोशनी चालू/बंद टॉगल करने के लिए।",
+      "message": "रोशनी चालू/बंद टॉगल करने के लिए।"
+   },
+   "showremember": {
+      "description": "यह याद रहे पृष्ठ फिर से दिखाएँ जब मैं विकल्प पृष्ठ को खोलने नहीं करता।",
+      "message": "यह याद रहे पृष्ठ फिर से दिखाएँ जब मैं विकल्प पृष्ठ को खोलने नहीं करता।"
+   },
+   "skipremember": {
+      "description": "इस को छोड़, और अब विकल्प पृष्ठ खोलें",
+      "message": "इस को छोड़, और अब विकल्प पृष्ठ खोलें"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Speech Recognition"
+   },
+   "step1description": {
+      "description": "Enable the Camera Motion feature",
+      "message": "Enable the Camera Motion feature"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Then the black layer slide automatically down.",
+      "message": "Then the black layer slide automatically down."
+   },
+   "textfoot": {
+      "description": "इस सॉफ्टवेयर CC-GNU GPL के अंतर्गत लाइसेंस प्राप्त है। इस लाइसेंस की एक प्रतिलिपि को देखने के लिए, पर जाएँ",
+      "message": "यह सॉफ्टवेयर GNU CC-GPL के अंतर्गत लाइसेंस प्राप्त है. इस लाइसेंस के लिए, यात्रा की एक प्रति को देखने के लिए"
+   },
+   "titeladdvideobutton": {
+      "description": "बटन जोड़ें",
+      "message": "बटन जोड़ें"
+   },
+   "titelalllightsoff": {
+      "description": "सभी खुले टैब",
+      "message": "सभी खुले टैब"
+   },
+   "titelambilight": {
+      "description": "वातावरण प्रकाश",
+      "message": "वातावरण प्रकाश"
+   },
+   "titelapideveloper": {
+      "description": "API Developer",
+      "message": "API Developer"
+   },
+   "titelautoplay": {
+      "description": "स्वत: चलाएँ",
+      "message": "ऑटो प्ले"
+   },
+   "titelautoplayblacklist": {
+      "description": "Blacklist",
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Whitelist",
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "description": "स्वचालित रूप से YouTube खिलाड़ी बड़े आकार के लिए सेट करें।",
+      "message": "स्वचालित रूप से YouTube खिलाड़ी बड़े आकार के लिए सेट करें।"
+   },
+   "titelblur": {
+      "description": "बाकी धुंधला",
+      "message": "बाकी धुंधला"
+   },
+   "titelblurradius": {
+      "description": "धुंधला त्रिज्या",
+      "message": "धुंधला त्रिज्या"
+   },
+   "titelcamera": {
+      "description": "Camera",
+      "message": "Camera"
+   },
+   "titelcinemaontop": {
+      "description": "मूवी थियेटर मोड: यह केवल विंडो के शीर्ष पर 'बंद रोशनी' परत दिखा।",
+      "message": "मूवी थियेटर मोड: यह केवल विंडो के शीर्ष पर 'बंद रोशनी' परत दिखा।"
+   },
+   "titelcolor": {
+      "description": "रंग",
+      "message": "रंग"
+   },
+   "titelcolora": {
+      "description": "Color A",
+      "message": "Color A"
+   },
+   "titelcolorb": {
+      "description": "Color B",
+      "message": "Color B"
+   },
+   "titelcontextmenus": {
+      "description": "प्रसंग मेनू",
+      "message": "संदर्भ मेनू"
+   },
+   "titeldeveloper": {
+      "description": "Developer",
+      "message": "Developer"
+   },
+   "titeldownloadbutton": {
+      "description": "इस नवीनीकरण को डाउनलोड!",
+      "message": "इस नवीनीकरण को डाउनलोड!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser.",
+      "message": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser."
+   },
+   "titeldownloadupgrade": {
+      "description": "नवीनीकरण ध्यान केंद्रित चयनित छवियों के लिए समर्थन जोड़ता है, और साइट पर छवियों की एक गैलरी प्रदर्शित करेगा।",
+      "message": "नवीनीकरण ध्यान केंद्रित चयनित छवियों के लिए समर्थन जोड़ता है, और साइट पर छवियों की एक गैलरी प्रदर्शित करेगा।"
+   },
+   "titeldynamic": {
+      "description": "गतिशील पृष्ठभूमि",
+      "message": "गतिशील पृष्ठभूमि"
+   },
+   "titeleastereggs": {
+      "description": "ईस्टर अंडे",
+      "message": "ईस्टर अंडे"
+   },
+   "titeleye": {
+      "description": "नेत्र सुरक्षा",
+      "message": "नेत्र संरक्षण"
+   },
+   "titelfadein": {
+      "description": "फीका",
+      "message": "में फीका"
+   },
+   "titelfadeout": {
+      "description": "फ़ेड आउट",
+      "message": "बाहर फीका"
+   },
+   "titelflash": {
+      "description": "फ़्लैश डिटेक्शन",
+      "message": "फ़्लैश पहचान"
+   },
+   "titelhead": {
+      "description": "चैनल",
+      "message": "चैनल"
+   },
+   "titelimage": {
+      "description": "पृष्ठभूमि छवि",
+      "message": "पृष्ठभूमि छवि"
+   },
+   "titelinfobar": {
+      "description": "सूचना पट्टी",
+      "message": "जानकारी बार"
+   },
+   "titellamp": {
+      "description": "बल्ब",
+      "message": "बल्ब"
+   },
+   "titellampregular": {
+      "description": "Show always the lamp icon in the omnibox",
+      "message": "Show always the lamp icon in the omnibox"
+   },
+   "titellampvideo": {
+      "description": "Show the lamp icon only if a video player is detected",
+      "message": "Show the lamp icon only if a video player is detected"
+   },
+   "titellessmore": {
+      "description": "कम दिखाएँ",
+      "message": "कम दिखाएँ"
+   },
+   "titellikebar": {
+      "description": "पसंद पट्टी",
+      "message": "पसंद पट्टी"
+   },
+   "titellikebutton": {
+      "description": "पसंद & बटन नापसंद",
+      "message": "पसंद और नापसंद बटन"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "इस संकल्प के लिए स्वचालित रूप से सेट करें:",
+      "message": "इस संकल्प के लिए स्वचालित रूप से सेट करें:"
+   },
+   "titelmouse": {
+      "description": "माउस",
+      "message": "माउस"
+   },
+   "titelnighttheme": {
+      "description": "रात मोड",
+      "message": "रात मोड"
+   },
+   "titeloff": {
+      "description": "बंद",
+      "message": "बंद"
+   },
+   "titelon": {
+      "description": "पर",
+      "message": "पर"
+   },
+   "titelopacity": {
+      "description": "अपारदर्शिता",
+      "message": "अस्पष्टता"
+   },
+   "titelpageaction": {
+      "description": "pageaction चिह्न छुपाएँ",
+      "message": "छिपाएँ दीपक चिह्न"
+   },
+   "titelpassword": {
+      "description": "पासवर्ड सुरक्षा",
+      "message": "पासवर्ड सुरक्षा"
+   },
+   "titelplaylist": {
+      "description": "चलाएँ-सूची",
+      "message": "प्लेलिस्ट"
+   },
+   "titelqualityyoutube": {
+      "description": "स्वचालित रूप से YouTube वीडियो की गुणवत्ता सेट करें।",
+      "message": "स्वचालित रूप से YouTube वीडियो की गुणवत्ता सेट करें।"
+   },
+   "titelreader": {
+      "description": "धुंधलापन स्तर पट्टी",
+      "message": "धुंधलापन स्तर बार"
+   },
+   "titelrememberpage": {
+      "description": "पृष्ठ याद रखें",
+      "message": "पृष्ठ याद रखें"
+   },
+   "titelreset": {
+      "description": "Reset settings",
+      "message": "Reset settings"
+   },
+   "titelrightsreserved": {
+      "description": "Some rights reserved.",
+      "message": "Some rights reserved."
+   },
+   "titelscreen": {
+      "description": "स्क्रीन",
+      "message": "स्क्रीन"
+   },
+   "titelseeonline": {
+      "description": "See online for more examples",
+      "message": "See online for more examples"
+   },
+   "titelsharebutton": {
+      "description": "साझा करें बटन",
+      "message": "शेयर बटन"
+   },
+   "titelshortcutlight": {
+      "description": "शॉर्टकट कुंजी",
+      "message": "शॉर्टकट कुंजी"
+   },
+   "titelshowmore": {
+      "description": "अधिक दिखाएँ",
+      "message": "अधिक दिखाएँ"
+   },
+   "titelspeech": {
+      "description": "Speech",
+      "message": "Speech"
+   },
+   "titelspreadradius": {
+      "description": "स्प्रेड त्रिज्या",
+      "message": "स्प्रेड त्रिज्या"
+   },
+   "titelsuggestions": {
+      "description": "सुझाव",
+      "message": "सुझाव"
+   },
+   "titelsupportatmos": {
+      "description": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card.",
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card."
+   },
+   "titelsync": {
+      "description": "सिंक",
+      "message": "सिंक"
+   },
+   "titelsyncbrowser": {
+      "description": "विस्तार सेटिंग्स आपकी अन्य ब्राउज़र के साथ सिंक्रनाइज़ करें।",
+      "message": "विस्तार सेटिंग्स आपकी अन्य ब्राउज़र के साथ सिंक्रनाइज़ करें।"
+   },
+   "titelupgrade": {
+      "description": "नवीनीकरण",
+      "message": "नवीनीकरण"
+   },
+   "titelvideoheadline": {
+      "description": "वीडियो शीर्षक",
+      "message": "वीडियो शीर्षक"
+   },
+   "titelvideosample": {
+      "description": "Video Sample",
+      "message": "Video Sample"
+   },
+   "titelviewcount": {
+      "description": "दर्शनों की संख्या",
+      "message": "दर्शनों की संख्या"
+   },
+   "titelwebsite": {
+      "description": "Website",
+      "message": "Website"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "दान",
+      "message": "दान"
+   },
+   "top": {
+      "description": "शीर्ष",
+      "message": "शीर्ष"
+   },
+   "translateme": {
+      "description": "का अनुवाद में मदद",
+      "message": "का अनुवाद में मदद"
+   },
+   "trymotion": {
+      "description": "Try it yourself!",
+      "message": "Try it yourself!"
+   },
+   "upgradecontextitemma": {
+      "description": "light off with your hand",
+      "message": "light off with your hand"
+   },
+   "upgradecontextitemmb": {
+      "description": "Control the web page more accurately",
+      "message": "Control the web page more accurately"
+   },
+   "upgradecontextitemta": {
+      "description": "Camera Motion",
+      "message": "Camera Motion"
+   },
+   "upgradecontextitemtb": {
+      "description": "Speech Recognition",
+      "message": "Speech Recognition"
+   },
+   "upgradecontextmessage": {
+      "description": "That make this extension even more amazing",
+      "message": "That make this extension even more amazing"
+   },
+   "upgradecontexttitle": {
+      "description": "We have added some new features for you",
+      "message": "We have added some new features for you"
+   },
+   "upgradefbshare": {
+      "description": "Facebook Share",
+      "message": "Facebook Share"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "संस्करण संख्या पाठ",
+      "message": "संस्करण"
+   },
+   "videotitle": {
+      "description": "इस वीडियो ध्यान केंद्रित",
+      "message": "ध्यान इस वीडियो"
+   },
+   "visualeffects": {
+      "description": "दृश्य प्रभाव",
+      "message": "दृश्य प्रभाव"
+   },
+   "warning": {
+      "description": "चेतावनी!",
+      "message": "चेतावनी!"
+   },
+   "warningtextambilight": {
+      "description": "यदि यह वीडियो डेटा एक साइट की सुरक्षा नियम के कारण प्राप्त करने में असमर्थ है, तो यह चुने हुए ठोस रंग इसके बजाय दिखाएगा।",
+      "message": "यदि यह वीडियो डेटा एक साइट की सुरक्षा नियम के कारण प्राप्त करने में असमर्थ है, तो यह चुने हुए ठोस रंग इसके बजाय दिखाएगा।"
+   }
+}

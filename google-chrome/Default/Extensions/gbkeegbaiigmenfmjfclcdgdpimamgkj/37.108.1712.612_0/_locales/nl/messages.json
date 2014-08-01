@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Meer informatie"
+   },
+   "app_nacl_crash_report": {
+      "message": "Een probleem melden..."
+   },
+   "application_description": {
+      "message": "Documenten bewerken"
+   },
+   "extension_description": {
+      "message": "Bekijk en bewerk Microsoft Word-, Excel- en PowerPoint-bestanden met Google Documenten, Spreadsheets en Presentaties"
+   },
+   "extension_name": {
+      "message": "Office-bewerkingen voor Documenten, Spreadsheets en Presentaties"
+   },
+   "file_loading_spinner_label": {
+      "message": "Wordt geladen"
+   },
+   "file_not_found_msg": {
+      "message": "Het bestand dat je hebt opgevraagd, is niet beschikbaar."
+   },
+   "file_not_found_title": {
+      "message": "Bestand niet gevonden"
+   }
+}

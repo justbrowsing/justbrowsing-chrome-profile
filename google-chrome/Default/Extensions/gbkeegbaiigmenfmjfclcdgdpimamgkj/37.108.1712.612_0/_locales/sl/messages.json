@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Več o tem"
+   },
+   "app_nacl_crash_report": {
+      "message": "Prijavite težavo ..."
+   },
+   "application_description": {
+      "message": "Urejanje dokumenta"
+   },
+   "extension_description": {
+      "message": "Ogled in urejanje datotek programov Microsoft Word, Excel in PowerPoint v Google Dokumentih, Google Preglednicah in Google Predstavitvah"
+   },
+   "extension_name": {
+      "message": "Urejanje dokumentov zbirke Office za Google Dokumente, Google Preglednice in Google Predstavitve"
+   },
+   "file_loading_spinner_label": {
+      "message": "Nalaganje"
+   },
+   "file_not_found_msg": {
+      "message": "Zahtevana datoteka je bila premaknjena."
+   },
+   "file_not_found_title": {
+      "message": "Datoteke ni bilo mogoče najti."
+   }
+}

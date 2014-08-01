@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "حساب کاربری"
+   },
+   "apply": {
+      "message": "اعمال"
+   },
+   "audio_default_filename": {
+      "message": "فایل صوتی بدون عنوان"
+   },
+   "authorization_needed": {
+      "message": "باید به ‏ذخیره در Google Drive مجوز بدهید."
+   },
+   "cancel": {
+      "message": "لغو"
+   },
+   "cannot_capture_chrome": {
+      "message": "‏تصویربرداری از صفحات Chrome ممکن نیست. یک صفحه وب استاندارد را امتحان کنید."
+   },
+   "change_dest_folder": {
+      "message": "تغییر پوشه مقصد…"
+   },
+   "chrome_extension_name": {
+      "message": "‏ذخیره در Google Drive"
+   },
+   "close": {
+      "message": "بستن"
+   },
+   "convert_to_google_format": {
+      "message": "‏تبدیل پیوند ذخیره شده به قالب ویرایشگر Google"
+   },
+   "debug": {
+      "message": "‏اشکال‎زدایی"
+   },
+   "default_filename": {
+      "message": "بدون عنوان"
+   },
+   "download_canceled": {
+      "message": "دانلود لغو شد."
+   },
+   "download_failure": {
+      "message": "دانلود انجام نشد: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "دانلود انجام نشد: داده‌ای دریافت نشد."
+   },
+   "download_failure_too_big_mb": {
+      "message": "اشکال در دانلود: منبع بیش از حد بزرگ ($1 مگابایت) است.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "در حال دانلود $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "در حال دانلود ..."
+   },
+   "empty_page_capture": {
+      "message": "‏ضبط محتوای صفحه به‌ صورت MHTML امکان‌پذیر نیست."
+   },
+   "enable_file_url": {
+      "message": "نشانی‌های اینترنتی فایل باید با گزینه «اجازه دسترسی به نشانی‌های اینترنتی فایل» در صفحه تنظیمات پسوندها فعال شده باشد."
+   },
+   "ext_description": {
+      "message": "ذخیره محتوای وب یا ضبط صفحه نمایش به طور مستقیم درGoogle Drive ."
+   },
+   "failure_page_capture": {
+      "message": "‏امکان ثبت محتوای صفحه به‌عنوان MHTML وجود ندارد: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "ارسال بازخورد (فقط داخلی)"
+   },
+   "file_bug_internal": {
+      "message": "تشکیل پرونده برای اشکال (فقط داخلی)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> در \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> ذخیره شد.\n\u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">تغییر\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> به حذف‌شده‌ها منتقل شد. به \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a> بروید.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "راهنما"
+   },
+   "html_default_filename": {
+      "message": "‏HTML بدون عنوان"
+   },
+   "image_capture_failed": {
+      "message": "ضبط تصویر موفقیت‌آمیز نبود"
+   },
+   "image_capture_failed_reason": {
+      "message": "ضبط تصویر موفقیت‌آمیز نبود ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "تصویر بدون عنوان"
+   },
+   "invalid_url": {
+      "message": "‏آدرس اینترنتی $1 معتبر نیست. آدرس‌های اینترنتی دانلودشده بایستی با https:// ،http://‎، یا file://‎ شروع شوند.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "متفرقه"
+   },
+   "my_drive": {
+      "message": "My Drive"
+   },
+   "options_header_text": {
+      "message": "گزینه‌های پسوند ‏ذخیره در Google Drive"
+   },
+   "options_title": {
+      "message": "گزینهها ‏ذخیره در Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "اندازه صفحه پشتیبانی نمی‌شود: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "‏PDF بدون عنوان"
+   },
+   "percent": {
+      "message": "$1٪ انجام شد",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "حریم خصوصی"
+   },
+   "rename": {
+      "message": "تغییر نام"
+   },
+   "rename_prompt": {
+      "message": "تغییر‌ نام:"
+   },
+   "save_as_html": {
+      "message": "‏منبع HTML ‫(html.)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google Document"
+   },
+   "save_as_image_entire": {
+      "message": "‏تصویر از کل صفحه (‎.png‎)"
+   },
+   "save_as_image_visible": {
+      "message": "‏تصویر از قسمت قابل مشاهده صفحه (png.)"
+   },
+   "save_as_mhtml": {
+      "message": "‏آرشیو وب‌سایت (mht.)"
+   },
+   "save_audio": {
+      "message": "ذخیره صدا در Google Drive"
+   },
+   "save_image": {
+      "message": "ذخیره تصویر در Google Drive"
+   },
+   "save_link": {
+      "message": "ذخیره پیوند در Google Drive"
+   },
+   "save_page_as": {
+      "message": "ذخیره صفحه به‌عنوان:"
+   },
+   "save_to_folder_text": {
+      "message": "ذخیره در پوشه"
+   },
+   "save_to_google_drive_action": {
+      "message": "ذخیره در Google Drive"
+   },
+   "save_video": {
+      "message": "ذخیره ویدئو در Google Drive"
+   },
+   "saving": {
+      "message": "در حال ذخیره $1 در Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "«پوشه ذخیره» را انتخاب کنید"
+   },
+   "send_feedback": {
+      "message": "ارسال بازخورد"
+   },
+   "sign_out": {
+      "message": "خروج از سیستم"
+   },
+   "start_download_exception": {
+      "message": "دانلود شروع نشد: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "متن بدون عنوان"
+   },
+   "trash": {
+      "message": "حذف شده‌ها"
+   },
+   "unspecified_error": {
+      "message": "خطای نامشخص"
+   },
+   "upload_canceled": {
+      "message": "آپلود لغو شد"
+   },
+   "upload_failure": {
+      "message": "آپلود انجام نشد: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "درحال ذخیره $1 در Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "‏\u003Ca href=\"$1\" target=\"_blank\">پیوند را باز کنید\u003C/a>، و صفحه را با استفاده از کلید ذخیره در Google Drive{1}IMAGE_TAG{/1}، در سمت راست نوار آدرس، ذخیره کنید.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "این یک پیوند به یک صفحه وب است"
+   },
+   "video_default_filename": {
+      "message": "ویدئوی بدون عنوان"
+   },
+   "xml_default_filename": {
+      "message": "‏XML بدون عنوان"
+   }
+}

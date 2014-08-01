@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Läs mer"
+   },
+   "app_nacl_crash_report": {
+      "message": "Rapportera ett problem ..."
+   },
+   "application_description": {
+      "message": "Dokumentredigering"
+   },
+   "extension_description": {
+      "message": "Visa och redigera Microsoft Word-, Excel- och PowerPoint-filer i Google Dokument, Kalkylark och Presentationer"
+   },
+   "extension_name": {
+      "message": "Redigera Office-filer i Dokument, Kalkylark och Presentationer"
+   },
+   "file_loading_spinner_label": {
+      "message": "Läser in"
+   },
+   "file_not_found_msg": {
+      "message": "Den begärda filen verkar ha gått och flyttat på sig."
+   },
+   "file_not_found_title": {
+      "message": "Filen hittades inte."
+   }
+}

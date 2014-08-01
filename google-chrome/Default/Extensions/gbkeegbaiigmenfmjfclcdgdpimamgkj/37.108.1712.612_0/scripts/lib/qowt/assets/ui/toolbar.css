@@ -1,0 +1,156 @@
+/**
+ * editing toolbar
+ */
+
+
+.qowt-main-buttonbar-wrapper {
+  position: relative;
+  padding: 0 44px 0 58px;
+  min-height: 35px;
+  border-bottom: 1px solid #e5e5e5;
+  border-top: 1px solid #e5e5e5;
+  background: none;
+  background-color: #f5f5f5;
+  background-image: -webkit-linear-gradient(top, #f5f5f5, #eee);
+  border-color: #d9d9d9;
+  -webkit-box-shadow: inset 0 1px 0 0 #fff;
+}
+
+.qowt-main-toolbar {
+  background: white;
+}
+
+/* Set the text color. Background image specified in other CSS. */
+
+/* The Editor Button Bar. */
+.qowt-main-buttonbar {
+  width: 100%;
+  min-height: 35px;
+}
+
+.qowt-main-buttonbar .qowt-spacer {
+  border-left: 1px solid #d9d9d9;
+  display: inline-block;
+  height: 35px;
+  line-height: normal;
+  margin: 0px 5px 0 4px;
+  overflow: hidden;
+  vertical-align: top;
+}
+
+.qowt-main-buttonbar button {
+  /* Do not collapse the following as it prevents different icons
+   * from being added via other rules with lower specificity. */
+  background-position: center center;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  -webkit-border-radius: 2px;
+  width: 27px;
+  height: 24px;
+  outline: none;
+  margin: 4px 0 0 -1px;
+  color: #333;
+  font-size: 11px;
+  font-weight: bold;
+  text-decoration: none;
+  vertical-align: middle;
+  cursor: default;
+  /* Set a hidden border so we can use a border shadow on hover. */
+  border: solid 1px transparent;
+}
+
+.qowt-main-buttonbar button:disabled {
+  opacity: 0.3;
+}
+
+/* Button hover effect */
+.qowt-main-buttonbar button:not(disabled):not(disabled):hover {
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+  color: #222;
+  border-color: #c6c6c6;
+}
+
+/* Button effect for sticky (latched) buttons.*/
+.qowt-main-buttonbar button:not(disabled):not(disabled).latched,
+.qowt-main-buttonbar .qowt-menu-active button:not(disabled):not(disabled) {
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, .1);
+  background-color: #EEE;
+  border-color: #CCC;
+}
+
+/*****************************************************************************/
+
+/**
+ * Viewer Toolbar styling
+ */
+
+.qo-viewer-toolbar {
+  position: fixed;
+  z-index: 100;
+  bottom: 20px;
+  right: 20px;
+  opacity: 1;
+}
+
+.qo-viewer-toolbar.fade-in {
+  -webkit-transition: opacity 0.4s ease-in-out;
+}
+
+.qo-viewer-toolbar.fade-out {
+  -webkit-transition: opacity 0.4s ease-in-out 3s;
+}
+
+.qo-viewer-toolbar button {
+  width: 43px;
+  height: 36px;
+  border: 1px solid rgb(11, 9, 16);
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  margin: 0;
+  font-size: 12px;
+  cursor: default;
+  background-image: -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-box-shadow: 0 1px 2px gray, 0 3px 3px rgba(0, 0, 0, .2);
+  -webkit-user-select: none;
+  font-family: 'Open Sans', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  color: white;
+}
+
+.qo-viewer-toolbar button:focus{
+    outline: none;
+}
+
+menu.qo-viewer-toolbar button:first-child {
+  -webkit-border-top-left-radius: 3px;
+  -moz-border-border-top-left-radius: 3px;
+  -khtml-border-top-left-radius: 3px;
+  border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-bottom-left-radius: 3px;
+  -khtml-border-bottom-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+menu.qo-viewer-toolbar button:last-child {
+  -webkit-border-top-right-radius: 3px;
+  -moz-border-border-top-right-radius: 3px;
+  -khtml-border-top-right-radius: 3px;
+  border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-bottom-right-radius: 3px;
+  -khtml-border-bottom-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+menu.qo-viewer-toolbar button.label {
+  width: 70px;
+}
+
+menu.qo-viewer-toolbar button.label:not(:disabled):not(.disabled):hover {
+  background-image: -webkit-linear-gradient(rgb(60, 80, 119), rgb(15, 24, 41));
+}

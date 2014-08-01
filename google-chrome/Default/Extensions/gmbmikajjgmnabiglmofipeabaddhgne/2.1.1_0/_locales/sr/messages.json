@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Налог"
+   },
+   "apply": {
+      "message": "Примени"
+   },
+   "audio_default_filename": {
+      "message": "Ненасловљени аудио"
+   },
+   "authorization_needed": {
+      "message": "Морате да овластите Чување на Google диску."
+   },
+   "cancel": {
+      "message": "Откажи"
+   },
+   "cannot_capture_chrome": {
+      "message": "Снимање екрана на Chrome страницама није могуће. Покушајте са стандардном веб-страницом."
+   },
+   "change_dest_folder": {
+      "message": "Промени одредишни директоријум..."
+   },
+   "chrome_extension_name": {
+      "message": "Чување на Google диску"
+   },
+   "close": {
+      "message": "Затвори"
+   },
+   "convert_to_google_format": {
+      "message": "Конвертуј сачувани линк у формат Google уређивача"
+   },
+   "debug": {
+      "message": "Отклањање грешака"
+   },
+   "default_filename": {
+      "message": "Ненасловљено"
+   },
+   "download_canceled": {
+      "message": "Преузимање је отказано."
+   },
+   "download_failure": {
+      "message": "Преузимање није успело: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Преузимање није успело: нису примљени подаци."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Преузимање није успело: извор је превелик ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Преузимање $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Преузимање..."
+   },
+   "empty_page_capture": {
+      "message": "Није могуће снимити садржај странице у облику MHTML-а."
+   },
+   "enable_file_url": {
+      "message": "URL-ови датотека морају да имају омогућену опцију „Дозволи приступ URL-овима датотека“ на страници Подешавања додатака."
+   },
+   "ext_description": {
+      "message": "Сачувајте веб-садржај или снимак екрана директно у Google диск."
+   },
+   "failure_page_capture": {
+      "message": "Није могуће снимити садржај странице као MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Пошаљи повратне информације (само за интерну употребу)"
+   },
+   "file_bug_internal": {
+      "message": "Пријави грешку (само за интерну употребу)"
+   },
+   "file_was_saved": {
+      "message": "Датотека \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> је сачувана у \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">промени\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Датотека \u003Cspan id=\"$1\">\u003C/span> је премештена у отпад. Идите у \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google диск\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google диск"
+   },
+   "help": {
+      "message": "Помоћ"
+   },
+   "html_default_filename": {
+      "message": "Ненасловљени HTML"
+   },
+   "image_capture_failed": {
+      "message": "Снимање слике није успело."
+   },
+   "image_capture_failed_reason": {
+      "message": "Снимање слике није успело ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Ненасловљена слика"
+   },
+   "invalid_url": {
+      "message": "Неважећи URL: $1. Преузети URL-ови морају да почињу са http://, https:// или file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Разно"
+   },
+   "my_drive": {
+      "message": "Мој диск"
+   },
+   "options_header_text": {
+      "message": "Опције додатка Чување на Google диску"
+   },
+   "options_title": {
+      "message": "Чување на Google диску - опције"
+   },
+   "page_size_not_supported": {
+      "message": "Величина странице није подржана: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Ненасловљени PDF"
+   },
+   "percent": {
+      "message": "$1% готово",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Приватност"
+   },
+   "rename": {
+      "message": "Преименуј"
+   },
+   "rename_prompt": {
+      "message": "Преименуј:"
+   },
+   "save_as_html": {
+      "message": "HTML извор (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google документ"
+   },
+   "save_as_image_entire": {
+      "message": "Слика целе странице (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Слика видљиве странице (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Веб-архива (.mht)"
+   },
+   "save_audio": {
+      "message": "Сачувај аудио у апликацији Google диск"
+   },
+   "save_image": {
+      "message": "Сачувај слику у апликацији Google диск"
+   },
+   "save_link": {
+      "message": "Сачувај везу у апликацији Google диск"
+   },
+   "save_page_as": {
+      "message": "Сачувај страницу као:"
+   },
+   "save_to_folder_text": {
+      "message": "Сачувај у директоријуму"
+   },
+   "save_to_google_drive_action": {
+      "message": "Чување на Google диск"
+   },
+   "save_video": {
+      "message": "Сачувај видео у апликацији Google диск"
+   },
+   "saving": {
+      "message": "Чување датотеке $1 у апликацији Google диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Изабери директоријум за чување"
+   },
+   "send_feedback": {
+      "message": "Пошаљи повратне информације"
+   },
+   "sign_out": {
+      "message": "Одјави ме"
+   },
+   "start_download_exception": {
+      "message": "Грешка при покретању преузимања: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Ненасловљени текст"
+   },
+   "trash": {
+      "message": "Премести у отпад"
+   },
+   "unspecified_error": {
+      "message": "Неодређена грешка"
+   },
+   "upload_canceled": {
+      "message": "Отпремање је отказано"
+   },
+   "upload_failure": {
+      "message": "Отпремање није успело: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Отпремање датотеке $1 у Google диск...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Отворите везу\u003C/a> и сачувајте страницу користећи дугме Чување на Google диск десно од траке за адресу.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Ово је веза до веб-странице"
+   },
+   "video_default_filename": {
+      "message": "Ненасловљени видео"
+   },
+   "xml_default_filename": {
+      "message": "Ненасловљени XML"
+   }
+}

@@ -1,0 +1,190 @@
+{
+   "chrome_ext_cannot_connect": {
+      "message": "Nedá sa pripojiť k službe Google. Skontrolujte internetové pripojenie."
+   },
+   "chrome_ext_description": {
+      "message": "Služba Hangouts oživuje konverzácie fotkami, ikonami emodži a dokonca aj skupinovými videohovormi zadarmo."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Komentáre"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Odoslanie spätnej väzby"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "vás pozýva na skupinový videohovor v rámci konverzácie"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Odoslať spätnú väzbu"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Neprihlásený používateľ"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Okná služby Hangouts otvárať nad ostatnými oknami"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "vám volá cez videohovor služby Hangouts"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Povoliť režim na pozadí"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Prihlásiť do služby Hangouts po spustení prehliadača Chrome"
+   },
+   "chrome_ext_short_name": {
+      "message": "Hangouts"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Stav: Pripojená\nZmeškané správy"
+   },
+   "quasar_answer_button_text": {
+      "message": "Odpovedať"
+   },
+   "quasar_button_apply": {
+      "message": "Použiť"
+   },
+   "quasar_button_cancel": {
+      "message": "Zrušiť"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 hovorí...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Kliknutím prejdete na stránku..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Odmietnuť"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Zrušiť"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Platforma:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Vyjadrenie o ochrane osobných údajov"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Popis, ďalšie informácie a vaša e-mailová adresa sa odošlú spoločnosti Google. Preštudujte si Zmluvné podmienky služby Google Feedback. Odoslaním tohto obsahu udeľujete spoločnosti Google právo na jeho použitie na vylepšenie produktov a služieb. Prečítajte si naše Pravidlá ochrany osobných údajov."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Odoslať spätnú väzbu"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Informácie o systéme"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "Používateľský agent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Zo skupinového rozhovoru..."
+   },
+   "quasar_hangout_title": {
+      "message": "Používateľ $1 je na stretnutí vo videomiestnosti",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Pomocník"
+   },
+   "quasar_label_all_notification": {
+      "message": "Zakázať upozornenia"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Zakázať upozornenia rozhovoru"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Dĺžka časového limitu (v sekundách):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Povoliť automatické ukončenie časového limitu upozornení na rozhovor"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Zobraziť ikonu na paneli úloh"
+   },
+   "quasar_legend_notifications": {
+      "message": "Upozornenia"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "Aplikácia"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Spätná väzba"
+   },
+   "quasar_menutext_quit": {
+      "message": "Ukončiť"
+   },
+   "quasar_menutext_settings": {
+      "message": "Možnosti"
+   },
+   "quasar_menutext_signout": {
+      "message": "Odhlásiť sa"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Neznáme"
+   },
+   "quasar_sign_in": {
+      "message": "Prihlásiť sa"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Prihláste sa, ak sa chcete začať rozprávať so svojimi priateľmi"
+   },
+   "quasar_tip_connected": {
+      "message": "Stav: Pripojené"
+   },
+   "quasar_tip_connecting": {
+      "message": "Stav: Pripája sa"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Stav: Odpojené"
+   },
+   "quasar_tip_not_load": {
+      "message": "Stav: Chyba načítavania"
+   },
+   "quasar_tip_not_login": {
+      "message": "Stav: Bez prihlásenia"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Stav: Znova sa pripája"
+   },
+   "quasar_try_now": {
+      "message": "Skúsiť teraz"
+   },
+   "quasar_video_details": {
+      "message": "vám volá cez videohovor"
+   },
+   "quasar_video_title": {
+      "message": "Videohovor od používateľa $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "vám volá"
+   },
+   "quasar_voice_title": {
+      "message": "Hlasový hovor od používateľa $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}

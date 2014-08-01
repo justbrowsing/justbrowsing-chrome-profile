@@ -1,0 +1,1318 @@
+{
+   "adalreadyblocked": {
+      "description": "on the ad report page, telling a user there is nothing to do",
+      "message": "Sie müssen nichts mehr tun, da die Werbung schon durch eine der Filterlisten entfernt wird"
+   },
+   "adblock_auto_removes_ads_thats_all": {
+      "description": "Install page: explaining how to use adblock.",
+      "message": "AdBlock entfernt die Werbung automatisch. Es muss nichts weiter getan werden."
+   },
+   "adblock_click_for_details": {
+      "description": "Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button.  Do not translate the beginning 'AdBlock - ' part.",
+      "message": "AdBlock - für weitere Optionen bitte klicken"
+   },
+   "adblock_is_paused": {
+      "description": "resourceblocking page string",
+      "message": "AdBlock ist pausiert. Deshalb können keine Elemente aufgelistet werden. Starten Sie zuerst AdBlock wieder und versuchen Sie es erneut."
+   },
+   "adblock_outdated_chrome": {
+      "description": "Ad report page instructions to update AdBlock in Chrome. The link will point to 'chrome://chrome/extensions/'",
+      "message": "Sie benutzen eine veraltete Version von AdBlock. Bitte rufen Sie die \u003Ca href='#'>Erweiterungen-Seite\u003C/a> auf, aktivieren Sie den \"Entwicklermodus\" und klicken Sie auf \"Erweiterungen jetzt aktualisieren\"."
+   },
+   "adblock_wont_run_on_pages_matching": {
+      "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
+      "message": "AdBlock wird auf allen Seiten deaktiviert, auf die folgendes zutrifft:"
+   },
+   "adblockcontributors": {
+      "description": "Text for link to contributors page",
+      "message": "Eine Liste aller Mitwirkenden kann unter \u003Ca>'Mitwirkende'\u003C/a> eingesehen werden."
+   },
+   "adblockinglist": {
+      "description": "List for subscribed ad blocking fiters",
+      "message": "Filterlisten für Werbung"
+   },
+   "adblockreportinganad": {
+      "description": "title of ad report page",
+      "message": "AdBlock - Werbung melden"
+   },
+   "adblocksupport": {
+      "description": "A tab on the options page",
+      "message": "AdBlock Support"
+   },
+   "addthisfilter": {
+      "description": "resourceblocking page string",
+      "message": "Diesen Filter hinzufügen"
+   },
+   "adreport2": {
+      "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
+      "message": "Sie haben Werbung auf einer Seite gefunden? Dieser Assistent wird Ihnen dabei helfen, diese Werbung zu melden!\u003Cbr/> Hinweis: Das Melden von Werbung ist freiwillig. Sollten Sie keine Werbung melden wollen, können Sie dieses Fenster schließen und die Werbung über einen Filter im Tab 'Anpassen' der AdBlock-Einstellungen hinzufügen."
+   },
+   "adstillappear": {
+      "description": "question on ad reporting page",
+      "message": "Wird die Werbung noch angezeigt?"
+   },
+   "advanced_options2": {
+      "description": "Options page checkbox",
+      "message": "Erweiterte Einstellungen anzeigen (für erfahrene Nutzer)"
+   },
+   "allow_whitelisting_youtube_channels": {
+      "description": "Option on first tab",
+      "message": "Zulassen von Werbung auf bestimmten YouTube-Kanälen aktivieren"
+   },
+   "anysite": {
+      "description": "resourceblocking page string",
+      "message": "auf jeder Seite"
+   },
+   "appliedwhenbrowsing": {
+      "description": "resourceblocking page string",
+      "message": "Dieser Filter wird angewendet, sobald Sie im Internet surfen:"
+   },
+   "betalabel": {
+      "description": "Option on first tab page",
+      "message": "Beta"
+   },
+   "blacklistclickmessage": {
+      "description": "Message at the top of the blacklist options tab",
+      "message": "Klicken Sie mit einem Rechtsklick auf Seiten mit Werbung, um diese zu entfernen -- oder entfernen Sie die Werbung hier manuell."
+   },
+   "blacklisterattrwillbe": {
+      "description": "Checkbox label",
+      "message": "$attribute$ wird $value$ sein",
+      "placeholders": {
+         "attribute": {
+            "content": "$1",
+            "example": "class"
+         },
+         "value": {
+            "content": "$2",
+            "example": "AdBanner"
+         }
+      }
+   },
+   "blacklisterblockedelement": {
+      "description": "Tells the user what the blocked element is on the slider page",
+      "message": "Entferntes Element:"
+   },
+   "blacklisterblocksalloftype": {
+      "description": "Warns the user that all elements of type X will be blocked",
+      "message": "Achtung: Dieser Filter entfernt alle $elementtype$-Elemente auf dieser Seite!",
+      "placeholders": {
+         "elementtype": {
+            "content": "$1",
+            "example": "DIV"
+         }
+      }
+   },
+   "blacklistereditfilter": {
+      "description": "Text if the user wants to manually edit a filter.  'OK' is the standard javascript popup button text.",
+      "message": "Bitte geben Sie einen korrekten Filter ein und bestätigen Sie mit OK"
+   },
+   "blacklistereditinvalid1": {
+      "description": "Messagebox if the manually edited filter is invalid. Error messages are not translated.",
+      "message": "Der Filter ist ungültig: $exception$",
+      "placeholders": {
+         "exception": {
+            "content": "$1",
+            "example": "This filter is not supported"
+         }
+      }
+   },
+   "blacklistermatches": {
+      "description": "Tells the user multiple matches were found",
+      "message": "Dies trifft auf $matchcount$ Elemente dieser Seite zu.",
+      "placeholders": {
+         "matchcount": {
+            "content": "$1",
+            "example": "5"
+         }
+      }
+   },
+   "blacklisternofilter": {
+      "description": "Warning if the user hasn't specified a filter",
+      "message": "Warnung: Kein Filter angegeben!"
+   },
+   "blacklisternotsure": {
+      "description": "Blacklister attribute choosing page message.  'Block it!' must be the same as the text of the 'buttonblockit' message.",
+      "message": "\u003Cb>Nicht sicher?\u003C/b> Klicken Sie einfach auf 'Entfernen!'."
+   },
+   "blacklisteroptions1": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "Welches Merkmal könnte diese Werbung bei jedem Besuch der Seite haben?"
+   },
+   "blacklisteroptionstitle": {
+      "description": "Blacklister options page title",
+      "message": "Letzter Schritt: Was macht dies zu Werbung?"
+   },
+   "blacklistersinglematch": {
+      "description": "Tells the user only one match was found",
+      "message": "Dies trifft auf \u003Cb>1\u003C/b> Element dieser Seite zu."
+   },
+   "blacklisterthefilter": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "Filter (kann in den AdBlock-Einstellungen bearbeitet werden):"
+   },
+   "blacklistertype": {
+      "description": "node name is called 'Type'",
+      "message": "Typ"
+   },
+   "blacklisterwarningnofilter": {
+      "description": "Warns the user that no filter was specified",
+      "message": "Warnung: kein Filter angegeben!"
+   },
+   "block_an_ad_on_this_page": {
+      "description": "Toolbar button menu entry and context menu entry",
+      "message": "Werbung auf dieser Seite entfernen"
+   },
+   "block_by_url_instead": {
+      "description": "Link on blacklister slider page",
+      "message": "Für erfahrene Nutzer: Werbung über ihre Adresse entfernen"
+   },
+   "block_this_ad": {
+      "description": "Context and popup menu entry",
+      "message": "Diese Werbung entfernen"
+   },
+   "blockanadtitle": {
+      "description": "Title of the first two dialogs of the blacklister",
+      "message": "Werbung entfernen"
+   },
+   "blockdomain": {
+      "description": "Message of the url and css -blocking area",
+      "message": "Domain der zutreffenden Seite"
+   },
+   "blocked_ads": {
+      "description": "Title for popup menu section showing number of ads blocked.",
+      "message": "Anzahl entfernter Werbung:"
+   },
+   "blocked_n_in_total": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked since AdBlock was installed. $count$ will be a number between 1 and 999,999,999.",
+      "message": "$count$ gesamt",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123,456\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blocked_n_on_this_page": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked on this page. $count$ will be a number between 1 and 999.",
+      "message": "$count$ auf dieser Seite",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blockeverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "Jedes Element entfernen, das folgendes enthält:"
+   },
+   "blockmoreads": {
+      "description": "Section header on third tab",
+      "message": "Weitere Werbung entfernen:"
+   },
+   "blockurlwithtext": {
+      "description": "Message of the url-blocking area",
+      "message": "URLs mit diesem Text blockieren"
+   },
+   "buttonback": {
+      "description": "Back to previous wizard page button",
+      "message": "Zurück"
+   },
+   "buttonblockit": {
+      "description": "Block button",
+      "message": "Entfernen!"
+   },
+   "buttoncancel": {
+      "description": "Cancel button",
+      "message": "Abbrechen"
+   },
+   "buttonedit": {
+      "description": "Edit filter manually button",
+      "message": "Bearbeiten"
+   },
+   "buttonexclude": {
+      "description": "Button for excluding a domain in the whitelister dialog",
+      "message": "Ausnahme hinzufügen"
+   },
+   "buttonlooksgood": {
+      "description": "Looks good button",
+      "message": "Sieht gut aus!"
+   },
+   "buttonok": {
+      "description": "OK button",
+      "message": "OK!"
+   },
+   "cantblockflash": {
+      "description": "Result of the final ad report question",
+      "message": "Werbung in Flash oder anderen Plugins kann (noch) nicht entfernt werden. Es wird noch auf die Unterstützung durch den Browser und WebKit gewartet."
+   },
+   "cantblockflashwarning": {
+      "description": "Text of the final ad report question",
+      "message": "Erscheint die Werbung vor oder in einem Video oder einem anderen Plugin, wie z.B. einem Flash-Spiel?"
+   },
+   "casesensitive": {
+      "description": "resourceblocking page string",
+      "message": "Dieser Filter soll Groß- und Kleinschreibung beachten:"
+   },
+   "changelabel": {
+      "description": "link to change resources on the resourceblock page",
+      "message": "anderes Element auswählen"
+   },
+   "checkforupdates": {
+      "description": "Displayed when AdBlock is checking the newest available version",
+      "message": "Updates werden abgefragt (dauert nur wenige Sekunden)..."
+   },
+   "checkinfirefox_1": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Installieren Sie Firefox $chrome$, falls Sie es noch nicht installiert haben.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome2'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_2": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad. Don't translate the name 'AdBlock Plus'.",
+      "message": "Installieren Sie Adblock Plus für Firefox $chrome$, falls Sie es noch nicht installiert haben.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='adblockforchrome'>\u003C/span>",
+            "example": "'or AdBlock for Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_3": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Abonnieren Sie im gewählten Browser die selben Filterlisten wie hier (außer den AdBlock-Standardfiltern falls Sie Firefox nutzen)."
+   },
+   "checkinfirefox_4": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Rufen Sie die Seite mit Werbung im gewählten Browser auf."
+   },
+   "checkinfirefox_5": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Erscheint die Werbung auch in diesem Browser?"
+   },
+   "checkinfirefoxtitle": {
+      "description": "tell a user to see if a reported ad also appears in Firefox/Chrome",
+      "message": "In Firefox $chrome$ überprüfen",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome1'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinternetconnection": {
+      "description": "Displayed when AdBlock is checking the newest available version and an error occurs while reporting an ad on adreport page",
+      "message": "Um Werbung zu melden muss eine Internetverbindung bestehen."
+   },
+   "chromebutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "message": "Um den Button zu verbergen, klicken Sie mit einem Rechtsklick auf den Button und wählen Sie 'Schaltfläche verbergen'. Der Button kann unter chrome://chrome/extensions wieder aktiviert werden."
+   },
+   "cleanuplist2": {
+      "description": "Option at the bottom of the third options tab",
+      "message": "Filter überprüfen und fehlerhafte Filter entfernen"
+   },
+   "clickthead": {
+      "description": "When you have to click the ad to continue",
+      "message": "Klicken Sie auf die Werbung und dieser Assistent wird Ihnen dabei helfen, die Werbung zu entfernen."
+   },
+   "clickupdatefilters": {
+      "description": "instruction on ad report page",
+      "message": "Aktualisieren Sie Ihre Filterlisten: \u003Ca>Filterlisten aktualisieren\u003C/a>"
+   },
+   "close": {
+      "description": "resourceblocking page string",
+      "message": "Schließen"
+   },
+   "close_tab_begin_browsing": {
+      "description": "Install page string",
+      "message": "Sie können diesen Tab schließen und nun ohne Werbung im Internet surfen. Viel Spaß!"
+   },
+   "confirm_undo_custom_filters": {
+      "description": "Confirmation message when user wants to undo their custom blocks for a domain. $count$ will be a number between 1 and 999,999,999, $host$ will be the domain where the custom blocks will be reset",
+      "message": "Sind Sie sicher, dass Sie $count$ Filter entfernen wollen, die Sie für $host$ erstellt haben?",
+      "placeholders": {
+         "count": {
+            "content": "$1",
+            "example": "The number of custom blocks for a domain."
+         },
+         "host": {
+            "content": "$2",
+            "example": "code.google.ph, ph.msn.com, stackoverflow.com"
+         }
+      }
+   },
+   "correctfilters": {
+      "description": "on the ad report page, label describing having the right set of filters",
+      "message": "Passende Filter"
+   },
+   "csstomatch": {
+      "description": "Message of the css-hiding area",
+      "message": "zutreffendes CSS"
+   },
+   "customfilters": {
+      "description": "List for custom filters the user subscribed to",
+      "message": "Eigene Filterlisten"
+   },
+   "custompattern": {
+      "description": "Label in front of the 'custom block pattern' textbox in resourceblock, after clicking a resource",
+      "message": "benutzerdefiniert:"
+   },
+   "debuginlogoption": {
+      "description": "Option on first tab page",
+      "message": "Debug-Berichte in der Fehlerkonsole anzeigen (verlangsamt AdBlock)"
+   },
+   "description2": {
+      "description": "Extension description in manifest",
+      "message": "Die beliebteste Chrome-Erweiterung, mit über 15 Millionen Nutzern!  Entfernt Werbung im ganzen Internet."
+   },
+   "disableallextensions": {
+      "description": "instruction on ad report page",
+      "message": "Deaktivieren Sie alle Erweiterungen außer AdBlock."
+   },
+   "disabled_by_filter_lists": {
+      "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
+      "message": "AdBlock ist durch eine Ihrer Filterlisten auf dieser Seite deaktiviert."
+   },
+   "disabled_on_this_page": {
+      "description": "Message shown in toolbar button on web pages that have been whitelisted.",
+      "message": "AdBlock ist auf dieser Seite deaktiviert."
+   },
+   "disabledwhenbrowsing": {
+      "description": "On the resourceblocking page, choose on which sites the filter should be disabled",
+      "message": "Dieser Filter wird deaktiviert:"
+   },
+   "disableforchromeandsafaristeptwo": {
+      "description": "Step 2 for disabling chrome and safari extensions",
+      "message": "Entfernen Sie bei allen Erweiterungen das Häkchen der \"Aktiviert\"-Checkbox \u003Cb>außer\u003C/b> bei AdBlock.  \u003Cb>Lassen Sie AdBlock aktiviert\u003C/b>."
+   },
+   "disableforchromestepone": {
+      "description": "Step 1 for disabling chrome extensions",
+      "message": "Öffnen Sie die \u003Ca href='#'>Erweiterungen-Seite\u003C/a>"
+   },
+   "disableforopera": {
+      "description": "Opera instructions",
+      "message": "In Opera"
+   },
+   "disableforoperainstructions": {
+      "description": "shows user how to disable all their extensions in Opera.",
+      "message": "Klicken Sie oben links auf den Menü-Button -> Erweiterungen -> Erweiterungen verwalten. Deaktivieren Sie alle Erweiterungen (\u003Cb>außer\u003C/b> bei AdBlock) indem Sie auf den \"Deaktivieren\"-Button klicken."
+   },
+   "disableforsafaristepone": {
+      "description": "Step 1 for disabling safari extensions",
+      "message": "Klicken Sie auf Safari (Menübar) &rarr; Einstellungen ... &rarr; Erweiterungen."
+   },
+   "doesntmatchoriginal": {
+      "description": "resourceblocking page string",
+      "message": "Das Muster das Sie eingegeben haben trifft nicht auf das Element zu das Sie entfernen wollten! Trotzdem fortfahren?"
+   },
+   "dont_run_on_pages_on_domain": {
+      "description": "Menu entry to open the whitelist wizard.",
+      "message": "AdBlock auf Seiten dieser Domain deaktivieren"
+   },
+   "dont_run_on_this_page": {
+      "description": "Menu entry to whitelist a page",
+      "message": "Ausnahmeregel für diese Seite hinzufügen"
+   },
+   "enable_adblock": {
+      "description": "Link text to un-whitelist a page, displayed immediately after 'disabled_on_this_page'.",
+      "message": "AdBlock auf dieser Seite aktivieren"
+   },
+   "excludedomainorurl": {
+      "description": "Message of the exclude area",
+      "message": "Domain oder Adresse, für die AdBlock deaktiviert sein soll"
+   },
+   "excludefilterremoved": {
+      "description": "Warning when a page exclusion rule was removed in resourceblock.html",
+      "message": "Der Filter wurde entfernt. Bitte aktualisieren Sie die Seite, damit eine Liste mit Elementen erstellt werden kann."
+   },
+   "failedtofetchfilter": {
+      "description": "Error messagebox",
+      "message": "Filterlistenabruf fehlgeschlagen!"
+   },
+   "fetchinglabel": {
+      "description": "Status label",
+      "message": "Abrufen... bitte warten."
+   },
+   "filteradblock_custom": {
+      "description": "A filter list. Don't translate 'AdBlock'",
+      "message": "AdBlock-Standardfilter (empfohlen)"
+   },
+   "filterannoyances": {
+      "description": "Name of the filter list",
+      "message": "Fanboy's Annoyances (entfernt störende/lästige Inhalte auf Webseiten)"
+   },
+   "filterantisocial": {
+      "description": "Name of the filter list",
+      "message": "Antisocial Filterliste (entfernt Buttons von sozialen Netzwerken)"
+   },
+   "filterchinese": {
+      "description": "language",
+      "message": "chinesisch"
+   },
+   "filterczech": {
+      "description": "Language names for a filter list",
+      "message": "tschechisch und slowakisch"
+   },
+   "filterdanish": {
+      "description": "language",
+      "message": "dänisch"
+   },
+   "filterdutch": {
+      "description": "language",
+      "message": "niederländisch"
+   },
+   "filtereasylist": {
+      "description": "A filter list. Don't translate 'EasyList'",
+      "message": "EasyList (empfohlen)"
+   },
+   "filtereasylist_plun_korean": {
+      "description": "language",
+      "message": "koreanisch"
+   },
+   "filtereasylist_plus_bulgarian": {
+      "description": "language",
+      "message": "bulgarisch"
+   },
+   "filtereasylist_plus_finnish": {
+      "description": "language",
+      "message": "finnisch"
+   },
+   "filtereasylist_plus_french": {
+      "description": "language",
+      "message": "französisch"
+   },
+   "filtereasylist_plus_german": {
+      "description": "language",
+      "message": "deutsch"
+   },
+   "filtereasylist_plus_greek": {
+      "description": "language",
+      "message": "griechisch"
+   },
+   "filtereasylist_plus_indonesian": {
+      "description": "A filter list.",
+      "message": "Indonesisch"
+   },
+   "filtereasylist_plus_polish": {
+      "description": "language",
+      "message": "polnisch"
+   },
+   "filtereasylist_plus_romanian": {
+      "description": "language",
+      "message": "rumänisch"
+   },
+   "filtereasylist_plus_spanish": {
+      "description": "language",
+      "message": "spanisch"
+   },
+   "filtereasyprivacy": {
+      "description": "A filter list. Don't translate the name 'EasyPrivacy'.",
+      "message": "EasyPrivacy (Privatsphärenschutz)"
+   },
+   "filterhasbeenadded": {
+      "description": "resourceblocking page string (the 'slash n' is a line break)",
+      "message": "Der Filter wurde hinzugefügt!\nAktualisieren Sie die Seite, um das Ergebnis zu sehen!"
+   },
+   "filterhungarian": {
+      "description": "language",
+      "message": "ungarisch"
+   },
+   "filterisraeli": {
+      "description": "language",
+      "message": "israelisch"
+   },
+   "filteritalian": {
+      "description": "language",
+      "message": "italienisch"
+   },
+   "filterjapanese": {
+      "description": "language",
+      "message": "japanisch"
+   },
+   "filterlatvian": {
+      "description": "A filter list.",
+      "message": "Lettisch"
+   },
+   "filterlistlink": {
+      "description": "Explanation of the filter lists",
+      "message": "Abonnieren Sie nicht mehr Filterlisten, als Sie wirklich benötigen -- jede weitere Filterliste verlangsamt den Browser etwas! Credits und weitere Filterlisten finden Sie \u003Ca>hier\u003C/a>."
+   },
+   "filterlistsrock": {
+      "description": "Header text on the Customize tab.  'Filter lists' should be the same text as the tabfilterlists message.",
+      "message": "Die Filterlisten entfernen die meiste Werbung im Internet.  Sie können außerdem:"
+   },
+   "filtermalware": {
+      "description": "A filter list.",
+      "message": "Malware-Schutz"
+   },
+   "filternorwegian": {
+      "description": "A filter list.",
+      "message": "Norwegisch"
+   },
+   "filterorigin": {
+      "description": "Tooltip of matching filter in resources list, telling which filter list contains the filter",
+      "message": "Filterherkunft:\n$list$",
+      "placeholders": {
+         "list": {
+            "content": "$1",
+            "example": "A filter list name OR AdBlock OR the translation of 'tabcustomize'"
+         }
+      }
+   },
+   "filterrussian": {
+      "description": "Language names for a filter list",
+      "message": "russisch und ukrainisch"
+   },
+   "filtersavewarning": {
+      "description": "Warning when blacklisting manually",
+      "message": "Achtung: Sollten Sie hier einen Fehler machen, können viele andere Filter sowie die Filter der Filterlisten beschädigt werden!\u003Cbr/>Lesen Sie zuerst das \u003Ca>Filtersyntax-Tutorial\u003C/a>, um zu lernen, wie man eigene Black- und Whitelistfilter erstellt und hinzufügt."
+   },
+   "filterstabtitle": {
+      "description": "Title of the filter list tab",
+      "message": "Filterlisten abonnieren"
+   },
+   "filterswedish": {
+      "description": "A filter list.",
+      "message": "Schwedisch"
+   },
+   "filterturkish": {
+      "description": "A filter list.",
+      "message": "Türkisch"
+   },
+   "findingads": {
+      "description": "When you press ctrl-shift-K the blacklister searches for ads",
+      "message": "Suche nach Werbung...\u003Cbr/>\u003Cbr/>\u003Ci>Dies dauert nur einen kurzen Moment.\u003C/i>"
+   },
+   "firefox_explanation": {
+      "description": "Explanation of the Check-in-Firefox step in the ad reporter",
+      "message": "Der Zweck dieser Frage ist herauszufinden wer Ihren Bericht erhalten soll. Sollten Sie diese Frage falsch beantworten wird der Bericht an die falschen Personen gesendet und möglicherweise ignoriert."
+   },
+   "fixityourself": {
+      "description": "telling a user who won't report an ad to us how to handle it for herself",
+      "message": "Sie können die Werbung auch im Tab 'Anpassen' der AdBlock-Einstellungen entfernen. Danke!"
+   },
+   "flashads": {
+      "description": "Title of the final ad report question if the ad didn't appear in FF",
+      "message": "Videos und Flash"
+   },
+   "format_site1_site2_site3": {
+      "description": "Example showing users how to input a list of sites on the Customize tab. You can translate the 'news' and 'siteN' but leave the '|'s and '~'s in place.",
+      "message": "Format: ~seite1.de|~seite2.com|~news.seite3.org"
+   },
+   "generaloptions": {
+      "description": "Title of first tab page",
+      "message": "Allgemeine Einstellungen"
+   },
+   "googletextads2": {
+      "description": "Option on first tab page",
+      "message": "Textanzeigen in den Google-Suchergebnissen anzeigen"
+   },
+   "headerfilter": {
+      "description": "resourceblocking page string",
+      "message": "Zutreffender Filter"
+   },
+   "headerresource": {
+      "description": "resourceblocking page string",
+      "message": "Element"
+   },
+   "headertype": {
+      "description": "resourceblocking page string",
+      "message": "Typ"
+   },
+   "here": {
+      "description": "This message is injected in other strings as a link/button",
+      "message": "hier"
+   },
+   "hide_this_button": {
+      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "message": "Diesen Button ausblenden"
+   },
+   "how_to_use_adblock": {
+      "description": "Install page section title",
+      "message": "AdBlock benutzen:"
+   },
+   "invalidListUrl": {
+      "description": "Message when you subscribe to a non-list URL",
+      "message": "Ungültige Filterlistenadresse. Dieser Filterlisteneintrag wird gelöscht."
+   },
+   "lang_czech": {
+      "description": "language",
+      "message": "tschechisch"
+   },
+   "lang_english": {
+      "description": "language",
+      "message": "englisch"
+   },
+   "lang_russian": {
+      "description": "language",
+      "message": "russisch"
+   },
+   "lang_slovak": {
+      "description": "language",
+      "message": "slowakisch"
+   },
+   "lang_ukranian": {
+      "description": "language",
+      "message": "ukrainisch"
+   },
+   "languagedropdowndescription": {
+      "description": "Dropdown list for language specific filters",
+      "message": "Filterlisten für andere Sprachen hinzufügen: "
+   },
+   "latest_version": {
+      "description": "On the Options > Help page, shows when there are no updates available for AdBlock",
+      "message": "Keine Updates für AdBlock verfügar."
+   },
+   "linkblockadbyurl": {
+      "description": "Link on the third tab",
+      "message": "Werbung über ihre Adresse entfernen"
+   },
+   "linkhidesection": {
+      "description": "Link on the third tab",
+      "message": "Teil einer Seite ausblenden"
+   },
+   "linkunblock": {
+      "description": "Link on the third tab",
+      "message": "Werbung auf einer Seite oder einer bestimmten Adresse anzeigen"
+   },
+   "loading": {
+      "description": "resourceblocking page string",
+      "message": "LÄDT..."
+   },
+   "manualfilteredit": {
+      "description": "Subtitle on the third tab",
+      "message": "Filter manuell bearbeiten:"
+   },
+   "modifydomain": {
+      "description": "Caption for the whitelist wizard slider that modifies the domain part of a URL",
+      "message": "Domain:"
+   },
+   "modifypath": {
+      "description": "Caption for the whitelist wizard slider that modifies the path part of a URL",
+      "message": "Seite:"
+   },
+   "multipledomainshint": {
+      "description": "resourceblocking page string",
+      "message": "Trennen Sie mehrere Adressen mit Kommas oder Leerzeichen"
+   },
+   "nextstep": {
+      "description": "resourceblocking page string",
+      "message": "Nächster Schritt"
+   },
+   "no": {
+      "description": "A negative response to a question",
+      "message": "Nein"
+   },
+   "nodefaultfilter1": {
+      "description": "instructions on ad report page pointing users to EasyList subscriptions list. 'Customize' should be the same message as 'tabcustomize'.",
+      "message": "AdBlock hat keine Filterliste für diese Sprache integriert.\u003Cbr/>Bitte versuchen Sie $link$ eine passende Liste zu finden, die für diese Sprache ausgelegt ist oder entfernen Sie die Werbung im Tab 'Anpassen' der AdBlock-Einstellungen.",
+      "placeholders": {
+         "link": {
+            "content": "\u003Ca id='link'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "noresourcessend2": {
+      "description": "resourceblocking page string",
+      "message": "Etwas ist schief gelaufen. Es wurden keine Resourcen übermittelt. Diese Seite wird sich nun schließen. Versuchen Sie die Webseite neu zu laden."
+   },
+   "nosearchresults": {
+      "description": "Text in resourceblock shown if no results are found after searching",
+      "message": "Keine Elemente gefunden"
+   },
+   "novalidurlpattern": {
+      "description": "resourceblocking page string",
+      "message": "Bitte geben Sie eine zutreffende und korrekte URL-Struktur ein!"
+   },
+   "only_block_ads_on_these_sites": {
+      "description": "Label for textbox where user enters a list of sites on Customize tab",
+      "message": "Werbung nur auf diesen Seiten entfernen:"
+   },
+   "onlyondomains": {
+      "description": "resourceblocking page string",
+      "message": "nur auf Seiten dieser Domain:"
+   },
+   "onlypagesonthisdomain": {
+      "description": "On the resourceblocking page, option to disable a filter only on a specific domain",
+      "message": "NUR auf Seiten dieser Domain:"
+   },
+   "onlyresourcetypes": {
+      "description": "resourceblocking page string",
+      "message": "Dieser Filter trifft auf folgende Elementtypen zu:"
+   },
+   "opera_120_install": {
+      "description": "Opera \u003C 12.10 warning during installation",
+      "message": "In Opera-Versionen vor Opera 12.10 kann es vorkommen, dass manche Werbung nicht entfernt wird, da es nicht möglich ist alle Filterregeln in diesen Versionen anzuwenden. Sobald Opera auf Version 12.10 aktualisiert wird besteht dieses Problem nicht mehr und Werbung wird komplett entfernt."
+   },
+   "opera_120_options": {
+      "description": "Opera \u003C 12.10 warning above options page",
+      "message": "In Opera-Versionen vor Opera 12.10 sind einige Optionen in grauer Schrift und deaktiviert, da diese erst ab Opera-Version 12.10 unterstützt werden."
+   },
+   "opera_allow_secure": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "Wenn Sie AdBlock auf sicheren Seiten benutzen möchten (Seiten mit einem Vorhängeschloss links in der Adressleiste), müssen Sie zuerst die Option für die \"Interaktion mit sicheren Seiten\" aktivieren."
+   },
+   "opera_can_also_change_setting": {
+      "description": "Message when the storage quota is reached, for advanced users in Opera",
+      "message": "Sie können auch den Wert $setting$ erhöhen",
+      "placeholders": {
+         "setting": {
+            "content": "$1",
+            "example": "opera:config#PersistentStorage|DomainQuotaForWidgetPreferences"
+         }
+      }
+   },
+   "opera_donations_button": {
+      "description": "Opera donate request in the button",
+      "message": "Ihnen gefällt diese Erweiterung? Dann erwägen Sie eine Spende über die Einstellungsseite!"
+   },
+   "opera_donations_install": {
+      "description": "Opera donate request in the install page",
+      "message": "Sollte Ihnen diese Erweiterung gefallen erwägen Sie bitte eine Spende über die Einstellungsseite."
+   },
+   "opera_enabledin": {
+      "description": "Hover text of items disabled in an older browser version",
+      "message": "Funktion unterstützt ab $browserversion$",
+      "placeholders": {
+         "browserversion": {
+            "content": "$1",
+            "example": "Opera 12.10"
+         }
+      }
+   },
+   "opera_excludedomainorurl": {
+      "description": "Opera version of the 'excludedomainorurl' string",
+      "message": "Domain auf der AdBlock nichts entfernen soll"
+   },
+   "opera_for_more_options": {
+      "description": "Install page string telling where to find the preferences in Opera. &rArr; makes a right arrow (->)",
+      "message": "Für weitere Einstellungen klicken Sie bitte auf den Toolbar-Button oder öffnen Sie die Einstellungen über Erweiterungen (im Menü) &rArr; Erweiterungen verwalten &rArr; Zahnrad-Symbol &rArr; Einstellungen"
+   },
+   "opera_linkunblock": {
+      "description": "Opera version of the 'linkunblock' string",
+      "message": "Werbung für eine Domain zulassen"
+   },
+   "opera_reenable_button": {
+      "description": "Opera browser button message when you click 'hide this button'",
+      "message": "Sie können den Button in den Einstellungen dieser Erweiterung wieder aktivieren"
+   },
+   "opera_secure_pages": {
+      "description": "Title of an area in the ad report page in Opera. Only visible if the opener tab was a secure url (https)",
+      "message": "Sichere Seiten"
+   },
+   "opera_secure_pages_enabled": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "Klicken Sie auf Erweiterungen (im Menü) &rArr; Erweiterungen verwalten... &rArr; klicken Sie auf das Zahnradsymbol bei AdBlock &rArr; Privatsphäre.\u003Cbr/> Ist die Option 'Interaktion mit sicheren Seiten zulassen' aktiviert?"
+   },
+   "opera_show_toolbar_button": {
+      "description": "Opera option to show/hide the button",
+      "message": "Toolbar-Button anzeigen"
+   },
+   "operabutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Opera displays on the Extensions page.",
+      "message": "Um den Button auszublenden, gehen Sie auf opera://extensions, und aktivieren Sie die Option \"In der Symbolleiste ausblenden\". Um den Button wieder einzublenden, deaktivieren Sie die Option."
+   },
+   "options": {
+      "description": "The text of the link on chrome://chrome/extensions that gets you to the Options page for an extension",
+      "message": "Einstellungen"
+   },
+   "optionstitle": {
+      "description": "Title for the options page",
+      "message": "AdBlock-Einstellungen"
+   },
+   "optionsversion": {
+      "description": "Version number",
+      "message": "Version $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.9"
+         }
+      }
+   },
+   "oradblockforchrome": {
+      "description": "used for placeholder in checkinfirefox_2 string",
+      "message": "oder AdBlock für Chrome"
+   },
+   "orchrome": {
+      "description": "used for placeholder in checkinfirefoxtitle and checkinfirefox_1 string",
+      "message": "oder Chrome"
+   },
+   "ordisablefilter": {
+      "description": "On the resourceblocking page, choice to disable a filter instead of allowing or blocking a specific resource",
+      "message": "... oder deaktivieren Sie den Filter:"
+   },
+   "orenteraurl": {
+      "description": "link for custom subscription",
+      "message": "...oder geben Sie eine Filterlistenadresse ein:"
+   },
+   "other": {
+      "description": "multiple choice option",
+      "message": "nichtgelistete Sprache"
+   },
+   "otherfilters": {
+      "description": "List for other filters the user subscribed to",
+      "message": "Andere Filterlisten"
+   },
+   "pagelanguagecheck": {
+      "description": "question on ad report page",
+      "message": "In welcher Sprache ist die Seite verfasst?"
+   },
+   "pause_adblock": {
+      "description": "Menu entry to pause AdBlock.",
+      "message": "AdBlock pausieren"
+   },
+   "performscan": {
+      "description": "instruction on ad report page",
+      "message": "Führen Sie einen vollständigen Scan Ihres Computers mit Ihrem Antivirus/Antimalware-Programm durch. Malware kann Werbung in Webseiten einfügen und somit AdBlock umgehen."
+   },
+   "project_home": {
+      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "message": "Projektseite"
+   },
+   "pwyw": {
+      "description": "Text of a payment request link",
+      "message": "Zahlen Sie, was Sie möchten!"
+   },
+   "reenableadsonebyone": {
+      "description": "tells the user to reenable the extensions one by one.",
+      "message": "Da die Werbung nun zuverlässig entfernt wird, müssen Sie herausfinden welche Erweiterung das Problem verursacht. Dazu aktivieren Sie der Reihe nach eine Erweiterung nach der anderen und aktualisieren die Webseite. Die Erweiterung bei der die Werbung wieder erscheint muss deaktiviert werden damit Werbung zuverlässig entfernt werden kann."
+   },
+   "refusetocheck": {
+      "description": "user is telling us they don't wish to investigate something for us",
+      "message": "Nicht überprüfen"
+   },
+   "reloadadpage": {
+      "description": "instruction on ad report page",
+      "message": "Laden Sie die Seite mit der Werbung neu."
+   },
+   "removefromlist": {
+      "description": "Label to remove a custom filter",
+      "message": "aus Liste entfernen"
+   },
+   "removelabel": {
+      "description": "link to remove a filter",
+      "message": "Entfernen"
+   },
+   "report_ad_on_page": {
+      "description": "Link in the button",
+      "message": "Werbung auf dieser Seite melden"
+   },
+   "reportfilterlistproblem": {
+      "description": "telling the user to report an ad to a filter list maintainer",
+      "message": "Dies ist ein Filterlistenproblem. Bitte melden Sie es hier: $link$",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "EXAMPLE 1: \u003Ca href='mailto:someguy@list.com'>John Doe\u003C/a>  EXAMPLE 2: \u003Ca href='http://easylist.org'>EasyList forums\u003C/a>"
+         }
+      }
+   },
+   "reportpubliclyavailable": {
+      "description": "Ad report page string, when you're about to submit a report",
+      "message": "Achtung: Ihr Bericht kann öffentlich zugänglich sein. Bitte beachten Sie dies, bevor Sie etwas Privates in Ihren Bericht einfügen."
+   },
+   "reporttous2": {
+      "description": "NOTE: non-English translations should replace the first sentence and instead say 'If you can speak English, you can report the ad to us \u003Ca>in the issue tracker\u003C/a>.'",
+      "message": "Falls Sie Englisch sprechen, können Sie uns die Werbung in unserem \u003Ca>Issue Tracker\u003C/a> melden."
+   },
+   "resourceblocklegend1": {
+      "description": "resourceblocking page string",
+      "message": "Legende:"
+   },
+   "resourceblocklegend2": {
+      "description": "resourceblocking page string",
+      "message": "entferntes Element"
+   },
+   "resourceblocklegend3": {
+      "description": "resourceblocking page string",
+      "message": "Element mit Ausnahmeregel"
+   },
+   "resourceblocklegend4": {
+      "description": "resourceblocking page string",
+      "message": "entfernbares Element"
+   },
+   "resourceblocklegend5": {
+      "description": "resourceblocking page string",
+      "message": "Regeln zum Verbergen treffen zu"
+   },
+   "resourceblocktitle": {
+      "description": "resourceblocking page string",
+      "message": "Element entfernen"
+   },
+   "resourcedomain": {
+      "description": "Text shown when hovering over an item in the third-party column",
+      "message": "Geladen auf der Seite mit dieser Domain:\n$domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "resourceiswhitelisted": {
+      "description": "resourceblocking page string",
+      "message": "Das ausgewählte Element wurde zu den Ausnahmen hinzugefügt. Sie können es deshalb nicht entfernen."
+   },
+   "retryaftersubscribe": {
+      "description": "instructions on ad report page telling users to subscribe to a filter list and then check again to see whether the ad exists",
+      "message": "Bitte abonnieren Sie diese Filterliste und versuchen Sie es erneut: $list_title$",
+      "placeholders": {
+         "list_title": {
+            "content": "$1",
+            "example": "French filters"
+         }
+      }
+   },
+   "safari50_updatenotice": {
+      "description": "A message shown to Safari 5.0 users urging them to upgrade",
+      "message": "Sie benutzen eine veraltete Version von Safari. Laden Sie sich die neueste Version von Safari herunter um mit dem AdBlock Toolbar-Button AdBlock pausieren, Ausnahmeregeln für Webseiten erstellen und Werbung melden zu können. \u003Ca>Jetzt herunterladen\u003C/a>."
+   },
+   "sameAdsOnDifferentPages": {
+      "description": "A question on the ad report page, asking if the user sees similar ads on different websites.",
+      "message": "Sehen Sie die gleiche oder ähnliche Werbung auf mehreren verschiedenen Seiten, wie z.B. Ihrer Homepage oder der Webseite Ihres Arbeitgebers, etc.?"
+   },
+   "savebutton": {
+      "description": "Save button",
+      "message": "Speichern"
+   },
+   "savereminder": {
+      "description": "Reminder to press save",
+      "message": "Vergessen Sie nicht zu speichern!"
+   },
+   "scancomputer": {
+      "description": "instruction on ad report page",
+      "message": "Scannen Sie Ihren Computer auf Malware"
+   },
+   "searchexplanation": {
+      "description": "Text in resourceblock when you hover your mouse over the search textbox",
+      "message": "Benutzen Sie * für Unbekanntes (ersetzt keine oder mehrere Zeichen).  Beispiel: 'banner*.gif grafik' trifft auf die Grafiken 'banner.gif', 'banner123.gif', und 'bannerxyz.gif' zu."
+   },
+   "searchplaceholder": {
+      "description": "Text in resourceblock shown in the search textbox before you type something",
+      "message": "Element suchen..."
+   },
+   "seethecode": {
+      "description": "Link to code behind AdBlock",
+      "message": "Der Quelltext von AdBlock kann \u003Ca>hier\u003C/a> eingesehen werden."
+   },
+   "selectlanguage": {
+      "description": "Text for the first option in Langage Dropdown for Filter Lists tab in options.  Include the ' -- ' on either side of your translation.",
+      "message": "-- Sprache auswählen --"
+   },
+   "selectresources": {
+      "description": "resourceblocking page string",
+      "message": "Wählen Sie das Element, das entfernt oder als Ausnahme definiert werden soll"
+   },
+   "show_ads_except_for": {
+      "description": "Section title for blacklisting section of Customize tab",
+      "message": "Werbung auf \u003Ci>allen\u003C/i> Seiten anzeigen, außer auf diesen Domains..."
+   },
+   "show_on_adblock_button": {
+      "description": "Label for checkbox letting user choose whether the toolbar button should show a badge with the number of ads blocked",
+      "message": "am AdBlock-Button anzeigen"
+   },
+   "show_resourcelist": {
+      "description": "Link in the button",
+      "message": "Entfernbare Elemente anzeigen"
+   },
+   "showcontextmenus2": {
+      "description": "Option on first tab page",
+      "message": "Anzahl geblockter Werbung im Rechtsklickmenü anzeigen"
+   },
+   "showlinkstolists2": {
+      "description": "Option on second tab page",
+      "message": "Links zu den Filterlisten anzeigen"
+   },
+   "similarAds": {
+      "description": "On the ad report page, see 'Do you see the same or similar...' / 'sameAdsOnDifferentPages'",
+      "message": "Gleiche/ähnliche Werbung auf mehreren Seiten"
+   },
+   "sliderexplanation": {
+      "description": "Blacklister slider page message",
+      "message": "Verschieben Sie den Regler so lange nach rechts, bis die Werbung komplett entfernt ist und der restliche Teil der Seite noch normal aussieht."
+   },
+   "slidertitle": {
+      "description": "Blacklister slider page title",
+      "message": "Schritt 1: Herausfinden, was entfernt werden soll"
+   },
+   "somethingwentwrong": {
+      "description": "Displayed when AdBlock is checking the newest available version and an error occurs",
+      "message": "Bei der Überprüfung auf Updates ist ein Fehler aufgetreten."
+   },
+   "spread_the_word": {
+      "description": "Text of a share link",
+      "message": "Teilen Sie es mit ihren Freunden!"
+   },
+   "status_disabled": {
+      "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
+      "message": "AdBlock kann auf dieser Domain nicht ausgeführt werden."
+   },
+   "status_paused": {
+      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "message": "AdBlock ist pausiert."
+   },
+   "stop_blocking_ads": {
+      "description": "Section header on third tab",
+      "message": "AdBlock auf Seiten deaktivieren:"
+   },
+   "storage_quota_exceeded": {
+      "description": "Message shown when the user uses more storage than allowed by the browser",
+      "message": "Sie haben den Speicherplatz, der AdBlock zur Verfügung steht, überschritten. Bitte beenden Sie einige Filterlistenabonnements!"
+   },
+   "subscribebutton": {
+      "description": "subscribe to a list button",
+      "message": "Abonnieren"
+   },
+   "subscribingfailed": {
+      "description": "abp: link subscriber result",
+      "message": "Fehlgeschlagen!"
+   },
+   "subscribingfinished": {
+      "description": "abp: link subscriber result",
+      "message": "Fertig!"
+   },
+   "subscribingtitle": {
+      "description": "abp: link subscriber title",
+      "message": "Filterliste abonnieren..."
+   },
+   "support": {
+      "description": "Instructions for help. Add '(in English only)' to your translation as we only offer support in English at this time.",
+      "message": "Haben Sie einen Fehler gefunden? Haben Sie eine Frage? Oder haben Sie eine neue Idee für AdBlock? \u003Ca>Unsere Support-Seite\u003C/a> (nur auf English) wird Ihnen weiterhelfen!"
+   },
+   "tabcustomize": {
+      "description": "A tab on the options page",
+      "message": "Eigene Filter"
+   },
+   "tabcustomizetitle": {
+      "description": "Title of the third tab",
+      "message": "AdBlock anpassen"
+   },
+   "tabfilterlists": {
+      "description": "A tab on the options page",
+      "message": "Filterlisten"
+   },
+   "tabgeneral": {
+      "description": "A tab on the options page",
+      "message": "Allgemein"
+   },
+   "tabsupport": {
+      "description": "Link to forum in options page",
+      "message": "Support"
+   },
+   "thats_it": {
+      "description": "Install page string",
+      "message": "Fertig!"
+   },
+   "thirdparty": {
+      "description": "Resource list column title telling if the resource originates from a different domain",
+      "message": "Drittanbieter"
+   },
+   "thirdpartycheckbox": {
+      "description": "resourceblocking page string",
+      "message": "auf jeder Seite AUSSER Seiten mit der Domain $domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "thisfilterwillbedisabled": {
+      "description": "On the resourceblocking page, followed by the filter the user chose to disable",
+      "message": "Dieser Filter wird deaktiviert:"
+   },
+   "translator_credit": {
+      "description": "Will be followed by a list of translator names (separate string)",
+      "message": "Übersetzung von:"
+   },
+   "translator_names": {
+      "example": "The translator's names go here. Example: Michael G, Drew R",
+      "message": "John Rey"
+   },
+   "typehiding": {
+      "description": "A resource type",
+      "message": "verborgen"
+   },
+   "typeimage": {
+      "description": "A resource type",
+      "message": "grafik"
+   },
+   "typemedia": {
+      "description": "A resource type",
+      "message": "audio/video"
+   },
+   "typeobject": {
+      "description": "A resource type",
+      "message": "interaktives objekt"
+   },
+   "typeobject_subrequest": {
+      "description": "A resource type",
+      "message": "object_subrequest"
+   },
+   "typeother": {
+      "description": "A resource type",
+      "message": "sonstiges"
+   },
+   "typepage": {
+      "description": "A resource type",
+      "message": "seite"
+   },
+   "typepopup": {
+      "description": "A resource type",
+      "message": "popup"
+   },
+   "typescript": {
+      "description": "A resource type",
+      "message": "skript"
+   },
+   "typestylesheet": {
+      "description": "A resource type",
+      "message": "css"
+   },
+   "typesubdocument": {
+      "description": "A resource type",
+      "message": "frame"
+   },
+   "typeunknown": {
+      "description": "A resource type",
+      "message": "unbekannt"
+   },
+   "typexmlhttprequest": {
+      "description": "A resource type",
+      "message": "xmlhttprequest"
+   },
+   "undo_last_block": {
+      "description": "Menu entry to let the user cancel the result of running the blacklist wizard.",
+      "message": "Selbst erstellte Filter für diese Domain wieder entfernen"
+   },
+   "unpause_adblock": {
+      "description": "Link text to unpause AdBlock, displayed immediately after 'status_paused'.",
+      "message": "AdBlock wieder starten"
+   },
+   "unsubscribedlabel": {
+      "description": "Status label",
+      "message": "Abonnement beendet."
+   },
+   "update_available": {
+      "description": "On the Options > Support page, shows when there are updates available for AdBlock.",
+      "message": "Es ist ein Update für AdBlock verfügbar! Klicken Sie $here$ um AdBlock zu aktualisieren. \u003Cbr> Hinweis: Um Updates automatisch zu erhalten, klicken Sie auf Safari > Einstellungen ... > Erweiterungen > Updates \u003Cbr> und aktivieren die Option 'Updates automatisch installieren'.",
+      "placeholders": {
+         "here": {
+            "content": "\u003Ca id='here'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "updateddayago": {
+      "description": "Label for subscription",
+      "message": "vor 1 Tag aktualisiert"
+   },
+   "updateddaysago": {
+      "description": "Label for subscription",
+      "message": "vor $days$ Tagen aktualisiert",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedhourago": {
+      "description": "Label for subscription",
+      "message": "vor 1 Stunde aktualisiert"
+   },
+   "updatedhoursago": {
+      "description": "Label for subscription",
+      "message": "vor $hours$ Stunden aktualisiert",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedminuteago": {
+      "description": "Label for subscription",
+      "message": "vor 1 Minute aktualisiert"
+   },
+   "updatedminutesago": {
+      "description": "Label for subscription",
+      "message": "vor $minutes$ Minuten aktualisiert",
+      "placeholders": {
+         "minutes": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedrightnow": {
+      "description": "Label for subscription",
+      "message": "jetzt aktualisiert"
+   },
+   "updatedsecondsago": {
+      "description": "Label for subscription",
+      "message": "vor $seconds$ Sekunden aktualisiert",
+      "placeholders": {
+         "seconds": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatenowmessage2": {
+      "description": "update filters text + button",
+      "message": "Aktualisierungen werden automatisch abgerufen. Zusätzlich können Sie auch \u003Ca>jetzt aktualisieren\u003C/a>"
+   },
+   "updateyourlists": {
+      "description": "instruction on ad report page",
+      "message": "Stellen Sie sicher, dass Ihre Filterlisten aktuell sind"
+   },
+   "warning_overrules_filters": {
+      "description": "Message on the third tab of the options page, explaining the danger of adding a blacklisting filter",
+      "message": "Achtung: Sie werden auf allen anderen Seiten Werbung sehen!\u003Cbr>Dieser Filter überschreibt alle anderen Filter für diese Seiten."
+   },
+   "whats_this": {
+      "description": "Text of a link pointing to the explanation of a new feature",
+      "message": "Was ist das?"
+   },
+   "whitelist_youtube_channel": {
+      "description": "Text which is displayed on YouTube in popup menu",
+      "message": "Werbung auf diesem YouTube-Kanal zulassen"
+   },
+   "whitelistertitle2": {
+      "description": "The title of the whitelister dialog",
+      "message": "AdBlock deaktivieren auf..."
+   },
+   "whitelisteverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "Ausnahmeregel für jedes Element hinzufügen, das folgendes enthält:"
+   },
+   "wildcardhint": {
+      "description": "resourceblocking page string",
+      "message": "Hinweis: Sie können * als Platzhalter benutzen"
+   },
+   "work_around_hulu_problems": {
+      "description": "Advanced Options page checkbox, which users only need to use if Hulu.com videos break.  It directs the user to restart their browser in order for changes to the checkbox to take effect",
+      "message": "Übergangslösung für nicht startende Videos auf Hulu.com aktivieren (erfordert Neustart des Browsers)"
+   },
+   "yes": {
+      "description": "A positive response to a question",
+      "message": "Ja"
+   },
+   "you_can_slide_to_change": {
+      "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
+      "message": "Sie können hier genau einstellen, auf welchen Seiten AdBlock deaktiviert sein soll."
+   },
+   "you_know_thats_a_bad_idea_right": {
+      "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
+      "message": "Je mehr Filterlisten Sie abonnieren, desto langsamer läuft AdBlock. Zuviele Filterlistenabonnements können sogar zum Browsercrash auf einigen Seiten führen. Klicken Sie auf OK, um diese Liste trotzdem zu abonnieren."
+   }
+}

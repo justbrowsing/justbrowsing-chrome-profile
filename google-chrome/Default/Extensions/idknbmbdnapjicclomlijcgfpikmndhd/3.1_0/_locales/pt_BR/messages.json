@@ -3,13 +3,13 @@
       "message": "Cancelar"
    },
    "connectbutton": {
-      "message": "Conectar seu dispositivo m\u00F3vel"
+      "message": "Conectar seu dispositivo móvel"
    },
    "disconnect": {
       "message": "Desconectar"
    },
    "error": {
-      "message": "N\u00E3o foi poss\u00EDvel enviar esta p\u00E1gina para seu $1. $2",
+      "message": "Não foi possível enviar esta página para seu $1. $2",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -20,10 +20,10 @@
       }
    },
    "errorgeneratingsnapshot": {
-      "message": "Ocorreu um erro ao gerar o instant\u00E2neo."
+      "message": "Ocorreu um erro ao gerar o instantâneo."
    },
    "errorretrieving": {
-      "message": "N\u00E3o foi poss\u00EDvel se conectar a seus dispositivos m\u00F3veis. $1",
+      "message": "Não foi possível se conectar a seus dispositivos móveis. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -31,7 +31,7 @@
       }
    },
    "extensiondescription": {
-      "message": "Enviar p\u00E1ginas da web do Chrome em seu computador para o Chrome em seu telefone ou tablet."
+      "message": "Enviar páginas da web do Chrome em seu computador para o Chrome em seu telefone ou tablet."
    },
    "extensionname": {
       "message": "Chrome to Mobile"
@@ -43,10 +43,10 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "includesnapshotmessage": {
-      "message": "Tamb\u00E9m enviar c\u00F3pia para visualiza\u00E7\u00E3o off-line (gerando...)"
+      "message": "Também enviar cópia para visualização off-line (gerando...)"
    },
    "includesnapshotmessagewithsize": {
-      "message": "Tamb\u00E9m enviar c\u00F3pia para visualiza\u00E7\u00E3o off-line ($1).",
+      "message": "Também enviar cópia para visualização off-line ($1).",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -60,7 +60,7 @@
       "message": "https://support.google.com/chrome/?p=chrome_help"
    },
    "nomobiledevicesfound": {
-      "message": "Nenhum dispositivo encontrado. Conectar um dispositivo m\u00F3vel. $1",
+      "message": "Nenhum dispositivo encontrado. Conectar um dispositivo móvel. $1",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -92,7 +92,7 @@
       }
    },
    "searchingfordevices": {
-      "message": "Pesquisando dispositivos m\u00F3veis"
+      "message": "Pesquisando dispositivos móveis"
    },
    "sendbutton": {
       "message": "Enviar"
@@ -101,7 +101,7 @@
       "message": "Enviando"
    },
    "sendthispageto": {
-      "message": "Enviar esta p\u00E1gina para $1.",
+      "message": "Enviar esta página para $1.",
       "placeholders": {
          "1": {
             "content": "$1"
@@ -109,18 +109,18 @@
       }
    },
    "sendthispagetolist": {
-      "message": "Enviar esta p\u00E1gina para:"
+      "message": "Enviar esta página para:"
    },
    "sent": {
       "message": "Enviado!"
    },
    "snapshotdisabledmessage": {
-      "message": "Esta vers\u00E3o do Google Chrome n\u00E3o \u00E9 compat\u00EDvel com instant\u00E2neos. Instant\u00E2neos s\u00E3o a vers\u00E3o off-line naveg\u00E1vel de uma p\u00E1gina. Use a \u003Ca href='javascript:void()' onclick='openDevChannelTab()'\u003Evers\u00E3o do canal dev\u003C/a\u003E para permitir instant\u00E2neos."
+      "message": "Esta versão do Google Chrome não é compatível com instantâneos. Instantâneos são a versão off-line navegável de uma página. Use a \u003Ca href='javascript:void()' onclick='openDevChannelTab()'>versão do canal dev\u003C/a> para permitir instantâneos."
    },
    "tryagain": {
       "message": "Tentar novamente."
    },
    "welcomemessage": {
-      "message": "Enviar p\u00E1ginas da web para seu telefone ou tablet."
+      "message": "Enviar páginas da web para seu telefone ou tablet."
    }
 }

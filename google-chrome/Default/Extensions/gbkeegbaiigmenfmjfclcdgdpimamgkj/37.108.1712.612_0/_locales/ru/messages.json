@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Подробнее…"
+   },
+   "app_nacl_crash_report": {
+      "message": "Сообщить о проблеме"
+   },
+   "application_description": {
+      "message": "Редактирование документов"
+   },
+   "extension_description": {
+      "message": "Просмотр и редактирование файлов Microsoft Word, Excel и PowerPoint в приложениях \"Google Документы\", \"Таблицы\" и \"Презентации\""
+   },
+   "extension_name": {
+      "message": "Редактирование файлов Office в Документах, Таблицах и Презентациях"
+   },
+   "file_loading_spinner_label": {
+      "message": "Загрузка…"
+   },
+   "file_not_found_msg": {
+      "message": "Запрошенный файл перемещен."
+   },
+   "file_not_found_title": {
+      "message": "Файл не найден."
+   }
+}

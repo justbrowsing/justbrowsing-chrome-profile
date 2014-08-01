@@ -1,0 +1,214 @@
+/*
+	welcometips.css
+	Copyright © 2009 - 2012  WOT Services Oy <info@mywot.com>
+
+	This file is part of WOT.
+
+	WOT is free software: you can redistribute it and/or modify it
+	under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	WOT is distributed in the hope that it will be useful, but WITHOUT
+	ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+	or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public
+	License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with WOT. If not, see <http://www.gnu.org/licenses/>.
+*/
+
+/* ! important in an attempt to override conflicting styles on websites where this is included */
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.wot-wt-introtip,
+.wot-wt-dtip {
+    border: 1px solid #cccccc;
+    border-radius: 2px;
+    box-shadow: 0px 0px 7px #888888;
+    padding: 1em 1em 0.8em 1em;
+    font-family: arial;
+    background-color: white;
+}
+
+.wot-wt-introtip {
+    margin-top: 11px;
+    border-top: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.wot-wt-introtip:before {
+    background-image: url("/skin/b/welcometips/wt_intro_top.png");
+    background-repeat: no-repeat;
+    height: 11px;
+    width: 218px;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 8px;
+    content: " ";
+}
+
+#introtip {
+    margin: 0 auto;
+    width: 218px;
+}
+
+#donut_tip {
+    margin: 0.5em 0.5em 0.5em 14px;  /* to allow shadow around the box */
+}
+
+.wot-wt-intro-body,
+.wot-wt-d-body {
+    font-size: 10pt;
+    color: #656565;
+}
+
+.wot-wt-footer {
+    /* used in Intro Tip and R-Tip */
+    text-align: center;
+}
+
+.wot-wt-button {
+    -webkit-transition: box-shadow 0.1s !important;
+    width: 12em;
+    height: 24px !important;
+    margin: 1.3em auto 0.5em auto !important;
+    padding: 0.7em 0.5em 0.2em 0.5em !important;
+
+    border: #71A939 solid 1px !important;;
+    border-radius: 3px !important;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.47);
+    text-shadow: 0px 0px 8px #fff !important;
+    background-image: -webkit-linear-gradient(top, #CCEFAC 0%, #9AD265 39%, #6FA736 83%, #83BC4A) !important;
+
+    color: #375914 !important;
+    font-size: 10pt;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+}
+
+.wot-wt-button:hover {
+    background-image: -webkit-linear-gradient(top, #e5fad1 0%, #b2e186 39%, #83bc4a 83%, #83BC4A) !important;
+}
+
+.wot-wt-button:active {
+    top: 1px;
+    border-color: #babbbb;
+    box-shadow: none;
+    background-image: -webkit-linear-gradient(top, #a9d185 0%, #8abf58 39%, #6fa736 83%, #83bc4a) !important;
+}
+
+.wot-wt-intro-body #wt-learnmore-link,
+.wot-wt-d-body #wt-learnmore-link,
+#wot-welcometip #wt-learnmore-link {
+    color: #1F7BD6;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Used in Intro and Donut's Tips */
+.wot-wt-intro-body .wot-cb,
+.wot-wt-d-body .wot-cb {
+    text-align: center;
+    font-weight: bold;
+}
+
+#wot-wt-intro-image1 {
+    background-image: url("/skin/fusion/16_16/plain/r5.png");
+    background-repeat: no-repeat;
+    padding: 0 0 0 16px;
+}
+
+/* WelcomeTip v2 */
+
+#wot-welcometip {
+    font-size: 9pt;
+    position: absolute;
+    display: none;
+    z-index: 5;
+    right: 0px;
+    margin-top: 0px;
+    min-height: 160px;
+    max-height: 200px;
+}
+
+#wot-welcometip:before {
+    position: absolute;
+    top: -8px;
+    left: 20px;
+    width: 45px;
+    height: 44px;
+    content: "";
+    background-image: url(/skin/b/welcometips/orange_badge.png);
+    background-repeat: no-repeat;
+}
+
+/* RW WelcomeTip: Sticker mode */
+.rtip-sticker {
+    width: 300px;
+    margin: 5px 0px 0px 10px;
+    background-image: -webkit-linear-gradient(left top, #eef9e4 0%, #dff0d0 28%, #eef9e4 59%, #f6fbf2 89%, #eef9e4 100%);
+    box-shadow: 3px 3px 3px #aaa;
+    margin-bottom: 10px;
+}
+
+.rtip-sticker .wt-rw-header {
+    padding: 0.7em 0 0.4em;
+    background-color: rgba(129,148,114, 0.05);
+    text-align: center;
+    font-weight: bold;
+}
+
+.rtip-sticker .wt-rw-body {
+    padding: 0 1em;
+}
+
+/* RW WelcomeTip: common styles */
+.wt-rw-close {
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    right: 10px;
+    top: 8px;
+    background-image: url(/skin/b/welcometips/close_icon.png);
+    background-position: 0 0;
+    cursor: pointer;
+}
+
+.wt-rw-close:hover {
+    /* reserved once we'll have icon for hovered state */
+    background-position: 0 0;
+}
+
+.wt-rw-body .wot-c {
+    text-align: center;
+}
+
+.wot-wt-d-button {}
+
+.wot-wt-dtip:before {
+    content: "";
+    background-image: url(../b/welcometips/wt_left_corner_2.png);
+    width: 17px;
+    height: 26px;
+    position: relative !important;
+    top: 22px;
+    left: -218px;
+    float: right;
+}
+
+.wot-wt-logo {
+    background-image: url(../fusion/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 18px !important;
+    cursor: pointer;
+}

@@ -3,6 +3,7 @@
       "shortcuts_have_been_created": true
    },
    "bookmark_bar": {
+      "show_apps_shortcut": false,
       "show_on_all_tabs": true
    },
    "bookmark_editor": {
@@ -18,29 +19,27 @@
       },
       "clear_lso_data_enabled": true,
       "custom_chrome_frame": true,
-      "last_clear_browsing_data_time": "13031862649411610",
+      "last_clear_browsing_data_time": "13049393913863108",
       "last_known_google_url": "https://www.google.com/",
       "last_prompted_google_url": "https://www.google.com/",
       "pepper_flash_settings_enabled": true,
       "show_home_button": true,
       "window_placement": {
-         "bottom": 734,
-         "left": 208,
+         "bottom": 736,
+         "left": 0,
          "maximized": false,
-         "right": 1230,
-         "top": 26,
-         "work_area_bottom": 743,
+         "right": 1024,
+         "top": 0,
+         "work_area_bottom": 768,
          "work_area_left": 0,
-         "work_area_right": 1366,
-         "work_area_top": 25
+         "work_area_right": 1024,
+         "work_area_top": 0
       }
    },
-   "cloud_print": {
-      "email": ""
-   },
-   "countryid_at_install": -1,
+   "countryid_at_install": 21843,
    "custom_handlers": {
       "enabled": true,
+      "ignored_protocol_handlers": [  ],
       "registered_protocol_handlers": [ {
          "default": true,
          "protocol": "mailto",
@@ -50,10 +49,11 @@
    },
    "default_apps_install_state": 3,
    "default_search_provider": {
+      "alternate_urls": [  ],
       "enabled": true,
       "encodings": "UTF-8",
-      "icon_url": "",
-      "id": "5",
+      "icon_url": "https://duckduckgo.com/favicon.ico",
+      "id": "14",
       "image_url": "",
       "image_url_post_params": "",
       "instant_url": "",
@@ -65,16 +65,23 @@
       "search_terms_replacement_key": "",
       "search_url": "https://duckduckgo.com/?q={searchTerms}",
       "search_url_post_params": "",
-      "suggest_url": "",
+      "suggest_url": "https://ac.duckduckgo.com/ac/?q={searchTerms}&type=list",
       "suggest_url_post_params": ""
+   },
+   "devtools": {
+      "adb_key": "MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTjWKjPlY0FgzwAcZ7jpzKuXiYbyznBHXRMJa027KXYYgVU+X9G6UJ2qt9fYH1LF6gNjWecGtbXAzTBepe8BvGMS+FsLnJbNfyDLm3pf2irnlr9aBwJncf9SV7N+hTvkBU9OxxcCDBiB9Ozv1G+wdYQE8nT/AB0ez0ouFUCEeT8UqGdG43RNa8hh4jaa3BzUcbEMA/aOR5WlFOzm5RBQHRdYYNyxyVs9EWF5vu2Kjzn7FHGmPCfOpmqsoVEk/NMJh6RVOrXLJkNln4O8oCkvD5Lw3d4JjivEG7HfNXjRxuYZAXw60z5refvrpPJO97ydYV+orn/N1hy/4JyGyhgz8DAgMBAAECggEBAJ8cSKK0wMseBo8BFtJZOa3zfzNO8ruyDBbQ75iJYLIgpeQ8nM8YWrGlqLOSkQrgWy8udnd64BPvkKmqWlMbThhrZ+2qNKG9XlFrpsbsbm5LwYEkVY3kMFZ138HkE7XgcqwzJh5PkiNdCQcSAUbAiQ6kF6ReqAoGZKy+ULEOJR+rzeKXgYq02H/rW5+mN8KPGsPaX45Aul7LdeNtN+2uTecPX6yPv+hzmac+DKDFGTaGjSgy/oabu93ybWcnmsP6aHEue7gDs39fz13BdgUfxXnpqiDJSmnZYVpC6SDsTvf+bAsW6BsaggarW/Ut7XbXa4tTvYxiGNSZq7LyVHLwKbECgYEA8lmJ+EZF+7QaD+xVtw+LrKuHK98/1XKdmuAwtU8XomNMBKYXVuxsBMiH6pbRC+Be3ppFcK3iOcySBRAS/jfZB3mE3ObMYqZcHZIUSk2eaAQijxXZ53yvQJWeJssOpWZsFcM1kXKeUAEOk2a75dUAQtLOcRhubR1gpQwHFBBU8ekCgYEA33fGaTHwp7SPn722tFVDxcQ5azJ4bLzdFhWEv/Je/bsSyjRrAGJ/slyNPKDEpuiiqEUycRiSI34DYAqoiy2JJzXjbZaLu7TsSldOenP6hSg4mCJnXyQVCbpuS148tB3/qudf4krepVhugERVTxOAW8EHRfjBFfuEyixTl39DygsCgYAQjUT7C/Gjqz1McRu5kPo9JMnqmSjG7zkMZttsxqYalSWP+7gEW8lU2k1OHFbStNRF58tuUrHsuKgQaHSjoDTWadpFLA4xfqMz8dIo8PwspnulwhxLzxw5EP7oL14ktcYUBm0WLfnaBPh14MJchBusdLFc0ApasXL0Usn4+NSUYQKBgQDT/0/2ag8xOkVquNLEX4NM8eu6+4VtOvrOwZlPc4KUWU3pEDNWiRs1vUGr+6Sz50ywL/07d6DkFN7k1Rex+X/8982LIF/tsiTcHdlwp+hJPK/7+99vTc67jOanj34tLaxnmNrI1lhEKhGik7EOtKR35zacNfIPha4jEkw3E9/eowKBgHrEDePzFS1rOSdOAiBn1DYRxk5RyJwvTbKBP0FelrA6gGzSaqI8mVtL/sg9s6T8Wj+i0eQ5xY5CNgaZHAWWjYGqRy0VREKL5xHAFjcE0Ll8Va0HCG8o/+QeSrpFYc0HwjmC61EPJFpF/dCk8JNXOAiGa3rgLdYU4cv6RCd4M9xz",
+      "discover_usb_devices": false,
+      "port_forwarding_config": {
+         "8080": "localhost:8080"
+      },
+      "port_forwarding_default_set": true
    },
    "dns_prefetching": {
       "host_referral_list": [ 2 ],
-      "startup_list": [ 1 ]
+      "startup_list": [ 1, "https://api.mywot.com/", "https://ssl.google-analytics.com/" ]
    },
    "download": {
-      "directory_upgrade": true,
-      "extensions_to_open": ""
+      "directory_upgrade": true
    },
    "enable_do_not_track": true,
    "extensions": {
@@ -82,35 +89,51 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13031861938207877",
-         "next_check": "13031881804017720"
-      },
-      "blacklistupdate": {
-         "lastpingday": "13018345200875729",
-         "version": "0.0.0.148"
+         "last_check": "13049333279171648",
+         "next_check": "13049394527716438"
       },
       "chrome_url_overrides": {
          "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
       },
       "commands": {
+         "linux:Alt+G": {
+            "command_name": "_execute_browser_action",
+            "extension": "bpphkkgodbfncbcpgopijlfakfgmclao",
+            "global": false
+         },
          "linux:Ctrl+Shift+L": {
             "command_name": "_execute_page_action",
-            "extension": "bfbmjmiodbnnpllbbbfblcplfjjepjdn"
+            "extension": "bfbmjmiodbnnpllbbbfblcplfjjepjdn",
+            "global": false
          }
       },
-      "last_chrome_version": "33.0.1707.0",
+      "install_signature": {
+         "expire_date": "2014-04-17",
+         "ids": [ "aohghmighlieiainnegkcijnfilokake", "bfbmjmiodbnnpllbbbfblcplfjjepjdn", "bgghgnejijjooigfhkfmhophopjpmfpe", "bpphkkgodbfncbcpgopijlfakfgmclao", "cmgnmcnlncejehjlnhaglpnoolgbflbd", "cpngackimfmofbokmjmljamhdncknpmg", "gighmmpiobklfepjocnamgkkbiglidom", "hcjdanpjacpeeppdjkppebobilhaglfo", "idknbmbdnapjicclomlijcgfpikmndhd", "nckgahadagoaajjgafhacjanaoiihapd", "nfnbjbobhhoaekejilcmdkfomkndikho" ],
+         "salt": "7DQV57Ltsa95j5I01sWhRkAR6ZND12JtMp23DMILSyo=",
+         "signature": "F+2xy3nI9+fUM6/oVbgRwxVevRlGMTgwlKcv5NekehLyvjwp3yYKTWMlP6VnFR5/sgkcTHmG+u9+A/rIIxjvTrLVcBIwo/LjoZ0775+gvNoC/5CWL8aSVwO//+uYtrct4rGHV76qTZdfOnLVIrFL75MIUNCvI2bvOdeETECXB9ZpT7Bh4feRULFmDPXkh1R+bx4nVS+BrrrrjmfcX69gDAzWalJAeNNh3jJXlEKNLE2M9bOoYijifzY/aOscJDrDOtkOR5T06hbHmkMglgVea7/88TsWOkdtAkdCPjOZQsg9k24LDCbufmM5ipumY10jMeiYwKntCO9iOGV8Q63esQ=="
+      },
+      "known_disabled": [ "bepbmhgboaologfdajaanbcjmnhjmhfn" ],
+      "last_chrome_version": "35.0.1916.153",
       "settings": {
          "ahfgeienlihckogmohjhadlkjgocpleb": {
             "active_bit": true,
             "active_permissions": {
-               "api": [ "management", "webstorePrivate" ]
+               "api": [ "management", "webstorePrivate" ],
+               "manifest_permissions": [  ]
             },
-            "app_launcher_ordinal": "n",
+            "app_launcher_ordinal": "t",
+            "content_settings": [  ],
             "creation_flags": 1,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": false,
-            "install_time": "13009619211689775",
-            "last_launch_time": "13031861869352925",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035014259195285",
+            "last_launch_time": "13049333159593331",
             "location": 5,
             "manifest": {
                "app": {
@@ -130,55 +153,101 @@
                "version": "0.2"
             },
             "page_ordinal": "n",
-            "path": "/opt/google/chrome/resources/web_store",
+            "path": "/opt/google/chrome-beta/resources/web_store",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "was_installed_by_default": false
          },
-         "ahjaciijnoiaklcomgnblndopackapon": {
+         "aohghmighlieiainnegkcijnfilokake": {
+            "ack_external": true,
+            "active_bit": false,
             "active_permissions": {
-               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "identityPrivate", "webview" ],
-               "explicit_host": [ "https://*/*" ]
+               "api": [  ],
+               "manifest_permissions": [  ]
             },
-            "creation_flags": 1,
-            "events": [ "identityPrivate.onWebFlowRequest" ],
+            "app_launcher_ordinal": "w",
+            "content_settings": [  ],
+            "creation_flags": 137,
+            "events": [  ],
             "from_bookmark": false,
-            "from_webstore": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
             "initial_keybindings_set": true,
-            "install_time": "13014365918353823",
-            "location": 5,
+            "install_time": "13049332914526893",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030510811816",
+            "lastpingday": "13049362865497075",
+            "location": 1,
             "manifest": {
+               "api_console_project_id": "619683526622",
                "app": {
-                  "background": {
-                     "scripts": [ "background.js" ]
+                  "launch": {
+                     "local_path": "main.html"
                   }
                },
-               "description": "Displays scope approval dialog boxes for the Identity API",
-               "display_in_launcher": false,
-               "display_in_new_tab_page": false,
-               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNyyvaNmqNZsjBwes4YNlrsy64asdP710pdMUM27jtvOe2YkXUdvglcC6r2ihlvPg16mjYK+ZmvxchcEu497KUPqBq34jXILabiUuXLrQJlvl3A7QMLatuZlijSx1qXL/5w5/ggF2Tblo9SHSVtlVyhwyyGkT9ckga5erBUbbwkQIDAQAB",
+               "container": "GOOGLE_DRIVE",
+               "current_locale": "en_US",
+               "default_locale": "en_US",
+               "description": "Create and edit documents ",
+               "icons": {
+                  "128": "icon_128.png",
+                  "16": "icon_16.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJhLK6fk/BWTEvJhywpk7jDe4A2r0bGXGOLZW4/AdBp3IiD9o9nx4YjLAtv0tIPxi7MvFd/GUUbQBwHT5wQWONJj1z/0Rc2qBkiJA0yqXh42p0snuA8dCfdlhOLsp7/XTMEwAVasjV5hC4awl78eKfJYlZ+8fM/UldLWJ/51iBQwIDAQAB",
                "manifest_version": 2,
-               "name": "Identity API Scope Approval UI",
-               "permissions": [ "identityPrivate", "webview", "https://*/" ],
-               "version": "1.0"
+               "name": "Google Docs",
+               "offline_enabled": true,
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "0.7"
             },
-            "path": "/opt/google/chrome/resources/identity_scope_approval_dialog",
-            "running": false,
-            "was_installed_by_default": false
+            "page_ordinal": "n",
+            "path": "aohghmighlieiainnegkcijnfilokake/0.7_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": true,
+            "was_installed_by_oem": false
          },
          "apdfllckaahabafndbhieahigkjlhalf": {
             "ack_external": true,
             "active_bit": false,
             "active_permissions": {
-               "api": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ]
+               "api": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ],
+               "manifest_permissions": [  ]
             },
-            "app_launcher_ordinal": "o",
+            "app_launcher_ordinal": "x",
+            "content_settings": [  ],
+            "creation_flags": 137,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
-               "api": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ]
+               "api": [ "background", "clipboardRead", "clipboardWrite", "notifications", "unlimitedStorage" ],
+               "manifest_permissions": [  ]
             },
-            "install_time": "13001252258247493",
-            "last_active_pingday": "13001241600629741",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035014260185626",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030525017990",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -207,37 +276,154 @@
             },
             "page_ordinal": "n",
             "path": "apdfllckaahabafndbhieahigkjlhalf/6.3_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
-            "user_dragged_app_ntp": true,
             "was_installed_by_default": true
+         },
+         "bepbmhgboaologfdajaanbcjmnhjmhfn": {
+            "ack_external": true,
+            "active_permissions": {
+               "api": [ "audioCapture", "hotwordPrivate", "management", "power", "tabs", "webConnectable" ],
+               "explicit_host": [ "*://*.google.com/*" ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 137,
+            "disable_reasons": 1,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13045475126613667",
+            "lastpingday": "13049362865553624",
+            "location": 10,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
+               },
+               "description": "This extension allows you to say ‘Ok Google’ and start speaking your search.",
+               "externally_connectable": {
+                  "ids": [ "dnhpdliibojhegemfjheidglijccjfmc" ],
+                  "matches": [ "*://*.google.com/*", "chrome://newtab/" ]
+               },
+               "icons": {
+                  "128": "images/icon-128.png",
+                  "16": "images/icon-16.png",
+                  "48": "images/icon-48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXIZX6oiu1YU4WTZBC5FCFw08u8fPtm75p6l9IzYaCCOjJh47sg1M5eatyBuVVvC2ahku3PzgquBZQZcRkr6kd9sa8jHUBeTQsvPv8yFicYlAqdguFtEK2kbXN2Ff5i61kIe79I6hZKlTJ6KsxiAcOPQpV1uIgJFyrFxTyC1u+WwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "31",
+               "name": "Google Voice Search Hotword (Beta)",
+               "options_page": "options.html",
+               "permissions": [ "*://*.google.com/*", "audioCapture", "hotwordPrivate", "management", "power", "tabs" ],
+               "platforms": [ {
+                  "lang": "de",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_de/"
+               }, {
+                  "lang": "de",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_de/"
+               }, {
+                  "lang": "de",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_de/"
+               }, {
+                  "lang": "en-GB",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_en-gb/"
+               }, {
+                  "lang": "en-GB",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_en-gb/"
+               }, {
+                  "lang": "en-GB",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_en-gb/"
+               }, {
+                  "lang": "fr",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_fr/"
+               }, {
+                  "lang": "fr",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_fr/"
+               }, {
+                  "lang": "fr",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_fr/"
+               }, {
+                  "lang": "ru",
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_ru/"
+               }, {
+                  "lang": "ru",
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_ru/"
+               }, {
+                  "lang": "ru",
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_ru/"
+               }, {
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm_/"
+               }, {
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86-32_/"
+               }, {
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86-64_/"
+               } ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "0.1.1.5019",
+               "web_accessible_resources": [ "audio/1_short_Open_16_16.wav" ]
+            },
+            "path": "bepbmhgboaologfdajaanbcjmnhjmhfn/0.1.1.5019_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 0,
+            "was_installed_by_default": true,
+            "was_installed_by_oem": false
          },
          "bfbmjmiodbnnpllbbbfblcplfjjepjdn": {
             "active_permissions": {
-               "api": [ "contextMenus", "tabs" ],
+               "api": [ "contextMenus", "notifications", "storage", "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
-            "events": [ "contextMenus.onClicked", "pageAction.onClicked", "tabs.onUpdated" ],
+            "events": [ "pageAction.onClicked", "runtime.onUpdateAvailable", "storage.onChanged", "tabs.onUpdated" ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
                "api": [ "contextMenus", "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
-            "incognito": true,
             "initial_keybindings_set": true,
-            "install_time": "13031861620116176",
-            "lastpingday": "13031827200811833",
+            "install_time": "13049332914974153",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
@@ -262,7 +448,7 @@
                "current_locale": "en_US",
                "default_locale": "en",
                "description": "The entire page will be fading to dark, so you can watch the video as if you were in the cinema.",
-               "homepage_url": "http://www.stefanvd.net",
+               "homepage_url": "http://www.turnoffthelights.com",
                "icons": {
                   "128": "icons/icon128.png",
                   "16": "icons/icon16.png",
@@ -271,7 +457,7 @@
                },
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCWtVfDpPf9Smdanvm9Dc+Z4byFLQ/Vp67jkZbCZ1ZoFojbDElo0BsSRNvC/2wRrEsvWL24gj6e/oovdow0rD3/lhF2bLVNaWyjYdwuZgEoffIxuqh+6E0eDErdov/8PfCq7vDke753RTKLv5Lep6gjD4Lt4IXzAihGbLJwZsxZwIDAQAB",
                "manifest_version": 2,
-               "minimum_chrome_version": "20",
+               "minimum_chrome_version": "30",
                "name": "Turn Off the Lights",
                "options_page": "options.html",
                "page_action": {
@@ -281,24 +467,43 @@
                   },
                   "default_title": "Turn Off the Lights"
                },
-               "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
+               "permissions": [ "http://*/*", "https://*/*", "contextMenus", "notifications", "tabs", "storage" ],
                "short_name": "TOtL",
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2.3.0.3",
-               "web_accessible_resources": [ "images/minimize_on.png", "images/minimize.png", "icons/icon16.png", "js/injected.js" ]
+               "version": "3.0.0.12",
+               "web_accessible_resources": [ "images/minimize_on.png", "images/minimize.png", "icons/icon16.png", "js/injected.js", "images/theater.jpg" ]
             },
-            "path": "bfbmjmiodbnnpllbbbfblcplfjjepjdn/2.3.0.3_0",
+            "path": "bfbmjmiodbnnpllbbbfblcplfjjepjdn/3.0.0.12_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
-            "uninstall_url": "http://www.stefanvd.net/browserextension/turnoffthelights/uninstalled.html",
-            "was_installed_by_default": false
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "bgdnmhgofioenkmhapflhlbpgkhlmkcf": {
-            "app_launcher_ordinal": "zm",
+            "active_bit": false,
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zx",
+            "content_settings": [  ],
             "creation_flags": 17,
+            "events": [  ],
             "from_bookmark": true,
             "from_webstore": false,
-            "install_time": "13009616352221925",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035029679530948",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030545911475",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -313,26 +518,43 @@
                },
                "key": "3l9NpaW5b5uCbm57ERXSDAuMMLCSfRnc38SIgHWSBYM=",
                "name": "Timers",
-               "version": "2013.4.5.17258"
+               "permissions": [  ],
+               "version": "2014.1.24.26153"
             },
             "page_ordinal": "n",
-            "path": "bgdnmhgofioenkmhapflhlbpgkhlmkcf/2013.4.5.17258_0",
+            "path": "bgdnmhgofioenkmhapflhlbpgkhlmkcf/2014.1.24.26153_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
          "bgghgnejijjooigfhkfmhophopjpmfpe": {
             "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "*://*.duckduckgo.com/*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "*://*.duckduckgo.com/*" ]
             },
-            "incognito": true,
-            "install_time": "13009620489828778",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13035015120303917",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "content_scripts": [ {
@@ -356,29 +578,115 @@
                "web_accessible_resources": [ "icon_search.png" ]
             },
             "path": "bgghgnejijjooigfhkfmhophopjpmfpe/1.0_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
-         "bkhafcpfbicjaoehjfgfbgeflmocibld": {
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
+         "bhmmomiinigofkjcapegjjndpbikblnp": {
+            "active_permissions": {
+               "api": [ "contextMenus", "tabs" ],
+               "explicit_host": [ "http://api.mywot.com/*", "http://www.mywot.com/*", "https://api.mywot.com/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "http://*/*", "http://www.mywot.com/*", "https://*/*", "https://www.mywot.com/*" ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "contextMenus", "tabs" ],
+               "explicit_host": [ "http://api.mywot.com/*", "http://www.mywot.com/*", "https://api.mywot.com/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "http://*/*", "http://www.mywot.com/*", "https://*/*", "https://www.mywot.com/*" ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13048167192821598",
+            "lastpingday": "13049362865497075",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "page": "background.html"
                },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
-            }
+               "browser_action": {
+                  "default_icon": "skin/fusion/19_19/default.png",
+                  "default_popup": "ratingwindow.html",
+                  "default_title": "WOT"
+               },
+               "content_scripts": [ {
+                  "all_frames": true,
+                  "exclude_matches": [ "http://www.mywot.com/*", "https://www.mywot.com/*" ],
+                  "js": [ "wot.js", "content/common.js", "content/i-warning.js", "content/url.js", "content/popup.js", "content/search.js", "content/welcome_tips.js", "content/surveys.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
+                  "run_at": "document_start"
+               }, {
+                  "all_frames": true,
+                  "js": [ "wot.js", "content/common.js", "content/my.js", "content/settings.js" ],
+                  "matches": [ "http://www.mywot.com/*", "https://www.mywot.com/*" ],
+                  "run_at": "document_start"
+               } ],
+               "content_security_policy": "style-src 'self' 'unsafe-inline' http://fonts.googleapis.com; script-src 'self' https://ssl.google-analytics.com; object-src 'self'; img-src *",
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "WOT helps you find trustworthy websites based on millions of users’ experiences and is one of Chrome’s most popular add-ons.",
+               "icons": {
+                  "128": "skin/fusion/icons/128.png",
+                  "16": "skin/fusion/icons/16.png",
+                  "32": "skin/fusion/icons/32.png",
+                  "48": "skin/fusion/icons/48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+5gqgUc6+WAXv9isVvOB2+4QJN0yG+hT5PVVqmA+rMdbj6/849Rbj7BilvSKC1w8S8rKMP0O+xp5g+qrmegkobz7HXvZUM2zYADWwQZOmPzh8I/wjeSHQHgBpq9DXCXdtkiq5bMuQqZH+g2+xP5dtBt8jvanbdXoFrvtYm2dOoQIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "18",
+               "name": "WOT",
+               "options_page": "options.html",
+               "permissions": [ "tabs", "contextMenus", "http://www.mywot.com/*", "http://api.mywot.com/*", "https://api.mywot.com/*" ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "2.5.15",
+               "web_accessible_resources": [ "content/warning.html", "widgets/surveys.html", "skin/include/popup.css", "skin/include/warning.css", "skin/include/welcometips.css", "skin/fusion/logo.png", "skin/b/logo.png", "skin/b/confidence_150dpi.png", "skin/b/donuts_150.png", "skin/b/bubl_speech_c_150.png", "skin/b/bubl_speech_l_150.png", "skin/b/bubl_speech_r_150.png", "skin/b/ws/robot.png", "skin/b/ws/list_c.png", "skin/b/ws/list_l.png", "skin/b/ws/list_r.png", "skin/b/accessible/donuts_150.png", "skin/b/welcometips/wt_intro_0.png", "skin/b/welcometips/wt_intro_top.png", "skin/b/welcometips/wt_left_corner.png", "skin/b/welcometips/wt_left_corner_2.png", "skin/fusion/accessible/16_16/plain/r0.png", "skin/fusion/accessible/16_16/plain/r1.png", "skin/fusion/accessible/16_16/plain/r2.png", "skin/fusion/accessible/16_16/plain/r3.png", "skin/fusion/accessible/16_16/plain/r4.png", "skin/fusion/accessible/16_16/plain/r5.png", "skin/fusion/16_16/plain/lock.png", "skin/fusion/16_16/plain/locked.png", "skin/fusion/16_16/plain/r0.png", "skin/fusion/16_16/plain/r1.png", "skin/fusion/16_16/plain/r2.png", "skin/fusion/16_16/plain/r3.png", "skin/fusion/16_16/plain/r4.png", "skin/fusion/16_16/plain/r5.png", "skin/fusion/16_16/plain/rx.png" ]
+            },
+            "path": "bhmmomiinigofkjcapegjjndpbikblnp/2.5.15_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "blpcfgokakmgnkcojhhkbfbldkacnbeo": {
             "ack_external": true,
-            "active_bit": false,
-            "app_launcher_ordinal": "w",
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "yn",
+            "content_settings": [  ],
             "creation_flags": 153,
+            "events": [  ],
             "from_bookmark": true,
             "from_webstore": true,
-            "install_time": "13010218683028769",
-            "last_active_pingday": "13002624001036806",
-            "lastpingday": "13031827200987292",
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035014260312751",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -406,16 +714,35 @@
             },
             "page_ordinal": "n",
             "path": "blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.6_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": true
          },
          "bnklgocjnbdnpihggmjjnlmjflkgbkgi": {
-            "app_launcher_ordinal": "z",
+            "active_bit": false,
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zv",
+            "content_settings": [  ],
             "creation_flags": 17,
+            "events": [  ],
             "from_bookmark": true,
             "from_webstore": false,
-            "install_time": "13009616274040960",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035029632925317",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030543311346",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -430,10 +757,17 @@
                },
                "key": "Ff2i13sPT3BbncjYx3O/8kxeQtsJI8sQtx6Yzwq/VBo=",
                "name": "Calculator",
-               "version": "2013.4.5.17198"
+               "permissions": [  ],
+               "version": "2014.1.24.26118"
             },
             "page_ordinal": "n",
-            "path": "bnklgocjnbdnpihggmjjnlmjflkgbkgi/2013.4.5.17198_0",
+            "path": "bnklgocjnbdnpihggmjjnlmjflkgbkgi/2014.1.24.26118_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
@@ -441,29 +775,28 @@
             "active_permissions": {
                "api": [ "tabs" ],
                "explicit_host": [ "https://chrome.duckduckgo.com/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://duckduckgo.com/extensions/*", "http://www.bing.com/search*", "http://www.google.ad/*", "http://www.google.ae/*", "http://www.google.am/*", "http://www.google.as/*", "http://www.google.at/*", "http://www.google.az/*", "http://www.google.ba/*", "http://www.google.be/*", "http://www.google.bf/*", "http://www.google.bg/*", "http://www.google.bi/*", "http://www.google.bj/*", "http://www.google.bs/*", "http://www.google.by/*", "http://www.google.ca/*", "http://www.google.cat/*", "http://www.google.cd/*", "http://www.google.cf/*", "http://www.google.cg/*", "http://www.google.ch/*", "http://www.google.ci/*", "http://www.google.cl/*", "http://www.google.cm/*", "http://www.google.cn/*", "http://www.google.co.ao/*", "http://www.google.co.bw/*", "http://www.google.co.ck/*", "http://www.google.co.cr/*", "http://www.google.co.id/*", "http://www.google.co.il/*", "http://www.google.co.in/*", "http://www.google.co.jp/*", "http://www.google.co.ke/*", "http://www.google.co.kr/*", "http://www.google.co.ls/*", "http://www.google.co.ma/*", "http://www.google.co.mz/*", "http://www.google.co.nz/*", "http://www.google.co.th/*", "http://www.google.co.tz/*", "http://www.google.co.ug/*", "http://www.google.co.uk/*", "http://www.google.co.uz/*", "http://www.google.co.ve/*", "http://www.google.co.vi/*", "http://www.google.co.za/*", "http://www.google.co.zm/*", "http://www.google.co.zw/*", "http://www.google.com.af/*", "http://www.google.com.ag/*", "http://www.google.com.ai/*", "http://www.google.com.ar/*", "http://www.google.com.au/*", "http://www.google.com.bd/*", "http://www.google.com.bh/*", "http://www.google.com.bn/*", "http://www.google.com.bo/*", "http://www.google.com.br/*", "http://www.google.com.bz/*", "http://www.google.com.co/*", "http://www.google.com.cu/*", "http://www.google.com.do/*", "http://www.google.com.ec/*", "http://www.google.com.eg/*", "http://www.google.com.et/*", "http://www.google.com.fj/*", "http://www.google.com.gh/*", "http://www.google.com.gi/*", "http://www.google.com.gt/*", "http://www.google.com.hk/*", "http://www.google.com.jm/*", "http://www.google.com.kh/*", "http://www.google.com.kw/*", "http://www.google.com.lb/*", "http://www.google.com.ly/*", "http://www.google.com.mt/*", "http://www.google.com.mx/*", "http://www.google.com.my/*", "http://www.google.com.na/*", "http://www.google.com.nf/*", "http://www.google.com.ng/*", "http://www.google.com.ni/*", "http://www.google.com.np/*", "http://www.google.com.om/*", "http://www.google.com.pa/*", "http://www.google.com.pe/*", "http://www.google.com.ph/*", "http://www.google.com.pk/*", "http://www.google.com.pr/*", "http://www.google.com.py/*", "http://www.google.com.qa/*", "http://www.google.com.sa/*", "http://www.google.com.sb/*", "http://www.google.com.sg/*", "http://www.google.com.sl/*", "http://www.google.com.sv/*", "http://www.google.com.tj/*", "http://www.google.com.tr/*", "http://www.google.com.tw/*", "http://www.google.com.ua/*", "http://www.google.com.uy/*", "http://www.google.com.vc/*", "http://www.google.com.vn/*", "http://www.google.com/*", "http://www.google.cv/*", "http://www.google.cz/*", "http://www.google.de/*", "http://www.google.dj/*", "http://www.google.dk/*", "http://www.google.dm/*", "http://www.google.dz/*", "http://www.google.ee/*", "http://www.google.es/*", "http://www.google.fi/*", "http://www.google.fm/*", "http://www.google.fr/*", "http://www.google.ga/*", "http://www.google.ge/*", "http://www.google.gg/*", "http://www.google.gl/*", "http://www.google.gm/*", "http://www.google.gp/*", "http://www.google.gr/*", "http://www.google.gy/*", "http://www.google.hn/*", "http://www.google.hr/*", "http://www.google.ht/*", "http://www.google.hu/*", "http://www.google.ie/*", "http://www.google.im/*", "http://www.google.iq/*", "http://www.google.is/*", "http://www.google.it/*", "http://www.google.je/*", "http://www.google.jo/*", "http://www.google.kg/*", "http://www.google.ki/*", "http://www.google.kz/*", "http://www.google.la/*", "http://www.google.li/*", "http://www.google.lk/*", "http://www.google.lt/*", "http://www.google.lu/*", "http://www.google.lv/*", "http://www.google.md/*", "http://www.google.me/*", "http://www.google.mg/*", "http://www.google.mk/*", "http://www.google.ml/*", "http://www.google.mn/*", "http://www.google.ms/*", "http://www.google.mu/*", "http://www.google.mv/*", "http://www.google.mw/*", "http://www.google.ne/*", "http://www.google.nl/*", "http://www.google.no/*", "http://www.google.nr/*", "http://www.google.nu/*", "http://www.google.pl/*", "http://www.google.pn/*", "http://www.google.ps/*", "http://www.google.pt/*", "http://www.google.ro/*", "http://www.google.rs/*", "http://www.google.ru/*", "http://www.google.rw/*", "http://www.google.sc/*", "http://www.google.se/*", "http://www.google.sh/*", "http://www.google.si/*", "http://www.google.sk/*", "http://www.google.sm/*", "http://www.google.sn/*", "http://www.google.so/*", "http://www.google.st/*", "http://www.google.td/*", "http://www.google.tg/*", "http://www.google.tk/*", "http://www.google.tl/*", "http://www.google.tm/*", "http://www.google.tn/*", "http://www.google.to/*", "http://www.google.tt/*", "http://www.google.vg/*", "http://www.google.vu/*", "http://www.google.ws/*", "https://duckduckgo.com/extensions/*", "https://encrypted.google.com/*", "https://www.google.ad/*", "https://www.google.ae/*", "https://www.google.am/*", "https://www.google.as/*", "https://www.google.at/*", "https://www.google.az/*", "https://www.google.ba/*", "https://www.google.be/*", "https://www.google.bf/*", "https://www.google.bg/*", "https://www.google.bi/*", "https://www.google.bj/*", "https://www.google.bs/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.cat/*", "https://www.google.cd/*", "https://www.google.cf/*", "https://www.google.cg/*", "https://www.google.ch/*", "https://www.google.ci/*", "https://www.google.cl/*", "https://www.google.cm/*", "https://www.google.cn/*", "https://www.google.co.ao/*", "https://www.google.co.bw/*", "https://www.google.co.ck/*", "https://www.google.co.cr/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.ke/*", "https://www.google.co.kr/*", "https://www.google.co.ls/*", "https://www.google.co.ma/*", "https://www.google.co.mz/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.tz/*", "https://www.google.co.ug/*", "https://www.google.co.uk/*", "https://www.google.co.uz/*", "https://www.google.co.ve/*", "https://www.google.co.vi/*", "https://www.google.co.za/*", "https://www.google.co.zm/*", "https://www.google.co.zw/*", "https://www.google.com.af/*", "https://www.google.com.ag/*", "https://www.google.com.ai/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.bh/*", "https://www.google.com.bn/*", "https://www.google.com.bo/*", "https://www.google.com.br/*", "https://www.google.com.bz/*", "https://www.google.com.co/*", "https://www.google.com.cu/*", "https://www.google.com.do/*", "https://www.google.com.ec/*", "https://www.google.com.eg/*", "https://www.google.com.et/*", "https://www.google.com.fj/*", "https://www.google.com.gh/*", "https://www.google.com.gi/*", "https://www.google.com.gt/*", "https://www.google.com.hk/*", "https://www.google.com.jm/*", "https://www.google.com.kh/*", "https://www.google.com.kw/*", "https://www.google.com.lb/*", "https://www.google.com.ly/*", "https://www.google.com.mt/*", "https://www.google.com.mx/*", "https://www.google.com.my/*", "https://www.google.com.na/*", "https://www.google.com.nf/*", "https://www.google.com.ng/*", "https://www.google.com.ni/*", "https://www.google.com.np/*", "https://www.google.com.om/*", "https://www.google.com.pa/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.pr/*", "https://www.google.com.py/*", "https://www.google.com.qa/*", "https://www.google.com.sa/*", "https://www.google.com.sb/*", "https://www.google.com.sg/*", "https://www.google.com.sl/*", "https://www.google.com.sv/*", "https://www.google.com.tj/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.uy/*", "https://www.google.com.vc/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cv/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dj/*", "https://www.google.dk/*", "https://www.google.dm/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fm/*", "https://www.google.fr/*", "https://www.google.ga/*", "https://www.google.ge/*", "https://www.google.gg/*", "https://www.google.gl/*", "https://www.google.gm/*", "https://www.google.gp/*", "https://www.google.gr/*", "https://www.google.gy/*", "https://www.google.hn/*", "https://www.google.hr/*", "https://www.google.ht/*", "https://www.google.hu/*", "https://www.google.ie/*", "https://www.google.im/*", "https://www.google.iq/*", "https://www.google.is/*", "https://www.google.it/*", "https://www.google.je/*", "https://www.google.jo/*", "https://www.google.kg/*", "https://www.google.ki/*", "https://www.google.kz/*", "https://www.google.la/*", "https://www.google.li/*", "https://www.google.lk/*", "https://www.google.lt/*", "https://www.google.lu/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.me/*", "https://www.google.mg/*", "https://www.google.mk/*", "https://www.google.ml/*", "https://www.google.mn/*", "https://www.google.ms/*", "https://www.google.mu/*", "https://www.google.mv/*", "https://www.google.mw/*", "https://www.google.ne/*", "https://www.google.nl/*", "https://www.google.no/*", "https://www.google.nr/*", "https://www.google.nu/*", "https://www.google.pl/*", "https://www.google.pn/*", "https://www.google.ps/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.rw/*", "https://www.google.sc/*", "https://www.google.se/*", "https://www.google.sh/*", "https://www.google.si/*", "https://www.google.sk/*", "https://www.google.sm/*", "https://www.google.sn/*", "https://www.google.so/*", "https://www.google.st/*", "https://www.google.td/*", "https://www.google.tg/*", "https://www.google.tk/*", "https://www.google.tl/*", "https://www.google.tm/*", "https://www.google.tn/*", "https://www.google.to/*", "https://www.google.tt/*", "https://www.google.vg/*", "https://www.google.vu/*", "https://www.google.ws/*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
                "api": [ "tabs" ],
                "explicit_host": [ "https://chrome.duckduckgo.com/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://duckduckgo.com/extensions/*", "http://www.bing.com/search*", "http://www.google.ad/*", "http://www.google.ae/*", "http://www.google.am/*", "http://www.google.as/*", "http://www.google.at/*", "http://www.google.az/*", "http://www.google.ba/*", "http://www.google.be/*", "http://www.google.bf/*", "http://www.google.bg/*", "http://www.google.bi/*", "http://www.google.bj/*", "http://www.google.bs/*", "http://www.google.by/*", "http://www.google.ca/*", "http://www.google.cat/*", "http://www.google.cd/*", "http://www.google.cf/*", "http://www.google.cg/*", "http://www.google.ch/*", "http://www.google.ci/*", "http://www.google.cl/*", "http://www.google.cm/*", "http://www.google.cn/*", "http://www.google.co.ao/*", "http://www.google.co.bw/*", "http://www.google.co.ck/*", "http://www.google.co.cr/*", "http://www.google.co.id/*", "http://www.google.co.il/*", "http://www.google.co.in/*", "http://www.google.co.jp/*", "http://www.google.co.ke/*", "http://www.google.co.kr/*", "http://www.google.co.ls/*", "http://www.google.co.ma/*", "http://www.google.co.mz/*", "http://www.google.co.nz/*", "http://www.google.co.th/*", "http://www.google.co.tz/*", "http://www.google.co.ug/*", "http://www.google.co.uk/*", "http://www.google.co.uz/*", "http://www.google.co.ve/*", "http://www.google.co.vi/*", "http://www.google.co.za/*", "http://www.google.co.zm/*", "http://www.google.co.zw/*", "http://www.google.com.af/*", "http://www.google.com.ag/*", "http://www.google.com.ai/*", "http://www.google.com.ar/*", "http://www.google.com.au/*", "http://www.google.com.bd/*", "http://www.google.com.bh/*", "http://www.google.com.bn/*", "http://www.google.com.bo/*", "http://www.google.com.br/*", "http://www.google.com.bz/*", "http://www.google.com.co/*", "http://www.google.com.cu/*", "http://www.google.com.do/*", "http://www.google.com.ec/*", "http://www.google.com.eg/*", "http://www.google.com.et/*", "http://www.google.com.fj/*", "http://www.google.com.gh/*", "http://www.google.com.gi/*", "http://www.google.com.gt/*", "http://www.google.com.hk/*", "http://www.google.com.jm/*", "http://www.google.com.kh/*", "http://www.google.com.kw/*", "http://www.google.com.lb/*", "http://www.google.com.ly/*", "http://www.google.com.mt/*", "http://www.google.com.mx/*", "http://www.google.com.my/*", "http://www.google.com.na/*", "http://www.google.com.nf/*", "http://www.google.com.ng/*", "http://www.google.com.ni/*", "http://www.google.com.np/*", "http://www.google.com.om/*", "http://www.google.com.pa/*", "http://www.google.com.pe/*", "http://www.google.com.ph/*", "http://www.google.com.pk/*", "http://www.google.com.pr/*", "http://www.google.com.py/*", "http://www.google.com.qa/*", "http://www.google.com.sa/*", "http://www.google.com.sb/*", "http://www.google.com.sg/*", "http://www.google.com.sl/*", "http://www.google.com.sv/*", "http://www.google.com.tj/*", "http://www.google.com.tr/*", "http://www.google.com.tw/*", "http://www.google.com.ua/*", "http://www.google.com.uy/*", "http://www.google.com.vc/*", "http://www.google.com.vn/*", "http://www.google.com/*", "http://www.google.cv/*", "http://www.google.cz/*", "http://www.google.de/*", "http://www.google.dj/*", "http://www.google.dk/*", "http://www.google.dm/*", "http://www.google.dz/*", "http://www.google.ee/*", "http://www.google.es/*", "http://www.google.fi/*", "http://www.google.fm/*", "http://www.google.fr/*", "http://www.google.ga/*", "http://www.google.ge/*", "http://www.google.gg/*", "http://www.google.gl/*", "http://www.google.gm/*", "http://www.google.gp/*", "http://www.google.gr/*", "http://www.google.gy/*", "http://www.google.hn/*", "http://www.google.hr/*", "http://www.google.ht/*", "http://www.google.hu/*", "http://www.google.ie/*", "http://www.google.im/*", "http://www.google.iq/*", "http://www.google.is/*", "http://www.google.it/*", "http://www.google.je/*", "http://www.google.jo/*", "http://www.google.kg/*", "http://www.google.ki/*", "http://www.google.kz/*", "http://www.google.la/*", "http://www.google.li/*", "http://www.google.lk/*", "http://www.google.lt/*", "http://www.google.lu/*", "http://www.google.lv/*", "http://www.google.md/*", "http://www.google.me/*", "http://www.google.mg/*", "http://www.google.mk/*", "http://www.google.ml/*", "http://www.google.mn/*", "http://www.google.ms/*", "http://www.google.mu/*", "http://www.google.mv/*", "http://www.google.mw/*", "http://www.google.ne/*", "http://www.google.nl/*", "http://www.google.no/*", "http://www.google.nr/*", "http://www.google.nu/*", "http://www.google.pl/*", "http://www.google.pn/*", "http://www.google.ps/*", "http://www.google.pt/*", "http://www.google.ro/*", "http://www.google.rs/*", "http://www.google.ru/*", "http://www.google.rw/*", "http://www.google.sc/*", "http://www.google.se/*", "http://www.google.sh/*", "http://www.google.si/*", "http://www.google.sk/*", "http://www.google.sm/*", "http://www.google.sn/*", "http://www.google.so/*", "http://www.google.st/*", "http://www.google.td/*", "http://www.google.tg/*", "http://www.google.tk/*", "http://www.google.tl/*", "http://www.google.tm/*", "http://www.google.tn/*", "http://www.google.to/*", "http://www.google.tt/*", "http://www.google.vg/*", "http://www.google.vu/*", "http://www.google.ws/*", "https://duckduckgo.com/extensions/*", "https://encrypted.google.com/*", "https://www.google.ad/*", "https://www.google.ae/*", "https://www.google.am/*", "https://www.google.as/*", "https://www.google.at/*", "https://www.google.az/*", "https://www.google.ba/*", "https://www.google.be/*", "https://www.google.bf/*", "https://www.google.bg/*", "https://www.google.bi/*", "https://www.google.bj/*", "https://www.google.bs/*", "https://www.google.by/*", "https://www.google.ca/*", "https://www.google.cat/*", "https://www.google.cd/*", "https://www.google.cf/*", "https://www.google.cg/*", "https://www.google.ch/*", "https://www.google.ci/*", "https://www.google.cl/*", "https://www.google.cm/*", "https://www.google.cn/*", "https://www.google.co.ao/*", "https://www.google.co.bw/*", "https://www.google.co.ck/*", "https://www.google.co.cr/*", "https://www.google.co.id/*", "https://www.google.co.il/*", "https://www.google.co.in/*", "https://www.google.co.jp/*", "https://www.google.co.ke/*", "https://www.google.co.kr/*", "https://www.google.co.ls/*", "https://www.google.co.ma/*", "https://www.google.co.mz/*", "https://www.google.co.nz/*", "https://www.google.co.th/*", "https://www.google.co.tz/*", "https://www.google.co.ug/*", "https://www.google.co.uk/*", "https://www.google.co.uz/*", "https://www.google.co.ve/*", "https://www.google.co.vi/*", "https://www.google.co.za/*", "https://www.google.co.zm/*", "https://www.google.co.zw/*", "https://www.google.com.af/*", "https://www.google.com.ag/*", "https://www.google.com.ai/*", "https://www.google.com.ar/*", "https://www.google.com.au/*", "https://www.google.com.bd/*", "https://www.google.com.bh/*", "https://www.google.com.bn/*", "https://www.google.com.bo/*", "https://www.google.com.br/*", "https://www.google.com.bz/*", "https://www.google.com.co/*", "https://www.google.com.cu/*", "https://www.google.com.do/*", "https://www.google.com.ec/*", "https://www.google.com.eg/*", "https://www.google.com.et/*", "https://www.google.com.fj/*", "https://www.google.com.gh/*", "https://www.google.com.gi/*", "https://www.google.com.gt/*", "https://www.google.com.hk/*", "https://www.google.com.jm/*", "https://www.google.com.kh/*", "https://www.google.com.kw/*", "https://www.google.com.lb/*", "https://www.google.com.ly/*", "https://www.google.com.mt/*", "https://www.google.com.mx/*", "https://www.google.com.my/*", "https://www.google.com.na/*", "https://www.google.com.nf/*", "https://www.google.com.ng/*", "https://www.google.com.ni/*", "https://www.google.com.np/*", "https://www.google.com.om/*", "https://www.google.com.pa/*", "https://www.google.com.pe/*", "https://www.google.com.ph/*", "https://www.google.com.pk/*", "https://www.google.com.pr/*", "https://www.google.com.py/*", "https://www.google.com.qa/*", "https://www.google.com.sa/*", "https://www.google.com.sb/*", "https://www.google.com.sg/*", "https://www.google.com.sl/*", "https://www.google.com.sv/*", "https://www.google.com.tj/*", "https://www.google.com.tr/*", "https://www.google.com.tw/*", "https://www.google.com.ua/*", "https://www.google.com.uy/*", "https://www.google.com.vc/*", "https://www.google.com.vn/*", "https://www.google.com/*", "https://www.google.cv/*", "https://www.google.cz/*", "https://www.google.de/*", "https://www.google.dj/*", "https://www.google.dk/*", "https://www.google.dm/*", "https://www.google.dz/*", "https://www.google.ee/*", "https://www.google.es/*", "https://www.google.fi/*", "https://www.google.fm/*", "https://www.google.fr/*", "https://www.google.ga/*", "https://www.google.ge/*", "https://www.google.gg/*", "https://www.google.gl/*", "https://www.google.gm/*", "https://www.google.gp/*", "https://www.google.gr/*", "https://www.google.gy/*", "https://www.google.hn/*", "https://www.google.hr/*", "https://www.google.ht/*", "https://www.google.hu/*", "https://www.google.ie/*", "https://www.google.im/*", "https://www.google.iq/*", "https://www.google.is/*", "https://www.google.it/*", "https://www.google.je/*", "https://www.google.jo/*", "https://www.google.kg/*", "https://www.google.ki/*", "https://www.google.kz/*", "https://www.google.la/*", "https://www.google.li/*", "https://www.google.lk/*", "https://www.google.lt/*", "https://www.google.lu/*", "https://www.google.lv/*", "https://www.google.md/*", "https://www.google.me/*", "https://www.google.mg/*", "https://www.google.mk/*", "https://www.google.ml/*", "https://www.google.mn/*", "https://www.google.ms/*", "https://www.google.mu/*", "https://www.google.mv/*", "https://www.google.mw/*", "https://www.google.ne/*", "https://www.google.nl/*", "https://www.google.no/*", "https://www.google.nr/*", "https://www.google.nu/*", "https://www.google.pl/*", "https://www.google.pn/*", "https://www.google.ps/*", "https://www.google.pt/*", "https://www.google.ro/*", "https://www.google.rs/*", "https://www.google.ru/*", "https://www.google.rw/*", "https://www.google.sc/*", "https://www.google.se/*", "https://www.google.sh/*", "https://www.google.si/*", "https://www.google.sk/*", "https://www.google.sm/*", "https://www.google.sn/*", "https://www.google.so/*", "https://www.google.st/*", "https://www.google.td/*", "https://www.google.tg/*", "https://www.google.tk/*", "https://www.google.tl/*", "https://www.google.tm/*", "https://www.google.tn/*", "https://www.google.to/*", "https://www.google.tt/*", "https://www.google.vg/*", "https://www.google.vu/*", "https://www.google.ws/*" ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
-            "incognito": true,
             "initial_keybindings_set": true,
-            "install_time": "13028719855800954",
-            "install_warning_on_enable": false,
-            "lastpingday": "13031827200987292",
+            "install_time": "13043631293116353",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
@@ -510,87 +843,39 @@
                "options_page": "html/options.html",
                "permissions": [ "https://chrome.duckduckgo.com/*", "tabs" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "42.5.15"
+               "version": "42.5.17"
             },
-            "path": "bpphkkgodbfncbcpgopijlfakfgmclao/42.5.15_0",
-            "state": 1,
-            "was_installed_by_default": false
-         },
-         "cgbogdmdefihhljhfeiklfiedefalcde": {
-            "active_permissions": {
-               "api": [ "contextMenus", "cookies", "notifications", "tabs", "webNavigation", "webRequest", "webRequestInternal" ],
-               "explicit_host": [ "*://*/*", "\u003Call_urls\u003E", "chrome://favicon/*", "http://*/*", "https://*.facebook.com/*", "https://*/*" ],
-               "scriptable_host": [ "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*", "https://www.facebook.com/connect/login_success.html*" ]
+            "path": "bpphkkgodbfncbcpgopijlfakfgmclao/42.5.17_0",
+            "preferences": {
+
             },
-            "creation_flags": 9,
-            "from_bookmark": false,
-            "from_webstore": true,
-            "granted_permissions": {
-               "api": [ "contextMenus", "cookies", "notifications", "tabs" ],
-               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*", "http://*/*", "https://*/*" ],
-               "scriptable_host": [ "http://*/*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*", "https://*/*", "https://www.facebook.com/connect/login_success.html*" ]
+            "regular_only_preferences": {
+
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
-            },
-            "initial_keybindings_set": true,
-            "install_time": "13028719855218195",
-            "lastpingday": "13031827200987292",
-            "location": 1,
-            "manifest": {
-               "background": {
-                  "page": "html/ATX.chrome.background.html"
-               },
-               "browser_action": {
-                  "default_icon": "images/19x19-full.png",
-                  "default_popup": "html/ATX.chrome.browserAction.html",
-                  "default_title": "Share, translate, bookmark, print"
-               },
-               "content_scripts": [ {
-                  "js": [ "js/ATX.chrome.content.intercept.js" ],
-                  "matches": [ "https://www.facebook.com/connect/login_success.html*", "http://www.addthis.com/pages/twitter-auth-callback?oauth_token*" ]
-               } ],
-               "content_security_policy": "script-src 'self' 'unsafe-eval' https://graph.facebook.com https://*.facebook.com https://m.addthisedge.com https://addthis.com https://s7.addthis.com https://ct1.addthis.com https://cache.addthiscdn.com https://www.facebook.com https://connect.facebook.net; object-src 'self'",
-               "current_locale": "en_US",
-               "default_locale": "en",
-               "description": "Share to Facebook, Twitter and over 300 other services with the most popular sharing tool in the world.",
-               "icons": {
-                  "128": "images/128x128.png",
-                  "16": "images/16x16.png",
-                  "19": "images/19x19.png",
-                  "32": "images/32x32.png",
-                  "64": "images/64x64.png"
-               },
-               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC/4mH2Fbva08PwzMy6boq23o2rkQkCpvjbt72C3I0P1NBhCT9xpZENK/VQLzhRlSpvtrCWH6kXabyLicG2C2zMRicwMlJRxqCWjepn7V3rP0wdm2bv5rkh+C4LzqEak+M4N/KCg8bxJkldW8yG1qK0iF2BACtUlZ5QPXkpVnQxRQIDAQAB",
-               "manifest_version": 2,
-               "name": "AddThis - Share & Bookmark (new)",
-               "options_page": "html/ATX.chrome.options.html",
-               "permissions": [ "tabs", "https://*.facebook.com/*", "contextMenus", "\u003Call_urls\u003E", "cookies", "notifications", "http://*/*", "https://*/*", "webRequest", "*://*/*", "contextMenus", "webNavigation", "https://s7.addthis.com" ],
-               "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "3.0.3"
-            },
-            "path": "cgbogdmdefihhljhfeiklfiedefalcde/3.0.3_0",
             "state": 1,
             "was_installed_by_default": false
          },
          "cmgnmcnlncejehjlnhaglpnoolgbflbd": {
             "active_permissions": {
-               "api": [ "contextMenus", "tabs" ]
+               "api": [ "contextMenus", "tabs" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
-               "api": [ "contextMenus", "tabs" ]
+               "api": [ "contextMenus", "tabs" ],
+               "manifest_permissions": [  ]
             },
-            "incognito": true,
-            "install_time": "13010214964983769",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13035015351852617",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background_page": "background.html",
@@ -619,19 +904,40 @@
                "web_url": "http://www.hidemyass.com"
             },
             "path": "cmgnmcnlncejehjlnhaglpnoolgbflbd/1.2.5_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
          "coobgpohoikkiipiblmjeljniedjpjpf": {
             "ack_external": true,
             "active_bit": false,
-            "app_launcher_ordinal": "wq",
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "z",
+            "content_settings": [  ],
             "creation_flags": 153,
+            "events": [  ],
             "from_bookmark": true,
             "from_webstore": true,
-            "install_time": "13009616769012273",
-            "last_active_pingday": "13002624001036806",
-            "lastpingday": "13031827200987292",
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035014260254146",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030527673275",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -652,40 +958,46 @@
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIiso3Loy5VJHL40shGhUl6it5ZG55XB9q/2EX6aa88jAxwPutbCgy5d9bm1YmBzLfSgpX4xcpgTU08ydWbd7b50fbkLsqWl1mRhxoqnN01kuNfv9Hbz9dWWYd+O4ZfD3L2XZs0wQqo0y6k64n+qeLkUMd1MIhf6MR8Xz1SOA8pwIDAQAB",
                "manifest_version": 2,
                "name": "Google Search",
+               "permissions": [  ],
                "update_url": "http://clients2.google.com/service/update2/crx",
                "version": "0.0.0.20"
             },
             "page_ordinal": "n",
             "path": "coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.20_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
-            "user_dragged_app_ntp": true,
             "was_installed_by_default": true
          },
          "cpngackimfmofbokmjmljamhdncknpmg": {
             "active_permissions": {
                "api": [ "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "file:///*", "ftp://*/*", "http://*/*", "https://*/*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
-               "api": [ "notifications", "plugin", "tabs" ],
+               "api": [ "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "file:///*", "ftp://*/*", "http://*/*", "https://*/*" ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
             "initial_keybindings_set": true,
-            "install_time": "13031861620408587",
-            "lastpingday": "13031827200811833",
+            "install_time": "13035015612581172",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
@@ -728,103 +1040,75 @@
                "web_accessible_resources": [ "js/page_context.js", "style.css" ]
             },
             "path": "cpngackimfmofbokmjmljamhdncknpmg/5.1.4_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
-         "ebmieckllmmifjjbipnppinpiohpfahm": {
+         "dnhpdliibojhegemfjheidglijccjfmc": {
             "active_permissions": {
-               "api": [ "tabs" ],
-               "scriptable_host": [ "http://*/*", "https://*/*" ]
+               "api": [ "hotwordPrivate", "tabs", "webConnectable" ],
+               "explicit_host": [ "*://*.google.com/*", "chrome://newtab/*" ],
+               "manifest_permissions": [  ]
             },
-            "creation_flags": 9,
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "events": [  ],
             "from_bookmark": false,
-            "from_webstore": true,
-            "granted_permissions": {
-               "api": [ "tabs" ],
-               "scriptable_host": [ "http://*/*", "https://*/*" ]
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
-            "has_declarative_rules": false,
-            "incognito": true,
             "initial_keybindings_set": true,
-            "install_time": "13018346629885612",
-            "lastpingday": "13031827200987292",
-            "location": 1,
+            "install_time": "13045475124438997",
+            "location": 5,
             "manifest": {
                "background": {
-                  "page": "background.html"
+                  "persistent": false,
+                  "scripts": [ "manager.js" ]
                },
-               "content_scripts": [ {
-                  "all_frames": true,
-                  "css": [ "FlashFree.css" ],
-                  "js": [ "debug.js", "block.js" ],
-                  "matches": [ "http://*/*", "https://*/*" ],
-                  "run_at": "document_start"
-               } ],
-               "description": "Simple Flash blocker. Very fast with small memory footprint. Include whitelist. FlashBlock for Chrome. ",
-               "icons": {
-                  "128": "icon128.png",
-                  "16": "icon16.png",
-                  "32": "icon32.png",
-                  "48": "icon48.png"
+               "externally_connectable": {
+                  "matches": [ "*://*.google.com/*", "chrome://newtab/" ]
                },
-               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD3YX/4tWPzbLEsd7796PkAlneKaaeAfIi0EP6RStMcJRQ+Fzl2PvHyVFurnZXVaOkZJSX1AN1ZoMpLF1wjO8KS+KZIkK8sV/D9u+hV1SnyImrjKSNwb2qfLKPaSdQ6BYTlPK8u+3XmHvOn5MC+VixOKJjIxffjxD399BXwC73tkQIDAQAB",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDagiQy1VGkO2CHJSjVh7eU5GtuBuOlg2/cTZt7203AcevqpcDd+65S2/yd9KAELYcU6pK8nHVGYBMI6s0u+0RgXfIJ0eFOlTlgfAQWHvg8ovHtJlFJd1COrOkbntD9+s9Jobr3ldmow87aZF1bVHUY4khVP56cZe6adlVw2wK31QIDAQAB",
                "manifest_version": 2,
-               "name": "FlashFree",
-               "options_page": "options.html",
-               "page_action": {
-                  "default_icon": "icon48.png",
-                  "default_popup": "popup.html",
-                  "default_title": "Do action"
-               },
-               "permissions": [ "tabs" ],
-               "update_url": "http://clients2.google.com/service/update2/crx",
-               "version": "2.1.1",
-               "web_accessible_resources": [ "icon128.png", "icon16.png", "icon32.png", "icon48.png", "close32.png" ]
+               "minimum_chrome_version": "32",
+               "name": "hotword helper",
+               "permissions": [ "*://*.google.com/*", "chrome://newtab/", "hotwordPrivate", "tabs" ],
+               "version": "0.0.1.0"
             },
-            "path": "ebmieckllmmifjjbipnppinpiohpfahm/2.1.1_0",
-            "state": 1,
-            "was_installed_by_default": false
-         },
-         "eecljjaahebeogldibckmfhobkkejagk": {
-            "active_bit": false,
-            "app_launcher_ordinal": "zv",
-            "creation_flags": 17,
-            "from_bookmark": true,
-            "from_webstore": false,
-            "install_time": "13009616301008340",
-            "last_active_pingday": "13010137200630061",
-            "lastpingday": "13031827200987292",
-            "location": 1,
-            "manifest": {
-               "app": {
-                  "launch": {
-                     "web_url": "https://duckduckgo.com/"
-                  },
-                  "urls": [ "https://duckduckgo.com/" ]
-               },
-               "description": "",
-               "icons": {
-                  "16": "icons/16.png"
-               },
-               "key": "Z+f1Fbe711bmzMEhSR4wiAHpSF+s4x5FWQ+59m7BBD8=",
-               "name": "DuckDuckGo",
-               "version": "2013.4.5.17219"
+            "path": "/opt/google/chrome/resources/hotword_helper",
+            "preferences": {
+
             },
-            "page_ordinal": "n",
-            "path": "eecljjaahebeogldibckmfhobkkejagk/2013.4.5.17219_0",
-            "state": 1,
-            "user_dragged_app_ntp": true,
-            "was_installed_by_default": false
+            "regular_only_preferences": {
+
+            },
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "eemcgdkfndhakfknompkggombfjjjeno": {
             "active_permissions": {
                "api": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs" ],
-               "explicit_host": [ "chrome://favicon/*", "chrome://resources/*" ]
+               "explicit_host": [ "chrome://favicon/*", "chrome://resources/*" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 1,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": false,
-            "install_time": "13008720989724286",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13035014259193888",
             "location": 5,
             "manifest": {
                "chrome_url_overrides": {
@@ -832,27 +1116,42 @@
                },
                "content_security_policy": "object-src 'none'; script-src chrome://resources 'self'",
                "description": "Bookmark Manager",
+               "icons": {
+
+               },
                "incognito": "split",
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQcByy+eN9jzazWF/DPn7NW47sW7lgmpk6eKc0BQM18q8hvEM3zNm2n7HkJv/R6fU+X5mtqkDuKvq5skF6qqUF4oEyaleWDFhd1xFwV7JV+/DU7bZ00w2+6gzqsabkerFpoP33ZRIw7OviJenP0c0uWqDWF8EGSyMhB3txqhOtiQIDAQAB",
                "manifest_version": 2,
                "name": "Bookmark Manager",
-               "permissions": [ "bookmarks", "bookmarkManagerPrivate", "systemPrivate", "tabs", "chrome://favicon/", "chrome://resources/" ],
+               "permissions": [ "bookmarks", "bookmarkManagerPrivate", "metricsPrivate", "systemPrivate", "tabs", "chrome://favicon/", "chrome://resources/" ],
                "version": "0.1"
             },
-            "path": "/opt/google/chrome/resources/bookmark_manager",
+            "path": "/opt/google/chrome-beta/resources/bookmark_manager",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "was_installed_by_default": false
          },
          "ennkphjdgehloodpbhlhldgbnhmacadg": {
             "active_permissions": {
-               "api": [ "app.currentWindowInternal", "app.runtime", "app.window" ],
-               "explicit_host": [ "chrome://settings-frame/*" ]
+               "api": [  ],
+               "explicit_host": [ "chrome://settings-frame/*" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 1,
             "events": [ "app.runtime.onLaunched" ],
             "from_bookmark": false,
             "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
             "initial_keybindings_set": true,
-            "install_time": "13031861496808284",
+            "install_time": "13045474636834230",
             "location": 5,
             "manifest": {
                "app": {
@@ -875,20 +1174,118 @@
                "version": "0.2"
             },
             "path": "/opt/google/chrome/resources/settings_app",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "running": false,
-            "was_installed_by_default": false
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "gbkeegbaiigmenfmjfclcdgdpimamgkj": {
+            "active_permissions": {
+               "api": [ "clipboardRead", "clipboardWrite", "cookies", "fileBrowserHandler", "fileBrowserHandlerInternal", "fileSystem", "fileSystem.write", "identity", "metricsPrivate", "storage", "streamsPrivate", "unlimitedStorage", "webConnectable" ],
+               "explicit_host": [ "*://*.google.com/*", "https://www.google-analytics.com/*", "https://www.googleapis.com/*" ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [ "streamsPrivate.onExecuteMimeTypeHandler", "tabs.onRemoved" ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "clipboardRead", "clipboardWrite", "cookies", "fileBrowserHandler", "fileBrowserHandlerInternal", "fileSystem", "fileSystem.write", "identity", "metricsPrivate", "storage", "streamsPrivate", "unlimitedStorage", "webConnectable" ],
+               "explicit_host": [ "*://*.google.com/*", "https://www.google-analytics.com/*", "https://www.googleapis.com/*" ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13049393793553710",
+            "lastpingday": "13049362800483964",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "persistent": false,
+                  "scripts": [ "scripts/configs/requirejsConfig.js", "scripts/third_party/requireJs/require.js", "scripts/configs/allEditFeatures.js", "scripts/background/backgroundMain.js" ]
+               },
+               "content_security_policy": "default-src 'self'; connect-src https://*.google.com https://*.googleusercontent.com/ https://www.googleapis.com/ https://www.google-analytics.com/ blob: chrome-extension:; style-src 'self' 'unsafe-inline' chrome-extension:; img-src 'self' blob: data:; frame-src chrome-extension: https://*.google.com https://content.googleapis.com; script-src https://apis.google.com/ 'self'",
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "View and Edit Word, Excel and PowerPoint files with Docs, Sheets, and Slides",
+               "externally_connectable": {
+                  "matches": [ "*://*.google.com/*" ]
+               },
+               "file_browser_handlers": [ {
+                  "default_title": "Google Docs",
+                  "file_filters": [ "filesystem:*.doc", "filesystem:*.docx", "filesystem:*.docm" ],
+                  "id": "qoview"
+               }, {
+                  "default_title": "Google Slides",
+                  "file_filters": [ "filesystem:*.ppt", "filesystem:*.pptx", "filesystem:*.pptm" ],
+                  "id": "qoview"
+               }, {
+                  "default_title": "Google Sheets",
+                  "file_filters": [ "filesystem:*.xls", "filesystem:*.xlsx" ],
+                  "id": "qoview"
+               } ],
+               "icons": {
+                  "128": "img/icon_128.png"
+               },
+               "incognito": "split",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4zyYTii0VTKI7W2U6fDeAvs3YCVZeAt7C62IC64IDCMHvWy7SKMpOPjfg5v1PgYkFm+fGsCsVLN8NaF7fzYMVtjLc5bqhqPAi56Qidrqh1HxPAAYhwFQd5BVGhZmh1fySHXFPE8VI2tIHwRrASOtx67jbSEk4nBAcJz6n+eGq8QIDAQAB",
+               "manifest_version": 2,
+               "mime_types": [ "application/msword", "application/vnd.ms-word", "application/vnd.msword", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.wordprocessing-openxml", "application/vnd.ces-quickword", "application/vnd.ms-word.document.macroEnabled.12", "application/vnd.ms-word.document.12", "application/mspowerpoint", "application/vnd.ms-powerpoint", "application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.ces-quickpoint", "application/vnd.presentation-openxml", "application/vnd.presentation-openxmlm", "application/vnd.ms-powerpoint.presentation.macroEnabled.12", "application/msexcel", "application/vnd.ms-excel", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.ces-quicksheet", "application/vnd.spreadsheet-openxml", "application/vnd.ms-excel.sheet.macroEnabled.12" ],
+               "minimum_chrome_version": "35",
+               "name": "Office Editing for Docs, Sheets, and Slides",
+               "offline_enabled": true,
+               "permissions": [ "clipboardRead", "clipboardWrite", "cookies", "*://*.google.com/*", "fileBrowserHandler", "fileSystem", "fileSystem.write", "https://www.google-analytics.com/", "https://www.googleapis.com/", "identity", "metricsPrivate", "storage", "streamsPrivate", "unlimitedStorage" ],
+               "platforms": [ {
+                  "nacl_arch": "x86-32",
+                  "sub_package_path": "_platform_specific/x86_32/"
+               }, {
+                  "nacl_arch": "x86-64",
+                  "sub_package_path": "_platform_specific/x86_64/"
+               }, {
+                  "nacl_arch": "arm",
+                  "sub_package_path": "_platform_specific/arm/"
+               } ],
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "37.108.1712.612",
+               "web_accessible_resources": [ "views/app.html", "views/qowt.html" ]
+            },
+            "path": "gbkeegbaiigmenfmjfclcdgdpimamgkj/37.108.1712.612_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "gfdkimpbcpahaombhbimeihdjnejgicl": {
             "active_permissions": {
-               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "feedbackPrivate" ],
-               "explicit_host": [ "chrome://resources/*" ]
+               "api": [ "feedbackPrivate" ],
+               "explicit_host": [ "chrome://resources/*" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 1,
             "events": [ "feedbackPrivate.onFeedbackRequested" ],
             "from_bookmark": false,
             "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
             "initial_keybindings_set": true,
-            "install_time": "13028719852209016",
+            "install_time": "13035014259195914",
             "location": 5,
             "manifest": {
                "app": {
@@ -904,46 +1301,52 @@
                   "32": "images/icon32.png",
                   "64": "images/icon64.png"
                },
+               "incognito": "split",
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDMZElzFX2J1g1nRQ/8S3rg/1CjFyDltWOxQg+9M8aVgNVxbutEWFQz+oQzIP9BB67mJifULgiv12ToFKsae4NpEUR8sPZjiKDIHumc6pUdixOm8SJ5Rs16SMR6+VYxFUjlVW+5CA3IILptmNBxgpfyqoK0qRpBDIhGk1KDEZ4zqQIDAQAB",
                "manifest_version": 2,
                "name": "Feedback",
                "permissions": [ "feedbackPrivate", "chrome://resources/" ],
                "version": "1.0"
             },
-            "path": "/opt/google/chrome/resources/feedback",
+            "path": "/opt/google/chrome-beta/resources/feedback",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "running": false,
             "was_installed_by_default": false
          },
          "gighmmpiobklfepjocnamgkkbiglidom": {
             "active_permissions": {
-               "api": [ "contextMenus", "idle", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
+               "api": [ "alarms", "contextMenus", "idle", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
-               "scriptable_host": [ "*://*.mail.live.com/*", "*://*.mastertoons.com/*", "http://*/*", "https://*/*" ]
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "*://*.autorevue.cz/*", "*://*.doupe.cz/*", "*://*.e15.cz/*", "*://*.getadblock.com/*", "*://*.mail.live.com/*", "*://*.mastertoons.com/*", "*://*.mobilmania.cz/*", "*://*.sportrevue.cz/*", "*://*.youtube.com/*", "*://*.zive.cz/*", "http://*/*", "https://*/*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
                "api": [ "contextMenus", "idle", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "webRequestInternal" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "*://*.mail.live.com/*", "*://*.mastertoons.com/*", "http://*/*", "https://*/*" ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
-            "incognito": true,
             "initial_keybindings_set": true,
-            "install_time": "13031861621332558",
-            "lastpingday": "13031827200811833",
+            "install_time": "13049332915768304",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
-                  "scripts": [ "jquery/jquery.min.js", "port.js", "functions.js", "stats.js", "filtering/domainset.js", "filtering/filteroptions.js", "filtering/fifocache.js", "filtering/filtertypes.js", "filtering/filterset.js", "filtering/myfilters.js", "filtering/filternormalizer.js", "idlehandler.js", "background.js" ]
+                  "scripts": [ "jquery/jquery.min.js", "port.js", "functions.js", "stats.js", "filtering/domainset.js", "filtering/filteroptions.js", "filtering/filtertypes.js", "filtering/filterset.js", "filtering/myfilters.js", "filtering/filternormalizer.js", "idlehandler.js", "search/search-plus-one.js", "background.js" ]
                },
                "browser_action": {
                   "default_icon": {
@@ -955,13 +1358,13 @@
                },
                "content_scripts": [ {
                   "all_frames": true,
-                  "js": [ "port.js", "functions.js", "filtering/filteroptions.js", "adblock_start_common.js", "adblock_start_chrome.js" ],
-                  "matches": [ "http://*/*", "https://*/*" ],
+                  "js": [ "bandaids.js" ],
+                  "matches": [ "*://*.mail.live.com/*", "*://*.mastertoons.com/*", "*://*.getadblock.com/*", "*://*.mobilmania.cz/*", "*://*.zive.cz/*", "*://*.doupe.cz/*", "*://*.e15.cz/*", "*://*.sportrevue.cz/*", "*://*.autorevue.cz/*", "*://*.youtube.com/*" ],
                   "run_at": "document_start"
                }, {
                   "all_frames": true,
-                  "js": [ "bandaids.js" ],
-                  "matches": [ "*://*.mail.live.com/*", "*://*.mastertoons.com/*" ],
+                  "js": [ "port.js", "functions.js", "filtering/filteroptions.js", "adblock_start_common.js", "adblock_start_chrome.js" ],
+                  "matches": [ "http://*/*", "https://*/*" ],
                   "run_at": "document_start"
                }, {
                   "all_frames": false,
@@ -969,7 +1372,7 @@
                   "matches": [ "http://*/*", "https://*/*" ],
                   "run_at": "document_end"
                } ],
-               "content_security_policy": "default-src 'self'; style-src 'self' 'unsafe-inline'; connect-src *; frame-src 'self' https://chromeadblock.com",
+               "content_security_policy": "default-src 'self'; style-src 'self' 'unsafe-inline' 'unsafe-eval'; connect-src *; frame-src 'self' https://chromeadblock.com https://getadblock.com",
                "current_locale": "en_US",
                "default_locale": "en",
                "description": "The most popular Chrome extension, with over 15 million users!  Blocks ads all over the web.",
@@ -984,52 +1387,58 @@
                "minimum_chrome_version": "23",
                "name": "AdBlock",
                "options_page": "options/index.html",
-               "permissions": [ "http://*/*", "https://*/*", "contextMenus", "tabs", "idle", "webRequest", "webRequestBlocking", "webNavigation" ],
+               "permissions": [ "http://*/*", "https://*/*", "contextMenus", "tabs", "idle", "webRequest", "webRequestBlocking", "webNavigation", "alarms" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2.6.16",
-               "web_accessible_resources": [ "img/icon24.png", "jquery/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.png", "jquery/css/images/ui-icons_056b93_2.6.440.png", "jquery/css/images/ui-icons_d8e7f3_2.6.440.png", "jquery/css/jquery-ui.custom.css", "jquery/css/override-page.css" ]
+               "version": "2.7.5",
+               "web_accessible_resources": [ "img/icon24.png", "jquery/css/images/ui-bg_inset-hard_100_fcfdfd_1x100.png", "jquery/css/images/ui-icons_056b93_256x240.png", "jquery/css/images/ui-icons_d8e7f3_256x240.png", "jquery/css/jquery-ui.custom.css", "jquery/css/override-page.css", "font/OpenSans.woff" ]
             },
-            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.6.16_0",
+            "path": "gighmmpiobklfepjocnamgkkbiglidom/2.7.5_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
-            "was_installed_by_default": false
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "gmbmikajjgmnabiglmofipeabaddhgne": {
             "active_permissions": {
-               "api": [ "contextMenus", "notifications", "pageCapture", "storage", "tabs", "webRequest", "webRequestInternal" ],
-               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ],
+               "api": [ "contextMenus", "identity", "notifications", "pageCapture", "storage", "tabs", "webRequest", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://www.google.com/robots.txt*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
-               "api": [ "contextMenus", "notifications", "pageCapture", "tabs", "webRequest", "webRequestInternal" ],
-               "explicit_host": [ "\u003Call_urls\u003E", "chrome://favicon/*" ]
+               "api": [ "contextMenus", "notifications", "pageCapture", "storage", "tabs", "webRequest", "webRequestInternal" ],
+               "explicit_host": [ "\u003Call_urls>", "chrome://favicon/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "http://www.google.com/robots.txt*" ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
             "initial_keybindings_set": true,
-            "install_time": "13028719856042931",
-            "lastpingday": "13031827200987292",
+            "install_time": "13048167194646775",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
-                  "scripts": [ "js/closuresetup.js", "js/background_all.js", "oauth2/oauth2.js" ]
+                  "scripts": [ "js/closuresetup.js", "js/background_all.js" ]
                },
                "browser_action": {
-                  "default_icon": "images/driveicon19.png"
+                  "default_icon": {
+                     "19": "images/driveicon19.png",
+                     "38": "images/driveicon38.png"
+                  }
                },
-               "content_scripts": [ {
-                  "js": [ "oauth2/oauth2_inject.js" ],
-                  "matches": [ "http://www.google.com/robots.txt*" ],
-                  "run_at": "document_start"
-               } ],
                "content_security_policy": "script-src 'self' https://www-onepick-opensocial.googleusercontent.com; object-src 'self'",
                "current_locale": "en_US",
                "default_locale": "en",
@@ -1039,53 +1448,55 @@
                   "16": "images/driveicon16.png",
                   "48": "images/driveicon48.png"
                },
-               "intents": {
-                  "http://webintents.org/save": [ {
-                     "disposition": "inline",
-                     "href": "handleintent.html",
-                     "title": "__MSG_SAVE_TO_GOOGLE_DRIVE_ACTION__",
-                     "type": [ "*" ]
-                  } ]
-               },
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCkMG3IEGQYPhaXAF889aObqWzDrkker6hp6n85a0mgbSuGI9C2h/1AfAILiLwxtgxKHEIDZfNq1Yo2dgZjDhIb+VRrAYh9LFq2Gi93ORK1haF1AwY8jmuTgs1cfX/HDKpXBkUEba68kOcdqsQyuAym1KJNA76uRWVyNPU5nKa0owIDAQAB",
                "manifest_version": 2,
                "name": "Save to Google Drive",
+               "oauth2": {
+                  "client_id": "351861205747-jdceupirmv7o77ne1a3b4qh1klct94ck.apps.googleusercontent.com",
+                  "scopes": [ "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/userinfo.email" ]
+               },
                "options_page": "options.html",
-               "permissions": [ "contextMenus", "notifications", "pageCapture", "storage", "tabs", "webRequest", "\u003Call_urls\u003E" ],
+               "permissions": [ "contextMenus", "identity", "notifications", "pageCapture", "storage", "tabs", "webRequest", "\u003Call_urls>" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "2.0.1",
-               "web_accessible_resources": [ "images/driveicon32.png", "oauth2/oauth2.html" ]
+               "version": "2.1.1",
+               "web_accessible_resources": [ "images/driveicon32.png" ]
             },
-            "path": "gmbmikajjgmnabiglmofipeabaddhgne/2.0.1_0",
+            "path": "gmbmikajjgmnabiglmofipeabaddhgne/2.1.1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
-            "was_installed_by_default": false
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "hcjdanpjacpeeppdjkppebobilhaglfo": {
             "active_permissions": {
                "api": [ "contextMenus", "tabs" ],
                "explicit_host": [ "http://*.searchpreview.de/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
                "api": [ "contextMenus", "tabs" ],
                "explicit_host": [ "http://*.searchpreview.de/*" ],
+               "manifest_permissions": [  ],
                "scriptable_host": [ "http://*/*", "https://*/*" ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
-            "incognito": true,
             "initial_keybindings_set": true,
-            "install_time": "13031861620669953",
-            "lastpingday": "13031827200811833",
+            "install_time": "13043631291619158",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
@@ -1098,7 +1509,7 @@
                } ],
                "current_locale": "en_US",
                "default_locale": "en",
-               "description": "Adds preview images (thumbnails) to your Google\u2122 search results.",
+               "description": "Adds preview images (thumbnails) to your Google™ search results.",
                "icons": {
                   "128": "sp_128.png",
                   "32": "sp_32.png",
@@ -1110,102 +1521,41 @@
                "options_page": "options.html",
                "permissions": [ "contextMenus", "tabs", "http://*.searchpreview.de/" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "3.3"
+               "version": "3.4"
             },
-            "path": "hcjdanpjacpeeppdjkppebobilhaglfo/3.3_0",
+            "path": "hcjdanpjacpeeppdjkppebobilhaglfo/3.4_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
-            "was_installed_by_default": false
-         },
-         "hfhhnacclhffhdffklopdkcgdhifgngh": {
-            "active_bit": true,
-            "active_permissions": {
-               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "fileSystem", "fileSystem.write", "storage", "unlimitedStorage", "videoCapture" ]
-            },
-            "app_launcher_ordinal": "wy",
-            "creation_flags": 9,
-            "events": [ "app.runtime.onLaunched" ],
-            "from_bookmark": false,
-            "from_webstore": true,
-            "geometry_cache": {
-               "main": {
-                  "h": 615,
-                  "screen_bounds_h": 718,
-                  "screen_bounds_w": 1366,
-                  "screen_bounds_x": 0,
-                  "screen_bounds_y": 25,
-                  "state": 1,
-                  "ts": "13031862147553077",
-                  "w": 1093,
-                  "x": 136,
-                  "y": 51
-               }
-            },
-            "granted_permissions": {
-               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "fileSystem", "fileSystem.write", "storage", "unlimitedStorage", "videoCapture" ]
-            },
-            "initial_keybindings_set": true,
-            "install_time": "13031861917208452",
-            "is_active": false,
-            "last_launch_time": "13031862142446943",
-            "lastpingday": "13031827200285908",
-            "location": 1,
-            "manifest": {
-               "app": {
-                  "background": {
-                     "scripts": [ "js/background.js" ]
-                  }
-               },
-               "current_locale": "en_US",
-               "default_locale": "en",
-               "description": "Take crazy pictures with your web camera.",
-               "icons": {
-                  "128": "images/camera_app_icons_128.png",
-                  "32": "images/camera_app_icons_32.png",
-                  "48": "images/camera_app_icons_48.png",
-                  "64": "images/camera_app_icons_64.png",
-                  "96": "images/camera_app_icons_96.png"
-               },
-               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3oA1Ox8PiRORjuFDgJeWcwnzZDPHUzuH6fymTrx8KPybhfd6XIYFXvilSsRnsGKPslN+BXke3HWC4/MoB2HM2pNGmsQ+jNyTh2dgk4ISdZYRLfqjxr846/245dkznCJLYAZr72Lk+vRZUyYBcLNNox8jRV5ZF16+8uPPUsUiqbQIDAQAB",
-               "manifest_version": 2,
-               "name": "Camera",
-               "permissions": [ "videoCapture", "storage", "unlimitedStorage", {
-                  "fileSystem": [ "write" ]
-               } ],
-               "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "3.1.5"
-            },
-            "page_ordinal": "n",
-            "path": "hfhhnacclhffhdffklopdkcgdhifgngh/3.1.5_0",
-            "running": false,
-            "state": 1,
-            "user_dragged_app_ntp": true,
             "was_installed_by_default": false
          },
          "idknbmbdnapjicclomlijcgfpikmndhd": {
             "active_permissions": {
                "api": [ "identity", "pageCapture", "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*", "https://www.google.com/*" ],
-               "scriptable_host": [ "http://www.google.com/robots.txt*" ]
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
-               "api": [ "pageCapture", "tabs" ],
-               "explicit_host": [ "http://*/*", "https://*/*", "https://accounts.google.com/*", "https://www.google.com/*" ],
-               "scriptable_host": [ "http://www.google.com/robots.txt*" ]
+               "api": [ "identity", "pageCapture", "tabs" ],
+               "explicit_host": [ "http://*/*", "https://*/*", "https://www.google.com/*" ],
+               "manifest_permissions": [  ]
             },
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
             "initial_keybindings_set": true,
-            "install_time": "13031861621550992",
-            "lastpingday": "13031827200811833",
+            "install_time": "13035015790714875",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
@@ -1244,16 +1594,35 @@
                "version": "3.1"
             },
             "path": "idknbmbdnapjicclomlijcgfpikmndhd/3.1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
          "ineckjpdpocelacecaogaapbmmmpcdci": {
-            "app_launcher_ordinal": "yn",
+            "active_bit": false,
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zs",
+            "content_settings": [  ],
             "creation_flags": 17,
+            "events": [  ],
             "from_bookmark": true,
             "from_webstore": false,
-            "install_time": "13009616257135425",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035029617944870",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030540445542",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -1268,45 +1637,134 @@
                },
                "key": "baKJI7WUOvPnIfOmqQ3FIJD2ThBDOe8v8LFkdTL5fI4=",
                "name": "Notes",
-               "version": "2013.4.5.17186"
+               "permissions": [  ],
+               "version": "2014.1.24.26106"
             },
             "page_ordinal": "n",
-            "path": "ineckjpdpocelacecaogaapbmmmpcdci/2013.4.5.17186_0",
+            "path": "ineckjpdpocelacecaogaapbmmmpcdci/2014.1.24.26106_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
+            "was_installed_by_default": false
+         },
+         "ljkalbbbffedallekgkdheknngopfhif": {
+            "active_bit": false,
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zg",
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035029783287223",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030532037735",
+            "lastpingday": "13049362865497075",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "https://duckduckgo.com/"
+                  },
+                  "urls": [ "https://duckduckgo.com/" ]
+               },
+               "description": "Quick link to DuckDuckGo search engine.",
+               "icons": {
+                  "128": "img/duckduckgo_128.png",
+                  "16": "img/duckduckgo_16.png",
+                  "48": "img/duckduckgo_48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDUghfy7nCcmFeaj0FyTO4GXxJfUd+2Lx0VnZ6KMgl9sNQSkPRGNdfU+qnA+KjAMXALhZaUAAn0VDu7v4RMjLwtiuQ0uk2H4LZZzANSMvUd6SD3JH0Kxr4ocBYye2JZ28xG4F13JEmU6JoQLT+Pe2tg9gmI34zo1rXstkUz3PwaNQIDAQAB",
+               "manifest_version": 2,
+               "name": "DuckDuckGo Home Page",
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "0.0.8"
+            },
+            "page_ordinal": "n",
+            "path": "ljkalbbbffedallekgkdheknngopfhif/0.0.8_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "user_dragged_app_ntp": true,
             "was_installed_by_default": false
          },
          "mfehgcgbbipciphmccgaenjidiccnmng": {
             "active_permissions": {
-               "api": [ "cloudPrintPrivate" ]
+               "api": [ "cloudPrintPrivate" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 1,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": false,
-            "install_time": "13008720989725223",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035014259194942",
             "location": 5,
             "manifest": {
                "app": {
                   "launch": {
                      "web_url": "https://www.google.com/cloudprint"
                   },
-                  "urls": [ "https://www.google.com/cloudprint", "https://www.google.com/cloudprint/enable_chrome_connector" ]
+                  "urls": [ "https://www.google.com/cloudprint/enable_chrome_connector" ]
                },
                "description": "Cloud Print",
                "display_in_launcher": false,
+               "icons": {
+
+               },
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDqOhnwk4+HXVfGyaNsAQdU/js1Na56diW08oF1MhZiwzSnJsEaeuMN9od9q9N4ZdK3o1xXOSARrYdE+syV7Dl31nf6qz3A6K+D5NHe6sSB9yvYlIiN37jdWdrfxxE0pRYEVYZNTe3bzq3NkcYJlOdt1UPcpJB+isXpAGUKUvt7EQIDAQAB",
                "name": "Cloud Print",
                "permissions": [ "cloudPrintPrivate" ],
                "version": "0.1"
             },
-            "path": "/opt/google/chrome/resources/cloud_print",
+            "path": "/opt/google/chrome-beta/resources/cloud_print",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "was_installed_by_default": false
          },
          "mgndgikekgjfcpckkfioiadnlibdjbkf": {
-            "app_launcher_ordinal": "h",
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "k",
+            "content_settings": [  ],
             "creation_flags": 1,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": false,
-            "install_time": "13031861496807718",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13045474636831220",
             "location": 5,
             "manifest": {
                "app": {
@@ -1327,19 +1785,151 @@
             },
             "page_ordinal": "n",
             "path": "/opt/google/chrome/resources/chrome_app",
-            "was_installed_by_default": false
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "mhjfbmdgcfjbbpaeojofohoefgiehjai": {
+            "active_permissions": {
+               "api": [ "streamsPrivate" ],
+               "explicit_host": [ "file:///*", "http://*/*", "https://*/*" ],
+               "manifest_permissions": [  ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 1,
+            "events": [ "streamsPrivate.onExecuteMimeTypeHandler" ],
+            "from_bookmark": false,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13045475124440835",
+            "location": 5,
+            "manifest": {
+               "background": {
+                  "persistent": false,
+                  "scripts": [ "background.js" ],
+                  "transient": true
+               },
+               "description": "Chrome PDF Viewer",
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDN6hM0rsDYGbzQPQfOygqlRtQgKUXMfnSjhIBL7LnReAVBEd7ZmKtyN2qmSasMl4HZpMhVe2rPWVVwBDl6iyNE/Kok6E6v6V3vCLGsOpQAuuNVye/3QxzIldzG/jQAdWZiyXReRVapOhZtLjGfywCvlWq7Sl/e3sbc0vWybSDI2QIDAQAB",
+               "manifest_version": 2,
+               "mime_types": [ "application/pdf" ],
+               "name": "Chrome PDF Viewer",
+               "offline_enabled": true,
+               "permissions": [ "file://*/", "http://*/", "https://*/", "streamsPrivate" ],
+               "version": "1",
+               "web_accessible_resources": [ "pdf.html" ]
+            },
+            "path": "/opt/google/chrome/resources/pdf",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
+         },
+         "nckgahadagoaajjgafhacjanaoiihapd": {
+            "active_permissions": {
+               "api": [ "background", "cookies", "idle", "notifications", "tabs", "webConnectable" ],
+               "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "*://*.google.com/mail/*", "*://*.google.com/talkgadget/_/chat*", "*://*.google.com/talkgadget/notifierclient*", "*://*.google.com/u/*/talkgadget/_/chat*" ]
+            },
+            "content_settings": [  ],
+            "creation_flags": 9,
+            "events": [  ],
+            "from_bookmark": false,
+            "from_webstore": true,
+            "granted_permissions": {
+               "api": [ "background", "cookies", "idle", "notifications", "plugin", "tabs", "webConnectable" ],
+               "explicit_host": [ "*://*.google.com/*", "*://*.orkut.com/*" ],
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "*://*.google.com/mail/*", "*://*.google.com/talkgadget/_/chat*", "*://*.google.com/talkgadget/notifierclient*", "*://*.google.com/u/*/talkgadget/_/chat*" ]
+            },
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "initial_keybindings_set": true,
+            "install_time": "13049332916133423",
+            "lastpingday": "13049362865497075",
+            "location": 1,
+            "manifest": {
+               "background": {
+                  "scripts": [ "scripts/extension.js" ]
+               },
+               "browser_action": {
+                  "default_icon": {
+                     "19": "images_3/presence/offline_19.png",
+                     "38": "images_3/presence/offline_38.png"
+                  },
+                  "default_title": "Hangouts"
+               },
+               "content_security_policy": "script-src 'self' https://*.google.com https://feedback.googleusercontent.com https://www.gstatic.com https://*.google.com:*/; img-src 'self' data: https://ssl.gstatic.com ; object-src 'self'",
+               "current_locale": "en_US",
+               "default_locale": "en",
+               "description": "Hangouts brings conversations to life with photos, emoji, and even group video calls for free.",
+               "externally_connectable": {
+                  "matches": [ "https://*.google.com/*" ]
+               },
+               "icons": {
+                  "128": "images_3/icon-128x128.png",
+                  "48": "images_3/icon-48x48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDsDApubb73tPfYlNIFxDu3K3/EHgV6/YOJXJkld1OZ20jW/cOht1j0NggnXhQYuu1mXFUufud4I2N7b5ydyg09gcM9Va3Zk17RhNV9smbPHOd4XlzJeXifX/9MgHPu4FzCen3CiSXsOeAELJIXEuT28xICriuUko/rNPwGeIB9VwIDAQAB",
+               "manifest_version": 2,
+               "minimum_chrome_version": "26.0.0.0",
+               "name": "Hangouts",
+               "options_page": "settingsdialog.html",
+               "permissions": [ "cookies", "background", "idle", "notifications", "tabs", "*://*.google.com/*", "*://*.orkut.com/*" ],
+               "system_indicator": {
+                  "default_icon": {
+                     "19": "images_3/presence/offline_19.png",
+                     "38": "images_3/presence/offline_38.png"
+                  }
+               },
+               "update_url": "https://clients2.google.com/service/update2/crx",
+               "version": "2014.625.433.1",
+               "web_accessible_resources": [ "*" ]
+            },
+            "path": "nckgahadagoaajjgafhacjanaoiihapd/2014.625.433.1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false,
+            "was_installed_by_oem": false
          },
          "neajdppkdcdipfabeoofebfddakdcjhd": {
             "active_permissions": {
                "api": [ "systemPrivate", "ttsEngine" ],
-               "explicit_host": [ "https://www.google.com/*" ]
+               "explicit_host": [ "https://www.google.com/*" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 1,
             "events": [ "ttsEngine.onPause", "ttsEngine.onResume", "ttsEngine.onSpeak", "ttsEngine.onStop" ],
             "from_bookmark": false,
             "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
             "initial_keybindings_set": true,
-            "install_time": "13028719852209347",
+            "install_time": "13035014259196256",
             "location": 5,
             "manifest": {
                "background": {
@@ -1375,13 +1965,13 @@
                      "gender": "female",
                      "lang": "es-ES",
                      "remote": true,
-                     "voice_name": "Google Espa\u00F1ol"
+                     "voice_name": "Google Español"
                   }, {
                      "event_types": [ "start", "end", "error" ],
                      "gender": "female",
                      "lang": "fr-FR",
                      "remote": true,
-                     "voice_name": "Google Fran\u00E7ais"
+                     "voice_name": "Google Français"
                   }, {
                      "event_types": [ "start", "end", "error" ],
                      "gender": "female",
@@ -1399,45 +1989,57 @@
                      "gender": "female",
                      "lang": "ja-JP",
                      "remote": true,
-                     "voice_name": "Google \u65E5\u672C\u4EBA"
+                     "voice_name": "Google 日本人"
                   }, {
                      "event_types": [ "start", "end", "error" ],
                      "gender": "female",
                      "lang": "ko-KR",
                      "remote": true,
-                     "voice_name": "Google \uD55C\uAD6D\uC758"
+                     "voice_name": "Google 한국의"
                   }, {
                      "event_types": [ "start", "end", "error" ],
                      "gender": "female",
                      "lang": "zh-CN",
                      "remote": true,
-                     "voice_name": "Google \u4E2D\u56FD\u7684"
+                     "voice_name": "Google 中国的"
                   } ]
                },
                "version": "1.0"
             },
-            "path": "/opt/google/chrome/resources/network_speech_synthesis",
+            "path": "/opt/google/chrome-beta/resources/network_speech_synthesis",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "was_installed_by_default": false
          },
          "nfnbjbobhhoaekejilcmdkfomkndikho": {
             "active_permissions": {
                "api": [ "contextMenus", "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
-               "scriptable_host": [ "\u003Call_urls\u003E" ]
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "\u003Call_urls>" ]
             },
+            "content_settings": [  ],
             "creation_flags": 9,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
                "api": [ "contextMenus", "tabs" ],
                "explicit_host": [ "http://*/*", "https://*/*" ],
-               "scriptable_host": [ "\u003Call_urls\u003E" ]
+               "manifest_permissions": [  ],
+               "scriptable_host": [ "\u003Call_urls>" ]
             },
-            "has_declarative_rules": false,
-            "incognito": true,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
             "initial_keybindings_set": true,
-            "install_time": "13018346607292529",
-            "lastpingday": "13031827200987292",
+            "install_time": "13043631290589160",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "background": {
@@ -1446,7 +2048,7 @@
                "content_scripts": [ {
                   "css": [ "css/basic.css" ],
                   "js": [ "jquery-1.7.1.js", "jquery.simplemodal.js", "qrcontent.js" ],
-                  "matches": [ "\u003Call_urls\u003E" ]
+                  "matches": [ "\u003Call_urls>" ]
                } ],
                "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
                "current_locale": "en_US",
@@ -1469,23 +2071,37 @@
                   "default_title": "Generate QrCode"
                },
                "permissions": [ "contextMenus", "http://*/*", "https://*/*", "tabs" ],
+               "short_name": "Smartly generate QrCode",
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "1.8.5",
+               "version": "1.8.7",
                "web_accessible_resources": [ "popup.html", "img/basic/x.png" ]
             },
-            "path": "nfnbjbobhhoaekejilcmdkfomkndikho/1.8.5_0",
+            "path": "nfnbjbobhhoaekejilcmdkfomkndikho/1.8.7_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          },
          "nkeimhogjdpnpccoofpliimaahmaaome": {
             "active_permissions": {
-               "api": [ "desktopCapture", "webConnectable", "webrtcAudioPrivate", "webrtcLoggingPrivate", "system.cpu" ]
+               "api": [ "alarms", "desktopCapture", "webConnectable", "webrtcAudioPrivate", "webrtcLoggingPrivate", "system.cpu" ],
+               "manifest_permissions": [  ]
             },
+            "content_settings": [  ],
             "creation_flags": 1,
+            "events": [ "alarms.onAlarm", "runtime.onStartup" ],
             "from_bookmark": false,
             "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
             "initial_keybindings_set": true,
-            "install_time": "13028719852208702",
+            "install_time": "13035014259195610",
             "location": 5,
             "manifest": {
                "background": {
@@ -1498,34 +2114,37 @@
                "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAQt2ZDdPfoSe/JI6ID5bgLHRCnCu9T36aYczmhw/tnv6QZB2I6WnOCMZXJZlRdqWc7w9jo4BWhYS50Vb4weMfh/I0On7VcRwJUgfAxW2cHB+EkmtI1v4v/OU24OqIa1Nmv9uRVeX0GjhQukdLNhAE6ACWooaf5kqKlCeK+1GOkQIDAQAB",
                "manifest_version": 2,
                "name": "Hangout Services",
-               "permissions": [ "desktopCapture", "system.cpu", "webrtcAudioPrivate", "webrtcLoggingPrivate" ],
+               "permissions": [ "alarms", "desktopCapture", "system.cpu", "webrtcAudioPrivate", "webrtcLoggingPrivate" ],
                "version": "1.0"
             },
-            "path": "/opt/google/chrome/resources/hangout_services",
+            "path": "/opt/google/chrome-beta/resources/hangout_services",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "was_installed_by_default": false
          },
          "nmmhkkegccagdldgiimedpiccmgmieda": {
             "ack_external": true,
             "active_permissions": {
-               "api": [ "app.currentWindowInternal", "app.runtime", "app.window", "identity", "webRequestInternal", "webview" ],
-               "explicit_host": [ "https://checkout.google.com/*", "https://sandbox.google.com/*", "https://www.google.com/*" ]
+               "api": [ "identity", "webRequestInternal", "webview" ],
+               "explicit_host": [ "https://checkout.google.com/*", "https://sandbox.google.com/*", "https://www.google.com/*", "https://www.googleapis.com/*" ],
+               "manifest_permissions": [  ]
             },
-            "app_launcher_ordinal": "zx",
+            "content_settings": [  ],
             "creation_flags": 137,
             "events": [ "app.runtime.onLaunched" ],
             "from_bookmark": false,
             "from_webstore": true,
-            "has_declarative_rules": {
-               "declarativeContent": {
-                  "onPageChanged": false
-               },
-               "declarativeWebRequest": {
-                  "onRequest": false
-               }
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
             },
             "initial_keybindings_set": true,
-            "install_time": "13028719873740308",
-            "lastpingday": "13031827200987292",
+            "install_time": "13043631301375575",
+            "lastpingday": "13049362865497075",
             "location": 10,
             "manifest": {
                "app": {
@@ -1549,31 +2168,48 @@
                "oauth2": {
                   "auto_approve": true,
                   "client_id": "203784468217.apps.googleusercontent.com",
-                  "scopes": [ "https://www.googleapis.com/auth/sierra", "https://www.googleapis.com/auth/sierrasandbox" ]
+                  "scopes": [ "https://www.googleapis.com/auth/sierra", "https://www.googleapis.com/auth/sierrasandbox", "https://www.googleapis.com/auth/chromewebstore", "https://www.googleapis.com/auth/chromewebstore.readonly" ]
                },
-               "permissions": [ "identity", "webview", "https://checkout.google.com/", "https://sandbox.google.com/checkout/", "https://www.google.com/" ],
+               "permissions": [ "identity", "webview", "https://checkout.google.com/", "https://sandbox.google.com/checkout/", "https://www.google.com/", "https://www.googleapis.com/*" ],
                "update_url": "https://clients2.google.com/service/update2/crx",
-               "version": "0.0.5.0"
+               "version": "0.0.6.1"
             },
-            "page_ordinal": "n",
-            "path": "nmmhkkegccagdldgiimedpiccmgmieda/0.0.5.0_0",
+            "path": "nmmhkkegccagdldgiimedpiccmgmieda/0.0.6.1_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "running": false,
             "state": 1,
             "was_installed_by_default": true
          },
          "pjkljhegncpnkpknbcohdijeoejaedia": {
             "ack_external": true,
+            "active_bit": false,
             "active_permissions": {
-               "api": [ "notifications" ]
+               "api": [ "notifications" ],
+               "manifest_permissions": [  ]
             },
-            "app_launcher_ordinal": "q",
+            "app_launcher_ordinal": "zxn",
+            "content_settings": [  ],
+            "creation_flags": 137,
+            "events": [  ],
             "from_bookmark": false,
             "from_webstore": true,
             "granted_permissions": {
-               "api": [ "notifications" ]
+               "api": [ "notifications" ],
+               "manifest_permissions": [  ]
             },
-            "install_time": "13001251703483289",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035014259551606",
+            "last_active_pingday": "13043574000538164",
+            "last_launch_time": "13035030772229867",
+            "lastpingday": "13049362865497075",
             "location": 1,
             "manifest": {
                "app": {
@@ -1598,17 +2234,84 @@
             },
             "page_ordinal": "n",
             "path": "pjkljhegncpnkpknbcohdijeoejaedia/7_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "user_dragged_app_ntp": true,
             "was_installed_by_default": true
          },
-         "ppodkfhjodjcdabeajdkhikhoplbahlj": {
-            "app_launcher_ordinal": "zs",
+         "plpmgmjdepppahjmdhpfhnonbcmhfpce": {
+            "active_bit": false,
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zm",
+            "content_settings": [  ],
             "creation_flags": 17,
+            "events": [  ],
             "from_bookmark": true,
             "from_webstore": false,
-            "install_time": "13009616377468101",
-            "lastpingday": "13031827200987292",
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035029582655512",
+            "last_active_pingday": "13043574000973335",
+            "last_launch_time": "13035030550885608",
+            "lastpingday": "13049362865497075",
+            "location": 1,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://justbrowsing.info/#2014-07-31"
+                  },
+                  "urls": [ "http://justbrowsing.info/#2014-07-31" ]
+               },
+               "description": "",
+               "icons": {
+                  "16": "icons/16.png"
+               },
+               "key": "uEuBywUfgr8wpuJ1y+fvnGIMiwwYfmmJuGUPEm6n4Q0=",
+               "name": "JustBrowsing",
+               "permissions": [  ],
+               "version": "2014.1.24.26079"
+            },
+            "page_ordinal": "n",
+            "path": "plpmgmjdepppahjmdhpfhnonbcmhfpce/2014.1.24.26079_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
+            "state": 1,
+            "was_installed_by_default": false
+         },
+         "ppodkfhjodjcdabeajdkhikhoplbahlj": {
+            "active_bit": false,
+            "active_permissions": {
+               "api": [  ],
+               "manifest_permissions": [  ]
+            },
+            "app_launcher_ordinal": "zy",
+            "content_settings": [  ],
+            "creation_flags": 17,
+            "events": [  ],
+            "from_bookmark": true,
+            "from_webstore": false,
+            "incognito_content_settings": [  ],
+            "incognito_preferences": {
+
+            },
+            "install_time": "13035029703711472",
+            "last_active_pingday": "13043574000973335",
+            "last_launch_time": "13035030614430828",
+            "lastpingday": "13049362865553624",
             "location": 1,
             "manifest": {
                "app": {
@@ -1623,19 +2326,25 @@
                },
                "key": "iP0UYpLDDpL1gwvnE1Yl2OFMr3C1NywOvtP5nbWr94Q=",
                "name": "WageClock",
-               "version": "2013.4.5.17277"
+               "permissions": [  ],
+               "version": "2014.1.24.26171"
             },
             "page_ordinal": "n",
-            "path": "ppodkfhjodjcdabeajdkhikhoplbahlj/2013.4.5.17277_0",
+            "path": "ppodkfhjodjcdabeajdkhikhoplbahlj/2014.1.24.26171_0",
+            "preferences": {
+
+            },
+            "regular_only_preferences": {
+
+            },
             "state": 1,
             "was_installed_by_default": false
          }
       },
       "theme": {
-         "id": "",
          "use_system": false
       },
-      "toolbar": [ "bpphkkgodbfncbcpgopijlfakfgmclao", "cmgnmcnlncejehjlnhaglpnoolgbflbd", "gighmmpiobklfepjocnamgkkbiglidom", "cgbogdmdefihhljhfeiklfiedefalcde", "cpngackimfmofbokmjmljamhdncknpmg", "gmbmikajjgmnabiglmofipeabaddhgne" ],
+      "toolbar": [ "bhmmomiinigofkjcapegjjndpbikblnp", "bpphkkgodbfncbcpgopijlfakfgmclao", "cmgnmcnlncejehjlnhaglpnoolgbflbd", "gighmmpiobklfepjocnamgkkbiglidom", "cpngackimfmofbokmjmljamhdncknpmg", "gmbmikajjgmnabiglmofipeabaddhgne", "nckgahadagoaajjgafhacjanaoiihapd" ],
       "toolbarsize": -1,
       "ui": {
          "developer_mode": false
@@ -1643,40 +2352,45 @@
    },
    "google": {
       "services": {
-         "last_username": "justchromebrowser@gmail.com",
          "signin": {
             "CLIENT_LOGIN_STATUS": {
-               "time": "Wednesday, December 18, 2013",
+               "time": "Friday, January 24, 2014",
                "value": "Successful"
             },
             "GET_USER_INFO_STATUS": {
-               "time": "Wednesday, December 18, 2013",
+               "time": "Friday, January 24, 2014",
                "value": "Successful"
             },
             "LSID": "",
             "OAUTH_LOGIN_STATUS": {
-               "time": "Wednesday, December 18, 2013",
+               "time": "Friday, January 24, 2014",
                "value": "Successful"
             },
             "SID": "",
             "SIGNIN_TYPE": {
-               "time": "Wednesday, December 18, 2013",
+               "time": "Friday, January 24, 2014",
                "value": "Signin with credentials"
             },
             "USERNAME": ""
          }
       }
    },
-   "homepage": "",
-   "homepage_is_newtabpage": true,
+   "homepage": "chrome://apps/",
+   "homepage_is_newtabpage": false,
    "intl": {
       "accept_languages": "en-US,en"
    },
    "invalidator": {
-      "client_id": "vc85uFiwUQ3Kn0L50LpKmQ=="
+      "client_id": "RglgSSK0OrsuvgGUcuztUQ=="
+   },
+   "media": {
+      "device_id_salt": "iP9mlTi96cUVChVtzzU9IQ=="
    },
    "net": {
       "http_server_properties": {
+         "servers": {
+
+         },
          "version": 2
       }
    },
@@ -1685,148 +2399,91 @@
       "most_visited_blacklist": {
          "c8e0afd1da1d9e29511240861f795a5a": null,
          "eacc8c3ad0b50bd698ef8752d5ee24b6": null
-      },
-      "shown_page": 2048
+      }
    },
+   "pinned_tabs": [  ],
    "plugins": {
-      "enabled_internal_pdf3": true,
-      "enabled_nacl": true,
-      "last_internal_directory": "/opt/google/chrome",
-      "plugins_list": [ {
-         "enabled": true,
-         "name": "Shockwave Flash",
-         "path": "/opt/google/chrome/PepperFlash/libpepflashplayer.so",
-         "version": "11.5.31.5"
-      }, {
-         "enabled": false,
-         "name": "Chrome Remote Desktop Viewer",
-         "path": "internal-remoting-viewer",
-         "version": ""
-      }, {
-         "enabled": true,
-         "name": "Native Client",
-         "path": "/opt/google/chrome/libppGoogleNaClPluginChrome.so",
-         "version": ""
-      }, {
-         "enabled": true,
-         "name": "Chrome PDF Viewer",
-         "path": "/opt/google/chrome/libpdf.so",
-         "version": ""
-      }, {
-         "enabled": false,
-         "name": "Shockwave Flash",
-         "path": "/usr/lib/mozilla/plugins/libflashplayer.so",
-         "version": "11.2 r202"
-      }, {
-         "enabled": true,
-         "name": "Adobe Flash Player"
-      }, {
-         "enabled": true,
-         "name": "Chrome PDF Viewer"
-      }, {
-         "enabled": false,
-         "name": "Chrome Remote Desktop Viewer"
-      }, {
-         "enabled": true,
-         "name": "Native Client"
-      } ],
-      "removed_old_component_pepper_flash_settings": true,
-      "show_details": true
+      "plugins_list": [  ],
+      "removed_old_component_pepper_flash_settings": true
    },
    "profile": {
-      "avatar_index": 0,
+      "avatar_index": 12,
       "content_settings": {
          "clear_on_exit_migrated": true,
          "pattern_pairs": {
-            "*,*": {
-               "per_plugin": {
-                  "google-talk": 1
-               }
-            },
-            "grooveshark.com,*": {
-               "plugins": 1
-            },
-            "vimeo.com,*": {
-               "plugins": 1
-            },
-            "www.bbc.co.uk,*": {
-               "plugins": 1
-            },
-            "www.last.fm,*": {
-               "plugins": 1
-            },
-            "www.playlist.com,*": {
-               "plugins": 1
-            },
-            "www.shoutcast.com,*": {
-               "plugins": 1
-            },
-            "www.youtube.com,*": {
-               "plugins": 1
-            }
+
          },
-         "pref_version": 1,
-         "whitelist_version": 1
+         "pref_version": 1
       },
-      "created_by_version": "23.0.1271.97",
+      "created_by_version": "33.0.1750.46",
       "default_content_settings": {
          "mouselock": 2
       },
       "exit_type": "Normal",
       "exited_cleanly": true,
-      "local_profile_id": 6731149,
+      "local_profile_id": 7739673,
       "managed_user_id": "",
-      "name": "First user",
-      "password_manager_groups_for_domains": [ 0 ],
+      "managed_users": {
+
+      },
+      "name": "JustBrowsing",
+      "password_manager_groups_for_domains": [ 6 ],
       "per_host_zoom_levels": {
-         "www.pandora.com": 1.2239010334014893
+
       }
    },
    "reverse_autologin": {
-      "enabled": false,
-      "rejected_email_list": [ "justchromebrowser@gmail.com" ]
+      "enabled": false
    },
    "savefile": {
       "default_directory": "/home/user/Downloads"
    },
+   "search": {
+      "suggest_enabled": true
+   },
    "session": {
+      "restore_on_startup": 4,
       "restore_on_startup_migrated": true,
-      "startup_urls_migration_time": "13028719852202371"
+      "startup_urls": [ "chrome://apps/" ],
+      "startup_urls_migration_time": "13035014259189522"
    },
    "sync": {
+      "acknowledged_types": [ "Bookmarks", "Preferences", "Passwords", "Autofill Profiles", "Autofill", "Themes", "Typed URLs", "Extensions", "Search Engines", "Sessions", "Apps", "App settings", "Extension settings", "History Delete Directives", "Synced Notifications", "Dictionary", "Favicon Images", "Favicon Tracking", "Priority Preferences", "Managed Users", "Articles", "App List", "Tabs", "Encryption keys" ],
       "app_settings": true,
       "apps": true,
-      "autofill": true,
-      "autofill_profile": true,
-      "bookmarks": true,
-      "dictionary": true,
-      "extension_settings": true,
-      "extensions": true,
-      "favicon_images": true,
-      "favicon_tracking": true,
-      "history_delete_directives": true,
-      "managed_users": true,
-      "passwords": true,
-      "preferences": true,
-      "priority_preferences": true,
-      "search_engines": true,
-      "session_sync_guid": "session_syncKxOmY8VXmigMUcmkCPTL9Q==",
-      "sessions": true,
-      "suppress_start": false,
-      "synced_notifications": true,
-      "tabs": true,
-      "themes": true,
-      "typed_urls": true
+      "autofill": false,
+      "autofill_profile": false,
+      "bookmarks": false,
+      "dictionary": false,
+      "extension_settings": false,
+      "extensions": false,
+      "favicon_images": false,
+      "favicon_tracking": false,
+      "history_delete_directives": false,
+      "keep_everything_synced": false,
+      "managed_users": false,
+      "passwords": false,
+      "preferences": false,
+      "priority_preferences": false,
+      "search_engines": false,
+      "sessions": false,
+      "suppress_start": true,
+      "synced_notifications": false,
+      "tabs": false,
+      "themes": false,
+      "typed_urls": false
    },
    "sync_promo": {
       "startup_count": 1,
-      "user_skipped": true,
-      "view_count": 1
+      "user_skipped": true
    },
    "synced_notification": {
       "enabled_sending_services": [ "Google+" ],
       "first_run": false,
       "initialized_sending_services": [ "Google+" ]
    },
-   "translate_blocked_languages": [ "en" ]
+   "translate_blocked_languages": [ "en" ],
+   "translate_whitelists": {
+
+   }
 }

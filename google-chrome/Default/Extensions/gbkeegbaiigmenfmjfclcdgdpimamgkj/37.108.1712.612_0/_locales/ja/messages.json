@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "詳細"
+   },
+   "app_nacl_crash_report": {
+      "message": "問題を報告..."
+   },
+   "application_description": {
+      "message": "ドキュメントの編集"
+   },
+   "extension_description": {
+      "message": "Microsoft Word、Excel、PowerPoint のファイルを Google ドキュメント、Google スプレッドシート、Google スライドで表示/編集します"
+   },
+   "extension_name": {
+      "message": "ドキュメント、スプレッドシート、スライドでの Office 編集"
+   },
+   "file_loading_spinner_label": {
+      "message": "読み込んでいます"
+   },
+   "file_not_found_msg": {
+      "message": "リクエストしたファイルは移動されています。"
+   },
+   "file_not_found_title": {
+      "message": "ファイルが見つかりません。"
+   }
+}

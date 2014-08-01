@@ -1,2 +1,0 @@
-
-var Track={trackShare:function(targetName,pub,pageUrl,pageTitle){var trackUrl="https://api.addthis.com/oexchange/0.8/shared/"+targetName+"?url="+pageUrl+"&title="+pageTitle+"&pco="+Constants.CHROME_PCO_WITH_SOCIAL;trackUrl+=(pub&&pub!="")?"&username="+pub:"";$.ajax({url:trackUrl,type:'POST'});}};

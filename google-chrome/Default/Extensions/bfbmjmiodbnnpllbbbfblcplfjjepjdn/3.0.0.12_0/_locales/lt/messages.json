@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "Apie",
+      "message": "Apie"
+   },
+   "addbutton": {
+      "description": "Pridėti",
+      "message": "Pridėti"
+   },
+   "advancedoptions": {
+      "description": "Sudėtingesnės parinktys",
+      "message": "Sudėtingesnės parinktys"
+   },
+   "basicsettings": {
+      "description": "Pagrindiniai",
+      "message": "Pagrindiniai"
+   },
+   "bottom": {
+      "description": "apačioje",
+      "message": "apačioje"
+   },
+   "changelog": {
+      "description": "changelog link",
+      "message": "Keitimų žurnalas"
+   },
+   "deletebutton": {
+      "description": "Šalinti",
+      "message": "Šalinti"
+   },
+   "des1checkmotion": {
+      "description": "Įsitikinkite jog kambaryje pakankamai šviesu.",
+      "message": "Įsitikinkite jog kambaryje pakankamai šviesu."
+   },
+   "des2checkmotion": {
+      "description": "Jūsų kamera nėra tiesiogiai apšviesta.",
+      "message": "Jūsų kamera nėra tiesiogiai apšviesta."
+   },
+   "des3checkmotion": {
+      "description": "Jūs naudojate priekinę kamerą.",
+      "message": "Jūs naudojate priekinę kamerą."
+   },
+   "desaddvideobutton": {
+      "description": "Rodyti pridėjimo mygtuką iš šio YouTube video.",
+      "message": "Rodyti pridėjimo mygtuką iš šio YouTube video."
+   },
+   "desalllightsoff": {
+      "description": "Paspaudus lempos mygtuką visose kortelėse bus įjungta/išjungta šviesa.",
+      "message": "Paspaudus lempos mygtuką visose kortelėse bus įjungta/išjungta šviesa."
+   },
+   "desambilight": {
+      "description": "Rodyti šiuo metu rodomo video atmosferinį apšvietimą.",
+      "message": "Rodyti šiuo metu rodomo video atmosferinį apšvietimą."
+   },
+   "desambilight4color": {
+      "description": "4 pasirinktos spalvos aplink video:",
+      "message": "4 pasirinktos spalvos aplink video:"
+   },
+   "desambilightfixcolor": {
+      "description": "Viena spalva",
+      "message": "Viena spalva"
+   },
+   "desambilightrangeblurradius": {
+      "description": "If set a lower value the shadow will be sharp, the higher the number, the more blurred it will be.",
+      "message": "Jei nustatyta mažesnė reikšmė, šešėlis bus aštresnis, kitu atveju labiau išplaukęs."
+   },
+   "desambilightrangespreadradius": {
+      "description": "Teigiamos reikšmės padidina šešėlį, neigiamos sumažina.",
+      "message": "Teigiamos reikšmės padidina šešėlį, neigiamos sumažina."
+   },
+   "desambilightvarcolor": {
+      "description": "Imti spalvas iš video.",
+      "message": "Imti spalvas iš video."
+   },
+   "desapitext": {
+      "description": "Wiki API tinklapio kūrejui",
+      "message": "Wiki API tinklapio kūrejui"
+   },
+   "desatmosphereonly": {
+      "description": "Atmosferinį apšvietimą naudoti tik šiuose puslapiuose:",
+      "message": "Atmosferinį apšvietimą naudoti tik šiuose puslapiuose:"
+   },
+   "desatmosvivid": {
+      "description": "Reikia ryškių Youtube atmosferos efektų",
+      "message": "Reikia ryškių Youtube atmosferos efektų"
+   },
+   "desautoplay": {
+      "description": "Automatiškai tamsinti foną paspaudus atkūrimo mygtuką ir atvirkščiai.",
+      "message": "Automatiškai tamsinti foną paspaudus atkūrimo mygtuką ir atvirkščiai."
+   },
+   "desautoplaydelay": {
+      "description": "Baigus atkūrimą, pašviesinti foną po",
+      "message": "Baigus atkūrimą, pašviesinti foną po"
+   },
+   "desautoplaydelayend": {
+      "description": "sekundžių",
+      "message": "sekundžių"
+   },
+   "desautoplayonly": {
+      "description": "Video pritemdyti tik šiose svetainėse:",
+      "message": "Video pritemdyti tik šiose svetainėse:"
+   },
+   "desbrowserextension": {
+      "description": "naršyklės plėtinys",
+      "message": "naršyklės plėtinys"
+   },
+   "desbrowsersupport": {
+      "description": "Ši naršyklė kol kas nepalaiko šios galimybės. Įsitikinkite jog turite naujausią naršyklės versiją.",
+      "message": "Ši naršyklė kol kas nepalaiko šios galimybės. Įsitikinkite jog turite naujausią naršyklės versiją."
+   },
+   "desbrowsertheme": {
+      "description": "naršyklės tema",
+      "message": "naršyklės tema"
+   },
+   "descammotiononly": {
+      "description": "Aktyvuoti kameros judesį tik šiose svetainėse:",
+      "message": "Aktyvuoti kameros judesį tik šiose svetainėse:"
+   },
+   "desconfirmpassword": {
+      "description": "Patvirtinkite slaptažodį",
+      "message": "Patvirtinkite slaptažodį"
+   },
+   "desconfirmtime": {
+      "description": "Patvirtinti laiką",
+      "message": "Patvirtinti laiką"
+   },
+   "desconfirmtimesaver": {
+      "description": "Patvirtinkite ekrano užsklandos laiką",
+      "message": "Patvirtinkite ekrano užsklandos laiką"
+   },
+   "descontextmenus": {
+      "description": "Elementui sufokusuoti rodyti kontekstinį meniu.",
+      "message": "Elementui sufokusuoti rodyti kontekstinį meniu."
+   },
+   "description": {
+      "description": "Visas puslapis patamsės, galėsite žiūrėti video taip kaip kine.",
+      "message": "Visas puslapis patamsės, galėsite žiūrėti video taip kaip kine."
+   },
+   "desdynamicblocks": {
+      "description": "Blokai",
+      "message": "Blokai"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "Žuvų tvenkinys",
+      "message": "Žuvų tvenkinys"
+   },
+   "desdynamicraindrops": {
+      "description": "Lietaus lašai",
+      "message": "Lietaus lašai"
+   },
+   "desdynamicspace": {
+      "description": "Space Universe",
+      "message": "Space Universe"
+   },
+   "deseastereggs": {
+      "description": "Premija šiame plėtinyje.",
+      "message": "Premija šiame plėtinyje."
+   },
+   "desenterpassword": {
+      "description": "Prašome įrašyti savo slaptažodį žemiau:",
+      "message": "Prašome įrašyti savo slaptažodį žemiau:"
+   },
+   "deseyea": {
+      "description": "Atveriant puslapį automatiškai tamsinti foną.",
+      "message": "Atveriant puslapį automatiškai tamsinti foną."
+   },
+   "deseyealist": {
+      "description": "Atveriant puslapį automatiškai tamsinti foną tik šiuose puslapiuose:",
+      "message": "Atveriant puslapį automatiškai tamsinti foną tik šiuose puslapiuose:"
+   },
+   "deseyen": {
+      "description": "Įprastas naudojimas (šviesos išjungiamos paspaudus lempos piktogramą).",
+      "message": "Įprastas naudojimas (šviesos išjungiamos paspaudus lempos piktogramą)."
+   },
+   "deseyetimesaver": {
+      "description": "Kai puslapis neaktyvus (nejudinama pelė bei nepaspaudžiamas joks klavišas) tam tikrą laiką, puslapis automatiškai užtems.",
+      "message": "Kai puslapis neaktyvus (nejudinama pelė bei nepaspaudžiamas joks klavišas) tam tikrą laiką, puslapis automatiškai užtems."
+   },
+   "desfadein": {
+      "description": "Rodyti išblukimo efektą.",
+      "message": "Rodyti išblukimo efektą."
+   },
+   "desfadeout": {
+      "description": "Rodyti išblukimo efektą.",
+      "message": "Rodyti išblukimo efektą."
+   },
+   "desflash": {
+      "description": "Rodyti visus Flash objektus.",
+      "message": "Rodyti visus Flash objektus."
+   },
+   "deshardflash": {
+      "description": "Rodyti Flash objektus, praleidžiant URL filtrą. Taip bus išspręsta problemos su kai kuriais paslepiamais video, bet bus rodomos kai kurios reklamos.",
+      "message": "Rodyti Flash objektus, praleidžiant URL filtrą. Taip bus išspręsta problemos su kai kuriais paslepiamais video, bet bus rodomos kai kurios reklamos."
+   },
+   "deshead": {
+      "description": "Rodyti YouTube grojaraštį, YouTube tinklapyje.",
+      "message": "Rodyti YouTube grojaraštį, YouTube tinklapyje."
+   },
+   "desinfobar": {
+      "description": "Rodyti informaciją apie video.",
+      "message": "Rodyti informaciją apie video."
+   },
+   "deslikebar": {
+      "description": "Rodyti patinka ir nepatinka mygtukus po YouTube video.",
+      "message": "Rodyti patinka ir nepatinka mygtukus po YouTube video."
+   },
+   "deslikebutton": {
+      "description": "Šiame video rodyti YouTube patinka ir nepatinka mygtukus.",
+      "message": "Šiame video rodyti YouTube patinka ir nepatinka mygtukus."
+   },
+   "desmotion": {
+      "description": "Kameros judesiu",
+      "message": "Įjunkite kameros judesį, kad būtų galima pritemdyti puslapį rankos gestu."
+   },
+   "desmotionChecklist": {
+      "description": "Kontrolinis sąrašas:",
+      "message": "Kontrolinis sąrašas:"
+   },
+   "desmousespotlighta": {
+      "description": "Jei šviesa išjungta, rodyti prožektoriaus šviesą aplink pelės žymeklį.",
+      "message": "Jei šviesa išjungta, rodyti prožektoriaus šviesą aplink pelės žymeklį."
+   },
+   "desmousespotlightc": {
+      "description": "Jei šviesa išjungta, galite pasirinkti vietą elemento koncentravimui.",
+      "message": "Jei šviesa išjungta, galite pasirinkti vietą elemento koncentravimui."
+   },
+   "desmousespotlighto": {
+      "description": "Numatytoji pelės elgsena (išjungia žemiau esančius pelės nustatymus)",
+      "message": "Numatytoji pelės elgsena (išjungia žemiau esančius pelės nustatymus)"
+   },
+   "desmousespotlightt": {
+      "description": "Leidžia paspausti patamsintą ekraną, kai šviesa išjungta.",
+      "message": "Leidžia paspausti patamsintą ekraną, kai šviesa išjungta."
+   },
+   "desnightenabletheme": {
+      "description": "Kai atveriate naują puslapį jis automatiškai eina į nakties režimą.",
+      "message": "Kai atveriate naują puslapį jis automatiškai eina į nakties režimą."
+   },
+   "desnightonly": {
+      "description": "Video pritemdyti tik šiose svetainėse:",
+      "message": "Video pritemdyti tik šiose svetainėse:"
+   },
+   "desnighttheme": {
+      "description": "Po puslapiu rodyti nakties perjungimo mygtuką.",
+      "message": "Po puslapiu rodyti nakties perjungimo mygtuką."
+   },
+   "desnoflash": {
+      "description": "Nenaudoti šios parinkties.",
+      "message": "Nenaudoti šios parinkties."
+   },
+   "despassword": {
+      "description": "Prieš įjungiant šviesas prašyti slaptažodžio.",
+      "message": "Prieš įjungiant šviesas prašyti slaptažodžio."
+   },
+   "desplaylist": {
+      "description": "Rodyti YouTube grojaraštį, YouTube tinklapyje.",
+      "message": "Rodyti YouTube grojaraštį, YouTube tinklapyje."
+   },
+   "desproject": {
+      "description": "projektas",
+      "message": "projektas"
+   },
+   "desreadera": {
+      "description": "Kai šviesos užgesta, visada rodyti tamsumo lygį.",
+      "message": "Kai šviesos užgesta, visada rodyti tamsumo lygį."
+   },
+   "desreadern": {
+      "description": "Niekada nerodyti tamsumo lygio juostos.",
+      "message": "Niekada nerodyti tamsumo lygio juostos."
+   },
+   "desrememberpage": {
+      "description": "Jei ši parinktis įjungta, puslapis nebus atvertas.",
+      "message": "Jei ši parinktis įjungta, puslapis nebus atvertas."
+   },
+   "dessaver": {
+      "description": "Ekrano užsklanda:",
+      "message": "Ekrano užsklanda:"
+   },
+   "dessharebutton": {
+      "description": "Šiame video rodyti YouTube patinka ir nepatinka mygtukus.",
+      "message": "Šiame video rodyti YouTube patinka ir nepatinka mygtukus."
+   },
+   "desshortcutlight": {
+      "description": "Įjungti žemiau esančius sparčiuosius klavišus.",
+      "message": "Įjungti žemiau esančius sparčiuosius klavišus."
+   },
+   "desspeech": {
+      "description": "Įjungus šią parinkty, galite kalbėti su naršyklės lempa. Galite sakyti šias komandas:",
+      "message": "Įjungus šią parinkty, galite kalbėti su naršyklės lempa. Galite sakyti šias komandas:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "play video",
+      "message": "play video"
+   },
+   "desspeech4command": {
+      "description": "pause video",
+      "message": "pause video"
+   },
+   "desspeechdialect": {
+      "description": "Pasirinkite savo kalbos dialektą:",
+      "message": "Pasirinkite savo kalbos dialektą:"
+   },
+   "desspeechonly": {
+      "description": "Aktyvuoti kalbos atpažinimą tik šiose svetainėse:",
+      "message": "Aktyvuoti kalbos atpažinimą tik šiose svetainėse:"
+   },
+   "desspotlightradius": {
+      "description": "yra šviestuvo diametras.",
+      "message": "yra šviestuvo diametras."
+   },
+   "dessuggestions": {
+      "description": "Rodyti pasiūlymus YouTube puslapyje.",
+      "message": "Rodyti pasiūlymus YouTube puslapyje."
+   },
+   "destime": {
+      "description": "Išjungti šviesas tarp šių laikų:",
+      "message": "Išjungti šviesas tarp šių laikų:"
+   },
+   "destrymotion": {
+      "description": "Tai tiesiog nuostabu ir nuostabiausia jog veikia visur. Net ir YouTube, naujienų tinklapiuose ir t.t.",
+      "message": "Tai tiesiog nuostabu ir nuostabiausia jog veikia visur. Net ir YouTube, naujienų tinklapiuose ir t.t."
+   },
+   "desuntil": {
+      "description": "iki",
+      "message": "iki"
+   },
+   "desvideoheadline": {
+      "description": "Rodyti ir invertuoti video pavadinimo spalvas.",
+      "message": "Rodyti ir invertuoti video pavadinimo spalvas."
+   },
+   "desviewcount": {
+      "description": "Rodyti šio video peržiūrų skaičių.",
+      "message": "Rodyti šio video peržiūrų skaičių."
+   },
+   "donatepromotext": {
+      "description": "Jei galite paaukoti, mes būtume labai dėkingi!",
+      "message": "Jei galite paaukoti, mes būtume labai dėkingi!"
+   },
+   "eastereggsquestion": {
+      "description": "Ar jums patinka tikras kino teatras?",
+      "message": "Ar jums patinka tikras kino teatras?"
+   },
+   "enjoyshare": {
+      "description": "Mėgaukitės plėtiniu ir dalinkitės su kitais.",
+      "message": "Mėgaukitės plėtiniu ir dalinkitės su kitais."
+   },
+   "eyedivoff": {
+      "description": "Išjungta",
+      "message": "Išjungta"
+   },
+   "eyedivon": {
+      "description": "ĮJUNGTA",
+      "message": "ĮJUNGTA"
+   },
+   "friendlyremember": {
+      "description": "Draugiškas priminimas...",
+      "message": "Draugiškas priminimas..."
+   },
+   "guide": {
+      "description": "TOtL pradžios vadovas",
+      "message": "TOtL pradžios vadovas"
+   },
+   "help": {
+      "description": "Žinynas",
+      "message": "Žinynas"
+   },
+   "helpautoplay": {
+      "description": "„Akių apsauga“ įjungta. Norėdami naudoti žemiau esančią funkciją išjunkite „Akių apsaugą“.",
+      "message": "„Akių apsauga“ įjungta. Norėdami naudoti žemiau esančią funkciją išjunkite „Akių apsaugą“."
+   },
+   "helpeyeprotection": {
+      "description": "Įjungus „Akių apsaugą“ bus išjungta „Auto paleidimo“ funkcija.",
+      "message": "Įjungus „Akių apsaugą“ bus išjungta „Auto paleidimo“ funkcija."
+   },
+   "hoveroptionapply": {
+      "description": "pritaikyti",
+      "message": "pritaikyti"
+   },
+   "hoveroptiondyn5": {
+      "description": "su skraidymu",
+      "message": "su skraidymu"
+   },
+   "howworkmotion": {
+      "description": "Kaip tai veikia?",
+      "message": "Kaip tai veikia?"
+   },
+   "installadblocker": {
+      "description": "Naudokite su Adblocker plėtiniu.",
+      "message": "Naudokite su Adblocker plėtiniu."
+   },
+   "lastchecked": {
+      "description": "Paskutinį kartą tikrinta ar naujausia versija",
+      "message": "Paskutinį kartą tikrinta ar naujausia versija"
+   },
+   "left": {
+      "description": "kairėje",
+      "message": "kairėje"
+   },
+   "lockentername": {
+      "description": "Įveskite savo slaptažodį",
+      "message": "Įveskite savo slaptažodį"
+   },
+   "lockwrongpassword": {
+      "description": "Neteisingas slaptažodis, badykite dar kartą",
+      "message": "Neteisingas slaptažodis, badykite dar kartą"
+   },
+   "longdonatetext": {
+      "description": "Aš labai džiaugsiuosi jei paaukosite ir taip prailginsite šio plėtinio gyvenimą. Nesvarbu ar tai $$1 ar $$100, jūsų parama neįkainojama!",
+      "message": "Aš labai džiaugsiuosi jei paaukosite ir taip prailginsite šio plėtinio gyvenimą. Nesvarbu ar tai $$1 ar $$100, jūsų parama neįkainojama!"
+   },
+   "motionoptions": {
+      "description": "Kameros judesiu",
+      "message": "Kameros judesiu"
+   },
+   "name": {
+      "description": "Turn Off the Lights",
+      "message": "Turn Off the Lights"
+   },
+   "nightoptions": {
+      "description": "Nakties režimas",
+      "message": "Nakties režimas"
+   },
+   "optionecosaversaved": {
+      "description": "Užrašai sėkmingai išsaugoti!",
+      "message": "Užrašai sėkmingai išsaugoti!"
+   },
+   "optionpagetitle": {
+      "description": "Option page title",
+      "message": "Išjungti visas šviesas - parinktys"
+   },
+   "optionpasswordsaved": {
+      "description": "Slaptažodis sėkmingai išsaugotas!",
+      "message": "Slaptažodis sėkmingai išsaugotas!"
+   },
+   "optiontimesaved": {
+      "description": "Laikas sėkmingai išsaugotas!",
+      "message": "Laikas sėkmingai išsaugotas!"
+   },
+   "optionwrongimg": {
+      "description": "Netinkamas failas!",
+      "message": "Netinkamas failas!"
+   },
+   "pageatitle": {
+      "description": "Turn Off the Lights",
+      "message": "Turn Off the Lights"
+   },
+   "pagehelp": {
+      "description": "žinynas",
+      "message": "žinynas"
+   },
+   "pagestillloading": {
+      "description": "puslapis visdar kraunasi?",
+      "message": "puslapis visdar kraunasi?"
+   },
+   "pagetitle": {
+      "description": "Užtemdyti",
+      "message": "Užtemdyti"
+   },
+   "productshare": {
+      "description": "Dalintis",
+      "message": "Dalintis"
+   },
+   "ratedes": {
+      "description": "Ir leiskite visiems sužinoti apie šį nuostabų plėtinį!",
+      "message": "Ir leiskite visiems sužinoti apie šį nuostabų plėtinį!"
+   },
+   "rateitema": {
+      "description": "Įvertinkite 5 žvaigždutėmis",
+      "message": "Įvertinkite 5 žvaigždutėmis"
+   },
+   "ratetitle": {
+      "description": "Įvertinkite ir peržiūrėkite šį plėtinį",
+      "message": "Įvertinkite ir peržiūrėkite šį plėtinį"
+   },
+   "recflash": {
+      "description": "Rekomenduojama",
+      "message": "Rekomenduojama"
+   },
+   "rememberrate": {
+      "description": "Dažnis",
+      "message": "Dažnis"
+   },
+   "reportbug": {
+      "description": "Pranešti apie problemą",
+      "message": "Pranešti apie problemą"
+   },
+   "reportlist": {
+      "description": "See the full issue list",
+      "message": "(žiūrėti sąrašą)"
+   },
+   "resetbrowserextension": {
+      "description": "Atstatyti Turn Off the Lights nustatymus",
+      "message": "Atstatyti Turn Off the Lights nustatymus"
+   },
+   "right": {
+      "description": "dešinėje",
+      "message": "dešinėje"
+   },
+   "settings": {
+      "description": "Nustatymai",
+      "message": "Nustatymai"
+   },
+   "shortcutalllights": {
+      "description": "perjungti šviesą visose atvertose kortelėse.",
+      "message": "perjungti šviesą visose atvertose kortelėse."
+   },
+   "shortcutbright": {
+      "description": "pašviesinti ekraną (padidinti ekrano permatomumą).",
+      "message": "pašviesinti ekraną (padidinti ekrano permatomumą)."
+   },
+   "shortcutdark": {
+      "description": "pritemdyti ekraną (padidinti ekrano nepermatomumą).",
+      "message": "pritemdyti ekraną (padidinti ekrano nepermatomumą)."
+   },
+   "shortcuteyeprotection": {
+      "description": "įjungti/išjungti akių apsaugos funkciją.",
+      "message": "įjungti/išjungti akių apsaugos funkciją."
+   },
+   "shortcutopacity": {
+      "description": "atstatyti tamsumo (nepermatomumo) lygio nustatymą.",
+      "message": "atstatyti tamsumo (nepermatomumo) lygio nustatymą."
+   },
+   "shortcutsavingopacity": {
+      "description": "norėdami išsaugoti permatomumo reikšmę",
+      "message": "norėdami išsaugoti permatomumo reikšmę"
+   },
+   "shortcuttotl": {
+      "description": "perjungti šviesą.",
+      "message": "perjungti šviesą."
+   },
+   "showremember": {
+      "description": "atvėrus parinkčių puslapį neberodyti „prisiminti puslapį“.",
+      "message": "atvėrus parinkčių puslapį neberodyti „prisiminti puslapį“."
+   },
+   "skipremember": {
+      "description": "Praleisti ir atverti parinkčių puslapį",
+      "message": "Praleisti ir atverti parinkčių puslapį"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Kalbos atpažinimas"
+   },
+   "step1description": {
+      "description": "Įjungti kameros judesio galimybę",
+      "message": "Įjungti kameros judesio galimybę"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Tada juoda skaidrė automatiškai slinksis žemyn.",
+      "message": "Tada juoda skaidrė automatiškai slinksis žemyn."
+   },
+   "textfoot": {
+      "description": "Ši programinė licencijuota pagal CC-GNU GPL licenciją. Norėdami pamatyti licenciją, aplankykite",
+      "message": "Ši programinė licencijuota pagal CC-GNU GPL licenciją. Norėdami pamatyti licenciją, aplankykite"
+   },
+   "titeladdvideobutton": {
+      "description": "Pridėti mygtuką",
+      "message": "Pridėti mygtuką"
+   },
+   "titelalllightsoff": {
+      "description": "Visos atvertos kortelės",
+      "message": "Visos atvertos kortelės"
+   },
+   "titelambilight": {
+      "description": "Atmosferinis apšvietimas",
+      "message": "Atmosferinis apšvietimas"
+   },
+   "titelapideveloper": {
+      "description": "API kūrėjas",
+      "message": "API kūrėjas"
+   },
+   "titelautoplay": {
+      "description": "Automatinis atkūrimas",
+      "message": "Automatinis atkūrimas"
+   },
+   "titelautoplayblacklist": {
+      "description": "Juodasis sąrašas",
+      "message": "Juodasis sąrašas"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Baltasis sąrašas",
+      "message": "Baltasis sąrašas"
+   },
+   "titelautowidthyoutube": {
+      "description": "Automatiškai nustatyti YouTube grotuvą į didesnį dydį.",
+      "message": "Automatiškai nustatyti YouTube grotuvą į didesnį dydį."
+   },
+   "titelblur": {
+      "description": "Blankinti ir likusį",
+      "message": "Blankinti ir likusį"
+   },
+   "titelblurradius": {
+      "description": "Suliejimo spindulys",
+      "message": "Suliejimo spindulys"
+   },
+   "titelcamera": {
+      "description": "Kamera",
+      "message": "Kamera"
+   },
+   "titelcinemaontop": {
+      "description": "Kino teatro režimas: „lights off“ sluoksnis rodomas tik ant viršutinio lango.",
+      "message": "Kino teatro režimas: „lights off“ sluoksnis rodomas tik ant viršutinio lango."
+   },
+   "titelcolor": {
+      "description": "Spalva",
+      "message": "Spalva"
+   },
+   "titelcolora": {
+      "description": "Spalva A",
+      "message": "Spalva A"
+   },
+   "titelcolorb": {
+      "description": "Spalva B",
+      "message": "Spalva B"
+   },
+   "titelcontextmenus": {
+      "description": "Kontekstinis meniu",
+      "message": "Kontekstinis meniu"
+   },
+   "titeldeveloper": {
+      "description": "Kūrėjas",
+      "message": "Kūrėjas"
+   },
+   "titeldownloadbutton": {
+      "description": "Atsisiųsti šį atnaujinimą!",
+      "message": "Atsisiųsti šį atnaujinimą!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Pridėkite juodą temą naršyklei. Tema atvaizduojama aplink naršyklės rėmelį.",
+      "message": "Pridėkite juodą temą naršyklei. Tema atvaizduojama aplink naršyklės rėmelį."
+   },
+   "titeldownloadupgrade": {
+      "description": "Atnaujinimas prideda pasirinktų paveikslėlių fokusavimo galimybę ir rodys puslapio paveikslėlių galeriją.",
+      "message": "Atnaujinimas prideda pasirinktų paveikslėlių fokusavimo galimybę ir rodys puslapio paveikslėlių galeriją."
+   },
+   "titeldynamic": {
+      "description": "Dinaminis fonas",
+      "message": "Dinaminis fonas"
+   },
+   "titeleastereggs": {
+      "description": "Priedai",
+      "message": "Priedai"
+   },
+   "titeleye": {
+      "description": "Akių apsauga",
+      "message": "Akių apsauga"
+   },
+   "titelfadein": {
+      "description": "Išblukinti",
+      "message": "Išblukinti"
+   },
+   "titelfadeout": {
+      "description": "Išblukti",
+      "message": "Išblukti"
+   },
+   "titelflash": {
+      "description": "Flash aptikimas",
+      "message": "Flash aptikimas"
+   },
+   "titelhead": {
+      "description": "Kanalas",
+      "message": "Kanalas"
+   },
+   "titelimage": {
+      "description": "Fono paveikslėlis",
+      "message": "Fono paveikslėlis"
+   },
+   "titelinfobar": {
+      "description": "Info juosta",
+      "message": "Info juosta"
+   },
+   "titellamp": {
+      "description": "Lemputė",
+      "message": "Lemputė"
+   },
+   "titellampregular": {
+      "description": "Rodyti visada lempa piktogramą \"Omnibox\"",
+      "message": "Rodyti visada lempa piktogramą \"Omnibox\""
+   },
+   "titellampvideo": {
+      "description": "Lempos piktogramą rodyti tik tada jei rastas video grotuvas",
+      "message": "Lempos piktogramą rodyti tik tada jei rastas video grotuvas"
+   },
+   "titellessmore": {
+      "description": "Rodyti mažiau",
+      "message": "Rodyti mažiau"
+   },
+   "titellikebar": {
+      "description": "„Like“ juosta",
+      "message": "„Like“ juosta"
+   },
+   "titellikebutton": {
+      "description": "Patinka ir nepatinka mygtukai",
+      "message": "Patinka ir nepatinka mygtukai"
+   },
+   "titellinear": {
+      "description": "Linijinis",
+      "message": "Linijinis"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "Automatiškai nustatyti šią raišką:",
+      "message": "Automatiškai nustatyti šią raišką:"
+   },
+   "titelmouse": {
+      "description": "Pelė",
+      "message": "Pelė"
+   },
+   "titelnighttheme": {
+      "description": "Nakties režimas",
+      "message": "Nakties režimas"
+   },
+   "titeloff": {
+      "description": "Išjungta",
+      "message": "Išjungta"
+   },
+   "titelon": {
+      "description": "Įjungta",
+      "message": "Įjungta"
+   },
+   "titelopacity": {
+      "description": "Nepermatomumas",
+      "message": "Nepermatomumas"
+   },
+   "titelpageaction": {
+      "description": "Slėpti lempos piktogramą",
+      "message": "Slėpti lempos piktogramą"
+   },
+   "titelpassword": {
+      "description": "Slaptažodžio apsauga",
+      "message": "Slaptažodžio apsauga"
+   },
+   "titelplaylist": {
+      "description": "Grojaraštis",
+      "message": "Grojaraštis"
+   },
+   "titelqualityyoutube": {
+      "description": "Automatiškai nustatyti YouTube video kokybę.",
+      "message": "Automatiškai nustatyti YouTube video kokybę."
+   },
+   "titelreader": {
+      "description": "Tamsinimo lygio juosta",
+      "message": "Tamsinimo lygio juosta"
+   },
+   "titelrememberpage": {
+      "description": "Įsiminti puslapį",
+      "message": "Įsiminti puslapį"
+   },
+   "titelreset": {
+      "description": "Atstatyti nustatymus",
+      "message": "Atstatyti nustatymus"
+   },
+   "titelrightsreserved": {
+      "description": "Kai kurios teisės saugomos.",
+      "message": "Kai kurios teisės saugomos."
+   },
+   "titelscreen": {
+      "description": "Ekranas",
+      "message": "Ekranas"
+   },
+   "titelseeonline": {
+      "description": "Peržiūrėkite daugiau pavyzdžių internete",
+      "message": "Peržiūrėkite daugiau pavyzdžių internete"
+   },
+   "titelsharebutton": {
+      "description": "Dalinimosi mygtukai",
+      "message": "Dalinimosi mygtukai"
+   },
+   "titelshortcutlight": {
+      "description": "Spartusis klavišas",
+      "message": "Spartusis klavišas"
+   },
+   "titelshowmore": {
+      "description": "Rodyti daugiau",
+      "message": "Rodyti daugiau"
+   },
+   "titelspeech": {
+      "description": "Kalba",
+      "message": "Kalba"
+   },
+   "titelspreadradius": {
+      "description": "Sklaida",
+      "message": "Sklaida"
+   },
+   "titelsuggestions": {
+      "description": "Pasiūlymai",
+      "message": "Pasiūlymai"
+   },
+   "titelsupportatmos": {
+      "description": "Palaiko tik HTML5 \u003Cvideo> ir YouTube HTML5. Naudoja jūsų video plokštės GPU.",
+      "message": "Palaiko tik HTML5 \u003Cvideo> ir YouTube HTML5. Naudoja jūsų video plokštės GPU."
+   },
+   "titelsync": {
+      "description": "Sinchronizuoti",
+      "message": "Sinchronizuoti"
+   },
+   "titelsyncbrowser": {
+      "description": "Sinchronizuoti plėtinio nustatymus su kita jūsų naršykle.",
+      "message": "Sinchronizuoti plėtinio nustatymus su kita jūsų naršykle."
+   },
+   "titelupgrade": {
+      "description": "Atnaujinti",
+      "message": "Atnaujinti"
+   },
+   "titelvideoheadline": {
+      "description": "Video pavadinimas",
+      "message": "Video pavadinimas"
+   },
+   "titelvideosample": {
+      "description": "Video pavyzdys",
+      "message": "Video pavyzdys"
+   },
+   "titelviewcount": {
+      "description": "Peržiūrų skaičius",
+      "message": "Peržiūrų skaičius"
+   },
+   "titelwebsite": {
+      "description": "Tinklapis",
+      "message": "Tinklapis"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "Paaukoti",
+      "message": "Paaukoti"
+   },
+   "top": {
+      "description": "viršuje",
+      "message": "viršuje"
+   },
+   "translateme": {
+      "description": "Padėkite išversti",
+      "message": "Padėkite išversti"
+   },
+   "trymotion": {
+      "description": "Pabandykite patys!",
+      "message": "Pabandykite patys!"
+   },
+   "upgradecontextitemma": {
+      "description": "išjunkite šviesas ranka",
+      "message": "išjunkite šviesas ranka"
+   },
+   "upgradecontextitemmb": {
+      "description": "Valdykite puslapį dar tiksliau",
+      "message": "Valdykite puslapį dar tiksliau"
+   },
+   "upgradecontextitemta": {
+      "description": "Kameros judesiu",
+      "message": "Kameros judesiu"
+   },
+   "upgradecontextitemtb": {
+      "description": "Kalbos atpažinimas",
+      "message": "Kalbos atpažinimas"
+   },
+   "upgradecontextmessage": {
+      "description": "Tai daro šį priedą dar įspūdingesniu",
+      "message": "Tai daro šį priedą dar įspūdingesniu"
+   },
+   "upgradecontexttitle": {
+      "description": "Mes pridėjome kelias naujas galimybes",
+      "message": "Mes pridėjome kelias naujas galimybes"
+   },
+   "upgradefbshare": {
+      "description": "Facebook dalinimasis",
+      "message": "Facebook dalinimasis"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "Version number text",
+      "message": "Versija"
+   },
+   "videotitle": {
+      "description": "Fokusuoti šį video",
+      "message": "Fokusuoti šį video"
+   },
+   "visualeffects": {
+      "description": "Vaizdiniai efektai",
+      "message": "Vaizdiniai efektai"
+   },
+   "warning": {
+      "description": "Įspėjimas!",
+      "message": "Įspėjimas!"
+   },
+   "warningtextambilight": {
+      "description": "Jei dėl puslapio saugumo taisyklės neįmanoma gauti video duomenų, bus rodoma pasirinkta vientisa spalva.",
+      "message": "Jei dėl puslapio saugumo taisyklės neįmanoma gauti video duomenų, bus rodoma pasirinkta vientisa spalva."
+   }
+}

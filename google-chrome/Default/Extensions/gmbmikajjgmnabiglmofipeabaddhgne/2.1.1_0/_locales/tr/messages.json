@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Hesap"
+   },
+   "apply": {
+      "message": "Uygula"
+   },
+   "audio_default_filename": {
+      "message": "Adsız ses"
+   },
+   "authorization_needed": {
+      "message": "Google Drive'a Kaydet yetkilendirilmelidir."
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome sayfalarının ekran görüntüleri alınamıyor. Standart bir web sayfası kullanmayı deneyin."
+   },
+   "change_dest_folder": {
+      "message": "Hedef klasörü değiştir..."
+   },
+   "chrome_extension_name": {
+      "message": "Google Drive'a Kaydet"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "convert_to_google_format": {
+      "message": "Kaydedilen bağlantıyı Google düzenleyicisi biçimine dönüştür"
+   },
+   "debug": {
+      "message": "Hata ayıkla"
+   },
+   "default_filename": {
+      "message": "Adsız"
+   },
+   "download_canceled": {
+      "message": "İndirme işlemi iptal edildi."
+   },
+   "download_failure": {
+      "message": "İndirme hatası: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "İndirme hatası: Veri alınamadı."
+   },
+   "download_failure_too_big_mb": {
+      "message": "İndirme hatası: Kaynak çok büyük ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 indiriliyor...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "İndiriliyor..."
+   },
+   "empty_page_capture": {
+      "message": "Sayfa içeriği MHTML olarak yakalanamadı."
+   },
+   "enable_file_url": {
+      "message": "Dosya URL'leri, ayarlar sayfasındaki \"Dosya URL'lerine erişime izin ver\" seçeneği kullanılarak etkinleştirilmelidir."
+   },
+   "ext_description": {
+      "message": "Web içeriği veya ekran görüntüsünü doğrudan Google Drive uygulamasına kaydedin."
+   },
+   "failure_page_capture": {
+      "message": "Sayfanın içeriği MHTML olarak alınamadı: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Geri bildirim gönder (yalnızca dahili)"
+   },
+   "file_bug_internal": {
+      "message": "Hata raporu oluştur (yalnızca dahili)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a>, \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> bağlantısına kaydedildi. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">değiştir\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> çöp kutusuna taşındı. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a> uygulamasına gidin.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "html_default_filename": {
+      "message": "Adsız HTML"
+   },
+   "image_capture_failed": {
+      "message": "Resim yakalama başarısız oldu."
+   },
+   "image_capture_failed_reason": {
+      "message": "Resim yakalanamadı ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Adsız resim"
+   },
+   "invalid_url": {
+      "message": "Geçersiz URL: $1. İndirilen URL'ler http://, https:// veya file:// ile başlamalıdır.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Çeşitli"
+   },
+   "my_drive": {
+      "message": "Drive'ım"
+   },
+   "options_header_text": {
+      "message": "Google Drive'a Kaydet uzantısı seçenekleri"
+   },
+   "options_title": {
+      "message": "Google Drive'a Kaydet Seçenekleri"
+   },
+   "page_size_not_supported": {
+      "message": "Sayfa boyutu desteklenmiyor: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Adsız PDF"
+   },
+   "percent": {
+      "message": "%$1 tamamlandı",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Gizlilik"
+   },
+   "rename": {
+      "message": "Yeniden adlandır"
+   },
+   "rename_prompt": {
+      "message": "Yeniden adlandır:"
+   },
+   "save_as_html": {
+      "message": "HTML kaynağı (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google Dokümanı"
+   },
+   "save_as_image_entire": {
+      "message": "Tüm sayfanın resmi (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Sayfanın görünen kısmının resmi (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Web arşivi (.mht)"
+   },
+   "save_audio": {
+      "message": "Sesi Google Drive uygulamasına kaydet"
+   },
+   "save_image": {
+      "message": "Resmi Google Drive uygulamasına kaydet"
+   },
+   "save_link": {
+      "message": "Bağlantıyı Google Drive uygulamasına kaydet"
+   },
+   "save_page_as": {
+      "message": "Sayfayı farklı kaydet:"
+   },
+   "save_to_folder_text": {
+      "message": "Kaydedilecek Klasör"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google Drive Uygulamasına Kaydet"
+   },
+   "save_video": {
+      "message": "Videoyu Google Drive uygulamasına kaydet"
+   },
+   "saving": {
+      "message": "$1, Google Drive uygulamasına kaydediliyor...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Kaydedilecek Klasörü Seçin"
+   },
+   "send_feedback": {
+      "message": "Geri bildirim gönder"
+   },
+   "sign_out": {
+      "message": "Çıkış"
+   },
+   "start_download_exception": {
+      "message": "İndirme başlatılırken hata oluştu: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Adsız metin"
+   },
+   "trash": {
+      "message": "Çöp Kutusu"
+   },
+   "unspecified_error": {
+      "message": "Belirtilmemiş hata"
+   },
+   "upload_canceled": {
+      "message": "Yükleme iptal edildi"
+   },
+   "upload_failure": {
+      "message": "Yükleme hatası: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1, Google Drive uygulamasına yükleniyor...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Bağlantıyı açın\u003C/a> ve adres çubuğunun sağ tarafındaki Google Drive Uygulamasına Kaydet düğmesini kullanarak sayfayı kaydedin.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Bu bir web sayfasına bağlantıdır."
+   },
+   "video_default_filename": {
+      "message": "Adsız video"
+   },
+   "xml_default_filename": {
+      "message": "Adsız XML"
+   }
+}

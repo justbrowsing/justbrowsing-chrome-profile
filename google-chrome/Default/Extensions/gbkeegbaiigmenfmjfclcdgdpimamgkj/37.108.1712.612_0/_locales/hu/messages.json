@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "További információ"
+   },
+   "app_nacl_crash_report": {
+      "message": "Probléma bejelentése..."
+   },
+   "application_description": {
+      "message": "Dokumentumok szerkesztése"
+   },
+   "extension_description": {
+      "message": "A Google Dokumentumok, Táblázatok és Diák segítségével Microsoft Word-, Excel- és PowerPoint-fájlokat tekinthet meg és szerkeszthet"
+   },
+   "extension_name": {
+      "message": "Office-szerkesztés a Dokumentumok, Táblázatok és Diák alkalmazáshoz"
+   },
+   "file_loading_spinner_label": {
+      "message": "Betöltés..."
+   },
+   "file_not_found_msg": {
+      "message": "A kért fájl más helyre került."
+   },
+   "file_not_found_title": {
+      "message": "A fájl nem található."
+   }
+}

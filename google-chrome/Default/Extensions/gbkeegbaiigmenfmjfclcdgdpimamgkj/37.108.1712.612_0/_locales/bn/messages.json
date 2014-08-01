@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "আরো জানুন"
+   },
+   "app_nacl_crash_report": {
+      "message": "কোনো সমস্যা প্রতিবেদন করুন..."
+   },
+   "application_description": {
+      "message": "দস্তাবেজ সম্পাদনা"
+   },
+   "extension_description": {
+      "message": "Google দস্তাবেজ, পত্রক, এবং স্লাইডসের সাথে Microsoft Word, Excel, এবং PowerPoint ফাইলগুলি দেখুন এবং সম্পাদনা করুন"
+   },
+   "extension_name": {
+      "message": "দস্তাবেজ, পত্রক, এবং স্লাইডসের জন্য Office Editing"
+   },
+   "file_loading_spinner_label": {
+      "message": "লোড হচ্ছে"
+   },
+   "file_not_found_msg": {
+      "message": "আপনার অনুরোধ করা ফাইলটি উপরে এবং স্থানান্তরিত হয়েছে৷"
+   },
+   "file_not_found_title": {
+      "message": "ফাইল পাওয়া যায়নি৷"
+   }
+}

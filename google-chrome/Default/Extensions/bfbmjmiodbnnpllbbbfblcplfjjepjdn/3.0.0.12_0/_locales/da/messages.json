@@ -1,0 +1,906 @@
+{
+   "about": {
+      "description": "Om",
+      "message": "Om"
+   },
+   "addbutton": {
+      "description": "Tilføje",
+      "message": "Tilføj"
+   },
+   "advancedoptions": {
+      "description": "Avancerede indstillinger",
+      "message": "Avancerede Indstillinger"
+   },
+   "basicsettings": {
+      "description": "Grundlæggende",
+      "message": "Grundlæggende"
+   },
+   "bottom": {
+      "description": "bunden",
+      "message": "bunden"
+   },
+   "changelog": {
+      "description": "changelog link",
+      "message": "Logbog"
+   },
+   "deletebutton": {
+      "description": "Slet",
+      "message": "Slet"
+   },
+   "des1checkmotion": {
+      "description": "Make sure your room is not dark and that it have enough light.",
+      "message": "Make sure your room is not dark and that it have enough light."
+   },
+   "des2checkmotion": {
+      "description": "Your camera must not receive direct sunlight.",
+      "message": "Your camera must not receive direct sunlight."
+   },
+   "des3checkmotion": {
+      "description": "You use a front facing camera.",
+      "message": "You use a front facing camera."
+   },
+   "desaddvideobutton": {
+      "description": "Vis knappen Tilføj fra denne YouTube-video.",
+      "message": "Vis knappen Tilføj fra denne YouTube-video."
+   },
+   "desalllightsoff": {
+      "description": "At klikke på knappen lampe vil skifte/sluk lyset på alle åbne faner, når denne indstilling er aktiveret.",
+      "message": "At klikke på knappen lampe vil skifte/sluk lyset på alle åbne faner, når denne indstilling er aktiveret."
+   },
+   "desambilight": {
+      "description": "Vis du atmosfære belysning virkning af den nuværende spille video.",
+      "message": "Vis du atmosfære belysning virkning af den nuværende spille video."
+   },
+   "desambilight4color": {
+      "description": "4 valgt farver omkring videoen:",
+      "message": "4 valgt farver omkring videoen:"
+   },
+   "desambilightfixcolor": {
+      "description": "En solid farve:",
+      "message": "En solid farve:"
+   },
+   "desambilightrangeblurradius": {
+      "description": "Hvis sæt en lavere værdi skyggen vil være skarp, jo højere tallet er, den mere sløret det vil være.",
+      "message": "Hvis indstillet til en lavere værdi skyggen vil være skarp, jo højere tallet er, den mere sløret det vil være."
+   },
+   "desambilightrangespreadradius": {
+      "description": "Positive værdier øge størrelsen af skyggen, negative værdier formindsk størrelsen.",
+      "message": "Positive værdier øge størrelsen af skyggen, negative værdier formindsk størrelsen."
+   },
+   "desambilightvarcolor": {
+      "description": "Tage farve fra videoen.",
+      "message": "Tage farve fra videoen."
+   },
+   "desapitext": {
+      "description": "Wiki API for Website Developer",
+      "message": "Wiki API for Website Developer"
+   },
+   "desatmosphereonly": {
+      "description": "Bruge funktionen atmosfære belysning kun følgende video websted:",
+      "message": "Bruge funktionen atmosfære belysning kun følgende video websted:"
+   },
+   "desatmosvivid": {
+      "description": "Vivid atmosphere effects on YouTube, require",
+      "message": "Vivid atmosphere effects on YouTube, require"
+   },
+   "desautoplay": {
+      "description": "Automatisk dim baggrunden, når du klikker på play-knappen og versus.",
+      "message": "Dæmp automatisk baggrunden, når du klikker på play-knappen og omvendt."
+   },
+   "desautoplaydelay": {
+      "description": "Brighten again the background when the video ended after",
+      "message": "Brighten again the background when the video ended after"
+   },
+   "desautoplaydelayend": {
+      "description": "seconds",
+      "message": "seconds"
+   },
+   "desautoplayonly": {
+      "description": "Dim kun følgende video kvadratnetsreference:",
+      "message": "Dim kun følgende video kvadratnetsreference:"
+   },
+   "desbrowserextension": {
+      "description": "browser extension",
+      "message": "browser extension"
+   },
+   "desbrowsersupport": {
+      "description": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer.",
+      "message": "This browser doesn't support yet this feature. Make sure you have the latest browser version installed on your computer."
+   },
+   "desbrowsertheme": {
+      "description": "browser theme",
+      "message": "browser theme"
+   },
+   "descammotiononly": {
+      "description": "Activate the Camera Motion only on the following site(s):",
+      "message": "Activate the Camera Motion only on the following site(s):"
+   },
+   "desconfirmpassword": {
+      "description": "Bekræft adgangskode",
+      "message": "Bekræft adgangskode"
+   },
+   "desconfirmtime": {
+      "description": "Bekræfte tid",
+      "message": "Bekræfte tid"
+   },
+   "desconfirmtimesaver": {
+      "description": "Bekræfte Screen Saver",
+      "message": "Bekræfte Screen Saver"
+   },
+   "descontextmenus": {
+      "description": "Vis kontekstmenuen at fokusere en vare.",
+      "message": "Vis kontekstmenuen for at fokusere på en post."
+   },
+   "description": {
+      "description": "Hele siden bliver falmer til mørk, så du kan se videoen, som hvis du var i biografen.",
+      "message": "Hele siden vil tone ud, så du kan se videoen, som var du i biografen."
+   },
+   "desdynamicblocks": {
+      "description": "Blokke",
+      "message": "Blokke"
+   },
+   "desdynamiccloud": {
+      "description": "Animated Clouds",
+      "message": "Animated Clouds"
+   },
+   "desdynamicfishtank": {
+      "description": "Fisk Tank",
+      "message": "Fisk Tank"
+   },
+   "desdynamicraindrops": {
+      "description": "Regndråber",
+      "message": "Regndråber"
+   },
+   "desdynamicspace": {
+      "description": "Plads univers",
+      "message": "Plads univers"
+   },
+   "deseastereggs": {
+      "description": "En bonus i denne udvidelse.",
+      "message": "En bonus i denne udvidelse."
+   },
+   "desenterpassword": {
+      "description": "Indtast din adgangskode i boksen nedenfor:",
+      "message": "Indtast din adgangskode i boksen nedenfor:"
+   },
+   "deseyea": {
+      "description": "Automatisk dim baggrunden, når du åbner en side.",
+      "message": "Dæmp automatisk baggrunden, når en side åbnes."
+   },
+   "deseyealist": {
+      "description": "Automatisk dim baggrunden, når du åbner de følgende sider:",
+      "message": "Automatisk dim baggrunden, når du åbner de følgende sider:"
+   },
+   "deseyen": {
+      "description": "Normal brug (lyset går ud når du klikker på ikonet lampe).",
+      "message": "Normal brug (lyset går ud, når du klikker på lampe-ikonet)."
+   },
+   "deseyetimesaver": {
+      "description": "Når en side er inaktiv (ingen mus eller tastatur input) gang angivet nedenfor, siden vil automatisk gå mørke.",
+      "message": "Når en side er inaktiv (ingen mus eller tastatur input) gang angivet nedenfor, siden vil automatisk gå mørke."
+   },
+   "desfadein": {
+      "description": "Vis fade i kraft.",
+      "message": "Vis lysets indgangseffekt."
+   },
+   "desfadeout": {
+      "description": "Vis fade ud effekt.",
+      "message": "Vis lysets udgangseffekt."
+   },
+   "desflash": {
+      "description": "Vis alle Flash objekter.",
+      "message": "Vis alle Flash-objekter."
+   },
+   "deshardflash": {
+      "description": "Vis alle Flash objekter, overspringelse URL filter. Dette vil løse problemer med nogle video-afspillere er skjult, men vil også vise annoncer.",
+      "message": "Vis alle Flash objekter, overspringelse URL filter. Dette vil løse problemer med nogle video-afspillere er skjult, men vil også vise annoncer."
+   },
+   "deshead": {
+      "description": "Vis værktøjslinjen YouTube-kanal eller navnet.",
+      "message": "Vis YouTube Channel-baren eller navnet."
+   },
+   "desinfobar": {
+      "description": "Vis beskrivelse oplysninger om videoen.",
+      "message": "Vis informationen om videoen."
+   },
+   "deslikebar": {
+      "description": "Vis de lide/ikke lide bar under YouTube-videoer.",
+      "message": "Vis de lide/ikke lide bar under YouTube-videoer."
+   },
+   "deslikebutton": {
+      "description": "Viser lignende & ikke lide knapper af YouTube for denne video.",
+      "message": "Vis like- & dislike-knapperne på YouTube for denne video."
+   },
+   "desmotion": {
+      "description": "Kamerabevægelse",
+      "message": "Enable the Camera Motion so that the web page could darkens with a hand sweep down."
+   },
+   "desmotionChecklist": {
+      "description": "Checklist:",
+      "message": "Checklist:"
+   },
+   "desmousespotlighta": {
+      "description": "Hvis lyset er slukket, Vis en spotlight omkring musemarkøren.",
+      "message": "Hvis lyset er slukket, Vis en spotlight omkring musemarkøren."
+   },
+   "desmousespotlightc": {
+      "description": "Hvis lyset er slukket, kan du vælge et område at fokusere en vare.",
+      "message": "Hvis lyset er slukket, kan du vælge et område at fokusere en vare."
+   },
+   "desmousespotlighto": {
+      "description": "Normal brug (deaktiverer musen indstillinger nedenfor)",
+      "message": "Normal brug (deaktiverer musen indstillinger nedenfor)"
+   },
+   "desmousespotlightt": {
+      "description": "Gør det muligt at klikke sig igennem den mørke skærm når lysene er slukket.",
+      "message": "Gør det muligt at klikke sig igennem den mørke skærm når lysene er slukket."
+   },
+   "desnightenabletheme": {
+      "description": "Når du åbner en ny side det gå automatisk til nat-tilstand.",
+      "message": "Når du åbner en ny side det gå automatisk til nat-tilstand."
+   },
+   "desnightonly": {
+      "description": "Vis aftentilstand kun de følgende websteder:",
+      "message": "Vis aftentilstand kun de følgende websteder:"
+   },
+   "desnighttheme": {
+      "description": "Vis knappen nat Skift under webside at gøre siden mørk eller lys.",
+      "message": "Vis knappen nat Skift under webside at gøre siden mørk eller lys."
+   },
+   "desnoflash": {
+      "description": "Brug ikke denne funktion.",
+      "message": "Brug ikke denne funktion."
+   },
+   "despassword": {
+      "description": "Kræve en adgangskode skal indtastes, før du tænder lys tilbage på.",
+      "message": "Kræve en adgangskode skal indtastes, før du tænder lys tilbage på."
+   },
+   "desplaylist": {
+      "description": "Vis YouTube-afspilningsliste på YouTube-webstedet.",
+      "message": "Vis YouTube-spillelisten på YouTube-webstedet."
+   },
+   "desproject": {
+      "description": "project",
+      "message": "project"
+   },
+   "desreadera": {
+      "description": "Vis altid dimness niveau bar, når lyset går.",
+      "message": "Vis altid intensitetsbaren, når lyset går ud."
+   },
+   "desreadern": {
+      "description": "Aldrig Vis værktøjslinjen dimness niveau.",
+      "message": "Vis aldrig intensitetsbaren."
+   },
+   "desrememberpage": {
+      "description": "Hvis denne indstilling er aktiveret, vil det vise dig ikke siden Husk.",
+      "message": "Hvis denne indstilling er aktiveret, vil det vise dig ikke siden Husk."
+   },
+   "dessaver": {
+      "description": "Pauseskærmen:",
+      "message": "Pauseskærmen:"
+   },
+   "dessharebutton": {
+      "description": "Vis knapperne andel af YouTube for denne video.",
+      "message": "Vis dele-knapperne på YouTube for denne video."
+   },
+   "desshortcutlight": {
+      "description": "Aktiver tastaturgenvejene nedenfor.",
+      "message": "Aktiver tastaturgenvejene nedenfor."
+   },
+   "desspeech": {
+      "description": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:",
+      "message": "When you have enable this option, you can talk to the browser lamp. And you can say the following commands:"
+   },
+   "desspeech1command": {
+      "description": "turn off the lights",
+      "message": "turn off the lights"
+   },
+   "desspeech2command": {
+      "description": "turn on the lights",
+      "message": "turn on the lights"
+   },
+   "desspeech3command": {
+      "description": "play video",
+      "message": "play video"
+   },
+   "desspeech4command": {
+      "description": "pause video",
+      "message": "pause video"
+   },
+   "desspeechdialect": {
+      "description": "Choose your speech dialect:",
+      "message": "Choose your speech dialect:"
+   },
+   "desspeechonly": {
+      "description": "Activate the Speech Recognition only the following site(s):",
+      "message": "Activate the Speech Recognition only the following site(s):"
+   },
+   "desspotlightradius": {
+      "description": "er diameteren af Søg lampe.",
+      "message": "er diameteren af Søg lampe."
+   },
+   "dessuggestions": {
+      "description": "Vis forslag af YouTube-webstedet.",
+      "message": "Vis forslagene fra YouTube-webstedet."
+   },
+   "destime": {
+      "description": "Lys slukket mellem følgende tidspunkter:",
+      "message": "Lys slukket mellem følgende tidspunkter:"
+   },
+   "destrymotion": {
+      "description": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc.",
+      "message": "That's just great, and best of all is that it works everywhere. Even on YouTube, News website, etc."
+   },
+   "desuntil": {
+      "description": "indtil",
+      "message": "indtil"
+   },
+   "desvideoheadline": {
+      "description": "Vis og invertere farven på den video titel.",
+      "message": "Vis og spejlvend farven på videotitlen."
+   },
+   "desviewcount": {
+      "description": "Vis antallet af visning for denne video.",
+      "message": "Viser antallet af visning til denne video."
+   },
+   "donatepromotext": {
+      "description": "Hvis du kan gøre en donation af et beløb, ville jeg påskønne sig enormt!",
+      "message": "Hvis du kan lave en donation af enhver størrelse, vil jeg sætte stor pris på det!"
+   },
+   "eastereggsquestion": {
+      "description": "Kan du lide en virkelig film teater?",
+      "message": "Kan du lide en virkelig film teater?"
+   },
+   "enjoyshare": {
+      "description": "Nyd denne udvidelse og dele det med andre, som du mener vil sætte pris på det.",
+      "message": "Nyd denne udvidelse og dele det med andre, som du mener vil sætte pris på det."
+   },
+   "eyedivoff": {
+      "description": "OFF",
+      "message": "OFF"
+   },
+   "eyedivon": {
+      "description": "ON",
+      "message": "ON"
+   },
+   "friendlyremember": {
+      "description": "Venlige huske...",
+      "message": "Venlige huske..."
+   },
+   "guide": {
+      "description": "TOtL velkommen Guide",
+      "message": "TOtL velkommen Guide"
+   },
+   "help": {
+      "description": "Hjælp",
+      "message": "Hjælp"
+   },
+   "helpautoplay": {
+      "description": "'Eye protection' er aktiveret. At bruge den under funktion, Deaktiver indstillingen 'Eye protection'.",
+      "message": "'Eye protection' er aktiveret. At bruge den under funktion, Deaktiver indstillingen 'Eye protection'."
+   },
+   "helpeyeprotection": {
+      "description": "Aktivering 'Øjenbeskyttelse' deaktiverer automatisk funktionen 'Auto play'.",
+      "message": "Aktivering 'Øjenbeskyttelse' deaktiverer automatisk funktionen 'Auto play'."
+   },
+   "hoveroptionapply": {
+      "description": "anvende",
+      "message": "anvende"
+   },
+   "hoveroptiondyn5": {
+      "description": "med flyvende",
+      "message": "med flyvende"
+   },
+   "howworkmotion": {
+      "description": "How does it work?",
+      "message": "How does it work?"
+   },
+   "installadblocker": {
+      "description": "Brug med Adblocker forlængelse.",
+      "message": "Brug med Adblocker forlængelse."
+   },
+   "lastchecked": {
+      "description": "Nyeste version kontrolleres på",
+      "message": "Nyeste version kontrolleres på"
+   },
+   "left": {
+      "description": "venstre",
+      "message": "venstre"
+   },
+   "lockentername": {
+      "description": "Indtast venligst din adgangskode",
+      "message": "Indtast venligst din adgangskode"
+   },
+   "lockwrongpassword": {
+      "description": "Forkert kodeord, kan du prøve igen.",
+      "message": "Forkert kodeord, kan du prøve igen."
+   },
+   "longdonatetext": {
+      "description": "Jeg ville virkelig sætte pris på hvis du kan donere mig for at holde denne browserudvidelse i live for andre nye brugere. Uanset om det er $$ 1 eller $$ 100, værdsat jeres støtte uhyre!",
+      "message": "Jeg ville virkelig sætte pris på hvis du kan donere mig for at holde denne browserudvidelse i live for andre nye brugere. Uanset om det er $$ 1 eller $$ 100, værdsat jeres støtte uhyre!"
+   },
+   "motionoptions": {
+      "description": "Kamerabevægelse",
+      "message": "Kamerabevægelse"
+   },
+   "name": {
+      "description": "Slukke lysene",
+      "message": "Slukke lysene"
+   },
+   "nightoptions": {
+      "description": "Night-indstilling",
+      "message": "Night-indstilling"
+   },
+   "optionecosaversaved": {
+      "description": "Sekunder gemmes med succes!",
+      "message": "Sekunder gemmes med succes!"
+   },
+   "optionpagetitle": {
+      "description": "Indstilling sidetitel",
+      "message": "Turn Off the Lights - Valgmuligheder"
+   },
+   "optionpasswordsaved": {
+      "description": "Adgangskode er gemt med succes!",
+      "message": "Adgangskode er gemt med succes!"
+   },
+   "optiontimesaved": {
+      "description": "Tiden er gemt med succes!",
+      "message": "Tiden er gemt med succes!"
+   },
+   "optionwrongimg": {
+      "description": "Ugyldig billedfil!",
+      "message": "Ugyldig billedfil!"
+   },
+   "pageatitle": {
+      "description": "Slukke lysene",
+      "message": "Slukke lysene"
+   },
+   "pagehelp": {
+      "description": "Hjælp",
+      "message": "Hjælp"
+   },
+   "pagestillloading": {
+      "description": "Siden er stadig loading?",
+      "message": "Siden er stadig loading?"
+   },
+   "pagetitle": {
+      "description": "Mørkere denne side",
+      "message": "Gør denne side mørkere"
+   },
+   "productshare": {
+      "description": "Andel",
+      "message": "Andel"
+   },
+   "ratedes": {
+      "description": "Og lad alle vide, om denne fantastiske udvidelse!",
+      "message": "Og lad alle vide, om denne fantastiske udvidelse!"
+   },
+   "rateitema": {
+      "description": "Bedøm 5 stjerner",
+      "message": "Bedøm 5 stjerner"
+   },
+   "ratetitle": {
+      "description": "Vurder og anmeld venligst min tilføjelse",
+      "message": "Vurder og anmeld venligst min tilføjelse"
+   },
+   "recflash": {
+      "description": "Anbefalet",
+      "message": "Anbefalet"
+   },
+   "rememberrate": {
+      "description": "Sats",
+      "message": "Sats"
+   },
+   "reportbug": {
+      "description": "Rapport et problem",
+      "message": "Rapportér et problem"
+   },
+   "reportlist": {
+      "description": "Se den fulde anmodningslisten",
+      "message": "(Se den fulde liste)"
+   },
+   "resetbrowserextension": {
+      "description": "Nulstil indstillingerne for Turn Off the Lights",
+      "message": "Nulstil indstillingerne for Turn Off the Lights"
+   },
+   "right": {
+      "description": "højre",
+      "message": "højre"
+   },
+   "settings": {
+      "description": "Indstillinger",
+      "message": "Indstillinger"
+   },
+   "shortcutalllights": {
+      "description": "skifter lysene tænd/sluk for alle åbne faner.",
+      "message": "skifter lysene tænd/sluk for alle åbne faner."
+   },
+   "shortcutbright": {
+      "description": "til lysere skærm (fald opacitet).",
+      "message": "til lysere skærm (fald opacitet)."
+   },
+   "shortcutdark": {
+      "description": "til mørkere skærmen (stigning opacitet).",
+      "message": "til mørkere skærmen (stigning opacitet)."
+   },
+   "shortcuteyeprotection": {
+      "description": "at aktivere/deaktivere funktionen eye protection.",
+      "message": "at aktivere/deaktivere funktionen eye protection."
+   },
+   "shortcutopacity": {
+      "description": "at genoprette sæt mørket (opacitet) indstilling.",
+      "message": "at genoprette sæt mørket (opacitet) indstilling."
+   },
+   "shortcutsavingopacity": {
+      "description": "at gemme denne opacitetsværdi",
+      "message": "at gemme denne opacitetsværdi"
+   },
+   "shortcuttotl": {
+      "description": "at skifte lys, Tænd/sluk.",
+      "message": "at skifte lys, Tænd/sluk."
+   },
+   "showremember": {
+      "description": "ikke viser denne Husk side igen når jeg åbner siden indstilling.",
+      "message": "ikke viser denne Husk side igen når jeg åbner siden indstilling."
+   },
+   "skipremember": {
+      "description": "Springe dette og åbner nu siden indstilling",
+      "message": "Springe dette og åbner nu siden indstilling"
+   },
+   "speechoption": {
+      "description": "Speech Recognition ",
+      "message": "Stemmegenkendelse"
+   },
+   "step1description": {
+      "description": "Enable the Camera Motion feature",
+      "message": "Enable the Camera Motion feature"
+   },
+   "step2description": {
+      "description": "Move your hand (or fist) from the top to bottom",
+      "message": "Move your hand (or fist) from the top to bottom"
+   },
+   "step3description": {
+      "description": "Then the black layer slide automatically down.",
+      "message": "Then the black layer slide automatically down."
+   },
+   "textfoot": {
+      "description": "Denne software er licenseret under CC-GNU GPL. For at få en kopi af denne licens, besøg",
+      "message": "Denne software er licenseret under CC-GNU GPL. Hvis du vil se en kopi af denne licens, besøg"
+   },
+   "titeladdvideobutton": {
+      "description": "Tilføje knappen",
+      "message": "Tilføje knappen"
+   },
+   "titelalllightsoff": {
+      "description": "Alle åbne faneblade",
+      "message": "Alle åbne faneblade"
+   },
+   "titelambilight": {
+      "description": "Atmosfære belysning",
+      "message": "Atmosfære belysning"
+   },
+   "titelapideveloper": {
+      "description": "API Developer",
+      "message": "API Developer"
+   },
+   "titelautoplay": {
+      "description": "Automatisk afspilning",
+      "message": "Automatisk afspilning"
+   },
+   "titelautoplayblacklist": {
+      "description": "Blacklist",
+      "message": "Blacklist"
+   },
+   "titelautoplaywhitelist": {
+      "description": "Whitelist",
+      "message": "Whitelist"
+   },
+   "titelautowidthyoutube": {
+      "description": "Automatisk indstille YouTube-afspilleren til den større størrelse.",
+      "message": "Automatisk indstille YouTube-afspilleren til den større størrelse."
+   },
+   "titelblur": {
+      "description": "Blur resten",
+      "message": "Blur resten"
+   },
+   "titelblurradius": {
+      "description": "Sløringsradius",
+      "message": "Sløringsradius"
+   },
+   "titelcamera": {
+      "description": "Camera",
+      "message": "Camera"
+   },
+   "titelcinemaontop": {
+      "description": "Movie theater mode: det Vis 'lights off' lag kun på toppen af vinduet.",
+      "message": "Movie theater mode: det Vis 'lights off' lag kun på toppen af vinduet."
+   },
+   "titelcolor": {
+      "description": "Farve",
+      "message": "Farve"
+   },
+   "titelcolora": {
+      "description": "Color A",
+      "message": "Color A"
+   },
+   "titelcolorb": {
+      "description": "Color B",
+      "message": "Color B"
+   },
+   "titelcontextmenus": {
+      "description": "Kontekstmenu",
+      "message": "Kontekstmenu"
+   },
+   "titeldeveloper": {
+      "description": "Developer",
+      "message": "Developer"
+   },
+   "titeldownloadbutton": {
+      "description": "Download denne opgradering!",
+      "message": "Download denne opgradering!"
+   },
+   "titeldownloadthemeupgrade": {
+      "description": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser.",
+      "message": "Add a dark theme to your browser to dress it up. The theme appears around the border of the browser."
+   },
+   "titeldownloadupgrade": {
+      "description": "Opgraderingen tilføjer understøttelse for fokusering valgte billeder, og vil vise et galleri af billeder på webstedet.",
+      "message": "Opgraderingen tilføjer understøttelse for fokusering valgte billeder, og vil vise et galleri af billeder på webstedet."
+   },
+   "titeldynamic": {
+      "description": "Dynamisk baggrund",
+      "message": "Dynamisk baggrund"
+   },
+   "titeleastereggs": {
+      "description": "Påskeæg",
+      "message": "Påskeæg"
+   },
+   "titeleye": {
+      "description": "Beskyttelse af øjne",
+      "message": "Øjenbeskyttelse"
+   },
+   "titelfadein": {
+      "description": "Fade i",
+      "message": "Ton Ind"
+   },
+   "titelfadeout": {
+      "description": "Fade ud",
+      "message": "Ton Ud"
+   },
+   "titelflash": {
+      "description": "Flash detektering",
+      "message": "Flash Genkendelse"
+   },
+   "titelhead": {
+      "description": "Kanal",
+      "message": "Kanal"
+   },
+   "titelimage": {
+      "description": "Baggrundsbillede",
+      "message": "Baggrundsbillede"
+   },
+   "titelinfobar": {
+      "description": "Oplysningspanelet",
+      "message": "Oplysningspanelet"
+   },
+   "titellamp": {
+      "description": "Pære",
+      "message": "Pære"
+   },
+   "titellampregular": {
+      "description": "Vis altid lampeikonet i omnifeltet",
+      "message": "Vis altid lampeikonet i omnifeltet"
+   },
+   "titellampvideo": {
+      "description": "Vis kun lampeikonet hvis en videoafspiller er registreret",
+      "message": "Vis kun lampeikonet hvis en videoafspiller er registreret"
+   },
+   "titellessmore": {
+      "description": "Vis mindre",
+      "message": "Vis mindre"
+   },
+   "titellikebar": {
+      "description": "Indkvartering Bar",
+      "message": "Indkvartering Bar"
+   },
+   "titellikebutton": {
+      "description": "Indkvartering & ikke lide knapper",
+      "message": "Like- & dislike-knapper"
+   },
+   "titellinear": {
+      "description": "Linear",
+      "message": "Linear"
+   },
+   "titelmaxqualityyoutube": {
+      "description": "Indstilles automatisk til denne beslutning:",
+      "message": "Indstilles automatisk til denne beslutning:"
+   },
+   "titelmouse": {
+      "description": "Mus",
+      "message": "Mus"
+   },
+   "titelnighttheme": {
+      "description": "Night-indstilling",
+      "message": "Night-indstilling"
+   },
+   "titeloff": {
+      "description": "Off",
+      "message": "Off"
+   },
+   "titelon": {
+      "description": "På",
+      "message": "På"
+   },
+   "titelopacity": {
+      "description": "Opacitet",
+      "message": "Opacitet"
+   },
+   "titelpageaction": {
+      "description": "skjule pageaction ikon",
+      "message": "Skjul lampe-ikonet i adresselinjen"
+   },
+   "titelpassword": {
+      "description": "Password-beskyttelse",
+      "message": "Password-beskyttelse"
+   },
+   "titelplaylist": {
+      "description": "Afspilningsliste",
+      "message": "Afspilningsliste"
+   },
+   "titelqualityyoutube": {
+      "description": "Automatisk indstille kvaliteten af YouTube-videoer.",
+      "message": "Automatisk indstille kvaliteten af YouTube-videoer."
+   },
+   "titelreader": {
+      "description": "Dimness niveau Bar",
+      "message": "Intensitetsbar"
+   },
+   "titelrememberpage": {
+      "description": "Huske side",
+      "message": "Huske side"
+   },
+   "titelreset": {
+      "description": "Nulstil indstillinger",
+      "message": "Nulstil indstillinger"
+   },
+   "titelrightsreserved": {
+      "description": "Some rights reserved.",
+      "message": "Some rights reserved."
+   },
+   "titelscreen": {
+      "description": "Skærm",
+      "message": "Skærm"
+   },
+   "titelseeonline": {
+      "description": "See online for more examples",
+      "message": "See online for more examples"
+   },
+   "titelsharebutton": {
+      "description": "Del knapper",
+      "message": "Dele-knapper"
+   },
+   "titelshortcutlight": {
+      "description": "Genvej nøglen",
+      "message": "Genvejstast"
+   },
+   "titelshowmore": {
+      "description": "Vis mere",
+      "message": "Vis mere"
+   },
+   "titelspeech": {
+      "description": "Speech",
+      "message": "Speech"
+   },
+   "titelspreadradius": {
+      "description": "Spredning radius",
+      "message": "Spredning radius"
+   },
+   "titelsuggestions": {
+      "description": "Forslag",
+      "message": "Forslag"
+   },
+   "titelsupportatmos": {
+      "description": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card.",
+      "message": "Supports only the HTML5 \u003Cvideo> and YouTube HTML5 player. And it uses the GPU from your video card."
+   },
+   "titelsync": {
+      "description": "Sync",
+      "message": "Sync"
+   },
+   "titelsyncbrowser": {
+      "description": "Synkronisere Udvidelsesindstillinger med andre browser.",
+      "message": "Synkronisere Udvidelsesindstillinger med andre browser."
+   },
+   "titelupgrade": {
+      "description": "Opgradering",
+      "message": "Opgradering"
+   },
+   "titelvideoheadline": {
+      "description": "Videotitel",
+      "message": "Videotitel"
+   },
+   "titelvideosample": {
+      "description": "Video Sample",
+      "message": "Video Sample"
+   },
+   "titelviewcount": {
+      "description": "Antallet af visninger",
+      "message": "Antal visninger"
+   },
+   "titelwebsite": {
+      "description": "Website",
+      "message": "Website"
+   },
+   "titelwikiatmos": {
+      "description": "Wiki about the Atmosphere Lighting feature",
+      "message": "Wiki about the Atmosphere Lighting feature"
+   },
+   "titledonatebutton": {
+      "description": "Donere",
+      "message": "Donér"
+   },
+   "top": {
+      "description": "Top",
+      "message": "Top"
+   },
+   "translateme": {
+      "description": "Hjælpe med at oversætte",
+      "message": "Hjælpe med at oversætte"
+   },
+   "trymotion": {
+      "description": "Try it yourself!",
+      "message": "Try it yourself!"
+   },
+   "upgradecontextitemma": {
+      "description": "Sluk lyset med din hånd",
+      "message": "Sluk lyset med din hånd"
+   },
+   "upgradecontextitemmb": {
+      "description": "Kontroller hjemmesiden mere præcist",
+      "message": "Kontroller hjemmesiden mere præcist"
+   },
+   "upgradecontextitemta": {
+      "description": "Kamerabevægelse",
+      "message": "Kamerabevægelse"
+   },
+   "upgradecontextitemtb": {
+      "description": "Stemmegenkendelse",
+      "message": "Stemmegenkendelse"
+   },
+   "upgradecontextmessage": {
+      "description": "Det gør denne extension endnu mere fantastisk",
+      "message": "Det gør denne extension endnu mere fantastisk"
+   },
+   "upgradecontexttitle": {
+      "description": "Vi har tilføjet nogle nye funktioner for dig",
+      "message": "Vi har tilføjet nogle nye funktioner for dig"
+   },
+   "upgradefbshare": {
+      "description": "Del på Facebook",
+      "message": "Del på Facebook"
+   },
+   "upgradetwshare": {
+      "description": "Tweet",
+      "message": "Tweet"
+   },
+   "version": {
+      "description": "Version nummer tekst",
+      "message": "Version"
+   },
+   "videotitle": {
+      "description": "Fokusere denne video",
+      "message": "Fokusér på denne video"
+   },
+   "visualeffects": {
+      "description": "Visuelle effekter",
+      "message": "Visuelle Effekter"
+   },
+   "warning": {
+      "description": "Advarsel!",
+      "message": "Advarsel!"
+   },
+   "warningtextambilight": {
+      "description": "Hvis det ikke er i stand til at modtage video data på grund af et websteds sikkerhedsregel, så vil det vise den valgte farve i stedet.",
+      "message": "Hvis det ikke er i stand til at modtage video data på grund af et websteds sikkerhedsregel, så vil det vise den valgte farve i stedet."
+   }
+}

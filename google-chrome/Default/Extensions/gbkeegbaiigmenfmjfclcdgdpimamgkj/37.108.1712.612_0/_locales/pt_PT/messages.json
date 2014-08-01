@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Saiba mais"
+   },
+   "app_nacl_crash_report": {
+      "message": "Comunicar um problema..."
+   },
+   "application_description": {
+      "message": "Edição de documentos"
+   },
+   "extension_description": {
+      "message": "Ver e editar ficheiros do Microsoft Word, Excel e PowerPoint com o Documentos, o Folhas de cálculo e o Apresentações do Google"
+   },
+   "extension_name": {
+      "message": "Edição do Office para Documentos, Folhas de cálculo e Apresentações"
+   },
+   "file_loading_spinner_label": {
+      "message": "A carregar"
+   },
+   "file_not_found_msg": {
+      "message": "Falha ao transferir o ficheiro solicitado."
+   },
+   "file_not_found_title": {
+      "message": "Ficheiro não encontrado."
+   }
+}

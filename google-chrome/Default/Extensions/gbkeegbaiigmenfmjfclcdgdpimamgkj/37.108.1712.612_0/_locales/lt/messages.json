@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Sužinokite daugiau"
+   },
+   "app_nacl_crash_report": {
+      "message": "Praneškite apie problemą..."
+   },
+   "application_description": {
+      "message": "Dokumento redagavimas"
+   },
+   "extension_description": {
+      "message": "Peržiūrėkite ir redaguokite „Microsoft Word“, „Excel“ ir „PowerPoint“ failus naudodami „Google“ dokumentus, Skaičiuokles ir Skaidres."
+   },
+   "extension_name": {
+      "message": "„Office Editing“ programa, skirta Dokumentams, Skaičiuoklėms ir Skaidrėms"
+   },
+   "file_loading_spinner_label": {
+      "message": "Įkeliama"
+   },
+   "file_not_found_msg": {
+      "message": "Failas, dėl kurio pateikėte užklausą, yra perkeltas."
+   },
+   "file_not_found_title": {
+      "message": "Failas nerastas."
+   }
+}

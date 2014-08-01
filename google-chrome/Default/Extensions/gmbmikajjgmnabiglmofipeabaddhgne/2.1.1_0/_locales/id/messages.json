@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Akun"
+   },
+   "apply": {
+      "message": "Terapkan"
+   },
+   "audio_default_filename": {
+      "message": "Audio tanpa judul"
+   },
+   "authorization_needed": {
+      "message": "Anda harus mengotorisasi Simpan ke Google Drive."
+   },
+   "cancel": {
+      "message": "Batal"
+   },
+   "cannot_capture_chrome": {
+      "message": "Tidak dapat menangkap layar laman Chrome. Coba gunakan laman web standar."
+   },
+   "change_dest_folder": {
+      "message": "Ubah folder tujuan..."
+   },
+   "chrome_extension_name": {
+      "message": "Simpan ke Google Drive"
+   },
+   "close": {
+      "message": "Tutup"
+   },
+   "convert_to_google_format": {
+      "message": "Konversi tautan yang disimpan ke format editor Google"
+   },
+   "debug": {
+      "message": "Debug"
+   },
+   "default_filename": {
+      "message": "Tanpa judul"
+   },
+   "download_canceled": {
+      "message": "Unduhan dibatalkan."
+   },
+   "download_failure": {
+      "message": "Unduhan gagal: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Unduhan gagal: Tak satu pun data diterima."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Unduhan gagal: Sumber terlalu besar ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Mengunduh $1 ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Mengunduh ..."
+   },
+   "empty_page_capture": {
+      "message": "Tidak dapat menangkap konten laman sebagai MHTML."
+   },
+   "enable_file_url": {
+      "message": "URL file yang harus diaktifkan dengan opsi \"Izinkan akses ke URL file\" di laman setelan Ekstensi."
+   },
+   "ext_description": {
+      "message": "Simpan konten web atau jepretan layar secara langsung ke Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Tidak dapat menangkap konten laman sebagai MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Kirim tanggapan (hanya internal)"
+   },
+   "file_bug_internal": {
+      "message": "Laporkan bug (hanya internal)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> telah disimpan di \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">ubah\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> telah dipindahkan ke tong sampah. Buka \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Bantuan"
+   },
+   "html_default_filename": {
+      "message": "HTML Tanpa Berjudul"
+   },
+   "image_capture_failed": {
+      "message": "Gagal menangkap gambar."
+   },
+   "image_capture_failed_reason": {
+      "message": "Pengambilan gambar gagal ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Gambar tanpa judul"
+   },
+   "invalid_url": {
+      "message": "URL: tidak valid $1. URL yang diunduh harus diawali dengan http://, https://, atau file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Untitled Page Capture.mht"
+   },
+   "misc": {
+      "message": "Serbaneka"
+   },
+   "my_drive": {
+      "message": "Drive Saya"
+   },
+   "options_header_text": {
+      "message": "Opsi ekstensi Simpan ke Google Drive"
+   },
+   "options_title": {
+      "message": "Opsi Simpan ke Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Ukuran laman tidak didukung: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF tanpa judul"
+   },
+   "percent": {
+      "message": "$1% selesai",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privasi"
+   },
+   "rename": {
+      "message": "Ganti nama"
+   },
+   "rename_prompt": {
+      "message": "Ganti nama:"
+   },
+   "save_as_html": {
+      "message": "Sumber HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Dokumen Google"
+   },
+   "save_as_image_entire": {
+      "message": "Gambar seluruh halaman (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Gambar laman yang terlihat (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Arsip web (.mht)"
+   },
+   "save_audio": {
+      "message": "Simpan Audio ke Google Drive"
+   },
+   "save_image": {
+      "message": "Simpan Gambar ke Google Drive"
+   },
+   "save_link": {
+      "message": "Simpan Tautan ke Google Drive"
+   },
+   "save_page_as": {
+      "message": "Simpan laman sebagai:"
+   },
+   "save_to_folder_text": {
+      "message": "Simpan ke Folder"
+   },
+   "save_to_google_drive_action": {
+      "message": "Simpan ke Google Drive"
+   },
+   "save_video": {
+      "message": "Simpan Video ke Google Drive"
+   },
+   "saving": {
+      "message": "Menyimpan $1 ke Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Pilih Folder untuk Menyimpan"
+   },
+   "send_feedback": {
+      "message": "Kirim masukan"
+   },
+   "sign_out": {
+      "message": "Keluar"
+   },
+   "start_download_exception": {
+      "message": "Gagal memulai unduhan: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Teks tanpa judul"
+   },
+   "trash": {
+      "message": "Sampah"
+   },
+   "unspecified_error": {
+      "message": "Kesalahan yang tidak diperinci"
+   },
+   "upload_canceled": {
+      "message": "Pengunggahan dibatalkan"
+   },
+   "upload_failure": {
+      "message": "Gagal mengunggah: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Mengunggah $1 ke Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Buka tautan\u003C/a>, lalu simpan laman menggunakan tombol Simpan ke Google Drive di kanan bilah alamat.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Ini merupakan tautan ke laman web"
+   },
+   "video_default_filename": {
+      "message": "Video tanpa judul"
+   },
+   "xml_default_filename": {
+      "message": "XML tanpa judul"
+   }
+}

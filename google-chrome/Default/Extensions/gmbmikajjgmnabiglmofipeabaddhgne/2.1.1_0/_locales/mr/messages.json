@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "खाते"
+   },
+   "apply": {
+      "message": "लागू करा"
+   },
+   "audio_default_filename": {
+      "message": "अशीर्षकांकित ऑडिओ"
+   },
+   "authorization_needed": {
+      "message": "आपण Google ड्राइव्ह मध्ये जतन करा अधिकृत करणे आवश्यक आहे."
+   },
+   "cancel": {
+      "message": "रद्द करा"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome पृष्ठे स्क्रीन कॅप्चर करू शकत नाही. एक मानक वेब पृष्ठ वापरून पहा."
+   },
+   "change_dest_folder": {
+      "message": "गंतव्य फोल्डर बदला..."
+   },
+   "chrome_extension_name": {
+      "message": "Google ड्राइव्ह मध्ये जतन करा"
+   },
+   "close": {
+      "message": "बंद करा"
+   },
+   "convert_to_google_format": {
+      "message": "Google संपादक स्वरूपनावर जतन केलेला दुवा रुपांतरित करा"
+   },
+   "debug": {
+      "message": "डीबग"
+   },
+   "default_filename": {
+      "message": "अशीर्षकांकित"
+   },
+   "download_canceled": {
+      "message": "डाउनलोड रद्द झाले."
+   },
+   "download_failure": {
+      "message": "डाउनलोड अयशस्वी: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "डाऊनलोड अयशस्वी: कोणताही डेटा प्राप्त झाला नाही."
+   },
+   "download_failure_too_big_mb": {
+      "message": "डाउनलोड अयशस्वी: स्रोत खूप मोठा ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1डाऊनलोड करीत आहे ...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "डाऊनलोड करीत आहे..."
+   },
+   "empty_page_capture": {
+      "message": "पृष्ठाची सामग्री  MHTML म्हणून प्रग्रहण करू शकत नाही."
+   },
+   "enable_file_url": {
+      "message": "फाइल URL, विस्‍तार सेटिंग्‍ज पृष्‍ठावरील \"फाइल URL ला प्रवेशाची अनुमती द्या\" पर्यायासह सक्षम असणे आवश्‍यक आहे."
+   },
+   "ext_description": {
+      "message": "वेब सामग्री किंवा स्‍क्रीन कॅप्‍चर थेट Google ड्राइव्ह वर जतन करा."
+   },
+   "failure_page_capture": {
+      "message": "पृष्ठाची सामग्री MHTML म्हणून प्रग्रहण करू शकत नाही: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "अभिप्राय पाठवा (केवळ अंतर्गत)"
+   },
+   "file_bug_internal": {
+      "message": "एक दोष दाखल करा (केवळ अंतर्गत)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> मध्ये \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> जतन करण्यात आले होते. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">बदला\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> कचर्‍यात हलविले गेले. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google ड्राइव्ह\u003C/a> वर जा.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google ड्राइव्ह"
+   },
+   "help": {
+      "message": "मदत"
+   },
+   "html_default_filename": {
+      "message": "अशीर्षकांकित HTML"
+   },
+   "image_capture_failed": {
+      "message": "प्रतिमा कॅप्चर करणे अयशस्वी झाले"
+   },
+   "image_capture_failed_reason": {
+      "message": "प्रतिमा कॅप्चर करणे अयशस्वी झाले ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "शीर्षक नसलेली प्रतिमा"
+   },
+   "invalid_url": {
+      "message": "अवैध URL: $1. डाउनलोड केलेल्‍या URL चा प्रारंभ http://, https://, किंवा file:// ने होणे आवश्‍यक आहे.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "अशिर्षाकिंत पृष्ठ Capture.mht"
+   },
+   "misc": {
+      "message": "संकिर्ण"
+   },
+   "my_drive": {
+      "message": "माझे ड्राइव्ह"
+   },
+   "options_header_text": {
+      "message": "Google ड्राइव्ह मध्ये जतन करा विस्तार पर्याय"
+   },
+   "options_title": {
+      "message": "Google ड्राइव्ह मध्ये जतन करा पर्याय"
+   },
+   "page_size_not_supported": {
+      "message": "पृष्ठ आकार समर्थित नाही: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "अशीर्षकांकित PDF"
+   },
+   "percent": {
+      "message": "$1% पूर्ण झाले",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "गोपनीयता"
+   },
+   "rename": {
+      "message": "नाव बदला"
+   },
+   "rename_prompt": {
+      "message": "नाव बदला:"
+   },
+   "save_as_html": {
+      "message": "HTML स्रोत (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google कागदजत्र"
+   },
+   "save_as_image_entire": {
+      "message": "संपूर्ण पृष्ठाची प्रतिमा (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "दृश्यमान पृष्ठाची प्रतिमा (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "वेब संग्रहण (.mht)"
+   },
+   "save_audio": {
+      "message": "येथे ऑडिओ जतन करा Google ड्राइव्ह"
+   },
+   "save_image": {
+      "message": "येथे प्रतिमा जतन करा Google ड्राइव्ह"
+   },
+   "save_link": {
+      "message": "येथे दुवा जतन करा Google ड्राइव्ह"
+   },
+   "save_page_as": {
+      "message": "या रुपात पृष्ठ जतन करा:"
+   },
+   "save_to_folder_text": {
+      "message": "फोल्डरमध्ये जतन करा"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google ड्राइव्ह येथे जतन करा"
+   },
+   "save_video": {
+      "message": "येथे व्हिडिओ जतन करा Google ड्राइव्ह"
+   },
+   "saving": {
+      "message": "Google ड्राइव्ह येथे $1 जतन करत आहे...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "फोल्डरमध्ये जतन करा निवडा"
+   },
+   "send_feedback": {
+      "message": "अभिप्राय पाठवा"
+   },
+   "sign_out": {
+      "message": "साइन आउट"
+   },
+   "start_download_exception": {
+      "message": "डाउनलोड प्रारंभ अयशस्वी: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "अशीर्षकांकित मजकूर"
+   },
+   "trash": {
+      "message": "वगळलेले"
+   },
+   "unspecified_error": {
+      "message": "अनिर्दिष्ट त्रुटी"
+   },
+   "upload_canceled": {
+      "message": "अपलोड रद्द केले"
+   },
+   "upload_failure": {
+      "message": "अपलोड अयशस्वी: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Google ड्राइव्ह वर $1 अपलोड करत आहे...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">दुवा उघडा\u003C/a>, आणि अॅड्रेस बारच्या उजवीकडील Google ड्राइव्ह येथे जतन करा बटण वापरून पृष्ठ जतन करा.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "हा एका वेब पृष्ठाचा दुवा आहे"
+   },
+   "video_default_filename": {
+      "message": "अशीर्षकांकित व्हिडिओ"
+   },
+   "xml_default_filename": {
+      "message": "अशीर्षकांकित XML"
+   }
+}

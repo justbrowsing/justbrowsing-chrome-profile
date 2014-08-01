@@ -1,0 +1,1114 @@
+{
+   "adalreadyblocked": {
+      "description": "on the ad report page, telling a user there is nothing to do",
+      "message": "మీరు ఏమి చేయవలసిన అవసరం లేదు ఎందుకంటే ప్రకటన ఇప్పటికే తొలగించబడినది"
+   },
+   "adblock_auto_removes_ads_thats_all": {
+      "description": "Install page: explaining how to use adblock.",
+      "message": "AdBlock మీకోసం ప్రకటనలను తొలగిస్తుంది. అంతే!"
+   },
+   "adblock_click_for_details": {
+      "description": "Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button.  Do not translate the beginning 'AdBlock - ' part.",
+      "message": "AdBlock - వివరాలు కోసం క్లిక్ చేయండి"
+   },
+   "adblock_is_paused": {
+      "description": "resourceblocking page string",
+      "message": "AdBlock పాజ్ చేయబడింది, అందుకే మీరు ఈ పేజి ని వాడలేరు. AdBlock పాజ్ తీసివేసి మల్లి ప్రయత్నించండి."
+   },
+   "adblock_outdated_chrome": {
+      "description": "Ad report page instructions to update AdBlock in Chrome. The link will point to 'chrome://chrome/extensions/'",
+      "message": "మీరు పాత AdBlock వెర్షన్ ఉపయోగిస్తున్నారు. దయచేసి \u003Ca href='#'>the extensions page\u003C/a> లో 'Developer mode'ని ఎనేబుల్ చేసి, 'Update extensions now'ని క్లిక్ చేయండి."
+   },
+   "adblock_wont_run_on_pages_matching": {
+      "description": "Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com/reader/*'.  The URL will appear on the next line.",
+      "message": "AdBlock ఈ పేజీలలో పని చేయదు:"
+   },
+   "adblockinglist": {
+      "description": "List for subscribed ad blocking fiters",
+      "message": "ప్రస్తుతం బ్లాక్ చేస్తున్న ప్రకటనల ఫిల్టర్ లిస్ట్"
+   },
+   "adblockreportinganad": {
+      "description": "title of ad report page",
+      "message": "AdBlock - ప్రకటన రిపోర్ట్."
+   },
+   "addthisfilter": {
+      "description": "resourceblocking page string",
+      "message": "ఈ ఫిల్టర్ని చేర్చు"
+   },
+   "adreport2": {
+      "description": "Instructions on ad reporting page. 'Customize' should be the same text as the 'tabcustomize' message.",
+      "message": "మీకు వెబ్ పేజీలో ప్రకటన కనిపించిందా? ఆ ప్రకటన్ని ఎక్కడ రిపోర్ట్ చేయాలో చెబుతాము! \u003Cbr/> గుర్తుంచుకోండి: ప్రస్తుతం మీకు ప్రకటనలను రిపోర్ట్ చేయటం ఇష్టం లేకపోతే ఈ విండో ని మూసివేయండి. ఆప్షన్స్ పేజి లోని 'కస్టమైజ్' టాబ్ లో  ఫిల్టర్ ని తర్వాత చేర్చవచ్చు."
+   },
+   "adstillappear": {
+      "description": "question on ad reporting page",
+      "message": "ఇంకా మీకు ఈ ప్రకటన కనిపిస్తుందా?"
+   },
+   "anysite": {
+      "description": "resourceblocking page string",
+      "message": "ఏదైనా వెబ్ సైట్"
+   },
+   "appliedwhenbrowsing": {
+      "description": "resourceblocking page string",
+      "message": "మీరు బ్రౌజింగ్ చేస్తున్నప్పుడు ఈ ఫిల్టర్ వీటికి ఉపయోగించబడుతుంది:"
+   },
+   "betalabel": {
+      "description": "Option on first tab page",
+      "message": "బీటా"
+   },
+   "blacklistclickmessage": {
+      "description": "Message at the top of the blacklist options tab",
+      "message": "పేజి లోని ప్రకటనలను రైట్ క్లిక్ చేస్తే అవి తొలగించబడతాయి, లేదా మీరు ఇక్కడే ప్రకటనలను తొలగించవచ్చు."
+   },
+   "blacklisterattrwillbe": {
+      "description": "Checkbox label",
+      "message": "$value$ గా $attribute$ ఉండబడును.",
+      "placeholders": {
+         "attribute": {
+            "content": "$1",
+            "example": "class"
+         },
+         "value": {
+            "content": "$2",
+            "example": "AdBanner"
+         }
+      }
+   },
+   "blacklisterblockedelement": {
+      "description": "Tells the user what the blocked element is on the slider page",
+      "message": "నిరోధించబడినవి:"
+   },
+   "blacklisterblocksalloftype": {
+      "description": "Warns the user that all elements of type X will be blocked",
+      "message": "జాగ్రత్త: ఈ ఫిల్టర్ అన్నీ $elementtype$ అంశాలను తొలగిస్తుంది.",
+      "placeholders": {
+         "elementtype": {
+            "content": "$1",
+            "example": "DIV"
+         }
+      }
+   },
+   "blacklistereditfilter": {
+      "description": "Text if the user wants to manually edit a filter.  'OK' is the standard javascript popup button text.",
+      "message": "క్రింద సరైన ఫిల్టర్ ని  టైప్ చేసి OK నొక్కండి"
+   },
+   "blacklistereditinvalid1": {
+      "description": "Messagebox if the manually edited filter is invalid. Error messages are not translated.",
+      "message": "ఈ ఫిల్టర్ చెల్లదు: $exception$",
+      "placeholders": {
+         "exception": {
+            "content": "$1",
+            "example": "This filter is not supported"
+         }
+      }
+   },
+   "blacklistermatches": {
+      "description": "Tells the user multiple matches were found",
+      "message": "ఈ పేజీలో $matchcount$ అంశాలు మ్యాచ్ అయ్యాయి.",
+      "placeholders": {
+         "matchcount": {
+            "content": "$1",
+            "example": "5"
+         }
+      }
+   },
+   "blacklisternofilter": {
+      "description": "Warning if the user hasn't specified a filter",
+      "message": "మీరు ఒక్క ఫిల్టర్ కుడా పెట్టలేదు!"
+   },
+   "blacklisternotsure": {
+      "description": "Blacklister attribute choosing page message.  'Block it!' must be the same as the text of the 'buttonblockit' message.",
+      "message": "\u003Cb>తెలియడం లేదా?\u003C/b> క్రింద 'Block it!' నొక్కండి."
+   },
+   "blacklisteroptions1": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "మీరు ఈ పేజి చూసినప్పుడల్లా ఈ ప్రకటన గురించి ఏది నిజం అనిపిస్తుంది?"
+   },
+   "blacklisteroptionstitle": {
+      "description": "Blacklister options page title",
+      "message": "చివరి స్టెప్: ఇది  మీకు ఏ విధంగా ప్రకటనలాగ  అనిపిస్తుంది?"
+   },
+   "blacklistersinglematch": {
+      "description": "Tells the user only one match was found",
+      "message": "అది ఈ వెబ్ పేజీ లో \u003Cb>ఒక\u003C/b> అంశంతో మ్యాచ్ అవుతుంది."
+   },
+   "blacklisterthefilter": {
+      "description": "Blacklister attribute choosing page message",
+      "message": "ఈ క్రింది ఫిల్టర్లను 'ఆప్షన్స్' పేజీ లో మార్చగలరు:"
+   },
+   "blacklistertype": {
+      "description": "node name is called 'Type'",
+      "message": "టైప్"
+   },
+   "blacklisterwarningnofilter": {
+      "description": "Warns the user that no filter was specified",
+      "message": "హెచ్చరిక: మీరు ఒక ఫిల్టర్ కూడా పేర్కొనలేదు!"
+   },
+   "block_an_ad_on_this_page": {
+      "description": "Toolbar button menu entry and context menu entry",
+      "message": "ఈ పేజీ లో ప్రకటన తొలగించు."
+   },
+   "block_by_url_instead": {
+      "description": "Link on blacklister slider page",
+      "message": "అడ్వాన్స్డ్ : URL ద్వారా తొలగించు."
+   },
+   "block_this_ad": {
+      "description": "Context and popup menu entry",
+      "message": "ఈ ప్రకటన ని తొలగించు."
+   },
+   "blockanadtitle": {
+      "description": "Title of the first two dialogs of the blacklister",
+      "message": "ప్రకటన తొలగించు."
+   },
+   "blockdomain": {
+      "description": "Message of the url and css -blocking area",
+      "message": "ఈ డొమైన్ పేజీలలో వర్తిస్తాయి"
+   },
+   "blocked_ads": {
+      "description": "Title for popup menu section showing number of ads blocked.",
+      "message": "బ్లాక్ చేసిన  ప్రకటనలు:"
+   },
+   "blocked_n_in_total": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked since AdBlock was installed. $count$ will be a number between 1 and 999,999,999.",
+      "message": "మొత్తం $count$",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123,456\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blocked_n_on_this_page": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked on this page. $count$ will be a number between 1 and 999.",
+      "message": "ఈ పేజీలో మొత్తం $count$",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blockeverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "ఈ అంశాలు ఉన్నవన్నీ తొలగించబడతాయి:"
+   },
+   "blockmoreads": {
+      "description": "Section header on third tab",
+      "message": "ఇంకొన్ని ప్రకటనలు తొలగించు:"
+   },
+   "blockurlwithtext": {
+      "description": "Message of the url-blocking area",
+      "message": "ఈ పదాలు గల URLs అన్నిటిని తొలగించు"
+   },
+   "buttonback": {
+      "description": "Back to previous wizard page button",
+      "message": "వెనక్కి వెళ్ళు"
+   },
+   "buttonblockit": {
+      "description": "Block button",
+      "message": "బ్లాక్ చేయి!"
+   },
+   "buttoncancel": {
+      "description": "Cancel button",
+      "message": "రద్దు చేయి."
+   },
+   "buttonedit": {
+      "description": "Edit filter manually button",
+      "message": "ఎడిట్"
+   },
+   "buttonexclude": {
+      "description": "Button for excluding a domain in the whitelister dialog",
+      "message": "మినహాయించు"
+   },
+   "buttonlooksgood": {
+      "description": "Looks good button",
+      "message": "బాగుంది"
+   },
+   "buttonok": {
+      "description": "OK button",
+      "message": "ఓకే!"
+   },
+   "cantblockflash": {
+      "description": "Result of the final ad report question",
+      "message": "ఫ్లాష్ మరియు మిగతా ప్లగిన్స్ లోని ప్రకటనలు తొలగించలేము. బ్రౌజరు, WebKit మద్దతుతో త్వరలో చేస్తాము!"
+   },
+   "cantblockflashwarning": {
+      "description": "Text of the final ad report question",
+      "message": "ప్రకటన ఫిల్మ్/ఫ్లాష్ గేమ్ ముందు కనిపిస్తుందా? లేదా వాటి మధ్యలో కనిపిస్తుందా?"
+   },
+   "casesensitive": {
+      "description": "resourceblocking page string",
+      "message": "ఈ ఫిల్టర్ కేస్ సెన్సిటివ్:"
+   },
+   "changelabel": {
+      "description": "link to change resources on the resourceblock page",
+      "message": "మార్చు"
+   },
+   "checkinfirefox_1": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Firefox $chrome$ లేకపోతే, దాన్ని ఇన్స్ టాల్ చేయండి.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome2'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_2": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad. Don't translate the name 'AdBlock Plus'.",
+      "message": "Firefoxలో Adblock Plus $chrome$ ఇన్స్ టాల్ చేయండి.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='adblockforchrome'>\u003C/span>",
+            "example": "'or AdBlock for Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "checkinfirefox_3": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "ఆ బ్రౌజరు లో కూడా ఇవే ఫిల్టర్ జాబితాలు వాడండి (Firefoxలో ఉన్న AdBlock కస్టం ఫిల్టర్లు కాకుండా)"
+   },
+   "checkinfirefox_4": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "ఆ బ్రౌజరు లో పేజి ని ప్రకటనతో చూపించుము."
+   },
+   "checkinfirefox_5": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "ప్రకటన ఆ బ్రౌజరు లో కూడా కనిపిస్తుందా?"
+   },
+   "checkinfirefoxtitle": {
+      "description": "tell a user to see if a reported ad also appears in Firefox/Chrome",
+      "message": "Firefox $chrome$ లో చూడుము.",
+      "placeholders": {
+         "chrome": {
+            "content": "\u003Cspan id='chrome1'>\u003C/span>",
+            "example": "'or Chrome' (This will only be shown in Safari. Chrome users will not see this.)"
+         }
+      }
+   },
+   "chromebutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "message": "బటన్ ని దాచిపెట్టడానికి, రైట్ క్లిక్ చేసి 'Hide Button' నొక్కండి. chrome://chrome/extensions లో బటన్ ని మళ్లి చూపించగలరు."
+   },
+   "clickthead": {
+      "description": "When you have to click the ad to continue",
+      "message": "ప్రకటనను క్లిక్ చేయండి, దాన్ని ఎలా తొలగించాలో చూపిస్తాము."
+   },
+   "clickupdatefilters": {
+      "description": "instruction on ad report page",
+      "message": "ఇది క్లిక్ చేయండి : \u003Ca>నా ఫిల్టర్లను అప్డేట్ చేయి!\u003C/a>"
+   },
+   "close": {
+      "description": "resourceblocking page string",
+      "message": "మూసివేయి."
+   },
+   "close_tab_begin_browsing": {
+      "description": "Install page string",
+      "message": "ఈ ట్యాబ్ మూసివేసి, ప్రకటనలు లేకుండా బ్రౌజ్ చేయగలరు!"
+   },
+   "correctfilters": {
+      "description": "on the ad report page, label describing having the right set of filters",
+      "message": "సరైన ఫిల్టర్లు"
+   },
+   "csstomatch": {
+      "description": "Message of the css-hiding area",
+      "message": "మ్యాచ్ చేయటానికి  CSS"
+   },
+   "customfilters": {
+      "description": "List for custom filters the user subscribed to",
+      "message": "కస్టమ్ ఫిల్టర్ లిస్ట్ లు"
+   },
+   "custompattern": {
+      "description": "Label in front of the 'custom block pattern' textbox in resourceblock, after clicking a resource",
+      "message": "కస్టం:"
+   },
+   "debuginlogoption": {
+      "description": "Option on first tab page",
+      "message": "డీబగ్ స్టేట్మెంట్స్ ని కన్సోల్ లాగ్ లో చూపించుము. (దీనివల్ల AdBlock నెమ్మదిగా పని చేస్తుంది)"
+   },
+   "description2": {
+      "description": "Extension description in manifest",
+      "message": "అత్యంత ప్రాచుర్యం గల క్రోమ్ ఎక్స్టెన్షన్ ఇది. కోటి మంది పైగా దీన్ని వాడుతున్నారు! వెబ్ లోని ప్రకటనలను తొలగిస్తుంది!"
+   },
+   "disableallextensions": {
+      "description": "instruction on ad report page",
+      "message": "AdBlock తప్ప మిగిలిన ఎక్స్టెన్షన్  ను తీసివేయి."
+   },
+   "disabled_by_filter_lists": {
+      "description": "Message shown when a user tries to unwhitelist a web page that has been whitelisted by a rule in a subscribed filter list.",
+      "message": "సారీ, మీ ఫిల్టర్ జాబితాల వలన AdBlock ఈ పేజి లో పని చేయదు."
+   },
+   "disabled_on_this_page": {
+      "description": "Message shown in toolbar button on web pages that have been whitelisted.",
+      "message": "AdBlock ఈ పేజి లో పని చేయదు."
+   },
+   "disableforchromestepone": {
+      "description": "Step 1 for disabling chrome extensions",
+      "message": "\u003Ca href='#'> ఎక్స్టెన్షన్ పేజ్\u003C/a> ఓపెన్ చేయి"
+   },
+   "disableforopera": {
+      "description": "Opera instructions",
+      "message": "ఒపెరా బ్రౌజర్ కోసం"
+   },
+   "disableforsafaristepone": {
+      "description": "Step 1 for disabling safari extensions",
+      "message": "సఫారి మేను క్లిక్ చేసి  &rarr; Preferences &rarr; Extensions."
+   },
+   "doesntmatchoriginal": {
+      "description": "resourceblocking page string",
+      "message": "మీరు ఎంటర్ చేసిన పాటర్న్, మీరు బ్లాక్  చేయడానికి ప్రయత్నించిన రిసోర్స్ తో మ్యాచ్ అవటం లేదు! పర్వాలేదా?"
+   },
+   "dont_run_on_pages_on_domain": {
+      "description": "Menu entry to open the whitelist wizard.",
+      "message": "ఈ డొమైన్ లోని పేజి లలో వాడకు"
+   },
+   "dont_run_on_this_page": {
+      "description": "Menu entry to whitelist a page",
+      "message": "ఈ పేజి లో వాడకు"
+   },
+   "excludedomainorurl": {
+      "description": "Message of the exclude area",
+      "message": "ఈ డొమైన్ కానీ, URLలో కానీ  AdBlock ఏమీ తొలగించకూడదు."
+   },
+   "excludefilterremoved": {
+      "description": "Warning when a page exclusion rule was removed in resourceblock.html",
+      "message": "ఫిల్టర్ తీసివేయబడింది. రిసోర్స్ ఉన్న లిస్ట్లు తయారు చేయడానికి పేజీని మళ్లి లోడ్ చేయండి."
+   },
+   "failedtofetchfilter": {
+      "description": "Error messagebox",
+      "message": "ఈ ఫిల్టర్ పొందటం విఫలం అయింది."
+   },
+   "fetchinglabel": {
+      "description": "Status label",
+      "message": "అడిగింది పొందుతున్నాం ... ఆగండి."
+   },
+   "filteradblock_custom": {
+      "description": "A filter list. Don't translate 'AdBlock'",
+      "message": "AdBlock కస్టం ఫిల్టర్లు (సిఫార్సు చేయబడింది)"
+   },
+   "filterchinese": {
+      "description": "language",
+      "message": "చైనీస్"
+   },
+   "filterczech": {
+      "description": "Language names for a filter list",
+      "message": "చెక్ మరియు స్లోవాక్"
+   },
+   "filterdanish": {
+      "description": "language",
+      "message": "డానిష్"
+   },
+   "filterdutch": {
+      "description": "language",
+      "message": "డచ్"
+   },
+   "filtereasylist": {
+      "description": "A filter list. Don't translate 'EasyList'",
+      "message": "EasyList (సిఫార్సు చేయబడింది)"
+   },
+   "filtereasylist_plun_korean": {
+      "description": "language",
+      "message": "కొరియన్"
+   },
+   "filtereasylist_plus_bulgarian": {
+      "description": "language",
+      "message": "బల్గేరియన్"
+   },
+   "filtereasylist_plus_finnish": {
+      "description": "language",
+      "message": "ఫిన్నిష్"
+   },
+   "filtereasylist_plus_french": {
+      "description": "language",
+      "message": "ప్రాన్సుదేశభాష"
+   },
+   "filtereasylist_plus_german": {
+      "description": "language",
+      "message": "జర్మన్ భాష"
+   },
+   "filtereasylist_plus_greek": {
+      "description": "language",
+      "message": "గ్రీకు భాష"
+   },
+   "filtereasylist_plus_polish": {
+      "description": "language",
+      "message": "పోలిష్"
+   },
+   "filtereasylist_plus_romanian": {
+      "description": "language",
+      "message": "రోమానియన్"
+   },
+   "filtereasylist_plus_spanish": {
+      "description": "language",
+      "message": "స్పానిష్"
+   },
+   "filtereasyprivacy": {
+      "description": "A filter list. Don't translate the name 'EasyPrivacy'.",
+      "message": "EasyPrivacy (గోప్యతా రక్షణ)"
+   },
+   "filterhasbeenadded": {
+      "description": "resourceblocking page string (the 'slash n' is a line break)",
+      "message": "ఫిల్టర్ విజయవంతంగా చేర్చబడినది! \nఫలితం చూడటానికి పేజీని మళ్లి లోడ్ చేయండి!"
+   },
+   "filterhungarian": {
+      "description": "language",
+      "message": "హంగేరియన్"
+   },
+   "filterisraeli": {
+      "description": "language",
+      "message": "యూదుల భాష"
+   },
+   "filteritalian": {
+      "description": "language",
+      "message": "ఇటాలియన్"
+   },
+   "filterjapanese": {
+      "description": "language",
+      "message": "జపనీస్"
+   },
+   "filterlistlink": {
+      "description": "Explanation of the filter lists",
+      "message": "అవసరం కంటే ఎక్కువ ఫిల్టర్లకు సబ్స్క్రైబ్  చేయకండి -- అవి మిమ్మల్ని స్లో చేస్తాయి. క్రెడిట్స్ మరియు ఫిల్టర్లు \u003Ca>ఇక్కడ\u003C/a> ఉన్నాయి."
+   },
+   "filterlistsrock": {
+      "description": "Header text on the Customize tab.  'Filter lists' should be the same text as the tabfilterlists message.",
+      "message": "ఫిల్టర్ లిస్ట్లు చాలా ప్రకటనలను బ్లాక్ చేస్తాయి. మీరు:"
+   },
+   "filterorigin": {
+      "description": "Tooltip of matching filter in resources list, telling which filter list contains the filter",
+      "message": "ఫిల్టర్ వీటి నుండి వస్తున్నది:\n$list$",
+      "placeholders": {
+         "list": {
+            "content": "$1",
+            "example": "A filter list name OR AdBlock OR the translation of 'tabcustomize'"
+         }
+      }
+   },
+   "filterrussian": {
+      "description": "Language names for a filter list",
+      "message": "రష్యన్ మరియు ఉక్రేనియన్"
+   },
+   "filtersavewarning": {
+      "description": "Warning when blacklisting manually",
+      "message": "జాగ్రత్త : ఇక్కడ తప్పు చేస్తే అధికారిక ఫిల్టర్ల తో సహా చాలా ఫిల్టర్లు పని చేయకపోయే అవకాశం ఉంది. \u003Cbr/>అడ్వాన్స్డ్ బ్లాకు లిస్టు మరియు వైట్ లిస్టు ఫిల్టర్ల గురించి తెలుసుకోటానికి, \u003Ca>ఫిల్టర్ సింటాక్స్ ట్యుటోరియల్\u003C/a> చదవండి."
+   },
+   "filterstabtitle": {
+      "description": "Title of the filter list tab",
+      "message": "ఫిల్టర్ లిస్ట్లకు సబ్స్ క్రైబ్ చేయండి"
+   },
+   "findingads": {
+      "description": "When you press ctrl-shift-K the blacklister searches for ads",
+      "message": "ప్రకటనలు వెతుకుతున్నాం ... \u003Cbr/>\u003Cbr/>\u003Ci>దీనికి కొంత సమయం మాత్రమే పడుతుంది \u003C/i>"
+   },
+   "firefox_explanation": {
+      "description": "Explanation of the Check-in-Firefox step in the ad reporter",
+      "message": "మీరు ఈ ప్రశ్న కు తప్పు సమాధానం చెప్తే, రిపోర్ట్ సరైన వ్యక్తులకు వెళ్లకుండా ఇగ్నోర్ అయ్యే అవకాశం ఉంది"
+   },
+   "fixityourself": {
+      "description": "telling a user who won't report an ad to us how to handle it for herself",
+      "message": "ఒకే. మీరు సొంతంగా ఈ ప్రకటనను ఆప్షన్స్ పేజి లో బ్లాక్ చేయగలరు. థాంక్స్!"
+   },
+   "flashads": {
+      "description": "Title of the final ad report question if the ad didn't appear in FF",
+      "message": "వీడియోలు మరియు ఫ్లాష్"
+   },
+   "format_site1_site2_site3": {
+      "description": "Example showing users how to input a list of sites on the Customize tab. You can translate the 'news' and 'siteN' but leave the '|'s and '~'s in place.",
+      "message": "ఫార్మాట్: ~site1.com|~site2.com|~news.site3.org"
+   },
+   "generaloptions": {
+      "description": "Title of first tab page",
+      "message": "జనరల్ ఆప్షన్స్"
+   },
+   "headerfilter": {
+      "description": "resourceblocking page string",
+      "message": "మ్యాచ్ అయిన ఫిల్టర్లు"
+   },
+   "headerresource": {
+      "description": "resourceblocking page string",
+      "message": "రిసోర్స్"
+   },
+   "headertype": {
+      "description": "resourceblocking page string",
+      "message": "రకము"
+   },
+   "hide_this_button": {
+      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "message": "ఈ బటన్ దాచిపెట్టు."
+   },
+   "how_to_use_adblock": {
+      "description": "Install page section title",
+      "message": "AdBlock ఎలా వాడాలి:"
+   },
+   "invalidListUrl": {
+      "description": "Message when you subscribe to a non-list URL",
+      "message": "చెల్లని లిస్టు URL. డిలీట్ అవుతుంది."
+   },
+   "lang_czech": {
+      "description": "language",
+      "message": "చెక్ భాష"
+   },
+   "lang_english": {
+      "description": "language",
+      "message": "ఇంగ్లీష్"
+   },
+   "lang_russian": {
+      "description": "language",
+      "message": "రష్యన్"
+   },
+   "lang_slovak": {
+      "description": "language",
+      "message": "స్లోవాక్"
+   },
+   "lang_ukranian": {
+      "description": "language",
+      "message": "ఉక్రేనియన్"
+   },
+   "languagedropdowndescription": {
+      "description": "Dropdown list for language specific filters",
+      "message": "మరొక భాష కోసం ఫిల్టర్లు జోడించండి: "
+   },
+   "linkblockadbyurl": {
+      "description": "Link on the third tab",
+      "message": "ప్రకటనను దాని URL బట్టి తొలగించు"
+   },
+   "linkhidesection": {
+      "description": "Link on the third tab",
+      "message": "వెబ్ పేజి లో ఒక విభాగము దాచిపెట్టు"
+   },
+   "linkunblock": {
+      "description": "Link on the third tab",
+      "message": "వెబ్ పేజి లేదా డొమైన్ లో ప్రకటనలు చూపించు"
+   },
+   "loading": {
+      "description": "resourceblocking page string",
+      "message": "లోడ్ అవుతుంది ..."
+   },
+   "manualfilteredit": {
+      "description": "Subtitle on the third tab",
+      "message": "మానవీయంగా ఫిల్టర్లను సవరించండి :"
+   },
+   "modifydomain": {
+      "description": "Caption for the whitelist wizard slider that modifies the domain part of a URL",
+      "message": "సైట్:"
+   },
+   "modifypath": {
+      "description": "Caption for the whitelist wizard slider that modifies the path part of a URL",
+      "message": "పేజి:"
+   },
+   "multipledomainshint": {
+      "description": "resourceblocking page string",
+      "message": "డొమైన్లను కామా లేదా స్పేస్ తో విడతీయు"
+   },
+   "nextstep": {
+      "description": "resourceblocking page string",
+      "message": "తదుపరి స్టెప్"
+   },
+   "no": {
+      "description": "A negative response to a question",
+      "message": "నో"
+   },
+   "nodefaultfilter1": {
+      "description": "instructions on ad report page pointing users to EasyList subscriptions list. 'Customize' should be the same message as 'tabcustomize'.",
+      "message": "మీరే ఈ భాషకు తగిన ఫిల్టర్ $link$ వెతకండి. లేదా మీరే ఈ ప్రకటనను 'కస్ట్ మైశ్ ' ట్యాబు లో బ్లాక్ చేయండి.",
+      "placeholders": {
+         "link": {
+            "content": "\u003Ca id='link'>\u003C/a>",
+            "example": "\u003Ca>here\u003C/a>"
+         }
+      }
+   },
+   "noresourcessend2": {
+      "description": "resourceblocking page string",
+      "message": "ఏదో తప్పు జరిగింది. రిసోర్సెస్ ఏమీ వెళ్ళలేదు. ఈ పేజి ఇప్పుడు క్లోజ్ చేస్తాం. ఈ వెబ్ సైట్ ను మళ్లి రీలోడ్ చేయండి."
+   },
+   "nosearchresults": {
+      "description": "Text in resourceblock shown if no results are found after searching",
+      "message": "రిసోర్సెస్ ఏమీ దొరకలేదు"
+   },
+   "novalidurlpattern": {
+      "description": "resourceblocking page string",
+      "message": "చెల్లుబాటు అయ్యే URL పాటర్న్ ని  ఎంటర్ చేయండి మ్యాచ్ చేయటానికి!"
+   },
+   "only_block_ads_on_these_sites": {
+      "description": "Label for textbox where user enters a list of sites on Customize tab",
+      "message": "ఈ సైట్స్ లో మాత్రమే ప్రకటనలు బ్లాక్ చేయి:"
+   },
+   "onlyondomains": {
+      "description": "resourceblocking page string",
+      "message": "ఈ దొమైన్స్ లోని పేజీలు మాత్రమే:"
+   },
+   "onlyresourcetypes": {
+      "description": "resourceblocking page string",
+      "message": "ఈ ఫిల్టర్ క్రింది రిసోర్సెస్ కు అనువర్తిస్తుంది :"
+   },
+   "opera_120_install": {
+      "description": "Opera \u003C 12.10 warning during installation",
+      "message": "Opera 12.10 కు ముందు వెర్షన్ లలో కొన్ని ప్రకటనలు బ్లాక్ కావు. Opera వెర్షన్ 12.10 కు అప్డేట్ అయ్యాక, అన్ని ప్రకటనలు సరిగ్గా బ్లాక్ చేయబడతాయి."
+   },
+   "opera_120_options": {
+      "description": "Opera \u003C 12.10 warning above options page",
+      "message": "Opera 12.10 కు ముందు వెర్షన్ లలో కొన్ని ఆప్షన్స్ ఉండవు, ఎందుకంటే ఆ పాత వెర్షన్ లకు ఆ ఆప్షన్స్ అనువర్తించవు."
+   },
+   "opera_allow_secure": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "సెకూర్ పేజీలలో(టూల్ బార్ లో లాక్ ఐకాన్ ఉన్న పేజీలు) AdBlock వాడాలంటే, మొదట సెకూర్ పేజీలకు ఆక్సెస్ యిస్తూ ఆప్షన్స్ లో ఎనేబుల్ చేయాలి."
+   },
+   "opera_can_also_change_setting": {
+      "description": "Message when the storage quota is reached, for advanced users in Opera",
+      "message": "$setting$ విలువ పెంచగలరు",
+      "placeholders": {
+         "setting": {
+            "content": "$1",
+            "example": "opera:config#PersistentStorage|DomainQuotaForWidgetPreferences"
+         }
+      }
+   },
+   "opera_donations_button": {
+      "description": "Opera donate request in the button",
+      "message": "ఈ ఎక్స్టెన్షన్ నచ్చిందా? అయితే దయచేసి ఆప్షన్స్ పేజిలో దానం చేయండి."
+   },
+   "opera_donations_install": {
+      "description": "Opera donate request in the install page",
+      "message": "మీకు ఈ ఎక్స్టెన్షన్ నచ్చితే, ఆప్షన్స్ పేజీలో దయచేసి దానం చేయండి."
+   },
+   "opera_enabledin": {
+      "description": "Hover text of items disabled in an older browser version",
+      "message": "$browserversion$లో పని చేస్తుంది",
+      "placeholders": {
+         "browserversion": {
+            "content": "$1",
+            "example": "Opera 12.10"
+         }
+      }
+   },
+   "opera_excludedomainorurl": {
+      "description": "Opera version of the 'excludedomainorurl' string",
+      "message": "డొమైన్ లో AdBlock ఏమీ బ్లాక్ చెయకూడదు"
+   },
+   "opera_for_more_options": {
+      "description": "Install page string telling where to find the preferences in Opera. &rArr; makes a right arrow (->)",
+      "message": "ఇంకొన్ని ఆప్షన్స్ కోసం టూల్ బార్ బటన్ క్లిక్ చేయండి లేదా preferences ఓపెన్ చేయండి మెనూ లోని ఎక్ష్టెన్షన్ ద్వారా &rArr; Manage Extensions &rArr; wrench icon &rArr; Preferences"
+   },
+   "opera_linkunblock": {
+      "description": "Opera version of the 'linkunblock' string",
+      "message": "డొమైన్ లో ప్రకటనలు చూపించు"
+   },
+   "opera_reenable_button": {
+      "description": "Opera browser button message when you click 'hide this button'",
+      "message": "ఈ ఎక్స్టెన్షన్ preferencesలో, ఈ బటన్ ని మళ్లి ఎనేబుల్ చేయగలరు"
+   },
+   "opera_secure_pages": {
+      "description": "Title of an area in the ad report page in Opera. Only visible if the opener tab was a secure url (https)",
+      "message": "సెకూర్ పేజీలు"
+   },
+   "opera_secure_pages_enabled": {
+      "description": "Content of an area in the ad report page in Opera. &rArr; makes a right arrow",
+      "message": "మెనూ లోఉన్న ఎక్ష్టెన్షన్  క్లిక్ చేసి &rArr; Manage Extensions &rArr; AdBlock కోసం చూసి, దాని దగ్గర ఉన్న స్పానర్ ఐకాన్ క్లిక్ చేయండి &rArr; ప్రైవసీ క్లిక్ చేయండి.\u003Cbr/> సెకూర్ పేజీలు ఆక్సెస్ చేసే ఆప్షన్ ఎనేబుల్ అయి ఉందా?"
+   },
+   "opera_show_toolbar_button": {
+      "description": "Opera option to show/hide the button",
+      "message": "టూల్ బార్ చూపించు"
+   },
+   "options": {
+      "description": "The text of the link on chrome://chrome/extensions that gets you to the Options page for an extension",
+      "message": "ఆప్షన్స్"
+   },
+   "optionstitle": {
+      "description": "Title for the options page",
+      "message": "AdBlock ఆప్షన్స్"
+   },
+   "optionsversion": {
+      "description": "Version number",
+      "message": "వెర్షన్ $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.9"
+         }
+      }
+   },
+   "orenteraurl": {
+      "description": "link for custom subscription",
+      "message": "లేదా ఒక URL ఎంటర్ చేయండి :"
+   },
+   "other": {
+      "description": "multiple choice option",
+      "message": "ఇతరులు"
+   },
+   "otherfilters": {
+      "description": "List for other filters the user subscribed to",
+      "message": "ఇతర ఫిల్టర్ లిస్ట్ లు"
+   },
+   "pagelanguagecheck": {
+      "description": "question on ad report page",
+      "message": "ఆ పేజీ ఏ భాష లో రాయబడింది?"
+   },
+   "pause_adblock": {
+      "description": "Menu entry to pause AdBlock.",
+      "message": "AdBlock ని పాజ్ చేయి"
+   },
+   "project_home": {
+      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "message": "ప్రాజెక్ట్ హోం"
+   },
+   "refusetocheck": {
+      "description": "user is telling us they don't wish to investigate something for us",
+      "message": "నాకు ఇది చెక్ చేయాలని లేదు"
+   },
+   "reloadadpage": {
+      "description": "instruction on ad report page",
+      "message": "పేజీని ప్రకటనతో మళ్లి లోడ్ చేయి."
+   },
+   "removefromlist": {
+      "description": "Label to remove a custom filter",
+      "message": "లిస్టు నుంచి తొలగించు"
+   },
+   "removelabel": {
+      "description": "link to remove a filter",
+      "message": "తొలగించు"
+   },
+   "report_ad_on_page": {
+      "description": "Link in the button",
+      "message": "ఈ పేజీలోని ప్రకటనను రిపోర్ట్ చేయి"
+   },
+   "reportfilterlistproblem": {
+      "description": "telling the user to report an ad to a filter list maintainer",
+      "message": "ఇది ఒక ఫిల్టర్ లిస్టు సమస్య. ఇక్కడ రిపోర్ట్ చేయండి: $link$",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "EXAMPLE 1: \u003Ca href='mailto:someguy@list.com'>John Doe\u003C/a>  EXAMPLE 2: \u003Ca href='http://easylist.org'>EasyList forums\u003C/a>"
+         }
+      }
+   },
+   "reportpubliclyavailable": {
+      "description": "Ad report page string, when you're about to submit a report",
+      "message": "నోట్: మీ రిపోర్ట్ బహిరంగంగా అందుబాటులో ఉండవచ్చు. ఏదైన వ్యక్తిగత విషయాలు తెలిపే ముందు ఇది గుర్తుంచుకోండి."
+   },
+   "reporttous2": {
+      "description": "NOTE: non-English translations should replace the first sentence and instead say 'If you can speak English, you can report the ad to us \u003Ca>in the issue tracker\u003C/a>.'",
+      "message": "మీకు ఇంగ్లీష్ వస్తే, మీరు ప్రకటనను మాకు \u003Ca>ఇష్యూ ట్రాకర్\u003C/a>లో రిపోర్ట్ చేయగలరు ."
+   },
+   "resourceblocklegend1": {
+      "description": "resourceblocking page string",
+      "message": "లెజెండ్:"
+   },
+   "resourceblocklegend2": {
+      "description": "resourceblocking page string",
+      "message": "బ్లాక్ చేయబడిన రిసోర్సెస్"
+   },
+   "resourceblocklegend3": {
+      "description": "resourceblocking page string",
+      "message": "వైట్ లిస్టు చేయబడిన రిసోర్సెస్"
+   },
+   "resourceblocklegend4": {
+      "description": "resourceblocking page string",
+      "message": "బ్లాక్ చేయగలిగిన రిసోర్సెస్"
+   },
+   "resourceblocklegend5": {
+      "description": "resourceblocking page string",
+      "message": "దాచే రూల్స్ అమలు చేయబడినవి."
+   },
+   "resourceblocktitle": {
+      "description": "resourceblocking page string",
+      "message": "ఒక రిసోర్స్ బ్లాక్ చేయి"
+   },
+   "resourcedomain": {
+      "description": "Text shown when hovering over an item in the third-party column",
+      "message": "ఈ డొమైన్ లోని పేజీ లో లోడ్ అయింది:\n$domain$",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "resourceiswhitelisted": {
+      "description": "resourceblocking page string",
+      "message": "మీరు ఎంపిక చేసిన రిసోర్స్ వైట్ లిస్టు చేయబడింది. కాబట్టి మీరు దాన్ని బ్లాక్ చేయలేరు."
+   },
+   "retryaftersubscribe": {
+      "description": "instructions on ad report page telling users to subscribe to a filter list and then check again to see whether the ad exists",
+      "message": "ఈ ఫిల్టర్ లిస్టుకు సబ్స్ క్రైబ్ చేసి, మళ్లి ప్రయత్నించండి: $list_title$",
+      "placeholders": {
+         "list_title": {
+            "content": "$1",
+            "example": "French filters"
+         }
+      }
+   },
+   "safari50_updatenotice": {
+      "description": "A message shown to Safari 5.0 users urging them to upgrade",
+      "message": "మీరు Safari పాత వెర్షన్ వాడుతున్నారు. కొత్త వెర్షన్ లో AdBlock ని పాజ్ చేయగలరు, వెబ్ సైట్స్ ని వైట్ లిస్టు చేయగలరు ఇంకా ప్రకటనలను రిపోర్ట్ చేయగలరు. \u003Ca>ఇప్పుడే అప్గ్రేడ్ చేయండి!\u003C/a>."
+   },
+   "savebutton": {
+      "description": "Save button",
+      "message": "సేవ్"
+   },
+   "savereminder": {
+      "description": "Reminder to press save",
+      "message": "సేవ్ చేయటం మర్చిపోకండి!"
+   },
+   "searchexplanation": {
+      "description": "Text in resourceblock when you hover your mouse over the search textbox",
+      "message": "అక్షరాలు మ్యాచ్ చేయడానికి * వాడండి. ఉదాహరణకు, 'banner*.gif image' వీటితో మ్యాచ్ అవుతుంది:  'banner.gif', 'banner123.gif', 'bannerxyz.gif'."
+   },
+   "searchplaceholder": {
+      "description": "Text in resourceblock shown in the search textbox before you type something",
+      "message": "ఇక్కడ రిసోర్సెస్ వెతకండి..."
+   },
+   "selectlanguage": {
+      "description": "Text for the first option in Langage Dropdown for Filter Lists tab in options.  Include the ' -- ' on either side of your translation.",
+      "message": " -- భాషా ఎంచుకోండి -- "
+   },
+   "selectresources": {
+      "description": "resourceblocking page string",
+      "message": "బ్లాక్ లేదా అన్-బ్లాక్ చేయడానికి రిసోర్సెస్ ఎంచుకోండి."
+   },
+   "show_ads_except_for": {
+      "description": "Section title for blacklisting section of Customize tab",
+      "message": "ప్రకటనలు \u003Ci>ప్రతీ చోట \u003C/i> చూపించు, ఈ దొమైన్స్ లో తప్ప ..."
+   },
+   "show_on_adblock_button": {
+      "description": "Label for checkbox letting user choose whether the toolbar button should show a badge with the number of ads blocked",
+      "message": "AdBlock బటన్ చూపించు"
+   },
+   "show_resourcelist": {
+      "description": "Link in the button",
+      "message": "రిసోర్స్ లిస్టు చూపించు"
+   },
+   "sliderexplanation": {
+      "description": "Blacklister slider page message",
+      "message": "పేజీ లో ప్రకటన సరిగ్గా బ్లాక్ అయ్యేంతవరకు స్లైడర్ ను స్లయిడ్ చేయండి, అప్పుడు బ్లాక్ అయిన అంశం  ఉపయోగకరంగా కనిపిస్తోంది."
+   },
+   "slidertitle": {
+      "description": "Blacklister slider page title",
+      "message": "స్టెప్ 1: ఏమి బ్లాక్ చేయాలో నిర్ణయించుకొండి"
+   },
+   "status_disabled": {
+      "description": "Message shown in toolbar button on web pages that disallow extensions, such as the Extensions Gallery or about:blank.",
+      "message": "AdBlock ఈ డొమైన్ లో పని చేయదు."
+   },
+   "status_paused": {
+      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "message": "AdBlock పాజ్ చేయబడింది."
+   },
+   "stop_blocking_ads": {
+      "description": "Section header on third tab",
+      "message": "ప్రకటనలు బ్లాక్ చేయడం ఆపు:"
+   },
+   "storage_quota_exceeded": {
+      "description": "Message shown when the user uses more storage than allowed by the browser",
+      "message": "మీరు AdBlock వాడగలిగే స్టోరేజ్ కంటే ఎక్కువ వాడుతున్నారు. దయచేసి కొన్ని ఫిల్టర్ లిస్ట్ల నుండి అన్-సబ్స్ క్రైబ్ చేయండి!"
+   },
+   "subscribebutton": {
+      "description": "subscribe to a list button",
+      "message": "సబ్స్ క్రైబ్"
+   },
+   "subscribingfailed": {
+      "description": "abp: link subscriber result",
+      "message": "విఫలమైంది!"
+   },
+   "subscribingfinished": {
+      "description": "abp: link subscriber result",
+      "message": "పూర్తి అయింది!"
+   },
+   "subscribingtitle": {
+      "description": "abp: link subscriber title",
+      "message": "ఫిల్టర్ లిస్ట్ కు సబ్స్ క్రైబ్ చేస్తున్నాము ..."
+   },
+   "tabcustomize": {
+      "description": "A tab on the options page",
+      "message": "కస్టమైజ్"
+   },
+   "tabcustomizetitle": {
+      "description": "Title of the third tab",
+      "message": "AdBlockని కస్టమైజ్ చేయి"
+   },
+   "tabfilterlists": {
+      "description": "A tab on the options page",
+      "message": "ఫిల్టర్ లిస్ట్ లు"
+   },
+   "tabgeneral": {
+      "description": "A tab on the options page",
+      "message": "జనరల్"
+   },
+   "thats_it": {
+      "description": "Install page string",
+      "message": "అంతే!"
+   },
+   "thirdparty": {
+      "description": "Resource list column title telling if the resource originates from a different domain",
+      "message": "మూడవ పార్టీ"
+   },
+   "thirdpartycheckbox": {
+      "description": "resourceblocking page string",
+      "message": "$domain$ డొమైన్ లోని వెబ్ సైట్స్ కాకుండా, ఏ వెబ్ సైట్ అయినా",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "example.com"
+         }
+      }
+   },
+   "translator_credit": {
+      "description": "Will be followed by a list of translator names (separate string)",
+      "message": "అనువాదం చేసింది:"
+   },
+   "translator_names": {
+      "example": "The translator's names go here. Example: Michael G, Drew R",
+      "message": "Ponakala P"
+   },
+   "typehiding": {
+      "description": "A resource type",
+      "message": "దాగి ఉంది"
+   },
+   "typeimage": {
+      "description": "A resource type",
+      "message": "బొమ్మ"
+   },
+   "typemedia": {
+      "description": "A resource type",
+      "message": "ఆడియో/వీడియో"
+   },
+   "typeobject": {
+      "description": "A resource type",
+      "message": "ఇంటరాక్టివ్ వస్తువు"
+   },
+   "typeobject_subrequest": {
+      "description": "A resource type",
+      "message": "వస్తువు_ఉపఅభ్యర్థన"
+   },
+   "typeother": {
+      "description": "A resource type",
+      "message": "ఇతర వస్తువులు"
+   },
+   "typepage": {
+      "description": "A resource type",
+      "message": "పేజీ"
+   },
+   "typepopup": {
+      "description": "A resource type",
+      "message": "పాప్ అప్"
+   },
+   "typescript": {
+      "description": "A resource type",
+      "message": "స్క్రిప్ట్"
+   },
+   "typestylesheet": {
+      "description": "A resource type",
+      "message": "శైలి నిర్వచనం"
+   },
+   "typesubdocument": {
+      "description": "A resource type",
+      "message": "ఫ్రేమ్"
+   },
+   "typeunknown": {
+      "description": "A resource type",
+      "message": "తెలియనిది"
+   },
+   "typexmlhttprequest": {
+      "description": "A resource type",
+      "message": "xmlhttpరిక్వెస్ట్"
+   },
+   "unsubscribedlabel": {
+      "description": "Status label",
+      "message": "సబ్స్ క్రైబ్ రద్దు అయింది."
+   },
+   "updateddayago": {
+      "description": "Label for subscription",
+      "message": "ఒక రోజు క్రితం అప్డేట్ అయింది"
+   },
+   "updateddaysago": {
+      "description": "Label for subscription",
+      "message": "$days$ రోజుల క్రితం అప్డేట్ అయింది",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedhourago": {
+      "description": "Label for subscription",
+      "message": "ఒక గంట క్రితం అప్డేట్ అయింది"
+   },
+   "updatedhoursago": {
+      "description": "Label for subscription",
+      "message": "$hours$  గంటల  క్రితం అప్డేట్ అయింది",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedminuteago": {
+      "description": "Label for subscription",
+      "message": "ఒక నిమిషం క్రితం అప్డేట్ అయింది"
+   },
+   "updatedminutesago": {
+      "description": "Label for subscription",
+      "message": "$minutes$ నిమిషాల క్రితం అప్డేట్ అయింది",
+      "placeholders": {
+         "minutes": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedrightnow": {
+      "description": "Label for subscription",
+      "message": "ఇప్పుడే అప్డేట్ అయింది"
+   },
+   "updatedsecondsago": {
+      "description": "Label for subscription",
+      "message": "$seconds$ సెకన్ల క్రితం అప్డేట్ అయింది",
+      "placeholders": {
+         "seconds": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updateyourlists": {
+      "description": "instruction on ad report page",
+      "message": "మీ ఫిల్టర్ లిస్ట్ లు అప్-టు-డేట్ ఉన్నాయో లేదో చూసుకోండి."
+   },
+   "warning_overrules_filters": {
+      "description": "Message on the third tab of the options page, explaining the danger of adding a blacklisting filter",
+      "message": "హెచ్చరిక: అన్ని ఇతర సైట్లలో మీరు ప్రకటనలను చూస్తారు!\u003Cbr> ఆ సైట్లలోని ఫిల్టర్లన్నిదీని వలన రద్దు అవుతాయి."
+   },
+   "whats_this": {
+      "description": "Text of a link pointing to the explanation of a new feature",
+      "message": "ఇదేంటి?"
+   },
+   "whitelistertitle2": {
+      "description": "The title of the whitelister dialog",
+      "message": "AdBlockని వీటి మీద ఉపయోగించకూడదు ..."
+   },
+   "whitelisteverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "ఇవి ఉన్న రిసోర్సెస్ లన్నిటిని వైట్ లిస్టు చేయి:"
+   },
+   "wildcardhint": {
+      "description": "resourceblocking page string",
+      "message": "గమనిక: మీరు ఇక్కడ * వైల్డ్ కార్డు లాగ ఉపయోగించవచ్చు"
+   },
+   "work_around_hulu_problems": {
+      "description": "Advanced Options page checkbox, which users only need to use if Hulu.com videos break.  It directs the user to restart their browser in order for changes to the checkbox to take effect",
+      "message": "Hulu.com వీడియోలు ఇక్కడ ఆడటం లేదు (మీరు మీ బ్రౌజర్ని మల్లి రీస్టార్ట్ చేయాల్సిన అవసరం ఉంది)"
+   },
+   "yes": {
+      "description": "A positive response to a question",
+      "message": "అవును"
+   },
+   "you_can_slide_to_change": {
+      "description": "Instructions for how to use the whitelister slider controls.  Sometimes only one slider will show, and sometimes two will show, and if possible the text should handle both cases.",
+      "message": "క్రిందికి స్లైడ్ చేసి AdBlock ఏ పేజీలలో పని చేయకూడదో మీరు ఎంపిక చేసుకోవచ్చు."
+   },
+   "you_know_thats_a_bad_idea_right": {
+      "description": "Confirmation message shown to user if they try to subscribe to too many lists. The user will have two options: OK and Cancel.",
+      "message": "మీరు ఎన్ని ఎక్కువ ఫిల్టర్లు వాడితే అంత స్లో గా AdBlock పని చేస్తుంది. మరీ ఎక్కువ లిస్ట్ లు ఉంటే, మీ బ్రౌజరు కొన్ని వెబ్ సైట్లలో క్రాష్ అయ్యే అవకాశం కూడా ఉంది. అయినా పర్వాలేదంటే, ఈ లిస్టు కు సబ్స్ క్రైబ్ అవ్వటానికి ఒకే క్లిక్ చేయండి."
+   }
+}

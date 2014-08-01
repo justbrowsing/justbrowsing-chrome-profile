@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "Научете повече"
+   },
+   "app_nacl_crash_report": {
+      "message": "Подаване на сигнал за проблем..."
+   },
+   "application_description": {
+      "message": "Редактиране на документи"
+   },
+   "extension_description": {
+      "message": "Преглеждайте и редактирайте файлове на Microsoft Word, Excel и PowerPoint посредством Google Документи, Таблици и Презентации"
+   },
+   "extension_name": {
+      "message": "Редактиране на файлове от Office в Документи, Таблици и Презентации"
+   },
+   "file_loading_spinner_label": {
+      "message": "Зарежда се"
+   },
+   "file_not_found_msg": {
+      "message": "Заявеният от вас файл е преместен."
+   },
+   "file_not_found_title": {
+      "message": "Файлът не е намерен."
+   }
+}

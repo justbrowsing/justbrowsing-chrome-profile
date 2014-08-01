@@ -1,0 +1,123 @@
+.qowt-main-appIcon {
+  width: 40px;
+  height: 60px;
+  position: absolute;
+  display: block;
+}
+.qowt-main-titlebar-container {
+  position: relative;
+  margin-left: 40px;
+}
+.qowt-main-titlebar {
+  clear: both;
+  width: 100%;
+  padding: 0;
+  font-size: 18px;
+  height: 28px;
+}
+.qowt-main-titlebar-outer {
+  white-space: nowrap;
+  margin-left: 17px;
+}
+.qowt-main-title {
+  display: inline-block;
+  position: relative;
+  width: auto;
+  height: 27px;
+  margin-top: 5px;
+}
+.qowt-main-titlebar-span {
+  display: inline-block;
+  outline: none;
+  max-width: none;
+}
+.qowt-main-title-inner {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  margin: 1px 4px 1px 3px;
+  font-size: 18px;
+  color: #333;
+}
+
+.qowt-main-titleBar {
+  height: 29px !important;
+  font: 13px/27px Arial, sans-serif;
+  background: white;
+}
+
+.qowt-main-menubar {
+  /* Basic menu styling for all apps.*/
+  right: 0;
+  cursor: default;
+  font: 13px Arial, sans-serif;
+  height: 31px;
+  outline: none;
+  position: relative;
+  white-space: nowrap;
+  background: #fff;
+  color: #000;
+  margin-left: 52px;
+}
+
+.qowt-main-menubar .qowt-menuButton {
+  /* Basic menu button for all apps*/
+  margin: 3px 0 2px 0;
+  padding: 4px 7px;
+  border: 1px solid transparent;
+  display: inline-block;
+  position: relative;
+}
+
+.qowt-main-menubar.qowt-menu-open .qowt-menu-shield {
+  position: absolute;
+  /* Must be at a higher z-index than contextMenu/menuPane. crbug 277428. */
+  z-index: 106;
+  height: 4px;
+  width: 100%;
+  background: white;
+  left: 0;
+  bottom: -3px;
+}
+
+.qowt-main-menubar.qowt-menu-open .qowt-menuButton > menu,
+.qowt-main-menubar.qowt-menu-open .qowt-menuButton > .qowt-menu-shield {
+  /* Hide the originally open menu pane when hovering on another menu button.*/
+  visibility: hidden !important;
+  /* Setting opacity to '0' fixes a bug on Chromebook Pixel where the scrollbars
+  are still visible when the menu is hidden */
+  opacity: 0 !important;
+}
+
+.qowt-main-menubar.qowt-menu-open .qowt-menuButton:hover > menu,
+.qowt-main-menubar.qowt-menu-open .qowt-menuButton:hover > .qowt-menu-shield {
+  /* Show menu panes when you hover over active menu buttons, but with an open menu.*/
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.qowt-main-menubar.qowt-menu-open .qowt-menuButton:hover > menu {
+  /* TODO DuSk - really want to use calculated top from menuButton clientHeight.*/
+  top: 24px !important;
+}
+
+.qowt-main-menubar.qowt-menu-open .qowt-menuButton:hover {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, .2);
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
+}
+
+.qowt-main-menubar .qowt-menuButton:hover {
+  /* Menu button hover styling for an inactive menu.*/
+  background-color: #eee;
+  color: black;
+  border: 1px solid transparent;
+}
+
+.qowt-shortcut {
+  position: absolute;
+  text-align: right;
+  padding: 0 6px;
+  right: 0;
+  left: auto;
+  color: #777;
+}

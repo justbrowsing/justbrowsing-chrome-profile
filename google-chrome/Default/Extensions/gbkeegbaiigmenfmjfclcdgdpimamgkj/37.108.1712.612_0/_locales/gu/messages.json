@@ -1,0 +1,26 @@
+{
+   "app_error_learn_more": {
+      "message": "વધુ જાણો"
+   },
+   "app_nacl_crash_report": {
+      "message": "સમસ્યાની જાણ કરો..."
+   },
+   "application_description": {
+      "message": "દસ્તાવેજ સંપાદન"
+   },
+   "extension_description": {
+      "message": "Google દસ્તાવેજો, શીટ્સ અને સ્લાઇડ્સ સાથે Microsoft Word, Excel અને PowerPoint ફાઇલોને જુઓ અને સંપાદિત કરો"
+   },
+   "extension_name": {
+      "message": "દસ્તાવેજો, શીટ્સ અને સ્લાઇડ્સ માટે Office સંપાદન"
+   },
+   "file_loading_spinner_label": {
+      "message": "લોડ કરી રહ્યું છે"
+   },
+   "file_not_found_msg": {
+      "message": "તમે વિનંતી કરેલી ફાઇલ આવી ગઈ છે અને ખસેડવામાં આવી છે."
+   },
+   "file_not_found_title": {
+      "message": "ફાઇલ મળી નથી."
+   }
+}

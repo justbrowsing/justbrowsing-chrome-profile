@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Conta"
+   },
+   "apply": {
+      "message": "Aplicar"
+   },
+   "audio_default_filename": {
+      "message": "Áudio sem nome"
+   },
+   "authorization_needed": {
+      "message": "Tem de autorizar Guardar no Google Drive."
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cannot_capture_chrome": {
+      "message": "Não é possível efetuar uma captura de ecrã de páginas do Chrome. Experimente uma página Web padrão."
+   },
+   "change_dest_folder": {
+      "message": "Alterar a pasta de destino..."
+   },
+   "chrome_extension_name": {
+      "message": "Guardar no Google Drive"
+   },
+   "close": {
+      "message": "Fechar"
+   },
+   "convert_to_google_format": {
+      "message": "Conveter o link guardado para o formato de editor do Google"
+   },
+   "debug": {
+      "message": "Depurar"
+   },
+   "default_filename": {
+      "message": "Sem nome"
+   },
+   "download_canceled": {
+      "message": "Transferência cancelada."
+   },
+   "download_failure": {
+      "message": "Falha ao transferir: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Falha ao transferir: não foram recebidos quaisquer dados."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Falha ao transferir: a origem é demasiado grande ($1 MB).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "A transferir $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "A transferir..."
+   },
+   "empty_page_capture": {
+      "message": "Não foi possível capturar os conteúdos da página como MHTML."
+   },
+   "enable_file_url": {
+      "message": "Tem de ativar os URLs do ficheiro com a opção \"Permitir acesso aos URLs do ficheiro\" na página de definições de Extensões."
+   },
+   "ext_description": {
+      "message": "Guardar conteúdos da Web ou captura de ecrã diretamente para Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Não foi possível capturar conteúdos da página como MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Enviar comentário (apenas interno)"
+   },
+   "file_bug_internal": {
+      "message": "Comunicar um erro (apenas interno)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> foi guardado no \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">alterar\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> foi movido para o lixo. Vá a \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Ajuda"
+   },
+   "html_default_filename": {
+      "message": "HTML sem nome"
+   },
+   "image_capture_failed": {
+      "message": "Não foi possível capturar a imagem"
+   },
+   "image_capture_failed_reason": {
+      "message": "A captura de imagem falhou ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Imagem sem nome"
+   },
+   "invalid_url": {
+      "message": "URL inválido: $1. Os URLs transferidos devem começar por http://, https:// ou ficheiro://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Captura de Página Sem Nome.mht"
+   },
+   "misc": {
+      "message": "Diversos"
+   },
+   "my_drive": {
+      "message": "O Meu Disco"
+   },
+   "options_header_text": {
+      "message": "Guardar no Google Drive opções de extensão"
+   },
+   "options_title": {
+      "message": "Guardar no Google Drive Opções"
+   },
+   "page_size_not_supported": {
+      "message": "Tamanho de página não suportado: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "PDF sem nome"
+   },
+   "percent": {
+      "message": "$1% concluído",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Privacidade"
+   },
+   "rename": {
+      "message": "Mudar o nome"
+   },
+   "rename_prompt": {
+      "message": "Mudar o nome:"
+   },
+   "save_as_html": {
+      "message": "Fonte HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Documento do Google"
+   },
+   "save_as_image_entire": {
+      "message": "Imagem da página inteira (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Imagem da página visível (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Arquivo Web (.mht)"
+   },
+   "save_audio": {
+      "message": "Guardar Áudio no Google Drive"
+   },
+   "save_image": {
+      "message": "Guardar Imagem no Google Drive"
+   },
+   "save_link": {
+      "message": "Guardar Link no Google Drive"
+   },
+   "save_page_as": {
+      "message": "Guardar página como:"
+   },
+   "save_to_folder_text": {
+      "message": "Guardar na Pasta"
+   },
+   "save_to_google_drive_action": {
+      "message": "Guardar em Google Drive"
+   },
+   "save_video": {
+      "message": "Guardar Vídeo no Google Drive"
+   },
+   "saving": {
+      "message": "A guardar $1 no Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Selecione uma Pasta onde Guardar"
+   },
+   "send_feedback": {
+      "message": "Enviar comentários"
+   },
+   "sign_out": {
+      "message": "Terminar Sessão"
+   },
+   "start_download_exception": {
+      "message": "Ocorreu um erro ao iniciar a transferência: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Texto sem nome"
+   },
+   "trash": {
+      "message": "Lixo"
+   },
+   "unspecified_error": {
+      "message": "Erro não especificado"
+   },
+   "upload_canceled": {
+      "message": "Carregamento cancelado"
+   },
+   "upload_failure": {
+      "message": "Falha no carregamento: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "A carregar $1 para Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Abra o link\u003C/a> e guarde a página clicando no botão Guardar em Google Drive situado à direita da barra de endereço.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Este é um link para uma página Web"
+   },
+   "video_default_filename": {
+      "message": "Vídeo sem nome"
+   },
+   "xml_default_filename": {
+      "message": "XML sem nome"
+   }
+}

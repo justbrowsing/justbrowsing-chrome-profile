@@ -1,0 +1,784 @@
+{
+   "adalreadyblocked": {
+      "description": "on the ad report page, telling a user there is nothing to do",
+      "message": "Jums nekas jādara, jo reklāma jau ir bloķēta"
+   },
+   "adblock_auto_removes_ads_thats_all": {
+      "description": "Install page: explaining how to use adblock.",
+      "message": " AdBlock automātiski noņem reklāmas. Tas arī viss."
+   },
+   "adblock_click_for_details": {
+      "description": "Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button.  Do not translate the beginning 'AdBlock - ' part.",
+      "message": "AdBlock — spiediet sīkākai informācijai"
+   },
+   "adblock_outdated_chrome": {
+      "description": "Ad report page instructions to update AdBlock in Chrome. The link will point to 'chrome://chrome/extensions/'",
+      "message": "Jūs izmantojat vecu AdBlock versiju. Lūdzu, dodieties uz \u003Ca href='#'> paplašinājumu lapu\u003C/a>, iespējojiet 'Izstrādātāja režīmu' un noklikšķiniet uz 'Atjaunināt paplašinājumus'"
+   },
+   "adblockinglist": {
+      "description": "List for subscribed ad blocking fiters",
+      "message": "Reklāmu bloķēšanas filtru saraksti"
+   },
+   "adblockreportinganad": {
+      "description": "title of ad report page",
+      "message": "AdBlock — Ziņošana par reklāmu"
+   },
+   "addthisfilter": {
+      "description": "resourceblocking page string",
+      "message": "Pievienot filtru"
+   },
+   "adstillappear": {
+      "description": "question on ad reporting page",
+      "message": "Vai reklāma vēl joprojām ir redzama?"
+   },
+   "anysite": {
+      "description": "resourceblocking page string",
+      "message": "Jebkurā tīmekļa lapā"
+   },
+   "betalabel": {
+      "description": "Option on first tab page",
+      "message": "Beta"
+   },
+   "blacklisterattrwillbe": {
+      "description": "Checkbox label",
+      "message": "$attribute$ būs $value$",
+      "placeholders": {
+         "attribute": {
+            "content": "$1",
+            "example": "class"
+         },
+         "value": {
+            "content": "$2",
+            "example": "AdBanner"
+         }
+      }
+   },
+   "blacklisterblockedelement": {
+      "description": "Tells the user what the blocked element is on the slider page",
+      "message": "Bloķētais elements:"
+   },
+   "blacklisterblocksalloftype": {
+      "description": "Warns the user that all elements of type X will be blocked",
+      "message": "Esiet uzmanīgi: Šis filtrs bloķē visus $elementtype$ elementus lapā!",
+      "placeholders": {
+         "elementtype": {
+            "content": "$1",
+            "example": "DIV"
+         }
+      }
+   },
+   "blacklistereditinvalid1": {
+      "description": "Messagebox if the manually edited filter is invalid. Error messages are not translated.",
+      "message": "Filtrs nav derīgs: $exception$",
+      "placeholders": {
+         "exception": {
+            "content": "$1",
+            "example": "This filter is not supported"
+         }
+      }
+   },
+   "blacklisternofilter": {
+      "description": "Warning if the user hasn't specified a filter",
+      "message": "Nav norādīts filtrs!"
+   },
+   "blacklisternotsure": {
+      "description": "Blacklister attribute choosing page message.  'Block it!' must be the same as the text of the 'buttonblockit' message.",
+      "message": "\u003Cb>Neesat drošs?\u003C/b> Vienkārši nospiediet zemāk esošo 'Bloķēt!'."
+   },
+   "blacklisteroptionstitle": {
+      "description": "Blacklister options page title",
+      "message": "Pēdējais solis: Kas padara to par reklāmu?"
+   },
+   "blacklistertype": {
+      "description": "node name is called 'Type'",
+      "message": "Tips"
+   },
+   "blacklisterwarningnofilter": {
+      "description": "Warns the user that no filter was specified",
+      "message": "Uzmanību: nav norādīts filtrs!"
+   },
+   "block_an_ad_on_this_page": {
+      "description": "Toolbar button menu entry and context menu entry",
+      "message": "Bloķēt reklāmu šajā lapā"
+   },
+   "block_by_url_instead": {
+      "description": "Link on blacklister slider page",
+      "message": "Papildu: bloķēt pēc URL"
+   },
+   "block_this_ad": {
+      "description": "Context and popup menu entry",
+      "message": "Bloķēt šo reklāmu"
+   },
+   "blockanadtitle": {
+      "description": "Title of the first two dialogs of the blacklister",
+      "message": "Bloķēt reklāmu"
+   },
+   "blocked_ads": {
+      "description": "Title for popup menu section showing number of ads blocked.",
+      "message": "Bloķētās reklāmas:"
+   },
+   "blocked_n_in_total": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked since AdBlock was installed. $count$ will be a number between 1 and 999,999,999.",
+      "message": "Pavisam: $count$",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123,456\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blocked_n_on_this_page": {
+      "description": "Shown below the 'blocked_ads' message.  Shows the number of ads blocked on this page. $count$ will be a number between 1 and 999.",
+      "message": "Šajā lapā: $count$",
+      "placeholders": {
+         "count": {
+            "content": "\u003Ca>123\u003C/a>",
+            "example": "The number of ads blocked.  Do not make any changes to this string when translating."
+         }
+      }
+   },
+   "blockeverycontaining": {
+      "description": "resourceblocking page string",
+      "message": "Bloķēt visus resursus, kas satur:"
+   },
+   "blockmoreads": {
+      "description": "Section header on third tab",
+      "message": "Bloķēt vēl reklāmas:"
+   },
+   "blockurlwithtext": {
+      "description": "Message of the url-blocking area",
+      "message": "Bloķēt visus URL ar šādu tekstu"
+   },
+   "buttonback": {
+      "description": "Back to previous wizard page button",
+      "message": "Atpakaļ"
+   },
+   "buttonblockit": {
+      "description": "Block button",
+      "message": "Bloķēt!"
+   },
+   "buttoncancel": {
+      "description": "Cancel button",
+      "message": "Atcelt"
+   },
+   "buttonedit": {
+      "description": "Edit filter manually button",
+      "message": "Labot"
+   },
+   "buttonlooksgood": {
+      "description": "Looks good button",
+      "message": "Ir labi"
+   },
+   "buttonok": {
+      "description": "OK button",
+      "message": "Labi!"
+   },
+   "casesensitive": {
+      "description": "resourceblocking page string",
+      "message": "Šis filtrs ir reģistrjutīgs:"
+   },
+   "changelabel": {
+      "description": "link to change resources on the resourceblock page",
+      "message": "mainīt"
+   },
+   "checkinfirefox_3": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "In that browser, subscribe to the same filter lists as you have here (except for the AdBlock Custom filters in FireFox)."
+   },
+   "checkinfirefox_5": {
+      "description": "instruction for how to check Firefox/Chrome for a reported ad",
+      "message": "Vai reklāma ir redzama arī tajā pārlūkā?"
+   },
+   "chromebutton_how_to_hide2": {
+      "description": "Message explaining how to hide the AdBlock toolbar button.  'Hide Button' should match the text that Chrome displays when you right click a toolbar button.",
+      "message": "Lai paslēptu pogu, uzspiediet uz to ar labo peles pogu un izvēlieties Paslēpt pogu. Jūs varat izvēlēties, lai to atkal rādītu chrome://chrome/extensions."
+   },
+   "close": {
+      "description": "resourceblocking page string",
+      "message": "Aizvērt"
+   },
+   "correctfilters": {
+      "description": "on the ad report page, label describing having the right set of filters",
+      "message": "Pareizie filtri"
+   },
+   "customfilters": {
+      "description": "List for custom filters the user subscribed to",
+      "message": "Pielāgotie filtru saraksti"
+   },
+   "custompattern": {
+      "description": "Label in front of the 'custom block pattern' textbox in resourceblock, after clicking a resource",
+      "message": "Pielāgotais:"
+   },
+   "description2": {
+      "description": "Extension description in manifest",
+      "message": "Vispopulārākais Chrome paplašinājums ar vairāk nekā 15 miljoniem lietotāju. Bloķē reklāmas visā tīmeklī."
+   },
+   "disableallextensions": {
+      "description": "instruction on ad report page",
+      "message": "Atspējojiet visus paplašinājumus, izņemot AdBlock."
+   },
+   "disabled_on_this_page": {
+      "description": "Message shown in toolbar button on web pages that have been whitelisted.",
+      "message": "Šajā lapā AdBlock ir atspējots."
+   },
+   "disableforchromeandsafaristeptwo": {
+      "description": "Step 2 for disabling chrome and safari extensions",
+      "message": "Noķeksējiet 'Iespējots' izvēles rūtiņu blakus katram paplašinājumiem \u003Cb>izņemot\u003C/b> AdBlock paplašinājumam.  \u003Cb>Atstājiet AdBlock iespējotu\u003C/b>."
+   },
+   "disableforchromestepone": {
+      "description": "Step 1 for disabling chrome extensions",
+      "message": "Atveriet \u003Ca href='#'>paplašinājumu lapu\u003C/a>"
+   },
+   "disableforopera": {
+      "description": "Opera instructions",
+      "message": "Opera pārlūkam"
+   },
+   "dont_run_on_this_page": {
+      "description": "Menu entry to whitelist a page",
+      "message": "Nedarbināt šajā lapā"
+   },
+   "failedtofetchfilter": {
+      "description": "Error messagebox",
+      "message": "Neizdevās ielādēt šo filtru!"
+   },
+   "fetchinglabel": {
+      "description": "Status label",
+      "message": "Nolasa... Lūdzu, uzgaidiet."
+   },
+   "filteradblock_custom": {
+      "description": "A filter list. Don't translate 'AdBlock'",
+      "message": "AdBlock pielāgotie filtri (ieteicams)"
+   },
+   "filterchinese": {
+      "description": "language",
+      "message": "ķīniešu"
+   },
+   "filterczech": {
+      "description": "Language names for a filter list",
+      "message": "čehu un slovāku"
+   },
+   "filterdanish": {
+      "description": "language",
+      "message": "dāņu"
+   },
+   "filterdutch": {
+      "description": "language",
+      "message": "nīderlandiešu"
+   },
+   "filtereasylist": {
+      "description": "A filter list. Don't translate 'EasyList'",
+      "message": "EasyList (ieteicams)"
+   },
+   "filtereasylist_plun_korean": {
+      "description": "language",
+      "message": "korejiešu"
+   },
+   "filtereasylist_plus_bulgarian": {
+      "description": "language",
+      "message": "bulgāru"
+   },
+   "filtereasylist_plus_finnish": {
+      "description": "language",
+      "message": "somu"
+   },
+   "filtereasylist_plus_french": {
+      "description": "language",
+      "message": "franču"
+   },
+   "filtereasylist_plus_german": {
+      "description": "language",
+      "message": "vācu"
+   },
+   "filtereasylist_plus_greek": {
+      "description": "language",
+      "message": "grieķu"
+   },
+   "filtereasylist_plus_indonesian": {
+      "description": "A filter list.",
+      "message": "Indonēziešu"
+   },
+   "filtereasylist_plus_polish": {
+      "description": "language",
+      "message": "poļu"
+   },
+   "filtereasylist_plus_romanian": {
+      "description": "language",
+      "message": "rumāņu"
+   },
+   "filtereasylist_plus_spanish": {
+      "description": "language",
+      "message": "spāņu"
+   },
+   "filterhasbeenadded": {
+      "description": "resourceblocking page string (the 'slash n' is a line break)",
+      "message": "Filtrs veiksmīgi pievienots!\nPārlādējiet lapu, lai redzētu rezultātu!"
+   },
+   "filterhungarian": {
+      "description": "language",
+      "message": "ungāru"
+   },
+   "filterisraeli": {
+      "description": "language",
+      "message": "ivrits"
+   },
+   "filteritalian": {
+      "description": "language",
+      "message": "itāliešu"
+   },
+   "filterjapanese": {
+      "description": "language",
+      "message": "japāņu"
+   },
+   "filterlatvian": {
+      "description": "A filter list.",
+      "message": "Latviešu"
+   },
+   "filtermalware": {
+      "description": "A filter list.",
+      "message": "Aizsardzība pret ļaunprātīgu programmatūru"
+   },
+   "filternorwegian": {
+      "description": "A filter list.",
+      "message": "Norvēģu"
+   },
+   "filterorigin": {
+      "description": "Tooltip of matching filter in resources list, telling which filter list contains the filter",
+      "message": "Filtra izcelsme: $list$",
+      "placeholders": {
+         "list": {
+            "content": "$1",
+            "example": "A filter list name OR AdBlock OR the translation of 'tabcustomize'"
+         }
+      }
+   },
+   "filterrussian": {
+      "description": "Language names for a filter list",
+      "message": "krievu un ukraiņu"
+   },
+   "filterstabtitle": {
+      "description": "Title of the filter list tab",
+      "message": "Abonēt filtru sarakstus"
+   },
+   "filterswedish": {
+      "description": "A filter list.",
+      "message": "Zviedru"
+   },
+   "filterturkish": {
+      "description": "A filter list.",
+      "message": "Turku"
+   },
+   "firefox_explanation": {
+      "description": "Explanation of the Check-in-Firefox step in the ad reporter",
+      "message": "Jautājuma mērķis ir noteikts to, kuram būtu jāsaņem Jūsu ziņojums. Tā nepareizas atbildes gadījumā, ziņojums var tikt nosūtīts nepareizajiem cilvēkiem un tikt ignorēts."
+   },
+   "flashads": {
+      "description": "Title of the final ad report question if the ad didn't appear in FF",
+      "message": "Video un Flash"
+   },
+   "format_site1_site2_site3": {
+      "description": "Example showing users how to input a list of sites on the Customize tab. You can translate the 'news' and 'siteN' but leave the '|'s and '~'s in place.",
+      "message": "Formāts: ~vietne1.lv|~vietne2.lv|~jaunumi.vietne1.lv"
+   },
+   "generaloptions": {
+      "description": "Title of first tab page",
+      "message": "Vispārīgās iespējas"
+   },
+   "headerresource": {
+      "description": "resourceblocking page string",
+      "message": "Resurss"
+   },
+   "headertype": {
+      "description": "resourceblocking page string",
+      "message": "Tips"
+   },
+   "hide_this_button": {
+      "description": "Toolbar button menu entry to hide the AdBlock button",
+      "message": "Nerādīt šo pogu"
+   },
+   "how_to_use_adblock": {
+      "description": "Install page section title",
+      "message": "Kā lietot AdBlock:"
+   },
+   "lang_czech": {
+      "description": "language",
+      "message": "čehu"
+   },
+   "lang_english": {
+      "description": "language",
+      "message": "angļu"
+   },
+   "lang_russian": {
+      "description": "language",
+      "message": "krievu"
+   },
+   "lang_slovak": {
+      "description": "language",
+      "message": "slovāku"
+   },
+   "lang_ukranian": {
+      "description": "language",
+      "message": "ukraiņu"
+   },
+   "languagedropdowndescription": {
+      "description": "Dropdown list for language specific filters",
+      "message": "Pievienot citas valodas filtrus: "
+   },
+   "linkblockadbyurl": {
+      "description": "Link on the third tab",
+      "message": "Bloķēt reklāmu pēc tās URL"
+   },
+   "linkhidesection": {
+      "description": "Link on the third tab",
+      "message": "Paslēpt daļu tīmekļa lapas"
+   },
+   "linkunblock": {
+      "description": "Link on the third tab",
+      "message": "Rādīt reklāmas tīmekļa lapā vai domēnā"
+   },
+   "loading": {
+      "description": "resourceblocking page string",
+      "message": "IELĀDĒ..."
+   },
+   "modifydomain": {
+      "description": "Caption for the whitelist wizard slider that modifies the domain part of a URL",
+      "message": "Vietne:"
+   },
+   "modifypath": {
+      "description": "Caption for the whitelist wizard slider that modifies the path part of a URL",
+      "message": "Lapa:"
+   },
+   "multipledomainshint": {
+      "description": "resourceblocking page string",
+      "message": "Atdaliet katru domēnu ar komatiem vai atstarpēm"
+   },
+   "nextstep": {
+      "description": "resourceblocking page string",
+      "message": "Nākamais solis"
+   },
+   "no": {
+      "description": "A negative response to a question",
+      "message": "Nē"
+   },
+   "nosearchresults": {
+      "description": "Text in resourceblock shown if no results are found after searching",
+      "message": "Nav atrasti resursi"
+   },
+   "only_block_ads_on_these_sites": {
+      "description": "Label for textbox where user enters a list of sites on Customize tab",
+      "message": "Bloķēt reklāmas tikai šādās vietnēs:"
+   },
+   "onlyresourcetypes": {
+      "description": "resourceblocking page string",
+      "message": "Šis filtrs attiecas uz šāda veida resursiem:"
+   },
+   "opera_enabledin": {
+      "description": "Hover text of items disabled in an older browser version",
+      "message": "Iespējots $browserversion$",
+      "placeholders": {
+         "browserversion": {
+            "content": "$1",
+            "example": "Opera 12.10"
+         }
+      }
+   },
+   "opera_excludedomainorurl": {
+      "description": "Opera version of the 'excludedomainorurl' string",
+      "message": "Domēns, kurā AdBlock neko nevajadzētu bloķēt"
+   },
+   "opera_linkunblock": {
+      "description": "Opera version of the 'linkunblock' string",
+      "message": "Rādīt reklāmas domēnā"
+   },
+   "opera_secure_pages": {
+      "description": "Title of an area in the ad report page in Opera. Only visible if the opener tab was a secure url (https)",
+      "message": "Drošās lapas"
+   },
+   "opera_show_toolbar_button": {
+      "description": "Opera option to show/hide the button",
+      "message": "Parādīt rīkjoslas pogu"
+   },
+   "options": {
+      "description": "The text of the link on chrome://chrome/extensions that gets you to the Options page for an extension",
+      "message": "Iespējas"
+   },
+   "optionstitle": {
+      "description": "Title for the options page",
+      "message": "AdBlock iespējas"
+   },
+   "optionsversion": {
+      "description": "Version number",
+      "message": "Versija $version$",
+      "placeholders": {
+         "version": {
+            "content": "$1",
+            "example": "2.0.9"
+         }
+      }
+   },
+   "orenteraurl": {
+      "description": "link for custom subscription",
+      "message": "Vai ievadiet URL:"
+   },
+   "other": {
+      "description": "multiple choice option",
+      "message": "citā"
+   },
+   "otherfilters": {
+      "description": "List for other filters the user subscribed to",
+      "message": "Citi filtru saraksti"
+   },
+   "pagelanguagecheck": {
+      "description": "question on ad report page",
+      "message": "Kādā valodā ir šī lapa?"
+   },
+   "pause_adblock": {
+      "description": "Menu entry to pause AdBlock.",
+      "message": "Nopauzēt AdBlock"
+   },
+   "project_home": {
+      "description": "Text of link to the AdBlock open source project homepage (not the install page)",
+      "message": "Projekta sākumlapa"
+   },
+   "reloadadpage": {
+      "description": "instruction on ad report page",
+      "message": "Pārlādējiet lapu ar reklāmu."
+   },
+   "removefromlist": {
+      "description": "Label to remove a custom filter",
+      "message": "Izņemt no saraksta"
+   },
+   "removelabel": {
+      "description": "link to remove a filter",
+      "message": "Noņemt"
+   },
+   "report_ad_on_page": {
+      "description": "Link in the button",
+      "message": "Ziņot par reklāmu šajā lapā"
+   },
+   "reportfilterlistproblem": {
+      "description": "telling the user to report an ad to a filter list maintainer",
+      "message": "Šī ir filtra saraksta problēma. Ziņojiet par to, dodoties šeit: $link$",
+      "placeholders": {
+         "link": {
+            "content": "$1",
+            "example": "EXAMPLE 1: \u003Ca href='mailto:someguy@list.com'>John Doe\u003C/a>  EXAMPLE 2: \u003Ca href='http://easylist.org'>EasyList forums\u003C/a>"
+         }
+      }
+   },
+   "reportpubliclyavailable": {
+      "description": "Ad report page string, when you're about to submit a report",
+      "message": "Piezīme: Jūsu ziņojums var kļūt publiski pieejams. Ņemiet to vērā, pirms iekļaujiet jebkādu privātu informāciju."
+   },
+   "resourceblocklegend1": {
+      "description": "resourceblocking page string",
+      "message": "Apzīmējumi:"
+   },
+   "resourceblocklegend2": {
+      "description": "resourceblocking page string",
+      "message": "bloķētie resursi"
+   },
+   "resourceblocklegend4": {
+      "description": "resourceblocking page string",
+      "message": "bloķējamie resursi"
+   },
+   "resourceblocktitle": {
+      "description": "resourceblocking page string",
+      "message": "Bloķēt resursu"
+   },
+   "savebutton": {
+      "description": "Save button",
+      "message": "Saglabāt"
+   },
+   "savereminder": {
+      "description": "Reminder to press save",
+      "message": "Neaizmirstiet saglabāt!"
+   },
+   "searchplaceholder": {
+      "description": "Text in resourceblock shown in the search textbox before you type something",
+      "message": "Meklē resursus..."
+   },
+   "selectlanguage": {
+      "description": "Text for the first option in Langage Dropdown for Filter Lists tab in options.  Include the ' -- ' on either side of your translation.",
+      "message": " -- Izvēlieties valodu -- "
+   },
+   "selectresources": {
+      "description": "resourceblocking page string",
+      "message": "Izvēlieties resursu, ko vēlaties nobloķēt vai atbloķēt"
+   },
+   "show_ads_except_for": {
+      "description": "Section title for blacklisting section of Customize tab",
+      "message": "Rādīt reklāmas \u003Ci>visur\u003C/i>, izņemot šādos domēnos..."
+   },
+   "show_on_adblock_button": {
+      "description": "Label for checkbox letting user choose whether the toolbar button should show a badge with the number of ads blocked",
+      "message": "Parādīt uz AdBlock pogas"
+   },
+   "show_resourcelist": {
+      "description": "Link in the button",
+      "message": "Parādīt resursu sarakstu"
+   },
+   "slidertitle": {
+      "description": "Blacklister slider page title",
+      "message": "1. solis: Izdomājiet, ko bloķēt"
+   },
+   "status_paused": {
+      "description": "Message shown in toolbar button when AdBlock is paused.",
+      "message": "AdBlock ir nopauzēts."
+   },
+   "stop_blocking_ads": {
+      "description": "Section header on third tab",
+      "message": "Pārtraukt reklāmu bloķēšanu:"
+   },
+   "subscribebutton": {
+      "description": "subscribe to a list button",
+      "message": "Abonēt"
+   },
+   "subscribingfailed": {
+      "description": "abp: link subscriber result",
+      "message": "Neizdevās!"
+   },
+   "subscribingfinished": {
+      "description": "abp: link subscriber result",
+      "message": "Gatavs!"
+   },
+   "subscribingtitle": {
+      "description": "abp: link subscriber title",
+      "message": "Abonē filtra sarakstu..."
+   },
+   "tabcustomize": {
+      "description": "A tab on the options page",
+      "message": "Pielāgot"
+   },
+   "tabcustomizetitle": {
+      "description": "Title of the third tab",
+      "message": "Pielāgot AdBlock"
+   },
+   "tabfilterlists": {
+      "description": "A tab on the options page",
+      "message": "Filtru saraksti"
+   },
+   "tabgeneral": {
+      "description": "A tab on the options page",
+      "message": "Vispārējās"
+   },
+   "thats_it": {
+      "description": "Install page string",
+      "message": "Tas arī viss!"
+   },
+   "thirdparty": {
+      "description": "Resource list column title telling if the resource originates from a different domain",
+      "message": "Trešās puses"
+   },
+   "translator_names": {
+      "example": "The translator's names go here. Example: Michael G, Drew R",
+      "message": "KristapsK"
+   },
+   "typeimage": {
+      "description": "A resource type",
+      "message": "attēls"
+   },
+   "typemedia": {
+      "description": "A resource type",
+      "message": "audio/video"
+   },
+   "typeobject": {
+      "description": "A resource type",
+      "message": "interaktīvais objekts"
+   },
+   "typeother": {
+      "description": "A resource type",
+      "message": "cits"
+   },
+   "typepage": {
+      "description": "A resource type",
+      "message": "lapa"
+   },
+   "typepopup": {
+      "description": "A resource type",
+      "message": "izlecošais lodziņš"
+   },
+   "typescript": {
+      "description": "A resource type",
+      "message": "skripts"
+   },
+   "typesubdocument": {
+      "description": "A resource type",
+      "message": "rāmis"
+   },
+   "typexmlhttprequest": {
+      "description": "A resource type",
+      "message": "xmlhttprequest"
+   },
+   "undo_last_block": {
+      "description": "Menu entry to let the user cancel the result of running the blacklist wizard.",
+      "message": "Atcelt manus blokus šajā domēnā"
+   },
+   "updateddayago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms dienas"
+   },
+   "updateddaysago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms $days$ dienām",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedhourago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms stundas"
+   },
+   "updatedhoursago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms $hours$ stundām",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedminuteago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms minūtes"
+   },
+   "updatedminutesago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms $minutes$ minūtēm",
+      "placeholders": {
+         "minutes": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updatedsecondsago": {
+      "description": "Label for subscription",
+      "message": "atjaunināts pirms $seconds$ sekundēm",
+      "placeholders": {
+         "seconds": {
+            "content": "$1",
+            "example": "15"
+         }
+      }
+   },
+   "updateyourlists": {
+      "description": "instruction on ad report page",
+      "message": "Pārliecinieties, ka Jums ir visjaunākie filtru saraksti"
+   },
+   "whats_this": {
+      "description": "Text of a link pointing to the explanation of a new feature",
+      "message": "Kas tas?"
+   },
+   "whitelistertitle2": {
+      "description": "The title of the whitelister dialog",
+      "message": "Nedarbināt AdBlock..."
+   },
+   "yes": {
+      "description": "A positive response to a question",
+      "message": "jā"
+   }
+}

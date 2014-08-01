@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "கணக்கு"
+   },
+   "apply": {
+      "message": "பயன்படுத்து"
+   },
+   "audio_default_filename": {
+      "message": "தலைப்பிடாத ஆடியோ"
+   },
+   "authorization_needed": {
+      "message": "நீங்கள் Google இயக்ககத்தில் சேமி ஐ அங்கீகரிக்க வேண்டும்."
+   },
+   "cancel": {
+      "message": "ரத்துசெய்"
+   },
+   "cannot_capture_chrome": {
+      "message": "Chrome பக்கங்களை ஸ்கீரின்ஷாட் எடுக்க முடியவில்லை. நிலையான இணையப் பக்கத்தை முயற்சிக்கவும்."
+   },
+   "change_dest_folder": {
+      "message": "இலக்குக் கோப்புறையை மாற்று..."
+   },
+   "chrome_extension_name": {
+      "message": "Google இயக்ககத்தில் சேமி"
+   },
+   "close": {
+      "message": "மூடு"
+   },
+   "convert_to_google_format": {
+      "message": "சேமித்த இணைப்பை Google திருத்தி வடிவத்திற்கு மாற்று"
+   },
+   "debug": {
+      "message": "பிழைநீக்கு"
+   },
+   "default_filename": {
+      "message": "தலைப்பிடாதது"
+   },
+   "download_canceled": {
+      "message": "பதிவிறக்கம் ரத்துசெய்யப்பட்டது."
+   },
+   "download_failure": {
+      "message": "பதிவிறக்கம் தோல்வி: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "பதிவிறக்கம் தோல்வி: எந்த தரவும் பெறப்படவில்லை."
+   },
+   "download_failure_too_big_mb": {
+      "message": "பதிவிறக்கம் தோல்வி: ஆதாரம் மிகப் பெரியது ($1 மெ.பை).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "$1 ஐப் பதிவிறக்குகிறது...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "பதிவிறக்குகிறது..."
+   },
+   "empty_page_capture": {
+      "message": "பக்கத்தின் உள்ளடக்கத்தை MHTML ஆக பிடிக்க இயலவில்லை."
+   },
+   "enable_file_url": {
+      "message": "நீட்டிப்புகளின் அமைப்புகள் பக்கத்தில் \"கோப்பு URL களுக்கான அணுகலை அனுமதி\" விருப்பத்துடன், கோப்பு URL கள் கண்டிப்பாக இயக்கப்பட வேண்டும்."
+   },
+   "ext_description": {
+      "message": "இணைய உள்ளடக்கம் அல்லது திரைப் பிடிப்பை நேரடியாக Google இயக்ககம் இல் சேமிக்கலாம்."
+   },
+   "failure_page_capture": {
+      "message": "பக்கத்தின் உள்ளடக்கங்களை MHTML ஆகப் பெற முடியவில்லை: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "கருத்துத் தெரிவி (உட்பயனருக்கு மட்டும்)"
+   },
+   "file_bug_internal": {
+      "message": "பிழையைப் பதிவுசெய் (உட்பயனருக்கு மட்டும்)"
+   },
+   "file_was_saved": {
+      "message": "\u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a> இல் \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> சேமிக்கப்பட்டது. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">மாற்று\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "\u003Cspan id=\"$1\">\u003C/span> குப்பைக்கு நகர்த்தப்பட்டுள்ளது. \u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google இயக்ககம்\u003C/a> க்குச் செல்க.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google இயக்ககம்"
+   },
+   "help": {
+      "message": "உதவி"
+   },
+   "html_default_filename": {
+      "message": "தலைப்பிடாத HTML"
+   },
+   "image_capture_failed": {
+      "message": "படம் பிடித்தல் தோல்வி."
+   },
+   "image_capture_failed_reason": {
+      "message": "படம் பிடித்தல் தோல்வி ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "தலைப்பிடாத படம்"
+   },
+   "invalid_url": {
+      "message": "தவறான URL: $1. பதிவிறக்கப்பட்ட URL கள் கட்டாயமாக http://, https://, அல்லது file:// உடன் தொடங்க வேண்டும்.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "பெயரிடப்படாத பக்கம் Capture.mht"
+   },
+   "misc": {
+      "message": "மற்றவை"
+   },
+   "my_drive": {
+      "message": "எனது இயக்ககம்"
+   },
+   "options_header_text": {
+      "message": "Google இயக்ககத்தில் சேமி நீட்டிப்பு விருப்பங்கள்"
+   },
+   "options_title": {
+      "message": "Google இயக்ககத்தில் சேமி விருப்பங்கள்"
+   },
+   "page_size_not_supported": {
+      "message": "பக்க அளவு ஆதரிக்கப்படவில்லை: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "தலைப்பிடாத PDF"
+   },
+   "percent": {
+      "message": "$1% முடிந்தது",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "தனியுரிமை"
+   },
+   "rename": {
+      "message": "மறுபெயரிடு"
+   },
+   "rename_prompt": {
+      "message": "மறுபெயரிடு:"
+   },
+   "save_as_html": {
+      "message": "HTML மூலம் (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Google ஆவணம்"
+   },
+   "save_as_image_entire": {
+      "message": "முழுப்பக்கத்தின் படம் (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "காணக்கூடிய பக்கத்தின் படம் (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "வலைக் காப்பகம் (.mht)"
+   },
+   "save_audio": {
+      "message": "Google இயக்ககம் க்கு ஆடியோவைச் சேமிக்கவும்"
+   },
+   "save_image": {
+      "message": "Google இயக்ககம் க்கு படத்தைச் சேமிக்கவும்"
+   },
+   "save_link": {
+      "message": "Google இயக்ககம் க்கு இணைப்பைச் சேமிக்கவும்"
+   },
+   "save_page_as": {
+      "message": "பக்கத்தை இவ்வாறு சேமி:"
+   },
+   "save_to_folder_text": {
+      "message": "கோப்புறையில் சேமி"
+   },
+   "save_to_google_drive_action": {
+      "message": "Google இயக்ககம் இல் சேமி"
+   },
+   "save_video": {
+      "message": "Google இயக்ககம் க்கு வீடியோவைச் சேமிக்கவும்"
+   },
+   "saving": {
+      "message": " $1 ஐ Google இயக்ககம் க்குச் சேமிக்கிறது...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "கோப்புறையில் சேமிப்பதற்கு ஒன்றைத் தேர்ந்தெடு"
+   },
+   "send_feedback": {
+      "message": "கருத்துத் தெரிவிக்கவும்"
+   },
+   "sign_out": {
+      "message": "வெளியேறு"
+   },
+   "start_download_exception": {
+      "message": "பதிவிறக்கத் தொடங்குவதில் தோல்வி:$1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "தலைப்பிடாத உரை"
+   },
+   "trash": {
+      "message": "நீக்கப்பட்டவை"
+   },
+   "unspecified_error": {
+      "message": "குறிப்பிடப்படாத பிழை"
+   },
+   "upload_canceled": {
+      "message": "பதிவேற்றம் ரத்து செய்யப்பட்டது"
+   },
+   "upload_failure": {
+      "message": "பதிவேற்றம் தோல்வியடைந்தது: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "$1 ஐ Google இயக்ககம் க்குப் பதிவேற்றுகிறது...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">இணைப்பைத் திறந்து\u003C/a>, முகவரிப் பட்டிக்கு வலதுபுறம் உள்ள Google இயக்ககம் இல் சேமி பொத்தானைப் பயன்படுத்தி பக்கத்தைச் சேமிக்கவும்.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "இது இணைய பக்கத்திற்கான இணைப்பு"
+   },
+   "video_default_filename": {
+      "message": "தலைப்பிடாத வீடியோ"
+   },
+   "xml_default_filename": {
+      "message": "தலைப்பிடாத XML"
+   }
+}

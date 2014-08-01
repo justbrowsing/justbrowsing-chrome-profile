@@ -1,0 +1,89 @@
+{
+   "PleaseReview": {
+      "message": "Als dat extensie behulpzaam was, neem je tijd om een recensie te schrijven :)"
+   },
+   "PleaseReviewGoto": {
+      "message": "Ga naar de recensie pagina"
+   },
+   "app_desc": {
+      "message": "Dit is een goeie Chrome extensies"
+   },
+   "app_title": {
+      "message": "Smart QrCode Generator"
+   },
+   "generate_qrcode": {
+      "message": "Genereer Slimme QrCode"
+   },
+   "lblAddOrEditGenerator": {
+      "message": "Regel bewerken/toevoegen"
+   },
+   "lblAddRule": {
+      "message": "Regel toevoegen"
+   },
+   "lblEdit_Close": {
+      "message": "Sluiten "
+   },
+   "lblEdit_Domain": {
+      "message": "Domein"
+   },
+   "lblEdit_Howtouse": {
+      "message": "Smart QrCode Generator Instructies"
+   },
+   "lblEdit_ImageSrc": {
+      "message": "Foto - src"
+   },
+   "lblEdit_RegularExp": {
+      "message": "Regelmatig uitdrukking:"
+   },
+   "lblEdit_ReplaceString": {
+      "message": "String vervangen"
+   },
+   "lblEdit_SelectedText": {
+      "message": "Tekst selecteren"
+   },
+   "lblEdit_SiteUrl": {
+      "message": "Site URL"
+   },
+   "lblEdit_Source": {
+      "message": "Bron:"
+   },
+   "lblEdit_Tag": {
+      "message": "Tag"
+   },
+   "lblEdit_Title": {
+      "message": "Titel:"
+   },
+   "lblEdit_btnAdd": {
+      "message": "Veranderingen opslaan"
+   },
+   "lblEdit_email": {
+      "message": "E-mail"
+   },
+   "lblEdit_icon": {
+      "message": "Pictogram"
+   },
+   "lblEdit_iconThumb": {
+      "message": "Pictogram kiezen"
+   },
+   "lblEdit_isDisabled": {
+      "message": "Uit doen"
+   },
+   "lblEdit_version": {
+      "message": "Versie"
+   },
+   "lblRules": {
+      "message": "Regels"
+   },
+   "popup_URL": {
+      "message": "URL"
+   },
+   "popup_image": {
+      "message": "Foto"
+   },
+   "popup_link": {
+      "message": "Link"
+   },
+   "popup_selectedText": {
+      "message": "Geselecteerde tekst"
+   }
+}

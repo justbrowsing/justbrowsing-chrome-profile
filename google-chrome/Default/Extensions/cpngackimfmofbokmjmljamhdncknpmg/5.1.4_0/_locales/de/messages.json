@@ -1,6 +1,6 @@
 {
    "autosave": {
-      "message": "Autospeichern - nach dem Erfassen, den Bearbeiten-Bildschirm \u00FCberspringen und den erfassten Bereich direkt am Standard-Speicherort mit dem Webseiten-Titel als Dateinamen speichern"
+      "message": "Autospeichern - nach dem Erfassen, den Bearbeiten-Bildschirm überspringen und den erfassten Bereich direkt am Standard-Speicherort mit dem Webseiten-Titel als Dateinamen speichern"
    },
    "blur": {
       "message": "Verwischen"
@@ -12,7 +12,7 @@
       "message": "Abbruch"
    },
    "capture_area": {
-      "message": "Ausgew\u00E4hlten Bereich"
+      "message": "Ausgewählten Bereich"
    },
    "capture_webpage": {
       "message": "Gesamte Seite"
@@ -24,7 +24,7 @@
       "message": "Erfassen, bitte warten..."
    },
    "close": {
-      "message": "Schlie\u00DFen"
+      "message": "Schließen"
    },
    "default_title": {
       "message": "Bildschirmerfassung"
@@ -33,7 +33,7 @@
       "message": "Erfasse den sichtbaren Bereich eines Tabs, einen Bereich einer Webseite oder die gesamte Seite als PNG Bild."
    },
    "edit_tip": {
-      "message": "\u00A0\u00A0\u00A0\u00A0Unten ist der erfasste Screenshot. Sie k\u00F6nnen diesen mit den Tools links bearbeiten. Wenn fertig, auf speichern dr\u00FCcken."
+      "message": "    Unten ist der erfasste Screenshot. Sie können diesen mit den Tools links bearbeiten. Wenn fertig, auf speichern drücken."
    },
    "highlight": {
       "message": "Markieren"
@@ -63,10 +63,10 @@
       "message": "Optionen Bildschirmerfassung"
    },
    "quality_setting": {
-      "message": "Einstellungen Screenshot Qualit\u00E4t: "
+      "message": "Einstellungen Screenshot Qualität: "
    },
    "rect": {
-      "message": "Bereich f\u00FCllen"
+      "message": "Bereich füllen"
    },
    "redact": {
       "message": "Bearbeiten"
@@ -75,7 +75,7 @@
       "message": "Speichern"
    },
    "save_and_close": {
-      "message": "Speichern & Schlie\u00DFen"
+      "message": "Speichern & Schließen"
    },
    "save_fail": {
       "message": "Screenshot konnte nicht gespeichert werden."
@@ -96,13 +96,13 @@
       "message": "Browse..."
    },
    "set_save_path_title": {
-      "message": "Standard-Speicherort w\u00E4hlen"
+      "message": "Standard-Speicherort wählen"
    },
    "size_huge": {
       "message": "Riesig"
    },
    "size_large": {
-      "message": "Gro\u00DF"
+      "message": "Groß"
    },
    "size_normal": {
       "message": "Normal"
@@ -114,7 +114,7 @@
       "message": "Schwarz"
    },
    "special": {
-      "message": "Dies ist eine spezielle Seite. Eine Bildschirmerfassung ist auf dieser Seite nicht m\u00F6glich."
+      "message": "Dies ist eine spezielle Seite. Eine Bildschirmerfassung ist auf dieser Seite nicht möglich."
    },
    "text": {
       "message": "Text"

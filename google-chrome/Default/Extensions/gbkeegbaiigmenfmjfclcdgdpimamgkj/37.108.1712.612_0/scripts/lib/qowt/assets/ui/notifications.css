@@ -1,0 +1,217 @@
+/*
+The notification area is styled differently between the editors and the viewers.
+In the Viewers, it's a highly visible Butter Bar.
+For Editors, it's a subtler activity report appened to the application menu bar.
+*/
+
+.qowt-notification-container {
+  font-family: Arial, Arimo, sans-serif;
+}
+
+#view-layout:not(.qowt-editor) .qowt-notification-container {
+  /* basic styling */
+  z-index: 500;
+  position: fixed;
+  width: 100%;
+  /* Allows mouse events through to elements underneath
+      Fix for QW-1789 */
+  pointer-events: none;
+
+  /* flexbox, por favor */
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-pack: center;
+  -webkit-box-align: center;
+
+  display: -moz-box;
+  -moz-box-orient: horizontal;
+  -moz-box-pack: center;
+  -moz-box-align: center;
+
+  display: box;
+  box-orient: horizontal;
+  box-pack: center;
+  box-align: center;
+}
+
+.qowt-notification-area {
+  opacity: 0;
+  -webkit-transition: opacity 0.2s;
+}
+
+/* Matches the Viewers where we want the butter bar. */
+#view-layout:not(.qowt-editor) .qowt-notification-area {
+  text-align: center;
+  padding: 0 16px;
+  background: #F9EDBE;
+  border: 1px solid #F0C36D;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.qowt-notification-area.shown {
+  opacity: 1;
+  -webkit-transition: opacity 0.2s;
+}
+
+#view-layout:not(.qowt-editor) .qowt-notification-area a {
+  color: #333;
+  text-decoration: underline;
+}
+
+#view-layout:not(.qowt-editor) .qowt-notification-area a:hover {
+  color: #202020;
+}
+
+#view-layout.qowt-editor .qowt-notification-container {
+  display: inline-block;
+  margin-left: 25px;
+  color: #6a6a6a;
+}
+
+/* Matches the Editors where we want the simple status area. */
+#view-layout.qowt-editor .qowt-notification-area {
+  text-align: left;
+}
+
+@-webkit-keyframes blink {
+  from { opacity: 1.0; }
+  to { opacity: 0.0; }
+}
+
+.qowt-notification-blink {
+  -webkit-animation-name: blink;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: cubic-bezier(1.0,0,0,1.0);
+  -webkit-animation-duration: 1s;
+}
+
+.hide {
+  display: none !important;
+}
+
+div[is="qo-bacon-bar"] {
+    bottom: 76px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    pointer-events: none;
+}
+
+div[is="qo-bacon-bar"]::shadow .bacon-bar-container {
+    Height: 30px;
+    Background: #d74937;
+    Border: 1px solid #b53d2d;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    -webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    font-size: 10pt;
+    box-sizing: border-box;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    pointer-events: auto;
+    cursor: default;
+}
+
+
+/* TODO (Rahul) Remove once Chrome stable is >= v35 */
+.bacon-bar-container {
+    Height: 30px;
+    Background: #d74937;
+    Border: 1px solid #b53d2d;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    -webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    font-size: 10pt;
+    box-sizing: border-box;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    pointer-events: auto;
+    cursor: default;
+}
+
+div[is="qo-bacon-bar"]::shadow .bacon-bar-action {
+    margin-left: 10px;
+    border-bottom: 1px solid;
+    cursor: pointer;
+}
+
+/* TODO (Rahul) Remove once Chrome stable is >= v35 */
+.bacon-bar-action {
+    margin-left: 10px;
+    border-bottom: 1px solid;
+    cursor: pointer;
+}
+
+
+
+div[is="qo-butter-bar"] {
+    bottom: 76px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    pointer-events: none;
+}
+
+div[is="qo-butter-bar"]::shadow .butter-bar-container {
+    Height: 30px;
+    Background: #f9edbe;
+    Border: 1px solid #f0c36d;
+    font-family: Arial, sans-serif;
+    color: #222;
+    -webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    font-size: 10pt;
+    box-sizing: border-box;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    pointer-events: auto;
+    cursor: default;
+    display: flex;
+    align-items: center;
+}
+
+
+/* TODO (Rahul) Remove once Chrome stable is >= v35 */
+.butter-bar-container {
+    Height: 30px;
+    Background: #f9edbe;
+    Border: 1px solid #f0c36d;
+    font-family: Arial, sans-serif;
+    color: #222;
+    -webkit-box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    font-size: 10pt;
+    box-sizing: border-box;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    pointer-events: auto;
+    cursor: default;
+    display: flex;
+    align-items: center;
+}
+
+div[is="qo-butter-bar"]::shadow .butter-bar-action {
+    margin-left: 10px;
+    border-bottom: 1px solid;
+    cursor: pointer;
+}
+
+/* TODO (Rahul) Remove once Chrome stable is >= v35 */
+.butter-bar-action {
+    margin-left: 10px;
+    border-bottom: 1px solid;
+    cursor: pointer;
+}

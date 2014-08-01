@@ -1,0 +1,141 @@
+/* This is default header/footer margin from top/bottom.
+   It applies to all DIVs directly descended from the Header/Footer DIV.
+   qowt-header-both, qowt-header-odd, qowt-header-even, qowt-header-firstPage
+   qowt-footer-both, qowt-footer-odd, qowt-footer-even, qowt-footer-firstPage
+   It is applied to all four DIVs since only one should ever be visible.
+   It will be overwritten by header/footer widget where it is necessary to
+    change this default value. */
+
+/*============================================================================*/
+/* Features.isEnabled('shadowDomSelectorAvailable') === false                 */
+/* TODO dtilley Remove once Chrome stable is >= v35                           */
+/*============================================================================*/
+.qowt-page .qowt-header > div {
+  margin-top: 1.25cm;
+}
+
+.qowt-page .qowt-footer > div {
+  margin-bottom: 1.25cm;
+}
+
+/* hide any of the headers/footers if they are empty */
+.qowt-page-container:first-child::x-footer[qowt-dfp=false] .qowt-footer-firstPage:empty,
+.qowt-footer-both:empty,
+.qowt-footer-odd:empty,
+.qowt-footer-even:empty,
+.qowt-page-container:first-child::x-header[qowt-dfp=false] .qowt-header-firstPage:empty,
+.qowt-header-both:empty,
+.qowt-header-odd:empty,
+.qowt-header-even:empty {
+  display: none;
+}
+
+/* hide "first page" header/footer on all but first page */
+.qowt-page-container:not(:first-child)::x-footer .qowt-footer-firstPage,
+.qowt-page-container:not(:first-child)::x-header .qowt-header-firstPage {
+  display: none;
+}
+
+/* hide "first page" header/footer on first page if it's disabled by dfp=false */
+.qowt-page-container:first-child::x-footer[qowt-dfp=false] .qowt-footer-firstPage,
+.qowt-page-container:first-child::x-header[qowt-dfp=false] .qowt-header-firstPage {
+  display: none;
+}
+
+/* hide odd pages header/footer */
+.qowt-page-container:nth-child(even)::x-footer .qowt-footer-odd,
+.qowt-page-container:nth-child(even)::x-header .qowt-header-odd {
+  display: none;
+}
+
+/* hide even pages header/footer */
+.qowt-page-container:nth-child(odd)::x-footer .qowt-footer-even,
+.qowt-page-container:nth-child(odd)::x-header .qowt-header-even {
+  display: none;
+}
+
+/* hide all other headers/footers IF there is a non empty 'both pages' */
+/* BUT ONLY if the display odd even is false, eg doe=false */
+.qowt-page-container:first-child::x-footer[qowt-doe=false] .qowt-footer-both:not(:empty) ~ div,
+.qowt-page-container:first-child::x-header[qowt-doe=false] .qowt-header-both:not(:empty) ~ div {
+  display: none;
+}
+
+/* hide all other headers/footers IF there is a non empty first page */
+/* BUT ONLY if the header is not disabled by dfp=false */
+.qowt-page-container:first-child::x-footer:not([qowt-dfp=false]) .qowt-footer-firstPage ~ div,
+.qowt-page-container:first-child::x-header:not([qowt-dfp=false]) .qowt-header-firstPage ~ div {
+  display: none;
+}
+
+/*============================================================================*/
+/* Features.isEnabled('shadowDomSelectorAvailable') === true                  */
+/*============================================================================*/
+
+.qowt-page-container::shadow .qowt-header > div {
+  margin-top: 1.25cm;
+}
+
+.qowt-page-container::shadow .qowt-footer > div {
+  margin-bottom: 1.25cm;
+}
+
+/* Hide all empty header/footers */
+.qowt-page-container::shadow .qowt-footer-firstPage:empty,
+.qowt-page-container::shadow .qowt-footer-both:empty,
+.qowt-page-container::shadow .qowt-footer-odd:empty,
+.qowt-page-container::shadow .qowt-footer-even:empty,
+.qowt-page-container::shadow .qowt-header-firstPage:empty,
+.qowt-page-container::shadow .qowt-header-both:empty,
+.qowt-page-container::shadow .qowt-header-odd:empty,
+.qowt-page-container::shadow .qowt-header-even:empty {
+  display: none;
+}
+
+/* Hide "first page" header/footer on all but first page */
+.qowt-page-container:not(:first-child)::shadow .qowt-footer-firstPage,
+.qowt-page-container:not(:first-child)::shadow .qowt-header-firstPage {
+  display: none;
+}
+
+/* Hide "first page" header/footer if it's disabled by dfp=false */
+.qowt-page-container::shadow .qowt-footer[qowt-dfp=false] .qowt-footer-firstPage,
+.qowt-page-container::shadow .qowt-header[qowt-dfp=false] .qowt-header-firstPage {
+  display: none;
+}
+
+/* Hide the odd/even/both header/footer on the first page if different first page "dfp" is true */
+.qowt-page-container:first-child::shadow .qowt-footer[qowt-dfp=true] .qowt-footer-both,
+.qowt-page-container:first-child::shadow .qowt-header[qowt-dfp=true] .qowt-header-both,
+.qowt-page-container:first-child::shadow .qowt-footer[qowt-dfp=true] .qowt-footer-odd,
+.qowt-page-container:first-child::shadow .qowt-header[qowt-dfp=true] .qowt-header-odd,
+.qowt-page-container:first-child::shadow .qowt-footer[qowt-dfp=true] .qowt-footer-even,
+.qowt-page-container:first-child::shadow .qowt-header[qowt-dfp=true] .qowt-header-even {
+  display: none;
+}
+
+/* Hide odd header/footer on even pages */
+.qowt-page-container:nth-child(even)::shadow .qowt-footer-odd,
+.qowt-page-container:nth-child(even)::shadow .qowt-header-odd {
+  display: none;
+}
+
+/* Hide even header/footer on odd pages */
+.qowt-page-container:nth-child(odd)::shadow .qowt-footer-even,
+.qowt-page-container:nth-child(odd)::shadow .qowt-header-even {
+  display: none;
+}
+
+/* Hide all odd & even header/footer if different odd even "doe" is false */
+.qowt-page-container::shadow .qowt-footer[qowt-doe=false] .qowt-footer-odd,
+.qowt-page-container::shadow .qowt-header[qowt-doe=false] .qowt-header-odd,
+.qowt-page-container::shadow .qowt-footer[qowt-doe=false] .qowt-footer-even,
+.qowt-page-container::shadow .qowt-header[qowt-doe=false] .qowt-header-even {
+  display: none;
+}
+
+/* Hide the both header/footer if different odd even "doe" is true */
+.qowt-page-container::shadow .qowt-footer[qowt-doe=true] .qowt-footer-both,
+.qowt-page-container::shadow .qowt-header[qowt-doe=true] .qowt-header-both {
+  display: none;
+}

@@ -1,0 +1,311 @@
+{
+   "account": {
+      "message": "Cont"
+   },
+   "apply": {
+      "message": "Aplicaţi"
+   },
+   "audio_default_filename": {
+      "message": "Fişier audio fără titlu"
+   },
+   "authorization_needed": {
+      "message": "Trebuie să autorizați Salvaţi în Google Drive."
+   },
+   "cancel": {
+      "message": "Anulaţi"
+   },
+   "cannot_capture_chrome": {
+      "message": "Nu se pot face capturi de ecran pentru pagini Chrome. Încercați cu o pagină web standard."
+   },
+   "change_dest_folder": {
+      "message": "Schimbați dosarul de destinație..."
+   },
+   "chrome_extension_name": {
+      "message": "Salvaţi în Google Drive"
+   },
+   "close": {
+      "message": "Închideţi"
+   },
+   "convert_to_google_format": {
+      "message": "Convertiți linkul salvat la formatul de editor Google"
+   },
+   "debug": {
+      "message": "Depanaţi"
+   },
+   "default_filename": {
+      "message": "Fără titlu"
+   },
+   "download_canceled": {
+      "message": "Descărcarea a fost anulată."
+   },
+   "download_failure": {
+      "message": "Eroare la descărcare: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_failure_no_data": {
+      "message": "Eroare la descărcare: nu s-au primit date."
+   },
+   "download_failure_too_big_mb": {
+      "message": "Eroare la descărcare: sursa este prea mare ($1 MO).",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_known_name": {
+      "message": "Se descarcă $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "download_unknown_name": {
+      "message": "Se descarcă..."
+   },
+   "empty_page_capture": {
+      "message": "Conţinutul paginii nu a putut fi capturat ca MHTML."
+   },
+   "enable_file_url": {
+      "message": "Trebuie să activaţi opţiunea „Permiteţi accesul la adresele URL ale fişierelor” pentru adresele URL ale fişierelor din pagina de setări Extensii."
+   },
+   "ext_description": {
+      "message": "Salvați conținutul web sau captura de ecran direct în Google Drive."
+   },
+   "failure_page_capture": {
+      "message": "Conţinutul paginii nu a putut fi capturat ca MHTML: $1.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "feedback_internal": {
+      "message": "Trimiteţi feedback (numai pentru utilizare internă)"
+   },
+   "file_bug_internal": {
+      "message": "Raportaţi o eroare (numai pentru utilizare internă)"
+   },
+   "file_was_saved": {
+      "message": "Fișierul \u003Ca id=\"$1\" href=\"$2\" target=\"_blank\">\u003C/a> a fost salvat în \u003Ca id=\"$3\" href=\"$4\" target=\"_blank\" class=\"no-break\">\u003C/a>. \u003Cspan id=\"$5\">(\u003Ca href=\"$6\" target=\"_blank\">schimbați\u003C/a>)\u003C/span>",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         },
+         "4": {
+            "content": "$4"
+         },
+         "5": {
+            "content": "$5"
+         },
+         "6": {
+            "content": "$6"
+         }
+      }
+   },
+   "file_was_trashed": {
+      "message": "Fișierul \u003Cspan id=\"$1\"> a fost mutat în coșul de gunoi. Accesați \u003C/span>\u003Ca id=\"$2\", href=\"$3\" target=\"_blank\" class=\"no-break\">Google Drive\u003C/a>.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         },
+         "2": {
+            "content": "$2"
+         },
+         "3": {
+            "content": "$3"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help": {
+      "message": "Ajutor"
+   },
+   "html_default_filename": {
+      "message": "HTML fără titlu"
+   },
+   "image_capture_failed": {
+      "message": "Imaginea nu a putut fi capturată."
+   },
+   "image_capture_failed_reason": {
+      "message": "Imaginea nu a putut fi capturată ($1)",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "image_default_filename": {
+      "message": "Imagine fără titlu"
+   },
+   "invalid_url": {
+      "message": "Adresă URL nevalidă: $1. Adresele URL descărcate trebuie să înceapă cu http://, https:// sau file://.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "mhtml_default_filename": {
+      "message": "Captură de pagină fără titlu.mht"
+   },
+   "misc": {
+      "message": "Diverse"
+   },
+   "my_drive": {
+      "message": "Discul meu"
+   },
+   "options_header_text": {
+      "message": "Opţiuni pentru extensia Salvaţi în Google Drive"
+   },
+   "options_title": {
+      "message": "Opţiuni pentru Salvaţi în Google Drive"
+   },
+   "page_size_not_supported": {
+      "message": "Dimensiunea paginii nu este acceptată: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "pdf_default_filename": {
+      "message": "Fişier PDF fără titlu"
+   },
+   "percent": {
+      "message": "$1% terminat",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "privacy": {
+      "message": "Confidenţialitate"
+   },
+   "rename": {
+      "message": "Redenumiţi"
+   },
+   "rename_prompt": {
+      "message": "Redenumiţi:"
+   },
+   "save_as_html": {
+      "message": "Sursă HTML (.html)"
+   },
+   "save_as_htmldoc": {
+      "message": "Document Google"
+   },
+   "save_as_image_entire": {
+      "message": "Imaginea întregii pagini (.png)"
+   },
+   "save_as_image_visible": {
+      "message": "Imaginea paginii vizibile (.png)"
+   },
+   "save_as_mhtml": {
+      "message": "Arhivă web (.mht)"
+   },
+   "save_audio": {
+      "message": "Salvaţi fişierul audio în Google Drive"
+   },
+   "save_image": {
+      "message": "Salvaţi imaginea în Google Drive"
+   },
+   "save_link": {
+      "message": "Salvaţi linkul în Google Drive"
+   },
+   "save_page_as": {
+      "message": "Salvați pagina ca:"
+   },
+   "save_to_folder_text": {
+      "message": "Salvați în dosar"
+   },
+   "save_to_google_drive_action": {
+      "message": "Salvaţi în Google Drive"
+   },
+   "save_video": {
+      "message": "Salvaţi videoclipul în Google Drive"
+   },
+   "saving": {
+      "message": "Se salvează $1 în Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "select_save_to_folder": {
+      "message": "Selectați un dosar pentru Salvați în dosar"
+   },
+   "send_feedback": {
+      "message": "Trimiteţi feedback"
+   },
+   "sign_out": {
+      "message": "Deconectaţi-vă"
+   },
+   "start_download_exception": {
+      "message": "Eroare la începerea descărcării: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "text_default_filename": {
+      "message": "Text fără titlu"
+   },
+   "trash": {
+      "message": "Coş de gunoi"
+   },
+   "unspecified_error": {
+      "message": "Eroare nespecificată"
+   },
+   "upload_canceled": {
+      "message": "Încărcarea a fost anulată"
+   },
+   "upload_failure": {
+      "message": "Eroare la încărcare: $1",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "uploading": {
+      "message": "Se încarcă fişierul $1 în Google Drive...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action": {
+      "message": "\u003Ca href=\"$1\" target=\"_blank\">Deschideţi linkul\u003C/a> şi salvaţi pagina utilizând butonul Salvaţi în Google Drive din partea dreaptă a barei de adrese.",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "use_browser_action_title": {
+      "message": "Acesta este un link spre o pagină web"
+   },
+   "video_default_filename": {
+      "message": "Videoclip fără titlu"
+   },
+   "xml_default_filename": {
+      "message": "Fişier XML fără titlu"
+   }
+}

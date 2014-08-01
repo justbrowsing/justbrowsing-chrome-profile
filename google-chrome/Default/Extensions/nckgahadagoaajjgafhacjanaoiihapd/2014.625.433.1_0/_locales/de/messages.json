@@ -1,0 +1,190 @@
+{
+   "chrome_ext_cannot_connect": {
+      "message": "Verbindung zu Google konnte nicht hergestellt werden. Überprüfen Sie Ihre Internetverbindung."
+   },
+   "chrome_ext_description": {
+      "message": "Hangouts macht Ihre Unterhaltungen noch lebendiger – mit Fotos, Emojis und kostenlosen Gruppen-Videoanrufen."
+   },
+   "chrome_ext_feedback_comments": {
+      "message": "Bei Kommentaren"
+   },
+   "chrome_ext_feedback_subtitle": {
+      "message": "Feedback geben"
+   },
+   "chrome_ext_group_plus_hangout_details": {
+      "message": "hat Sie zu einem Gruppen-Videoanruf eingeladen"
+   },
+   "chrome_ext_menutext_feedback": {
+      "message": "Feedback geben"
+   },
+   "chrome_ext_menutext_unsigned_user": {
+      "message": "Nicht angemeldet"
+   },
+   "chrome_ext_new_windows_topmost": {
+      "message": "Hangouts immer im Vordergrund halten"
+   },
+   "chrome_ext_oneonone_plus_hangout_details": {
+      "message": "ruft Sie per Videoanruf über Hangouts an"
+   },
+   "chrome_ext_run_after_browser_close": {
+      "message": "Hintergrundmodus zulassen"
+   },
+   "chrome_ext_run_at_browser_start": {
+      "message": "Beim Start von Chrome in Hangouts anmelden"
+   },
+   "chrome_ext_short_name": {
+      "message": "Hangouts"
+   },
+   "chrome_ext_tip_connected_missed_messages": {
+      "message": "Status: verbunden\nVerpasste Nachrichten"
+   },
+   "quasar_answer_button_text": {
+      "message": "Antwort"
+   },
+   "quasar_button_apply": {
+      "message": "Übernehmen"
+   },
+   "quasar_button_cancel": {
+      "message": "Abbrechen"
+   },
+   "quasar_button_save": {
+      "message": "OK"
+   },
+   "quasar_chat_title": {
+      "message": "$1 sagt...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_chat_toast_info": {
+      "message": "Klicken für Wechsel zur Seite..."
+   },
+   "quasar_decline_button_text": {
+      "message": "Ablehnen"
+   },
+   "quasar_feedback_cancel_button": {
+      "message": "Abbrechen"
+   },
+   "quasar_feedback_platform_label": {
+      "message": "Plattform:"
+   },
+   "quasar_feedback_privacy_legend": {
+      "message": "Datenschutzerklärung"
+   },
+   "quasar_feedback_privacy_text": {
+      "message": "Die Beschreibung, Produktinformationen, zusätzlichen Informationen sowie Ihre E-Mail-Adresse werden an Google gesendet. Lesen Sie hierzu die Nutzungsbedingungen von Google Feedback. Durch das Senden dieser Inhalte gewähren Sie Google das Recht, sie zur Verbesserung seiner Produkte und Dienste zu verwenden. Weitere Informationen hierzu finden Sie in unserer Datenschutzerklärung."
+   },
+   "quasar_feedback_server_uri": {
+      "message": "https://www.google.com/tools/feedback"
+   },
+   "quasar_feedback_submit_button": {
+      "message": "Feedback geben"
+   },
+   "quasar_feedback_system_legend": {
+      "message": "Systeminformationen"
+   },
+   "quasar_feedback_user_agent_label": {
+      "message": "User-Agent:"
+   },
+   "quasar_group_chat_title": {
+      "message": "Vom Gruppen-Chat..."
+   },
+   "quasar_hangout_title": {
+      "message": "$1 ist gerade in einem Hangout",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_help": {
+      "message": "Hilfe"
+   },
+   "quasar_label_all_notification": {
+      "message": "Deaktivieren"
+   },
+   "quasar_label_chat_notification": {
+      "message": "Chat-Benachrichtigungen deaktivieren"
+   },
+   "quasar_label_toast_duration_chat": {
+      "message": "Zeitlimit (in Sekunden):"
+   },
+   "quasar_label_toast_timeout_chat": {
+      "message": "Automatisches Zeitlimit für Chat-Benachrichtigungen zulassen"
+   },
+   "quasar_label_tray_icon": {
+      "message": "Symbol in der Taskleiste anzeigen"
+   },
+   "quasar_legend_notifications": {
+      "message": "Benachrichtigungen"
+   },
+   "quasar_legend_startup_shutdown": {
+      "message": "App"
+   },
+   "quasar_menutext_feedback": {
+      "message": "Feedback"
+   },
+   "quasar_menutext_quit": {
+      "message": "Beenden"
+   },
+   "quasar_menutext_settings": {
+      "message": "Optionen"
+   },
+   "quasar_menutext_signout": {
+      "message": "Abmelden"
+   },
+   "quasar_menutext_unknown_user": {
+      "message": "Unbekannt"
+   },
+   "quasar_sign_in": {
+      "message": "Anmelden"
+   },
+   "quasar_sign_in_to_start_talking": {
+      "message": "Melden Sie sich an, um sich mit Ihren Freunden zu unterhalten."
+   },
+   "quasar_tip_connected": {
+      "message": "Status: Verbindung hergestellt"
+   },
+   "quasar_tip_connecting": {
+      "message": "Status: Verbindung wird hergestellt"
+   },
+   "quasar_tip_disconnected": {
+      "message": "Status: Verbindung getrennt"
+   },
+   "quasar_tip_not_load": {
+      "message": "Status: Ladefehler"
+   },
+   "quasar_tip_not_login": {
+      "message": "Status: nicht angemeldet"
+   },
+   "quasar_tip_reconnecting": {
+      "message": "Status: Verbindung wird erneut hergestellt"
+   },
+   "quasar_try_now": {
+      "message": "Jetzt versuchen"
+   },
+   "quasar_video_details": {
+      "message": "ruft Sie über den Video-Chat an"
+   },
+   "quasar_video_title": {
+      "message": "Videoanruf von $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "quasar_voice_details": {
+      "message": "ruft Sie an"
+   },
+   "quasar_voice_title": {
+      "message": "Sprachanruf von $1...",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   }
+}
